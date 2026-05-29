@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1878866406797910092",
+    "created_at": "2025-01-13T18:10:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T19:10:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878867277204119868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799317622343032833",
+          "start": 0,
+          "username": "yitakuya13228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878867277204119868",
+    "in_reply_to_user_id": "1799317622343032833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878866832540713279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yitakuya13228 妈的录个视频好明显"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1878866406797910092",
+        "created_at": "2025-01-13T18:10:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T19:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878867277204119868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799317622343032833",
+              "start": 0,
+              "username": "yitakuya13228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878867277204119868",
+        "in_reply_to_user_id": "1799317622343032833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878866832540713279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yitakuya13228 妈的录个视频好明显"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799317622343032833",
+        "conversation_id": "1878866406797910092",
+        "created_at": "2025-01-13T18:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T19:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878866832540713279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878866832540713279",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878866406797910092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 487,
+          "like_count": 4511,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 1636
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:49:11.000Z",
+        "description": "",
+        "id": "1799317622343032833",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877929089975111680/ge5jH3dN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 119,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 74
+        },
+        "username": "yitakuya13228",
+        "verified": false
+      }
+    ]
+  }
+}

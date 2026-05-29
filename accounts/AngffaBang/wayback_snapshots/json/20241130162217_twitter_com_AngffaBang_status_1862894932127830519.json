@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1862888947476742499",
+    "created_at": "2024-11-30T16:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T17:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862894932127830519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1561593418425413632",
+          "start": 0,
+          "username": "MeiStingray"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862894932127830519",
+    "in_reply_to_user_id": "1561593418425413632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862891539808346341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeiStingray 原来这么可爱呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1862888947476742499",
+        "created_at": "2024-11-30T16:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T17:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862894932127830519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1561593418425413632",
+              "start": 0,
+              "username": "MeiStingray"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862894932127830519",
+        "in_reply_to_user_id": "1561593418425413632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862891539808346341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeiStingray 原来这么可爱呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1561593418425413632",
+        "conversation_id": "1862888947476742499",
+        "created_at": "2024-11-30T16:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T17:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862891539808346341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862891539808346341",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862888947476742499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 150～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 384,
+          "like_count": 2956,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1185
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-22T05:57:43.000Z",
+        "description": "女装男子/男装男子。自拍，照相，电视，博客。宇宙的第1颗星 ⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kicity.com",
+                "end": 23,
+                "expanded_url": "http://kicity.com",
+                "start": 0,
+                "url": "https://t.co/YnaWc6KAWV"
+              }
+            ]
+          }
+        },
+        "id": "1561593418425413632",
+        "location": "Pekín",
+        "name": "青梅定理⭐",
+        "pinned_tweet_id": "1834185849543459106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842168830644346880/4z_uhqaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3147,
+          "following_count": 414,
+          "like_count": 29249,
+          "listed_count": 7,
+          "media_count": 213,
+          "tweet_count": 6062
+        },
+        "url": "https://t.co/YnaWc6KAWV",
+        "username": "MeiStingray",
+        "verified": true
+      }
+    ]
+  }
+}

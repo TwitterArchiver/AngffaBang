@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1855561973577941207",
+    "created_at": "2024-11-10T15:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T16:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855630525949702568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822432304062754817",
+          "start": 0,
+          "username": "shandiannnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855630525949702568",
+    "in_reply_to_user_id": "1822432304062754817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855561973577941207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shandiannnn 我的妈，这太有实力了，这比拼夕夕单独购买还有实力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1855561973577941207",
+        "created_at": "2024-11-10T15:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T16:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855630525949702568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822432304062754817",
+              "start": 0,
+              "username": "shandiannnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855630525949702568",
+        "in_reply_to_user_id": "1822432304062754817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855561973577941207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shandiannnn 我的妈，这太有实力了，这比拼夕夕单独购买还有实力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822432304062754817",
+        "conversation_id": "1855561973577941207",
+        "created_at": "2024-11-10T10:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T11:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855561973577941207"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855561973577941207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 574,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的实力体现在：来大姨妈的6天全用安睡裤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 111,
+          "like_count": 1324,
+          "listed_count": 0,
+          "tweet_count": 545
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-11T00:38:28.000Z",
+        "description": "没人懂我的抽象 二次元 ♍️和我聊天包有情绪价值的（*＾3＾） 我会一直盯着你的👀 互fo请给我说一下 我乐意发啥就发啥 关你吊事",
+        "id": "1822432304062754817",
+        "location": "🚪66.66➕v 否则请不要性骚扰我",
+        "name": "小᳐闪电᳐੭",
+        "pinned_tweet_id": "1853114270445367301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852005613729124355/xHkDex9x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 48,
+          "like_count": 3679,
+          "listed_count": 0,
+          "tweet_count": 1530
+        },
+        "username": "shandiannnn",
+        "verified": false
+      }
+    ]
+  }
+}

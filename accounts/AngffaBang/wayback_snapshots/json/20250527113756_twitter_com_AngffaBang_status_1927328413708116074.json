@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927328410285604864"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1926998487134093780",
+    "created_at": "2025-05-27T11:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T12:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927328413708116074"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1816907362898444288",
+          "start": 0,
+          "username": "Adrainfor"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LEYIjLLQJ4",
+          "end": 40,
+          "expanded_url": "https://x.com/AngffaBang/status/1927328413708116074/photo/1",
+          "media_key": "3_1927328410285604864",
+          "start": 17,
+          "url": "https://t.co/LEYIjLLQJ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927328413708116074",
+    "in_reply_to_user_id": "1816907362898444288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926998487134093780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adrainfor 还有这个😂 https://t.co/LEYIjLLQJ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927328410285604864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr8--kyXgAA9LaM.jpg",
+        "width": 925
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1926998478191771648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr4S5_9WwAAeRRT.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927328410285604864"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1926998487134093780",
+        "created_at": "2025-05-27T11:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T12:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927328413708116074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1816907362898444288",
+              "start": 0,
+              "username": "Adrainfor"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEYIjLLQJ4",
+              "end": 40,
+              "expanded_url": "https://x.com/AngffaBang/status/1927328413708116074/photo/1",
+              "media_key": "3_1927328410285604864",
+              "start": 17,
+              "url": "https://t.co/LEYIjLLQJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927328413708116074",
+        "in_reply_to_user_id": "1816907362898444288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926998487134093780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adrainfor 还有这个😂 https://t.co/LEYIjLLQJ4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926998478191771648"
+          ]
+        },
+        "author_id": "1816907362898444288",
+        "conversation_id": "1926998487134093780",
+        "created_at": "2025-05-26T13:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T14:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926998487134093780"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IxMmhBMR2e",
+              "end": 31,
+              "expanded_url": "https://x.com/Adrainfor/status/1926998487134093780/photo/1",
+              "media_key": "3_1926998478191771648",
+              "start": 8,
+              "url": "https://t.co/IxMmhBMR2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926998487134093780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 596,
+          "impression_count": 469112,
+          "like_count": 3306,
+          "quote_count": 4,
+          "reply_count": 225,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "我真是邪了门了 https://t.co/IxMmhBMR2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 519,
+          "like_count": 5589,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 2075
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-26T18:44:19.000Z",
+        "description": "爱因有差别而厚重｜不接线下不要给我发屌照谢谢｜推广自辨！！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%99%A9",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%99%A9",
+                "start": 0,
+                "url": "https://t.co/Y2kN6Np3pQ"
+              }
+            ]
+          }
+        },
+        "id": "1816907362898444288",
+        "location": "🚪99纯绿",
+        "name": "那你别活了",
+        "pinned_tweet_id": "1927312751203844153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920518864443465728/u4Dcrors_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 99,
+          "like_count": 1004,
+          "listed_count": 5,
+          "media_count": 93,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/Y2kN6Np3pQ",
+        "username": "Adrainfor",
+        "verified": false
+      }
+    ]
+  }
+}

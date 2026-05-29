@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1858091994448556032",
+        "3_1858091991726432256",
+        "3_1858091998923894784",
+        "3_1858091995782316033"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "1858092009245884699",
+    "created_at": "2024-11-17T10:17:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T11:17:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1858092009245884699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dNvhwrtj8i",
+          "end": 55,
+          "expanded_url": "https://x.com/AngffaBang/status/1858092009245884699/photo/1",
+          "media_key": "3_1858091994448556032",
+          "start": 32,
+          "url": "https://t.co/dNvhwrtj8i"
+        },
+        {
+          "display_url": "pic.x.com/dNvhwrtj8i",
+          "end": 55,
+          "expanded_url": "https://x.com/AngffaBang/status/1858092009245884699/photo/1",
+          "media_key": "3_1858091991726432256",
+          "start": 32,
+          "url": "https://t.co/dNvhwrtj8i"
+        },
+        {
+          "display_url": "pic.x.com/dNvhwrtj8i",
+          "end": 55,
+          "expanded_url": "https://x.com/AngffaBang/status/1858092009245884699/photo/1",
+          "media_key": "3_1858091998923894784",
+          "start": 32,
+          "url": "https://t.co/dNvhwrtj8i"
+        },
+        {
+          "display_url": "pic.x.com/dNvhwrtj8i",
+          "end": 55,
+          "expanded_url": "https://x.com/AngffaBang/status/1858092009245884699/photo/1",
+          "media_key": "3_1858091995782316033",
+          "start": 32,
+          "url": "https://t.co/dNvhwrtj8i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858092009245884699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己之前在学校随便画的小漫画，因为时间问题没有上色呀(✧∇✧) https://t.co/dNvhwrtj8i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_1858091994448556032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GclE0wkacAAJTRd.jpg",
+        "width": 1166
+      },
+      {
+        "height": 1638,
+        "media_key": "3_1858091991726432256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GclE0mbaIAAlY7X.jpg",
+        "width": 1167
+      },
+      {
+        "height": 1638,
+        "media_key": "3_1858091998923894784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GclE1BPasAAxT8M.jpg",
+        "width": 1191
+      },
+      {
+        "height": 1638,
+        "media_key": "3_1858091995782316033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GclE01iaAAESvyp.jpg",
+        "width": 1186
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858091994448556032",
+            "3_1858091991726432256",
+            "3_1858091998923894784",
+            "3_1858091995782316033"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "1858092009245884699",
+        "created_at": "2024-11-17T10:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T11:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858092009245884699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNvhwrtj8i",
+              "end": 55,
+              "expanded_url": "https://x.com/AngffaBang/status/1858092009245884699/photo/1",
+              "media_key": "3_1858091994448556032",
+              "start": 32,
+              "url": "https://t.co/dNvhwrtj8i"
+            },
+            {
+              "display_url": "pic.x.com/dNvhwrtj8i",
+              "end": 55,
+              "expanded_url": "https://x.com/AngffaBang/status/1858092009245884699/photo/1",
+              "media_key": "3_1858091991726432256",
+              "start": 32,
+              "url": "https://t.co/dNvhwrtj8i"
+            },
+            {
+              "display_url": "pic.x.com/dNvhwrtj8i",
+              "end": 55,
+              "expanded_url": "https://x.com/AngffaBang/status/1858092009245884699/photo/1",
+              "media_key": "3_1858091998923894784",
+              "start": 32,
+              "url": "https://t.co/dNvhwrtj8i"
+            },
+            {
+              "display_url": "pic.x.com/dNvhwrtj8i",
+              "end": 55,
+              "expanded_url": "https://x.com/AngffaBang/status/1858092009245884699/photo/1",
+              "media_key": "3_1858091995782316033",
+              "start": 32,
+              "url": "https://t.co/dNvhwrtj8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858092009245884699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己之前在学校随便画的小漫画，因为时间问题没有上色呀(✧∇✧) https://t.co/dNvhwrtj8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/名字日文中译是泉！/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 194,
+          "like_count": 1701,
+          "listed_count": 0,
+          "tweet_count": 678
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

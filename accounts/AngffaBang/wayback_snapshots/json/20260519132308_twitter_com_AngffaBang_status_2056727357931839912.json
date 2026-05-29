@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2056445262399410270",
+    "created_at": "2026-05-19T13:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056727357931839912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1529982561560104960",
+          "start": 0,
+          "username": "TTD_GG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056727357931839912",
+    "in_reply_to_user_id": "1529982561560104960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056700786579853739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TTD_GG 效果不强，不如愈美，我群里很多人吃了解离感都不强，有些人体质48才跟正常效果差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2056445262399410270",
+        "created_at": "2026-05-19T13:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056727357931839912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1529982561560104960",
+              "start": 0,
+              "username": "TTD_GG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056727357931839912",
+        "in_reply_to_user_id": "1529982561560104960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056700786579853739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TTD_GG 效果不强，不如愈美，我群里很多人吃了解离感都不强，有些人体质48才跟正常效果差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529982561560104960",
+        "conversation_id": "2056445262399410270",
+        "created_at": "2026-05-19T11:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056700786579853739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056700786579853739",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056445262399410270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 蹲报告喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8107,
+          "following_count": 615,
+          "like_count": 6509,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 2942
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-27T00:27:32.000Z",
+        "description": "不知道起什么名字，最喜欢喝怡宝所以叫怡宝喵～\n08年/喜欢玩Cs,Mc,喵斯快跑等/喜欢二次元/南梁？/双相/最喜欢愈美片😋/开放包容/北京/可以互粉喵(⁠ ⁠╹⁠▽⁠╹⁠ ⁠)",
+        "id": "1529982561560104960",
+        "location": "猫星",
+        "name": "Cestbon怡宝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019058424022192128/n8MnFNqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 72,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 129
+        },
+        "username": "TTD_GG",
+        "verified": false
+      }
+    ]
+  }
+}

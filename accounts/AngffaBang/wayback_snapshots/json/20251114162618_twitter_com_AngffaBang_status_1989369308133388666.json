@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1989299855026712793",
+    "created_at": "2025-11-14T16:26:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T17:26:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989369308133388666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1568556738898706433",
+          "start": 0,
+          "username": "ltibi20518121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989369308133388666",
+    "in_reply_to_user_id": "1568556738898706433",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989353832116310445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ltibi20518121 我都玩一年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1989299855026712793",
+        "created_at": "2025-11-14T16:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T17:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989369308133388666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1568556738898706433",
+              "start": 0,
+              "username": "ltibi20518121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989369308133388666",
+        "in_reply_to_user_id": "1568556738898706433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989353832116310445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ltibi20518121 我都玩一年了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568556738898706433",
+        "conversation_id": "1989299855026712793",
+        "created_at": "2025-11-14T15:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989353832116310445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989353832116310445",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989299855026712793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 怎么你也玩推？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6923,
+          "following_count": 608,
+          "like_count": 6058,
+          "listed_count": 5,
+          "media_count": 413,
+          "tweet_count": 2498
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-10T11:07:31.000Z",
+        "description": "",
+        "id": "1568556738898706433",
+        "name": "little bai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983252350627459072/z4i5c9xK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "username": "ltibi20518121",
+        "verified": false
+      }
+    ]
+  }
+}

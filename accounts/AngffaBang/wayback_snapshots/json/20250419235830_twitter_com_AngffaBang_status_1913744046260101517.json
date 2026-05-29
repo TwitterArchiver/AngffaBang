@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1913744026475589632"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1913744046260101517",
+    "created_at": "2025-04-19T23:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T00:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913744046260101517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I6RyUEvszP",
+          "end": 38,
+          "expanded_url": "https://x.com/AngffaBang/status/1913744046260101517/video/1",
+          "media_key": "7_1913744026475589632",
+          "start": 15,
+          "url": "https://t.co/I6RyUEvszP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913744046260101517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是耗子大王，这是我三只小弟 https://t.co/I6RyUEvszP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4072,
+        "height": 1280,
+        "media_key": "7_1913744026475589632",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1913744026475589632/pu/img/1i0fGD2xho_Bxhg6.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913744026475589632/pu/vid/avc1/320x568/0D0fnjxaduP5fVFf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913744026475589632/pu/vid/avc1/480x852/ONTAfR603lPtsCUh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1913744026475589632/pu/vid/avc1/720x1280/6GEkwojNUf2bW_iR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1913744026475589632/pu/pl/RntrUsjRs0YAkLVM.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1913744026475589632"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1913744046260101517",
+        "created_at": "2025-04-19T23:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T00:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913744046260101517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6RyUEvszP",
+              "end": 38,
+              "expanded_url": "https://x.com/AngffaBang/status/1913744046260101517/video/1",
+              "media_key": "7_1913744026475589632",
+              "start": 15,
+              "url": "https://t.co/I6RyUEvszP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913744046260101517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是耗子大王，这是我三只小弟 https://t.co/I6RyUEvszP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 116,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 93,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 516,
+          "like_count": 5312,
+          "listed_count": 5,
+          "media_count": 239,
+          "tweet_count": 1974
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852073374799007747"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1852073388808028188",
+    "created_at": "2024-10-31T19:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T20:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852073388808028188"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "いずみ",
+          "probability": 0.5859,
+          "start": 9,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/35BYKJKUq9",
+          "end": 36,
+          "expanded_url": "https://x.com/AngffaBang/status/1852073388808028188/photo/1",
+          "media_key": "3_1852073374799007747",
+          "start": 13,
+          "url": "https://t.co/35BYKJKUq9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852073388808028188",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "いつまでも楽しい、いずみ https://t.co/35BYKJKUq9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1821,
+        "media_key": "3_1852073374799007747",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbPi6_LakAMr9VV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852073374799007747"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1852073388808028188",
+        "created_at": "2024-10-31T19:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T20:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852073388808028188"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "いずみ",
+              "probability": 0.5859,
+              "start": 9,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/35BYKJKUq9",
+              "end": 36,
+              "expanded_url": "https://x.com/AngffaBang/status/1852073388808028188/photo/1",
+              "media_key": "3_1852073374799007747",
+              "start": 13,
+              "url": "https://t.co/35BYKJKUq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852073388808028188",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "いつまでも楽しい、いずみ https://t.co/35BYKJKUq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉\n/发推写日记的哪天死了还证明存在过🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 69,
+          "like_count": 762,
+          "listed_count": 0,
+          "tweet_count": 428
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

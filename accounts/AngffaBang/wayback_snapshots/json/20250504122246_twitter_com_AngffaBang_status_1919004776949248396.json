@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1918927325539811448",
+    "created_at": "2025-05-04T12:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T13:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919004776949248396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839166397399838724",
+          "start": 0,
+          "username": "lngdenngnn24987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919004776949248396",
+    "in_reply_to_user_id": "1839166397399838724",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918927325539811448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngdenngnn24987 ？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918927322843127808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqFmO7PbIAACQDV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1918927325539811448",
+        "created_at": "2025-05-04T12:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T13:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919004776949248396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839166397399838724",
+              "start": 0,
+              "username": "lngdenngnn24987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919004776949248396",
+        "in_reply_to_user_id": "1839166397399838724",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918927325539811448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngdenngnn24987 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918927322843127808"
+          ]
+        },
+        "author_id": "1839166397399838724",
+        "conversation_id": "1918927325539811448",
+        "created_at": "2025-05-04T07:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T08:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918927325539811448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qbxtG8B29Y",
+              "end": 30,
+              "expanded_url": "https://x.com/lngdenngnn24987/status/1918927325539811448/photo/1",
+              "media_key": "3_1918927322843127808",
+              "start": 7,
+              "url": "https://t.co/qbxtG8B29Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918927325539811448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 608,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在干嘛在干嘛 https://t.co/qbxtG8B29Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 115,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 92,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 516,
+          "like_count": 5379,
+          "listed_count": 5,
+          "media_count": 253,
+          "tweet_count": 2020
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T04:53:45.000Z",
+        "description": "查成分回fo",
+        "id": "1839166397399838724",
+        "location": "距离你0.2km",
+        "name": "绫地宁宁",
+        "pinned_tweet_id": "1862392072629862600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879967900825710602/SyEM48ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 550,
+          "like_count": 66299,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 8651
+        },
+        "username": "lngdenngnn24987",
+        "verified": false
+      }
+    ]
+  }
+}

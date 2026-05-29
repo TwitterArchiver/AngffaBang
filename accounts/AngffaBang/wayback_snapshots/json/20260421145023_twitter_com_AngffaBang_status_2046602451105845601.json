@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2046513175181631682",
+    "created_at": "2026-04-21T14:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046602451105845601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1775522951749591040",
+          "start": 0,
+          "username": "binbin77930833"
+        },
+        {
+          "end": 27,
+          "id": "1914990478925443072",
+          "start": 16,
+          "username": "ninis07QaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046602451105845601",
+    "in_reply_to_user_id": "1775522951749591040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046513175181631682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@binbin77930833 @ninis07QaQ 笑死，我吃100t才有用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046513165345976320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGas4YibcAA_Ipz.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2046513175181631682",
+        "created_at": "2026-04-21T14:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046602451105845601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1775522951749591040",
+              "start": 0,
+              "username": "binbin77930833"
+            },
+            {
+              "end": 27,
+              "id": "1914990478925443072",
+              "start": 16,
+              "username": "ninis07QaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046602451105845601",
+        "in_reply_to_user_id": "1775522951749591040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046513175181631682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@binbin77930833 @ninis07QaQ 笑死，我吃100t才有用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046513165345976320"
+          ]
+        },
+        "author_id": "1775522951749591040",
+        "conversation_id": "2046513175181631682",
+        "created_at": "2026-04-21T08:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046513175181631682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J8jfN7RP0w",
+              "end": 37,
+              "expanded_url": "https://x.com/binbin77930833/status/2046513175181631682/photo/1",
+              "media_key": "3_2046513165345976320",
+              "start": 14,
+              "url": "https://t.co/J8jfN7RP0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046513175181631682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2627,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家可以去吃加巴喷丁！！！ https://t.co/J8jfN7RP0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7973,
+          "following_count": 603,
+          "like_count": 6385,
+          "listed_count": 7,
+          "media_count": 504,
+          "tweet_count": 2862
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T13:57:29.000Z",
+        "description": "07年丨无证含糖丨mtf丨提供免费药物咨询丨药理低能选手丨互fo😭😭😭丨愿每一个药物滥用者脱离深渊丨最好的妈妈@07linseven匿名提问https://t.co/72Eg4eXMYj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "07linseven"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/binbin779",
+                "end": 93,
+                "expanded_url": "https://ngl.link/binbin779",
+                "start": 70,
+                "url": "https://t.co/72Eg4eXMYj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/JSuLk946oP"
+              }
+            ]
+          }
+        },
+        "id": "1775522951749591040",
+        "location": "普瑞巴林工厂🏭",
+        "name": "Rosemary#天国四",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009670845724274690/Dujk7KSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 289,
+          "like_count": 1028,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 400
+        },
+        "url": "https://t.co/JSuLk946oP",
+        "username": "binbin77930833",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T10:31:35.000Z",
+        "description": "你们好这是ninis的3.0版本 -🇺🇸 07 entp ｜od｜自伤｜焦虑｜双向 ｜解离 ｜病み垢｜💬中文⭕️/English⭕️/日本語⭕️ 我是一个很好的小女孩我没惹你们任何人 想过门请先fo我！最好的龟🫰🏻 @yuuuziiijianggg喜欢和小女孩交朋友",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 108,
+                "username": "yuuuziiijianggg"
+              }
+            ]
+          }
+        },
+        "id": "1914990478925443072",
+        "location": "你妈的逼",
+        "name": "妮妮斯3.0🩸",
+        "pinned_tweet_id": "2043062566633771261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914990877711482880/nIrCzmL2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 93,
+          "like_count": 1448,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 957
+        },
+        "username": "ninis07QaQ",
+        "verified": false
+      }
+    ]
+  }
+}

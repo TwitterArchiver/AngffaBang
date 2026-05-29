@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1788279177017434113",
+        "3_1788279204511121408",
+        "3_1788279226824822784",
+        "3_1788279246793871360"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1788279257007030700",
+    "created_at": "2024-05-08T18:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T19:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788279257007030700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/yALVZ2pvQe",
+          "end": 44,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1788279257007030700/photo/1",
+          "media_key": "3_1788279177017434113",
+          "start": 21,
+          "url": "https://t.co/yALVZ2pvQe"
+        },
+        {
+          "display_url": "pic.twitter.com/yALVZ2pvQe",
+          "end": 44,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1788279257007030700/photo/1",
+          "media_key": "3_1788279204511121408",
+          "start": 21,
+          "url": "https://t.co/yALVZ2pvQe"
+        },
+        {
+          "display_url": "pic.twitter.com/yALVZ2pvQe",
+          "end": 44,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1788279257007030700/photo/1",
+          "media_key": "3_1788279226824822784",
+          "start": 21,
+          "url": "https://t.co/yALVZ2pvQe"
+        },
+        {
+          "display_url": "pic.twitter.com/yALVZ2pvQe",
+          "end": 44,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1788279257007030700/photo/1",
+          "media_key": "3_1788279246793871360",
+          "start": 21,
+          "url": "https://t.co/yALVZ2pvQe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788279257007030700",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "糖糖cos！！！\n超级喜欢糖糖！✟升天✟ https://t.co/yALVZ2pvQe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1788279177017434113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNE-b9FaIAEzuwv.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1788279204511121408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNE-djgagAAyvIV.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1788279226824822784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNE-e2oakAAH8qV.jpg",
+        "width": 1366
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1788279246793871360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNE-gBBaEAAnPDF.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788279177017434113",
+            "3_1788279204511121408",
+            "3_1788279226824822784",
+            "3_1788279246793871360"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1788279257007030700",
+        "created_at": "2024-05-08T18:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T19:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788279257007030700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/yALVZ2pvQe",
+              "end": 44,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1788279257007030700/photo/1",
+              "media_key": "3_1788279177017434113",
+              "start": 21,
+              "url": "https://t.co/yALVZ2pvQe"
+            },
+            {
+              "display_url": "pic.twitter.com/yALVZ2pvQe",
+              "end": 44,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1788279257007030700/photo/1",
+              "media_key": "3_1788279204511121408",
+              "start": 21,
+              "url": "https://t.co/yALVZ2pvQe"
+            },
+            {
+              "display_url": "pic.twitter.com/yALVZ2pvQe",
+              "end": 44,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1788279257007030700/photo/1",
+              "media_key": "3_1788279226824822784",
+              "start": 21,
+              "url": "https://t.co/yALVZ2pvQe"
+            },
+            {
+              "display_url": "pic.twitter.com/yALVZ2pvQe",
+              "end": 44,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1788279257007030700/photo/1",
+              "media_key": "3_1788279246793871360",
+              "start": 21,
+              "url": "https://t.co/yALVZ2pvQe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788279257007030700",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "糖糖cos！！！\n超级喜欢糖糖！✟升天✟ https://t.co/yALVZ2pvQe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "超级超级喜欢章鱼噼",
+        "id": "1730458100703064064",
+        "name": "angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771467654102147072/Du9vYBQ__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 7,
+          "like_count": 26,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

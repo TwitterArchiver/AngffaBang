@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1862888947476742499",
+    "created_at": "2024-11-30T16:26:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T17:26:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862895925649461470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552339082889789446",
+          "start": 0,
+          "username": "SnAuFlat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862895925649461470",
+    "in_reply_to_user_id": "1552339082889789446",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862895655481688096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnAuFlat 蛙趣好准诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1862888947476742499",
+        "created_at": "2024-11-30T16:26:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T17:26:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862895925649461470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552339082889789446",
+              "start": 0,
+              "username": "SnAuFlat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862895925649461470",
+        "in_reply_to_user_id": "1552339082889789446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862895655481688096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnAuFlat 蛙趣好准诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552339082889789446",
+        "conversation_id": "1862888947476742499",
+        "created_at": "2024-11-30T16:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T17:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862895655481688096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862895655481688096",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862888947476742499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 156（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 384,
+          "like_count": 2959,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1187
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T17:04:32.000Z",
+        "description": "法烏克斯最優質的戰士/\n委員會共產主義🚩\n逃生艙@SnAuFlat_2\n凡爾登最好的戰友(薯薯❌)@Justunpan\np社戰犯@MephiSprt \n同過去的自己say goodbye\n支持民族自決",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "SnAuFlat_2"
+              },
+              {
+                "end": 59,
+                "start": 49,
+                "username": "Justunpan"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "MephiSprt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/SnAuFlat",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/SnAuFlat",
+                "start": 0,
+                "url": "https://t.co/wCURv76XCP"
+              }
+            ]
+          }
+        },
+        "id": "1552339082889789446",
+        "location": "廣西自由地區-南寧公社",
+        "name": "🎄SnAuFlat🎄聖誕節限定",
+        "pinned_tweet_id": "1860722427371909374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725557471434153987/AB3RToEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 445,
+          "like_count": 36543,
+          "listed_count": 0,
+          "media_count": 682,
+          "tweet_count": 2692
+        },
+        "url": "https://t.co/wCURv76XCP",
+        "username": "SnAuFlat",
+        "verified": false
+      }
+    ]
+  }
+}

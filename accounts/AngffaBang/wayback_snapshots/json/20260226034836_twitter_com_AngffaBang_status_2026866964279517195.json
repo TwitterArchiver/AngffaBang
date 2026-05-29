@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026866948802490369",
+        "3_2026866948802568192"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2026866964279517195",
+    "created_at": "2026-02-26T03:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T04:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026866964279517195"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2kr35GqZno",
+          "end": 41,
+          "expanded_url": "https://x.com/AngffaBang/status/2026866964279517195/photo/1",
+          "media_key": "3_2026866948802490369",
+          "start": 18,
+          "url": "https://t.co/2kr35GqZno"
+        },
+        {
+          "display_url": "pic.x.com/2kr35GqZno",
+          "end": 41,
+          "expanded_url": "https://x.com/AngffaBang/status/2026866964279517195/photo/1",
+          "media_key": "3_2026866948802568192",
+          "start": 18,
+          "url": "https://t.co/2kr35GqZno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026866964279517195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天抽奖结束喽！下次1w粉奖金更大 https://t.co/2kr35GqZno"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026866948802490369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDgwEpaMAEAKo3.jpg",
+        "width": 924
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026866948802568192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDgwEpbYAA2GMl.jpg",
+        "width": 924
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026866948802490369",
+            "3_2026866948802568192"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2026866964279517195",
+        "created_at": "2026-02-26T03:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026866964279517195"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2kr35GqZno",
+              "end": 41,
+              "expanded_url": "https://x.com/AngffaBang/status/2026866964279517195/photo/1",
+              "media_key": "3_2026866948802490369",
+              "start": 18,
+              "url": "https://t.co/2kr35GqZno"
+            },
+            {
+              "display_url": "pic.x.com/2kr35GqZno",
+              "end": 41,
+              "expanded_url": "https://x.com/AngffaBang/status/2026866964279517195/photo/1",
+              "media_key": "3_2026866948802568192",
+              "start": 18,
+              "url": "https://t.co/2kr35GqZno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026866964279517195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天抽奖结束喽！下次1w粉奖金更大 https://t.co/2kr35GqZno"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7560,
+          "following_count": 616,
+          "like_count": 6274,
+          "listed_count": 5,
+          "media_count": 458,
+          "tweet_count": 2756
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

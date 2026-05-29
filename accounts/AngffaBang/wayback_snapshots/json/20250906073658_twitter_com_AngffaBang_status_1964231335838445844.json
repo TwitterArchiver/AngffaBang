@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1963665135224176804",
+    "created_at": "2025-09-06T07:36:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T08:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964231335838445844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3351903645",
+          "start": 0,
+          "username": "z54531073"
+        },
+        {
+          "end": 18,
+          "id": "1834843591329697792",
+          "start": 11,
+          "username": "kkscc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964231335838445844",
+    "in_reply_to_user_id": "3351903645",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964189654971756675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z54531073 @kkscc_ 你又不懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1963665135224176804",
+        "created_at": "2025-09-06T07:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964231335838445844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3351903645",
+              "start": 0,
+              "username": "z54531073"
+            },
+            {
+              "end": 18,
+              "id": "1834843591329697792",
+              "start": 11,
+              "username": "kkscc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964231335838445844",
+        "in_reply_to_user_id": "3351903645",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964189654971756675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z54531073 @kkscc_ 你又不懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3351903645",
+        "conversation_id": "1963665135224176804",
+        "created_at": "2025-09-06T04:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964189654971756675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 19,
+              "id": "1834843591329697792",
+              "start": 12,
+              "username": "kkscc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964189654971756675",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963887357368947056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang @kkscc_ 编都不会编"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5864,
+          "following_count": 521,
+          "like_count": 5849,
+          "listed_count": 6,
+          "media_count": 361,
+          "tweet_count": 2354
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-30T16:03:58.000Z",
+        "description": "..",
+        "id": "3351903645",
+        "name": "fliqpy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/615914587603529728/Ky5D7QLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 449,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 223
+        },
+        "username": "z54531073",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T06:36:23.000Z",
+        "description": "玩推只想发泄另一面情绪/展示不一样的自己/推特仅此一个号被骗别找我！",
+        "id": "1834843591329697792",
+        "location": "深圳必吃榜       ",
+        "name": "kk",
+        "pinned_tweet_id": "1963251611486044365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861558445096468480/NfgPZerA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81404,
+          "following_count": 84,
+          "like_count": 2382,
+          "listed_count": 217,
+          "media_count": 73,
+          "tweet_count": 1939
+        },
+        "username": "kkscc_",
+        "verified": false
+      }
+    ]
+  }
+}

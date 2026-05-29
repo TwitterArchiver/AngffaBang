@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1861540141661347888",
+    "created_at": "2024-11-27T12:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T13:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861746111884706007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813283839223226368",
+          "start": 0,
+          "username": "zhu_bai69522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861746111884706007",
+    "in_reply_to_user_id": "1813283839223226368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861745778924155113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu_bai69522 不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1861540141661347888",
+        "created_at": "2024-11-27T12:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T13:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861746111884706007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813283839223226368",
+              "start": 0,
+              "username": "zhu_bai69522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861746111884706007",
+        "in_reply_to_user_id": "1813283839223226368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861745778924155113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu_bai69522 不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813283839223226368",
+        "conversation_id": "1861540141661347888",
+        "created_at": "2024-11-27T12:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T13:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861745778924155113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861745778924155113",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861540141661347888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 浦东的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 363,
+          "like_count": 2738,
+          "listed_count": 0,
+          "tweet_count": 1107
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T18:45:54.000Z",
+        "description": "",
+        "id": "1813283839223226368",
+        "name": "白烛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813624127116451840/h4IYM8xE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 59,
+          "like_count": 342,
+          "listed_count": 0,
+          "tweet_count": 268
+        },
+        "username": "zhu_bai69522",
+        "verified": false
+      }
+    ]
+  }
+}

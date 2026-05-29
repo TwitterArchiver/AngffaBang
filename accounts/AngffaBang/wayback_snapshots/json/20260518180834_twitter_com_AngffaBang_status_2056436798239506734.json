@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2056385724904321281",
+    "created_at": "2026-05-18T18:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056436798239506734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "UnkXyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056436798239506734",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056385724904321281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkXyn 我吃了上次差点跳楼，好在我朋友把我安慰下来了，但是后面又吞药去了医院"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056385721838235648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIm_6zdacAA73w-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2056385724904321281",
+        "created_at": "2026-05-18T18:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056436798239506734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "UnkXyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056436798239506734",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056385724904321281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkXyn 我吃了上次差点跳楼，好在我朋友把我安慰下来了，但是后面又吞药去了医院"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056385721838235648"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2056385724904321281",
+        "created_at": "2026-05-18T14:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T15:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056385724904321281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2lRPl5Qhi8",
+              "end": 44,
+              "expanded_url": "https://x.com/UnkXyn/status/2056385724904321281/photo/1",
+              "media_key": "3_2056385721838235648",
+              "start": 21,
+              "url": "https://t.co/2lRPl5Qhi8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056385724904321281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4539,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "已经害怕这东西了😱，以后不会再吃了😭😭😭 https://t.co/2lRPl5Qhi8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8083,
+          "following_count": 615,
+          "like_count": 6484,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 2933
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|二代目@XynUnk|https://t.co/gZ6bWdhM1A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 107,
+                "username": "XynUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/UnkXyn",
+                "end": 138,
+                "expanded_url": "http://t.me/UnkXyn",
+                "start": 115,
+                "url": "https://t.co/gZ6bWdhM1A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051684783588315136/Nkhjk1Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2522,
+          "following_count": 1452,
+          "like_count": 17346,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "UnkXyn",
+        "verified": true
+      }
+    ]
+  }
+}

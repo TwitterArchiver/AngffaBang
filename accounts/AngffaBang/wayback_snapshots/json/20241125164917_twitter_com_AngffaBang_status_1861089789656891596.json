@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860651654707855578",
+    "created_at": "2024-11-25T16:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T17:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861089789656891596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1849823737153191938",
+          "start": 0,
+          "username": "gqh009969312"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861089789656891596",
+    "in_reply_to_user_id": "1849823737153191938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861089505018814869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gqh009969312 加联系方式，有些交朋友是抱着目的来的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860651654707855578",
+        "created_at": "2024-11-25T16:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T17:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861089789656891596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1849823737153191938",
+              "start": 0,
+              "username": "gqh009969312"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861089789656891596",
+        "in_reply_to_user_id": "1849823737153191938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861089505018814869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gqh009969312 加联系方式，有些交朋友是抱着目的来的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849823737153191938",
+        "conversation_id": "1860651654707855578",
+        "created_at": "2024-11-25T16:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T17:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861089505018814869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861089505018814869",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860651654707855578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 求教，煮波搞懂这些上来就说要交朋友的人是什么意思了吗😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 351,
+          "like_count": 2577,
+          "listed_count": 0,
+          "tweet_count": 1032
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-25T14:42:17.000Z",
+        "description": "",
+        "id": "1849823737153191938",
+        "name": "GQH0099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859871692249759747/O174H7uv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 9,
+          "like_count": 13,
+          "listed_count": 0,
+          "tweet_count": 37
+        },
+        "username": "gqh009969312",
+        "verified": false
+      }
+    ]
+  }
+}

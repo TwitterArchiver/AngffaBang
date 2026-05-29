@@ -1,0 +1,211 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1796812275787157911",
+    "created_at": "2024-06-01T09:56:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T10:56:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796843354447376875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1724379171504398336",
+          "start": 0,
+          "username": "y___9r_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796843354447376875",
+    "in_reply_to_user_id": "1724379171504398336",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796812275787157911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y___9r_ 相比第一个伤口我更喜欢第二个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1796812275787157911",
+        "created_at": "2024-06-01T09:56:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T10:56:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796843354447376875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1724379171504398336",
+              "start": 0,
+              "username": "y___9r_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796843354447376875",
+        "in_reply_to_user_id": "1724379171504398336",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796812275787157911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y___9r_ 相比第一个伤口我更喜欢第二个"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796812272410705921",
+            "3_1796812272419192832"
+          ]
+        },
+        "author_id": "1724379171504398336",
+        "conversation_id": "1796812275787157911",
+        "created_at": "2024-06-01T07:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T08:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796812275787157911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Dv4YL2zfik",
+              "end": 88,
+              "expanded_url": "https://twitter.com/y___9r_/status/1796812275787157911/photo/1",
+              "media_key": "3_1796812272410705921",
+              "start": 65,
+              "url": "https://t.co/Dv4YL2zfik"
+            },
+            {
+              "display_url": "pic.twitter.com/Dv4YL2zfik",
+              "end": 88,
+              "expanded_url": "https://twitter.com/y___9r_/status/1796812275787157911/photo/1",
+              "media_key": "3_1796812272419192832",
+              "start": 65,
+              "url": "https://t.co/Dv4YL2zfik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796812275787157911",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 25913,
+          "like_count": 1015,
+          "quote_count": 93,
+          "reply_count": 30,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "リスカは深さ関係ないって言うけどさ\nこの2枚の写真が投稿されてたら\nみんなどっちを心配する？1枚目でしょ？\nこんな世の中大っ嫌い https://t.co/Dv4YL2zfik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A     13岁，别来勿扰，小心抓局里",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "pinned_tweet_id": "1793720981145711053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795901752275070977/zmphs37D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 33,
+          "like_count": 226,
+          "listed_count": 0,
+          "tweet_count": 192
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T10:50:16.000Z",
+        "description": "自傷画あり 💗@wata_01_chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "wata_01_chan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1link.jp/s1a09_",
+                "end": 23,
+                "expanded_url": "https://1link.jp/s1a09_",
+                "start": 0,
+                "url": "https://t.co/BGFuJlFDMk"
+              }
+            ]
+          }
+        },
+        "id": "1724379171504398336",
+        "name": "しあ",
+        "pinned_tweet_id": "1790328577936044234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784571225186189312/1nPWu3kU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3208,
+          "following_count": 3013,
+          "like_count": 38049,
+          "listed_count": 49,
+          "tweet_count": 7995
+        },
+        "url": "https://t.co/BGFuJlFDMk",
+        "username": "y___9r_",
+        "verified": false
+      }
+    ]
+  }
+}

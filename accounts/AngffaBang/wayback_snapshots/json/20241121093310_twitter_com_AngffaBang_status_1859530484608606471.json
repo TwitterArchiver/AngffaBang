@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1859490631728644118",
+    "created_at": "2024-11-21T09:33:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T10:33:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859530484608606471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757148144738123776",
+          "start": 0,
+          "username": "zyl1518124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859530484608606471",
+    "in_reply_to_user_id": "1757148144738123776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859522117592809858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyl1518124 诶？上学很快乐吗(◦˙▽˙◦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1859490631728644118",
+        "created_at": "2024-11-21T09:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T10:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859530484608606471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757148144738123776",
+              "start": 0,
+              "username": "zyl1518124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859530484608606471",
+        "in_reply_to_user_id": "1757148144738123776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859522117592809858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyl1518124 诶？上学很快乐吗(◦˙▽˙◦)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757148144738123776",
+        "conversation_id": "1859490631728644118",
+        "created_at": "2024-11-21T08:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T09:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859522117592809858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859522117592809858",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859490631728644118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 這幾天的夢都是圍繞著上學時光的事情XD可惜再也回不去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 226,
+          "like_count": 2064,
+          "listed_count": 0,
+          "tweet_count": 794
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:02:30.000Z",
+        "description": "🎲 桌游爱好者 | 🎶 音乐探索者 | ☕ 随性漫游者\n\n在骰子与卡牌的世界中，我找到乐趣；在旋律与节拍中，我寻找灵感。爱好闲逛，寻找创意与美好瞬间。让我们一起分享游戏的策略、音乐的节拍，和生活的点滴！",
+        "id": "1757148144738123776",
+        "name": "zyl",
+        "pinned_tweet_id": "1859238874012344716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757148601573404672/zgzaaBJz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 143,
+          "like_count": 786,
+          "listed_count": 0,
+          "tweet_count": 1121
+        },
+        "username": "zyl1518124",
+        "verified": false
+      }
+    ]
+  }
+}

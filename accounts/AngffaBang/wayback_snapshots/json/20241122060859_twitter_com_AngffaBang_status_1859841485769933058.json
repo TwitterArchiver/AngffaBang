@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1859718390505721895",
+    "created_at": "2024-11-22T06:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T07:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859841485769933058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1113826998743257090",
+          "start": 0,
+          "username": "zhmov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859841485769933058",
+    "in_reply_to_user_id": "1113826998743257090",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859841217808474365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhmov 放心，我可是湖南的(˵¯͒〰¯͒˵)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1859718390505721895",
+        "created_at": "2024-11-22T06:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T07:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859841485769933058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1113826998743257090",
+              "start": 0,
+              "username": "zhmov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859841485769933058",
+        "in_reply_to_user_id": "1113826998743257090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859841217808474365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhmov 放心，我可是湖南的(˵¯͒〰¯͒˵)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1113826998743257090",
+        "conversation_id": "1859718390505721895",
+        "created_at": "2024-11-22T06:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T07:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859841217808474365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859841217808474365",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859834559698960619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 很辣就是了，普通人还是微微辣吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 230,
+          "like_count": 2147,
+          "listed_count": 0,
+          "tweet_count": 828
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-04T15:33:45.000Z",
+        "description": "“泪目了，家人们”",
+        "id": "1113826998743257090",
+        "location": "Jilin",
+        "name": "Eleblanket",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1421581101202481156/gFMZGgW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 123,
+          "like_count": 89,
+          "listed_count": 0,
+          "tweet_count": 39
+        },
+        "username": "zhmov",
+        "verified": false
+      }
+    ]
+  }
+}

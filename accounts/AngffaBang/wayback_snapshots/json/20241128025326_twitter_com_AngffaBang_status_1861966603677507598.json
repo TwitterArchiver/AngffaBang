@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1861908800414081081",
+    "created_at": "2024-11-28T02:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T03:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861966603677507598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1675069573505368064",
+          "start": 0,
+          "username": "SETERNAL319470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861966603677507598",
+    "in_reply_to_user_id": "1675069573505368064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861966030907810287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SETERNAL319470 谢谢夸夸~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1861908800414081081",
+        "created_at": "2024-11-28T02:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T03:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861966603677507598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1675069573505368064",
+              "start": 0,
+              "username": "SETERNAL319470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861966603677507598",
+        "in_reply_to_user_id": "1675069573505368064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861966030907810287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SETERNAL319470 谢谢夸夸~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675069573505368064",
+        "conversation_id": "1861908800414081081",
+        "created_at": "2024-11-28T02:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T03:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861966030907810287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861966030907810287",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861908800414081081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 豪庭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 374,
+          "like_count": 2817,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1125
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T09:11:35.000Z",
+        "description": "欢迎大家找我聊天解闷",
+        "id": "1675069573505368064",
+        "location": "希望是在美好的未来",
+        "name": "防己",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734488096119676929/aF-I4f8M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 220,
+          "like_count": 1803,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 728
+        },
+        "username": "SETERNAL319470",
+        "verified": false
+      }
+    ]
+  }
+}

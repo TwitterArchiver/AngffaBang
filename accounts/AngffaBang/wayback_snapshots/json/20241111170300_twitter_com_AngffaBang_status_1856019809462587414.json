@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1856015788089782338",
+    "created_at": "2024-11-11T17:03:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T18:03:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856019809462587414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1776810113149612033",
+          "start": 0,
+          "username": "NaNaKo_notfound"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856019809462587414",
+    "in_reply_to_user_id": "1776810113149612033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856015788089782338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NaNaKo_notfound 可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1856015788089782338",
+        "created_at": "2024-11-11T17:03:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T18:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856019809462587414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1776810113149612033",
+              "start": 0,
+              "username": "NaNaKo_notfound"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856019809462587414",
+        "in_reply_to_user_id": "1776810113149612033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856015788089782338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NaNaKo_notfound 可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1856015785237590016"
+          ]
+        },
+        "author_id": "1776810113149612033",
+        "conversation_id": "1856015788089782338",
+        "created_at": "2024-11-11T16:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T17:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856015788089782338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q6qtbj0Qgo",
+              "end": 32,
+              "expanded_url": "https://x.com/NaNaKo_notfound/status/1856015788089782338/photo/1",
+              "media_key": "3_1856015785237590016",
+              "start": 9,
+              "url": "https://t.co/q6qtbj0Qgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856015788089782338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这能画一个小时😥 https://t.co/q6qtbj0Qgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 114,
+          "like_count": 1376,
+          "listed_count": 0,
+          "tweet_count": 562
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T03:12:18.000Z",
+        "description": "我是奈奈子/07休学高中生/INFP/戒割失败中",
+        "id": "1776810113149612033",
+        "name": "川井奈奈子",
+        "pinned_tweet_id": "1843096606658494925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776850799882366976/_96bYbmh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 336,
+          "like_count": 9035,
+          "listed_count": 0,
+          "tweet_count": 1153
+        },
+        "username": "NaNaKo_notfound",
+        "verified": false
+      }
+    ]
+  }
+}

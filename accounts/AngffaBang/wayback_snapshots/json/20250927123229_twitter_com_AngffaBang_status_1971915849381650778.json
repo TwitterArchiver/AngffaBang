@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1971914765489655808",
+    "created_at": "2025-09-27T12:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T13:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971915849381650778"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971915849381650778",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971914765489655808",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每次都是很明确的拒绝，因为年龄太大了，或者是只把他们当互相帮助的好朋友对待，因为我之前认识的20岁以上的姐姐无条件的帮助我，我以为是我给他们带来了情绪价值，所以我才能获得好处，没想到他们的目的就是只想和我谈恋爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1971914765489655808",
+        "created_at": "2025-09-27T12:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971915849381650778"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971915849381650778",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971914765489655808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每次都是很明确的拒绝，因为年龄太大了，或者是只把他们当互相帮助的好朋友对待，因为我之前认识的20岁以上的姐姐无条件的帮助我，我以为是我给他们带来了情绪价值，所以我才能获得好处，没想到他们的目的就是只想和我谈恋爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1971914765489655808",
+        "created_at": "2025-09-27T12:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971914765489655808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971914765489655808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我其实经常被骂捞女，因为我能交到的朋友大部分为25岁以上有工作稳定的大叔，但是我认识他们的时候都是14，15岁，我以为他们觉得我可怜靠近我救济我，我把他们当父亲的缩影对待，他们却觉得追不到我并接受他们的礼物，就是捞女，可是我一个1当时未满16岁的小女孩又有什么工作能回礼呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/中日混血/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 85,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5931,
+          "following_count": 531,
+          "like_count": 5918,
+          "listed_count": 6,
+          "media_count": 384,
+          "tweet_count": 2410
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

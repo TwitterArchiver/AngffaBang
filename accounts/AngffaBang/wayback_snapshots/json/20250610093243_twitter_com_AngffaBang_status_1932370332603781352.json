@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1932135869575815552",
+    "created_at": "2025-06-10T09:32:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-10T10:32:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932370332603781352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609595091152429057",
+          "start": 0,
+          "username": "Kasugano1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932370332603781352",
+    "in_reply_to_user_id": "1609595091152429057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932323012088574438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kasugano1225 用小刀划，但不过这是去年5月的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1932135869575815552",
+        "created_at": "2025-06-10T09:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T10:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932370332603781352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609595091152429057",
+              "start": 0,
+              "username": "Kasugano1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932370332603781352",
+        "in_reply_to_user_id": "1609595091152429057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932323012088574438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kasugano1225 用小刀划，但不过这是去年5月的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609595091152429057",
+        "conversation_id": "1932135869575815552",
+        "created_at": "2025-06-10T06:24:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-10T07:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932323012088574438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932323012088574438",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932135869575815552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 别改花刀了（爱心型是怎么改的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4712,
+          "following_count": 511,
+          "like_count": 5655,
+          "listed_count": 5,
+          "media_count": 285,
+          "tweet_count": 2123
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T16:59:19.000Z",
+        "description": "永遠同在",
+        "id": "1609595091152429057",
+        "name": "Kasugano",
+        "pinned_tweet_id": "1621419218754502656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729222714878267392/sIIrNH62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 137,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 113
+        },
+        "username": "Kasugano1225",
+        "verified": false
+      }
+    ]
+  }
+}

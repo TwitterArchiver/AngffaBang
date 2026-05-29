@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1941840053774553332",
+    "created_at": "2025-07-07T05:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T06:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942091363396579629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1819357868543692807",
+          "start": 0,
+          "username": "shao_nan95645"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942091363396579629",
+    "in_reply_to_user_id": "1819357868543692807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941846586104909969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shao_nan95645 专门制裁耗子的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1941840053774553332",
+        "created_at": "2025-07-07T05:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T06:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942091363396579629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1819357868543692807",
+              "start": 0,
+              "username": "shao_nan95645"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942091363396579629",
+        "in_reply_to_user_id": "1819357868543692807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941846586104909969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shao_nan95645 专门制裁耗子的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819357868543692807",
+        "conversation_id": "1941840053774553332",
+        "created_at": "2025-07-06T13:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T14:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941846586104909969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941846586104909969",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941840053774553332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 把他放下啊😭补药攻击鼠鼠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 102,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 79,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5383,
+          "following_count": 515,
+          "like_count": 5727,
+          "listed_count": 5,
+          "media_count": 303,
+          "tweet_count": 2185
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T13:01:40.000Z",
+        "description": "我只是超级无敌抽象的大学生✋😭\n补药认为我说的抽象话是真的好吗\n门槛1💰✋🤓\n下面是我的匿名信箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shao_nan95645",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shao_nan95645",
+                "start": 0,
+                "url": "https://t.co/nnyaNd1kxD"
+              }
+            ]
+          }
+        },
+        "id": "1819357868543692807",
+        "location": "九重天",
+        "name": "极恶贝利亚",
+        "pinned_tweet_id": "1890348165762605390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889331816416362496/5qvL7vAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 10,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 4708
+        },
+        "url": "https://t.co/nnyaNd1kxD",
+        "username": "shao_nan95645",
+        "verified": false
+      }
+    ]
+  }
+}

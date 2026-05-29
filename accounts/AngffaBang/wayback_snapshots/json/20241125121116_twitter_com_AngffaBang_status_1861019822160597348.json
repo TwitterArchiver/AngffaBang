@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860783602981888333",
+    "created_at": "2024-11-25T12:11:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T13:11:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861019822160597348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1243590300250992645",
+          "start": 0,
+          "username": "zWNVKhb747Ur81Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861019822160597348",
+    "in_reply_to_user_id": "1243590300250992645",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861019410192097429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zWNVKhb747Ur81Q 自己感觉也要像大叔一样骚扰他们了(˃ ⌑ ˂ഃ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860783602981888333",
+        "created_at": "2024-11-25T12:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T13:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861019822160597348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243590300250992645",
+              "start": 0,
+              "username": "zWNVKhb747Ur81Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861019822160597348",
+        "in_reply_to_user_id": "1243590300250992645",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861019410192097429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zWNVKhb747Ur81Q 自己感觉也要像大叔一样骚扰他们了(˃ ⌑ ˂ഃ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590300250992645",
+        "conversation_id": "1860783602981888333",
+        "created_at": "2024-11-25T12:09:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T13:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861019410192097429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861019410192097429",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860783602981888333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 不是大叔说的完全不对味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 346,
+          "like_count": 2551,
+          "listed_count": 0,
+          "tweet_count": 1018
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:02.000Z",
+        "description": "因为我不够强大，所以只能待在猜疑链中。",
+        "id": "1243590300250992645",
+        "location": "湖南",
+        "name": "不苦的奶茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1243590514659733508/6QFvPZRb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 282,
+          "like_count": 89,
+          "listed_count": 0,
+          "tweet_count": 45
+        },
+        "username": "zWNVKhb747Ur81Q",
+        "verified": false
+      }
+    ]
+  }
+}

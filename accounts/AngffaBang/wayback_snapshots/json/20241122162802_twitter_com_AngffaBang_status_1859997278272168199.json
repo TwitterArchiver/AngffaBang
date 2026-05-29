@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1859318656645333069",
+    "created_at": "2024-11-22T16:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T17:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859997278272168199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1789213464243945472",
+          "start": 0,
+          "username": "fqlhzUgBX462887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859997278272168199",
+    "in_reply_to_user_id": "1789213464243945472",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859987837753659730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fqlhzUgBX462887 ？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1859318656645333069",
+        "created_at": "2024-11-22T16:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T17:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859997278272168199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1789213464243945472",
+              "start": 0,
+              "username": "fqlhzUgBX462887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859997278272168199",
+        "in_reply_to_user_id": "1789213464243945472",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859987837753659730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fqlhzUgBX462887 ？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789213464243945472",
+        "conversation_id": "1859318656645333069",
+        "created_at": "2024-11-22T15:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T16:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859987837753659730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859987837753659730",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859318656645333069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 认清自已是平板了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 233,
+          "like_count": 2168,
+          "listed_count": 0,
+          "tweet_count": 840
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T08:38:39.000Z",
+        "description": "……",
+        "id": "1789213464243945472",
+        "location": "广州",
+        "name": "椎名💉",
+        "pinned_tweet_id": "1857641486399242398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789216675805720576/K7T5Z9Mz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 24,
+          "like_count": 98,
+          "listed_count": 0,
+          "tweet_count": 199
+        },
+        "username": "fqlhzUgBX462887",
+        "verified": false
+      }
+    ]
+  }
+}

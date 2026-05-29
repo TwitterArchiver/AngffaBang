@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1857438899997688147",
+    "created_at": "2024-11-15T16:49:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T17:49:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857465970404765977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360124680326111232",
+          "start": 0,
+          "username": "quedelao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857465970404765977",
+    "in_reply_to_user_id": "1360124680326111232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857465639134499254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quedelao 嗯嗯(˵¯͒〰¯͒˵)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1857438899997688147",
+        "created_at": "2024-11-15T16:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T17:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857465970404765977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360124680326111232",
+              "start": 0,
+              "username": "quedelao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857465970404765977",
+        "in_reply_to_user_id": "1360124680326111232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857465639134499254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quedelao 嗯嗯(˵¯͒〰¯͒˵)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857465637096009730"
+          ]
+        },
+        "author_id": "1360124680326111232",
+        "conversation_id": "1857438899997688147",
+        "created_at": "2024-11-15T16:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T17:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857465639134499254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NYzF2SZ9wX",
+              "end": 43,
+              "expanded_url": "https://x.com/quedelao/status/1857465639134499254/photo/1",
+              "media_key": "3_1857465637096009730",
+              "start": 20,
+              "url": "https://t.co/NYzF2SZ9wX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857465639134499254",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857465474298392645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 那就叫你泉宝了 https://t.co/NYzF2SZ9wX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 179,
+          "like_count": 1611,
+          "listed_count": 0,
+          "tweet_count": 652
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T07:12:56.000Z",
+        "description": "21岁现役吐槽役，是男的",
+        "id": "1360124680326111232",
+        "location": "山东",
+        "name": "吴宁阙🌫️",
+        "pinned_tweet_id": "1571442315222302720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560238471847022592/raaDuYr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 268,
+          "like_count": 4419,
+          "listed_count": 0,
+          "tweet_count": 4527
+        },
+        "username": "quedelao",
+        "verified": false
+      }
+    ]
+  }
+}

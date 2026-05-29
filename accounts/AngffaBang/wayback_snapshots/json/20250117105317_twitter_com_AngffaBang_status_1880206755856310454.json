@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1880149698826453401",
+    "created_at": "2025-01-17T10:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T11:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880206755856310454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497575677532516352",
+          "start": 0,
+          "username": "qian2839019756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880206755856310454",
+    "in_reply_to_user_id": "1497575677532516352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880186281180950549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian2839019756 我没有笔和纸，画画会画的不好😖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1880149698826453401",
+        "created_at": "2025-01-17T10:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T11:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880206755856310454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497575677532516352",
+              "start": 0,
+              "username": "qian2839019756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880206755856310454",
+        "in_reply_to_user_id": "1497575677532516352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880186281180950549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian2839019756 我没有笔和纸，画画会画的不好😖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497575677532516352",
+        "conversation_id": "1880149698826453401",
+        "created_at": "2025-01-17T09:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T10:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880186281180950549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880186281180950549",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880149698826453401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 不准你od！想od了就画画吧，一定会变成画画高手的✓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2748,
+          "following_count": 486,
+          "like_count": 4602,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 1672
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T14:14:12.000Z",
+        "description": "好好吃饭，好好睡觉。",
+        "id": "1497575677532516352",
+        "name": "千",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859053018949304320/2vI0zQCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 102,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 201
+        },
+        "username": "qian2839019756",
+        "verified": false
+      }
+    ]
+  }
+}

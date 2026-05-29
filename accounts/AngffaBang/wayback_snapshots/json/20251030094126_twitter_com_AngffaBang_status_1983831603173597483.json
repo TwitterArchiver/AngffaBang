@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1983831603173597483",
+    "created_at": "2025-10-30T09:41:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T10:41:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983831603173597483"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983831603173597483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我退学是因为精神疾病得不到救治导致我上学跟人交流困难加上我做不了任何事情，一天都在发呆，吃饭没胃口，没有想做的事情，没有社交，与其折磨不如待在家里成废人，我上班也上不了，因为精神疾病严重的我无法正常融入社会集体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1983831603173597483",
+        "created_at": "2025-10-30T09:41:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T10:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983831603173597483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983831603173597483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我退学是因为精神疾病得不到救治导致我上学跟人交流困难加上我做不了任何事情，一天都在发呆，吃饭没胃口，没有想做的事情，没有社交，与其折磨不如待在家里成废人，我上班也上不了，因为精神疾病严重的我无法正常融入社会集体"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 103,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 80,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6042,
+          "following_count": 604,
+          "like_count": 6026,
+          "listed_count": 5,
+          "media_count": 408,
+          "tweet_count": 2477
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

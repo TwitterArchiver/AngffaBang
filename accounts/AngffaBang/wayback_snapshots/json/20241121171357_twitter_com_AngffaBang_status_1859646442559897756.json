@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1859645331803410641",
+    "created_at": "2024-11-21T17:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T18:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859646442559897756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854387649420673031",
+          "start": 0,
+          "username": "steveccd0180905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859646442559897756",
+    "in_reply_to_user_id": "1854387649420673031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859646025226649721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steveccd0180905 这玩意有用的吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1859645331803410641",
+        "created_at": "2024-11-21T17:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T18:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859646442559897756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854387649420673031",
+              "start": 0,
+              "username": "steveccd0180905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859646442559897756",
+        "in_reply_to_user_id": "1854387649420673031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859646025226649721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steveccd0180905 这玩意有用的吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854387649420673031",
+        "conversation_id": "1859645331803410641",
+        "created_at": "2024-11-21T17:12:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T18:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859646025226649721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859646025226649721",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859645331803410641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 吃抗雌？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 228,
+          "like_count": 2106,
+          "listed_count": 0,
+          "tweet_count": 807
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T04:57:33.000Z",
+        "description": "德州阿诺",
+        "id": "1854387649420673031",
+        "location": "得克萨斯",
+        "name": "steveccd01",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856509435146821633/hsTQWWOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 66,
+          "like_count": 388,
+          "listed_count": 0,
+          "tweet_count": 90
+        },
+        "username": "steveccd0180905",
+        "verified": false
+      }
+    ]
+  }
+}

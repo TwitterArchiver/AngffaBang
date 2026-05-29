@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1938955900955566468",
+    "created_at": "2025-07-01T05:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T06:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939924595584164093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1609595091152429057",
+          "start": 0,
+          "username": "Kasugano1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939924595584164093",
+    "in_reply_to_user_id": "1609595091152429057",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939763951535104400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kasugano1225 没事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1938955900955566468",
+        "created_at": "2025-07-01T05:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T06:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939924595584164093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1609595091152429057",
+              "start": 0,
+              "username": "Kasugano1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939924595584164093",
+        "in_reply_to_user_id": "1609595091152429057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939763951535104400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kasugano1225 没事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609595091152429057",
+        "conversation_id": "1938955900955566468",
+        "created_at": "2025-06-30T19:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T20:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939763951535104400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939763951535104400",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939553296542495184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 要和女友第一次了..好无助（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5094,
+          "following_count": 516,
+          "like_count": 5719,
+          "listed_count": 4,
+          "media_count": 299,
+          "tweet_count": 2170
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T16:59:19.000Z",
+        "description": "永遠同在",
+        "id": "1609595091152429057",
+        "name": "Kasugano",
+        "pinned_tweet_id": "1621419218754502656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729222714878267392/sIIrNH62_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 138,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 127
+        },
+        "username": "Kasugano1225",
+        "verified": false
+      }
+    ]
+  }
+}

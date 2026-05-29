@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1867868504722124925",
+    "created_at": "2024-12-14T10:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T11:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867879839463780505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601470531349274625",
+          "start": 0,
+          "username": "rednightmare962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867879839463780505",
+    "in_reply_to_user_id": "1601470531349274625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867877069880992247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rednightmare962 可能前面在立人设吧，现在完完全全没精力立人设了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1867868504722124925",
+        "created_at": "2024-12-14T10:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T11:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867879839463780505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601470531349274625",
+              "start": 0,
+              "username": "rednightmare962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867879839463780505",
+        "in_reply_to_user_id": "1601470531349274625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867877069880992247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rednightmare962 可能前面在立人设吧，现在完完全全没精力立人设了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601470531349274625",
+        "conversation_id": "1867868504722124925",
+        "created_at": "2024-12-14T10:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T11:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867877069880992247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867877069880992247",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867868504722124925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 玩推久了，攻击性肉眼可见的增强了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 453,
+          "like_count": 3595,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1354
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T06:55:11.000Z",
+        "description": "你好",
+        "id": "1601470531349274625",
+        "name": "云",
+        "pinned_tweet_id": "1865111880781758938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857101239806300161/qPP42yj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 352,
+          "like_count": 5232,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 2555
+        },
+        "username": "rednightmare962",
+        "verified": false
+      }
+    ]
+  }
+}

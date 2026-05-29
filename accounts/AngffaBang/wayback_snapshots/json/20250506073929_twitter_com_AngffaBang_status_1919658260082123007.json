@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1919658074522189824"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1919658260082123007",
+    "created_at": "2025-05-06T07:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T08:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919658260082123007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kaODg5dwqn",
+          "end": 32,
+          "expanded_url": "https://x.com/AngffaBang/status/1919658260082123007/video/1",
+          "media_key": "7_1919658074522189824",
+          "start": 9,
+          "url": "https://t.co/kaODg5dwqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919658260082123007",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是阿泉的尾巴~ https://t.co/kaODg5dwqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3348,
+        "height": 1280,
+        "media_key": "7_1919658074522189824",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1919658074522189824/pu/img/i54wwnwdM18IPtIO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919658074522189824/pu/vid/avc1/320x568/Dn5C4k6zbbBYVhhs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919658074522189824/pu/vid/avc1/480x852/nBqI_dhQp4zGxPrZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1919658074522189824/pu/vid/avc1/720x1280/IWnek9-ssj10160m.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1919658074522189824/pu/pl/QBYIuOLN6ppF-Vw1.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1919658074522189824"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1919658260082123007",
+        "created_at": "2025-05-06T07:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T08:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919658260082123007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaODg5dwqn",
+              "end": 32,
+              "expanded_url": "https://x.com/AngffaBang/status/1919658260082123007/video/1",
+              "media_key": "7_1919658074522189824",
+              "start": 9,
+              "url": "https://t.co/kaODg5dwqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919658260082123007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是阿泉的尾巴~ https://t.co/kaODg5dwqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 115,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 92,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4508,
+          "following_count": 513,
+          "like_count": 5389,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 2030
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

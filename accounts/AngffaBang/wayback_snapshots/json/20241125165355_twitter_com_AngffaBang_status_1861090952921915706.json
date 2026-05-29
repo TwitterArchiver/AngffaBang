@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860783602981888333",
+    "created_at": "2024-11-25T16:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T17:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861090952921915706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1749528644794654720",
+          "start": 0,
+          "username": "NiaoZhong6344"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861090952921915706",
+    "in_reply_to_user_id": "1749528644794654720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861090598050238530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NiaoZhong6344 嗯？有点看不懂中文了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860783602981888333",
+        "created_at": "2024-11-25T16:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T17:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861090952921915706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1749528644794654720",
+              "start": 0,
+              "username": "NiaoZhong6344"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861090952921915706",
+        "in_reply_to_user_id": "1749528644794654720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861090598050238530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NiaoZhong6344 嗯？有点看不懂中文了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749528644794654720",
+        "conversation_id": "1860783602981888333",
+        "created_at": "2024-11-25T16:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T17:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861090598050238530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861090598050238530",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861089675521466376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 😭😭😭虽然，我的心里面很多都住着一个好人的他\n能叫回来那个教会我紫残的姐姐吗？我还是希望他一个好人爱着我……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 925,
+          "following_count": 351,
+          "like_count": 2579,
+          "listed_count": 0,
+          "tweet_count": 1033
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T20:25:15.000Z",
+        "description": "ワタシを殺す\n                         記憶の迷路",
+        "id": "1749528644794654720",
+        "name": "かごめかごめ",
+        "pinned_tweet_id": "1858405374355026201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1749529135188488192/dU8OoSpw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 585,
+          "like_count": 4336,
+          "listed_count": 0,
+          "tweet_count": 1310
+        },
+        "username": "NiaoZhong6344",
+        "verified": false
+      }
+    ]
+  }
+}

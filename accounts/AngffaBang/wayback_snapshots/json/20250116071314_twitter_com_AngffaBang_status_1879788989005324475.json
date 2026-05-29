@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1879741024052150464",
+    "created_at": "2025-01-16T07:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T08:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879788989005324475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801847638414819328",
+          "start": 0,
+          "username": "miomiomio519107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879788989005324475",
+    "in_reply_to_user_id": "1801847638414819328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879741024052150464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomiomio519107 没办法，长得萌👍🏻👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1879741024052150464",
+        "created_at": "2025-01-16T07:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T08:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879788989005324475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801847638414819328",
+              "start": 0,
+              "username": "miomiomio519107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879788989005324475",
+        "in_reply_to_user_id": "1801847638414819328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879741024052150464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomiomio519107 没办法，长得萌👍🏻👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801847638414819328",
+        "conversation_id": "1879741024052150464",
+        "created_at": "2025-01-16T04:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T05:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879741024052150464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1879741024052150464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回乡下听到最多的话就是这个男的和女的一样😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 487,
+          "like_count": 4557,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 1658
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T05:22:18.000Z",
+        "description": "第二个朋友圈，感谢关注🥺                                                         不是男娘，爱好女，死宅，玩一点烤蛇，🔥p                   \n玩亿点点抽象，甜妹重度依赖🥺",
+        "id": "1801847638414819328",
+        "location": "5.2km",
+        "name": "miomio",
+        "pinned_tweet_id": "1878795725368418637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801848056544985088/CQ2GTiQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 41,
+          "like_count": 3785,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1231
+        },
+        "username": "miomiomio519107",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1861020056999624783",
+    "created_at": "2024-11-26T18:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T19:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861472307627319621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813283839223226368",
+          "start": 0,
+          "username": "zhu_bai69522"
+        },
+        {
+          "end": 25,
+          "id": "1589150033571897344",
+          "start": 14,
+          "username": "Masaaki_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861472307627319621",
+    "in_reply_to_user_id": "1813283839223226368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861446207765389597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu_bai69522 @Masaaki_07 在戒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1861020056999624783",
+        "created_at": "2024-11-26T18:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T19:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861472307627319621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813283839223226368",
+              "start": 0,
+              "username": "zhu_bai69522"
+            },
+            {
+              "end": 25,
+              "id": "1589150033571897344",
+              "start": 14,
+              "username": "Masaaki_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861472307627319621",
+        "in_reply_to_user_id": "1813283839223226368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861446207765389597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu_bai69522 @Masaaki_07 在戒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813283839223226368",
+        "conversation_id": "1861020056999624783",
+        "created_at": "2024-11-26T16:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T17:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861446207765389597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 23,
+              "id": "1589150033571897344",
+              "start": 12,
+              "username": "Masaaki_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861446207765389597",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861021725561114648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang @Masaaki_07 你上瘾了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 357,
+          "like_count": 2683,
+          "listed_count": 0,
+          "tweet_count": 1085
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T18:45:54.000Z",
+        "description": "",
+        "id": "1813283839223226368",
+        "name": "白烛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813624127116451840/h4IYM8xE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 59,
+          "like_count": 340,
+          "listed_count": 0,
+          "tweet_count": 267
+        },
+        "username": "zhu_bai69522",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T06:58:33.000Z",
+        "description": "INFP/❤️ホカロ/東方/二次元/cosplay/00后/🏳️‍🌈/od/sm/郁/\n一个成天发丧无聊透顶的阴暗b/一个每天闲的要死的高三牲/一个每天都很无聊的人欢迎来打扰/看成分互fo/不键政因为闹心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vocaloid.com",
+                "end": 23,
+                "expanded_url": "http://vocaloid.com",
+                "start": 0,
+                "url": "https://t.co/ybsgF3FvYD"
+              }
+            ]
+          }
+        },
+        "id": "1589150033571897344",
+        "location": "幻想鄉",
+        "name": "慕乚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859941178722189312/sKmFV2HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 702,
+          "like_count": 7604,
+          "listed_count": 0,
+          "tweet_count": 162
+        },
+        "url": "https://t.co/ybsgF3FvYD",
+        "username": "Masaaki_07",
+        "verified": false
+      }
+    ]
+  }
+}

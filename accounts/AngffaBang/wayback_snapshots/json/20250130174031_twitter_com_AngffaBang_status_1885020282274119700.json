@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1884931430423396399",
+    "created_at": "2025-01-30T17:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T18:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885020282274119700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1497575677532516352",
+          "start": 0,
+          "username": "qian2839019756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885020282274119700",
+    "in_reply_to_user_id": "1497575677532516352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884989393783648398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian2839019756 是的，挺孤单的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1884931430423396399",
+        "created_at": "2025-01-30T17:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T18:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885020282274119700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1497575677532516352",
+              "start": 0,
+              "username": "qian2839019756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885020282274119700",
+        "in_reply_to_user_id": "1497575677532516352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884989393783648398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian2839019756 是的，挺孤单的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497575677532516352",
+        "conversation_id": "1884931430423396399",
+        "created_at": "2025-01-30T15:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T16:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884989393783648398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884989393783648398",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884931430423396399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 这画质，孤寂落寞之感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 121,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 98,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4375,
+          "following_count": 522,
+          "like_count": 5004,
+          "listed_count": 5,
+          "media_count": 202,
+          "tweet_count": 1775
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T14:14:12.000Z",
+        "description": "好好吃饭，好好睡觉。",
+        "id": "1497575677532516352",
+        "name": "千",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859053018949304320/2vI0zQCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 104,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 252
+        },
+        "username": "qian2839019756",
+        "verified": false
+      }
+    ]
+  }
+}

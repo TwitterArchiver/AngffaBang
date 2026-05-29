@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1852083173016109548",
+    "created_at": "2024-11-01T05:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T06:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852215953716842572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552339082889789446",
+          "start": 0,
+          "username": "SnAuFlat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852215953716842572",
+    "in_reply_to_user_id": "1552339082889789446",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852215743305150769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnAuFlat 因为自己做的事情都很极端，不知道怎么面对对自己很好的正常人，所以就自卑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1852083173016109548",
+        "created_at": "2024-11-01T05:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T06:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852215953716842572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552339082889789446",
+              "start": 0,
+              "username": "SnAuFlat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852215953716842572",
+        "in_reply_to_user_id": "1552339082889789446",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852215743305150769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnAuFlat 因为自己做的事情都很极端，不知道怎么面对对自己很好的正常人，所以就自卑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552339082889789446",
+        "conversation_id": "1852083173016109548",
+        "created_at": "2024-11-01T05:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T06:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852215743305150769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852215743305150769",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852215387355779092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 可是沒必要為心理問題和家庭出身自卑啊，就是做自己就好了，每個人都只代表了自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘\n/发推写日记的哪天死了还证明存在过🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 72,
+          "like_count": 780,
+          "listed_count": 0,
+          "tweet_count": 435
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T17:04:32.000Z",
+        "description": "不是新號（至少一個月）和使用默認頭像的一律回fo。🚩🏴無政府主義者\n逃生艙@SnAuFlat_2\n凡爾登最好的戰友(薯薯❌)@Justunpan\n老公兼戰犯@MephiSprt",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "SnAuFlat_2"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "username": "Justunpan"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "MephiSprt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/SnAuFlat",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/SnAuFlat",
+                "start": 0,
+                "url": "https://t.co/wCURv76pNh"
+              }
+            ]
+          }
+        },
+        "id": "1552339082889789446",
+        "location": "廣西自由地區-南寧公社",
+        "name": "麥當勞薯條專員SnAuFlat🎃",
+        "pinned_tweet_id": "1851144757264695765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1725557471434153987/AB3RToEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 398,
+          "like_count": 32431,
+          "listed_count": 0,
+          "tweet_count": 2028
+        },
+        "url": "https://t.co/wCURv76pNh",
+        "username": "SnAuFlat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1910535710471536676",
+    "created_at": "2025-04-12T21:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T22:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911170398533857756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790370144755351552",
+          "start": 0,
+          "username": "FurinaDF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911170398533857756",
+    "in_reply_to_user_id": "1790370144755351552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910535710471536676",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurinaDF 笑死我了第一眼就绷不住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1910535697335017473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoOWGCJbYAEBoRs.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1910535710471536676",
+        "created_at": "2025-04-12T21:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T22:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911170398533857756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790370144755351552",
+              "start": 0,
+              "username": "FurinaDF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911170398533857756",
+        "in_reply_to_user_id": "1790370144755351552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910535710471536676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurinaDF 笑死我了第一眼就绷不住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1910535697335017473"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "conversation_id": "1910535710471536676",
+        "created_at": "2025-04-11T03:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T04:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910535710471536676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VlYm4k75Z0",
+              "end": 90,
+              "expanded_url": "https://x.com/FurinaDF/status/1910535710471536676/photo/1",
+              "media_key": "3_1910535697335017473",
+              "start": 67,
+              "url": "https://t.co/VlYm4k75Z0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910535710471536676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 348,
+          "impression_count": 583662,
+          "like_count": 1821,
+          "quote_count": 19,
+          "reply_count": 173,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "毛泽东的脸肿得像个大球，脖子跟头一样粗，表皮光亮。防腐液从毛孔中渗出，像是出汗，两个耳朵也翘起来，模样古怪，完全不像他本人的样子了。 https://t.co/VlYm4k75Z0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 116,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 93,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4480,
+          "following_count": 516,
+          "like_count": 5327,
+          "listed_count": 5,
+          "media_count": 238,
+          "tweet_count": 1966
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了芙宁娜娜，我不知所云地欢呼起来。芙宁娜娜这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了芙宁娜娜，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1910663466995900470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19578,
+          "following_count": 1933,
+          "like_count": 22877,
+          "listed_count": 54,
+          "media_count": 3983,
+          "tweet_count": 7681
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

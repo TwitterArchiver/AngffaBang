@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1941486538199843190",
+    "created_at": "2025-07-06T11:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T12:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941825827735474478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1902865075045797891",
+          "start": 0,
+          "username": "yzhao532957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941825827735474478",
+    "in_reply_to_user_id": "1902865075045797891",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941801496292843645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yzhao532957 yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1941486538199843190",
+        "created_at": "2025-07-06T11:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T12:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941825827735474478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1902865075045797891",
+              "start": 0,
+              "username": "yzhao532957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941825827735474478",
+        "in_reply_to_user_id": "1902865075045797891",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941801496292843645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yzhao532957 yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902865075045797891",
+        "conversation_id": "1941486538199843190",
+        "created_at": "2025-07-06T10:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T11:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941801496292843645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941801496292843645",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941486538199843190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 双相的性欲是不是很强  我前女友就是很强的性欲 有癔症精神病"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 102,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 79,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5335,
+          "following_count": 515,
+          "like_count": 5719,
+          "listed_count": 5,
+          "media_count": 301,
+          "tweet_count": 2181
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T23:29:39.000Z",
+        "description": "",
+        "id": "1902865075045797891",
+        "name": "y zhao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902865148160905222/pBWIDxQG_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 23,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 27
+        },
+        "username": "yzhao532957",
+        "verified": false
+      }
+    ]
+  }
+}

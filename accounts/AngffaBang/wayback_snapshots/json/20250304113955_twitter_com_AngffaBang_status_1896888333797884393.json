@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1896886174402421010",
+    "created_at": "2025-03-04T11:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T12:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896888333797884393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1392436877756612608",
+          "start": 0,
+          "username": "Pigeon_Project_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896888333797884393",
+    "in_reply_to_user_id": "1392436877756612608",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896887208021549491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pigeon_Project_ 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1896886174402421010",
+        "created_at": "2025-03-04T11:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T12:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896888333797884393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1392436877756612608",
+              "start": 0,
+              "username": "Pigeon_Project_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896888333797884393",
+        "in_reply_to_user_id": "1392436877756612608",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896887208021549491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pigeon_Project_ 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392436877756612608",
+        "conversation_id": "1896886174402421010",
+        "created_at": "2025-03-04T11:35:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T12:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896887208021549491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896887208021549491",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896886174402421010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 那个，腰肌劳损也挺可怕的吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4436,
+          "following_count": 522,
+          "like_count": 5263,
+          "listed_count": 6,
+          "media_count": 216,
+          "tweet_count": 1878
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-12T11:10:22.000Z",
+        "description": "",
+        "id": "1392436877756612608",
+        "location": "宇宙中心",
+        "name": "提醒睡觉小助手",
+        "pinned_tweet_id": "1888237101197701472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690004922807320576/P42WJw4j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 99,
+          "like_count": 2737,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 736
+        },
+        "username": "Pigeon_Project_",
+        "verified": false
+      }
+    ]
+  }
+}

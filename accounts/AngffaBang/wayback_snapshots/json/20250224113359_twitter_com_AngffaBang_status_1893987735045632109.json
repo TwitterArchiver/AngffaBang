@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1893928967909826752",
+    "created_at": "2025-02-24T11:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T12:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893987735045632109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893987735045632109",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893928967909826752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1893928967909826752",
+        "created_at": "2025-02-24T11:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T12:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893987735045632109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893987735045632109",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893928967909826752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845491203124441093",
+        "conversation_id": "1893928967909826752",
+        "created_at": "2025-02-24T07:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T08:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893928967909826752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Amemiya_Hasumi…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/Amemiya_Hasumi/status/1893907941482176716",
+              "start": 130,
+              "url": "https://t.co/fkYCyYykO9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893928967909826752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1010,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893907941482176716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "余华の好感度等级（留言即可询问）\n-1 和你对话我会觉得恶心想吐\n0 我 一直在哦可以和你讲话\n3 余华会随机爆金币\n5 我会看你的帖子和你聊天\n9 我会一直视奸你\n10 我会占有你\n20 听你的想知道你的一切会疯狂找你\n30可以🈷️我出来玩\n999 ？？？ https://t.co/fkYCyYykO9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4419,
+          "following_count": 519,
+          "like_count": 5239,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1870
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "逝去的前一刻是美丽的，是神圣的，不可超越的最美的一刻，出生真的即是死亡吗，有乐趣在世，在活着，在感受自己的生命力，太美了，凋谢的一刻仅仅只有一次，何事没有第一次，那他这件事后面肯定可以重复，凋零的美无法替代\n\n@yuhuacs5570 是他",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "yuhuacs5570"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yu_huacs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yu_huacs",
+                "start": 0,
+                "url": "https://t.co/fGARwmdWCT"
+              }
+            ]
+          }
+        },
+        "id": "1845491203124441093",
+        "location": "shanghai",
+        "name": "✿余华꒦ິ成霜❀",
+        "pinned_tweet_id": "1893891555691225232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884488814283898880/RXzxAUUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 825,
+          "like_count": 40546,
+          "listed_count": 7,
+          "media_count": 893,
+          "tweet_count": 6850
+        },
+        "url": "https://t.co/fGARwmdWCT",
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

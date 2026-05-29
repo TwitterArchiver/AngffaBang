@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1861907604680892427",
+    "created_at": "2024-11-28T18:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T19:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862207081723699312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1759859134579826688",
+          "start": 0,
+          "username": "liangcha715543"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862207081723699312",
+    "in_reply_to_user_id": "1759859134579826688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862206733126381629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangcha715543 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1861907604680892427",
+        "created_at": "2024-11-28T18:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T19:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862207081723699312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1759859134579826688",
+              "start": 0,
+              "username": "liangcha715543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862207081723699312",
+        "in_reply_to_user_id": "1759859134579826688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862206733126381629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangcha715543 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759859134579826688",
+        "conversation_id": "1861907604680892427",
+        "created_at": "2024-11-28T18:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T19:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862206733126381629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862206733126381629",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861907604680892427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 网路世界重度依赖（点头）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 382,
+          "like_count": 2854,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1135
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T08:35:13.000Z",
+        "description": "芝士凉猹\n08    该死的高二生\n（当时怕未成年不让注册推特所以随便填了个出生日期.jpg\n是笨蛋南梁！\n\n（吃糖不太可能了所以只能以男娘的方式让自己变成女孩啦）\n凉猹有在努力改变生活作息！！（也许？）",
+        "id": "1759859134579826688",
+        "name": "这。。是小凉猹！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860073906016567296/gC6NSq6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 165,
+          "like_count": 4920,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 924
+        },
+        "username": "liangcha715543",
+        "verified": false
+      }
+    ]
+  }
+}

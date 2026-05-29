@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2051881907940622336"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2051881909366804695",
+    "created_at": "2026-05-06T04:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051881909366804695"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051881909366804695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "粉丝宝宝们喜欢看什么呢"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-05-07T04:29:03.000Z",
+        "id": "2051881907940622336",
+        "options": [
+          {
+            "label": "cos",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "地雷",
+            "position": 2,
+            "votes": 0
+          },
+          {
+            "label": "萝莉",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2051881907940622336"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2051881909366804695",
+        "created_at": "2026-05-06T04:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051881909366804695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051881909366804695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉丝宝宝们喜欢看什么呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8110,
+          "following_count": 616,
+          "like_count": 6460,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 2910
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

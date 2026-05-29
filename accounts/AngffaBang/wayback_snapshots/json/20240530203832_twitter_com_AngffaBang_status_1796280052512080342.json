@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1796042415347834912",
+    "created_at": "2024-05-30T20:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T21:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796280052512080342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614958034781863939",
+          "start": 0,
+          "username": "ShiningKira"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796280052512080342",
+    "in_reply_to_user_id": "1614958034781863939",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796042415347834912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiningKira 破防了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1796042415347834912",
+        "created_at": "2024-05-30T20:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T21:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796280052512080342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614958034781863939",
+              "start": 0,
+              "username": "ShiningKira"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796280052512080342",
+        "in_reply_to_user_id": "1614958034781863939",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796042415347834912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiningKira 破防了"
+      },
+      {
+        "attachments": {},
+        "author_id": "1614958034781863939",
+        "conversation_id": "1796042415347834912",
+        "created_at": "2024-05-30T04:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T05:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796042415347834912"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796042415347834912",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2941,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你永远是中国人🇨🇳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "pinned_tweet_id": "1793720981145711053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795901752275070977/zmphs37D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 33,
+          "like_count": 213,
+          "listed_count": 0,
+          "tweet_count": 171
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T12:09:46.000Z",
+        "description": "妓女日记",
+        "id": "1614958034781863939",
+        "name": "坂下キラ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795648135513231360/3Ox7BPI-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2888,
+          "following_count": 1647,
+          "like_count": 54088,
+          "listed_count": 12,
+          "tweet_count": 13849
+        },
+        "username": "ShiningKira",
+        "verified": false
+      }
+    ]
+  }
+}

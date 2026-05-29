@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860265664579273082",
+    "created_at": "2024-11-23T14:44:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T15:44:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860333663600410727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1836691093775368192",
+          "start": 0,
+          "username": "wzj1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860333663600410727",
+    "in_reply_to_user_id": "1836691093775368192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860288637474426962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzj1213 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860265664579273082",
+        "created_at": "2024-11-23T14:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T15:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860333663600410727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1836691093775368192",
+              "start": 0,
+              "username": "wzj1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860333663600410727",
+        "in_reply_to_user_id": "1836691093775368192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860288637474426962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzj1213 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836691093775368192",
+        "conversation_id": "1860265664579273082",
+        "created_at": "2024-11-23T11:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T12:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860288637474426962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860288637474426962",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860265664579273082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 朦胧感更好看了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 284,
+          "like_count": 2317,
+          "listed_count": 0,
+          "tweet_count": 919
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T08:57:46.000Z",
+        "description": "我♂的02没谈过现实的，嘴笨（童子身）纯爱，我真的还能坚持吗？喜欢：运动，听歌，阴阳师，讨论国家大事（欣赏女性人体艺术）你们👀什么男人本色\n匿名提问：https://t.co/OIp92z8rWz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wzj1213",
+                "end": 98,
+                "expanded_url": "https://ngl.link/wzj1213",
+                "start": 75,
+                "url": "https://t.co/OIp92z8rWz"
+              }
+            ]
+          }
+        },
+        "id": "1836691093775368192",
+        "location": "心灰意冷的地方",
+        "name": "暴富的咸鱼",
+        "pinned_tweet_id": "1859802684892774726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859615478173532163/qkSL0m45_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 188,
+          "like_count": 3627,
+          "listed_count": 0,
+          "tweet_count": 1022
+        },
+        "username": "wzj1213",
+        "verified": false
+      }
+    ]
+  }
+}

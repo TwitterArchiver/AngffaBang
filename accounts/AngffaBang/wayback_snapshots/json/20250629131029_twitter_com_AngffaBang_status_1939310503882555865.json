@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1938955900955566468",
+    "created_at": "2025-06-29T13:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T14:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939310503882555865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1656919343580737536",
+          "start": 0,
+          "username": "FEIJIANGne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939310503882555865",
+    "in_reply_to_user_id": "1656919343580737536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939305493555752992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FEIJIANGne 你要我发购买记录吗😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1938955900955566468",
+        "created_at": "2025-06-29T13:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T14:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939310503882555865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1656919343580737536",
+              "start": 0,
+              "username": "FEIJIANGne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939310503882555865",
+        "in_reply_to_user_id": "1656919343580737536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939305493555752992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FEIJIANGne 你要我发购买记录吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656919343580737536",
+        "conversation_id": "1938955900955566468",
+        "created_at": "2025-06-29T12:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939305493555752992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939305493555752992",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938955900955566468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 不吹牛会死吗😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5042,
+          "following_count": 516,
+          "like_count": 5708,
+          "listed_count": 4,
+          "media_count": 297,
+          "tweet_count": 2162
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T07:09:00.000Z",
+        "description": "。",
+        "id": "1656919343580737536",
+        "location": "。",
+        "name": "舒寒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751514958871822337/nYYozC4d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 1213,
+          "like_count": 4060,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 259
+        },
+        "username": "FEIJIANGne",
+        "verified": false
+      }
+    ]
+  }
+}

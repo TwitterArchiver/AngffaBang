@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889021047292538880"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1888548024504520704",
+    "created_at": "2025-02-10T18:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-10T19:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889021049721032730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1855957873538523136",
+          "start": 0,
+          "username": "1213serika"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PoILhFzcwq",
+          "end": 44,
+          "expanded_url": "https://x.com/AngffaBang/status/1889021049721032730/photo/1",
+          "media_key": "3_1889021047292538880",
+          "start": 21,
+          "url": "https://t.co/PoILhFzcwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889021049721032730",
+    "in_reply_to_user_id": "1855957873538523136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888548024504520704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1213serika 三分之一的概率啊 https://t.co/PoILhFzcwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1889021047292538880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjcmolEbsAA1t7I.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889021047292538880"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1888548024504520704",
+        "created_at": "2025-02-10T18:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T19:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889021049721032730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1855957873538523136",
+              "start": 0,
+              "username": "1213serika"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoILhFzcwq",
+              "end": 44,
+              "expanded_url": "https://x.com/AngffaBang/status/1889021049721032730/photo/1",
+              "media_key": "3_1889021047292538880",
+              "start": 21,
+              "url": "https://t.co/PoILhFzcwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889021049721032730",
+        "in_reply_to_user_id": "1855957873538523136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888548024504520704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1213serika 三分之一的概率啊 https://t.co/PoILhFzcwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855957873538523136",
+        "conversation_id": "1888548024504520704",
+        "created_at": "2025-02-09T11:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T12:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888548024504520704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "dweam.xyz/luck",
+              "end": 29,
+              "expanded_url": "https://dweam.xyz/luck",
+              "start": 6,
+              "status": 200,
+              "unwound_url": "https://dweam.xyz/luck",
+              "url": "https://t.co/RN2typ2guO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888548024504520704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 39339,
+          "like_count": 51,
+          "quote_count": 59,
+          "reply_count": 52,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "投胎抽卡機 https://t.co/RN2typ2guO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4410,
+          "following_count": 524,
+          "like_count": 5131,
+          "listed_count": 5,
+          "media_count": 208,
+          "tweet_count": 1854
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T12:57:09.000Z",
+        "description": "🚪500 不接線下 接受私信 請註明來意 歡迎給我錢",
+        "id": "1855957873538523136",
+        "location": "世界上只有一個serika其他都是假的ˋ^ˊ！",
+        "name": "せりか三号机",
+        "pinned_tweet_id": "1886381816199954736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886664903907532802/s0J7-XJ2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 353,
+          "like_count": 4903,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 345
+        },
+        "username": "1213serika",
+        "verified": false
+      }
+    ]
+  }
+}

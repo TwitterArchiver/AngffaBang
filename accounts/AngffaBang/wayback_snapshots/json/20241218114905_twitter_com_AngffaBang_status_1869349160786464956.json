@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1869284501358330309",
+    "created_at": "2024-12-18T11:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T12:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869349160786464956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1696148761909874688",
+          "start": 0,
+          "username": "a_lei34534"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869349160786464956",
+    "in_reply_to_user_id": "1696148761909874688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869348952111534236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_lei34534 其实我自己也挺地雷的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1869284501358330309",
+        "created_at": "2024-12-18T11:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869349160786464956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1696148761909874688",
+              "start": 0,
+              "username": "a_lei34534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869349160786464956",
+        "in_reply_to_user_id": "1696148761909874688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869348952111534236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_lei34534 其实我自己也挺地雷的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869348938593296384"
+          ]
+        },
+        "author_id": "1696148761909874688",
+        "conversation_id": "1869284501358330309",
+        "created_at": "2024-12-18T11:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T12:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869348952111534236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7280Sz7xat",
+              "end": 52,
+              "expanded_url": "https://x.com/a_lei34534/status/1869348952111534236/photo/1",
+              "media_key": "3_1869348938593296384",
+              "start": 29,
+              "url": "https://t.co/7280Sz7xat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869348952111534236",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869284501358330309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang ？？？想想地雷男为什么叫作地雷男 https://t.co/7280Sz7xat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1843,
+          "following_count": 466,
+          "like_count": 3844,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1434
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T13:12:42.000Z",
+        "description": "04|小小作家、诗人，笔名magician zero|🫠诗歌一般会更新在博客上，小说会在AO3和P 站更新|全日制大专|紫砂的时候会吱一声的|负能博客https://t.co/hLgy9rmePC  ， 底下的链接是我更新诗歌的博客",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cancanwode.blogspot.com",
+                "end": 98,
+                "expanded_url": "http://cancanwode.blogspot.com",
+                "start": 75,
+                "url": "https://t.co/hLgy9rmePC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cancanide.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://cancanide.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/KhTyhvBuUy"
+              }
+            ]
+          }
+        },
+        "id": "1696148761909874688",
+        "location": "你的心里",
+        "name": "阿尔弗雷德",
+        "pinned_tweet_id": "1811788946487324844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776636768328310784/gtHrFqKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 518,
+          "like_count": 10900,
+          "listed_count": 2,
+          "media_count": 254,
+          "tweet_count": 2644
+        },
+        "url": "https://t.co/KhTyhvBuUy",
+        "username": "a_lei34534",
+        "verified": false
+      }
+    ]
+  }
+}

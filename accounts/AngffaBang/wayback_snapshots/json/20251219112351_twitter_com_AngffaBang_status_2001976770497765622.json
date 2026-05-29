@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2001757912650416192",
+    "created_at": "2025-12-19T11:23:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T12:23:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001976770497765622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1445129964530061328",
+          "start": 0,
+          "username": "Marcia46653415"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001976770497765622",
+    "in_reply_to_user_id": "1445129964530061328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001958269204742308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Marcia46653415 已死完"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2001757912650416192",
+        "created_at": "2025-12-19T11:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001976770497765622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1445129964530061328",
+              "start": 0,
+              "username": "Marcia46653415"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001976770497765622",
+        "in_reply_to_user_id": "1445129964530061328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001958269204742308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Marcia46653415 已死完"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445129964530061328",
+        "conversation_id": "2001757912650416192",
+        "created_at": "2025-12-19T10:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T11:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001958269204742308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001958269204742308",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001757912650416192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang Od四全价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6899,
+          "following_count": 600,
+          "like_count": 6066,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 2594
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T20:53:43.000Z",
+        "description": "三民主义统一中国",
+        "id": "1445129964530061328",
+        "location": "你妈头上",
+        "name": "尼采🇹🇼",
+        "pinned_tweet_id": "1998230277467103638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731069101846531/HzajETmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 134,
+          "like_count": 922,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1031
+        },
+        "username": "Marcia46653415",
+        "verified": false
+      }
+    ]
+  }
+}

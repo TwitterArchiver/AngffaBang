@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860807002303389708",
+    "created_at": "2024-11-25T08:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T09:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860969731496562986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1556640645447827461",
+          "start": 0,
+          "username": "Bq88UorZLiFvyMN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860969731496562986",
+    "in_reply_to_user_id": "1556640645447827461",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860968647877140502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bq88UorZLiFvyMN 抱抱呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860807002303389708",
+        "created_at": "2024-11-25T08:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T09:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860969731496562986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1556640645447827461",
+              "start": 0,
+              "username": "Bq88UorZLiFvyMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860969731496562986",
+        "in_reply_to_user_id": "1556640645447827461",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860968647877140502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bq88UorZLiFvyMN 抱抱呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556640645447827461",
+        "conversation_id": "1860807002303389708",
+        "created_at": "2024-11-25T08:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T09:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860968647877140502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860968647877140502",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860807002303389708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 343,
+          "like_count": 2505,
+          "listed_count": 0,
+          "tweet_count": 999
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T13:57:23.000Z",
+        "description": "經常發抱抱，blue archive 玩家(國際服)，有時候精神狀態低下(大多數時候正常)，會python(基礎)，活的，有問題私信(正常的會回)，別ban我(求)，想做位逍遙自在的仙，好無聊的一個人，有悲傷和痛苦的地方，就有可能有我的抱抱~( • ̀ω•́ )✧",
+        "id": "1556640645447827461",
+        "location": "仙界",
+        "name": "逍遙仙",
+        "pinned_tweet_id": "1820666880765686115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818199395399290880/-Z0GVcm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 1395,
+          "like_count": 18478,
+          "listed_count": 3,
+          "tweet_count": 6052
+        },
+        "username": "Bq88UorZLiFvyMN",
+        "verified": false
+      }
+    ]
+  }
+}

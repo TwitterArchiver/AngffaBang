@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1886022399868424330",
+    "created_at": "2025-02-02T21:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T22:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886165580891426968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845491203124441093",
+          "start": 0,
+          "username": "yu_huacs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886165580891426968",
+    "in_reply_to_user_id": "1845491203124441093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886022399868424330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_huacs 不愧是沪爷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1886022399868424330",
+        "created_at": "2025-02-02T21:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T22:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886165580891426968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845491203124441093",
+              "start": 0,
+              "username": "yu_huacs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886165580891426968",
+        "in_reply_to_user_id": "1845491203124441093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886022399868424330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_huacs 不愧是沪爷"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1886022396559151104"
+          ]
+        },
+        "author_id": "1845491203124441093",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1886022399868424330",
+        "created_at": "2025-02-02T12:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T13:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886022399868424330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2tzY32NCF",
+              "end": 25,
+              "expanded_url": "https://x.com/yu_huacs/status/1886022399868424330/photo/1",
+              "media_key": "3_1886022396559151104",
+              "start": 2,
+              "url": "https://t.co/j2tzY32NCF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886022399868424330",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1140,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/j2tzY32NCF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 121,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 98,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 525,
+          "like_count": 5058,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 1809
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T15:46:25.000Z",
+        "description": "他信了他真的信了",
+        "id": "1845491203124441093",
+        "location": "shanghai",
+        "name": "✿余华˃ʍ˂成霜❀",
+        "pinned_tweet_id": "1878528710216937937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884488814283898880/RXzxAUUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 682,
+          "like_count": 30390,
+          "listed_count": 5,
+          "media_count": 729,
+          "tweet_count": 4935
+        },
+        "username": "yu_huacs",
+        "verified": false
+      }
+    ]
+  }
+}

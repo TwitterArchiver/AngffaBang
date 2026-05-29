@@ -1,0 +1,203 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1794241090096390602",
+    "created_at": "2024-05-25T19:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T20:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794451970671185934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1610963750148001792",
+          "start": 0,
+          "username": "angel__2227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794451970671185934",
+    "in_reply_to_user_id": "1610963750148001792",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794241090096390602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angel__2227 我想我直接不出门了，在家里穿发到互联网上，别人就不知道我有伤疤了(*˘︶˘*).。.:*♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1794241090096390602",
+        "created_at": "2024-05-25T19:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T20:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794451970671185934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1610963750148001792",
+              "start": 0,
+              "username": "angel__2227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794451970671185934",
+        "in_reply_to_user_id": "1610963750148001792",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794241090096390602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angel__2227 我想我直接不出门了，在家里穿发到互联网上，别人就不知道我有伤疤了(*˘︶˘*).。.:*♡"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794241063299031040"
+          ]
+        },
+        "author_id": "1610963750148001792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          }
+        ],
+        "conversation_id": "1794241090096390602",
+        "created_at": "2024-05-25T05:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T06:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794241090096390602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/L49u27xLLN",
+              "end": 51,
+              "expanded_url": "https://twitter.com/angel__2227/status/1794241090096390602/photo/1",
+              "media_key": "3_1794241063299031040",
+              "start": 28,
+              "url": "https://t.co/L49u27xLLN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794241090096390602",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 84288,
+          "like_count": 1154,
+          "quote_count": 38,
+          "reply_count": 33,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "化粧してもお洒落してもこんな腕だったら何にも意味がない https://t.co/L49u27xLLN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 25,
+          "like_count": 145,
+          "listed_count": 0,
+          "tweet_count": 133
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T11:38:04.000Z",
+        "description": "16 躁鬱発達   gf @sON1RkkOkS1236",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "sON1RkkOkS1236"
+              }
+            ]
+          }
+        },
+        "id": "1610963750148001792",
+        "name": "2",
+        "pinned_tweet_id": "1793196854680617187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722274295471349760/OlNP55Sp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625,
+          "following_count": 1549,
+          "like_count": 541,
+          "listed_count": 33,
+          "tweet_count": 667
+        },
+        "username": "angel__2227",
+        "verified": false
+      }
+    ]
+  }
+}

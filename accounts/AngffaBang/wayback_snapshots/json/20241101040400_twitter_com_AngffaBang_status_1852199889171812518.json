@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1851930832006746308",
+    "created_at": "2024-11-01T04:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T05:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852199889171812518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1258347466807816198",
+          "start": 0,
+          "username": "JackDon33837779"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852199889171812518",
+    "in_reply_to_user_id": "1258347466807816198",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852095186647527589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JackDon33837779 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1851930832006746308",
+        "created_at": "2024-11-01T04:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T05:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852199889171812518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1258347466807816198",
+              "start": 0,
+              "username": "JackDon33837779"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852199889171812518",
+        "in_reply_to_user_id": "1258347466807816198",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852095186647527589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JackDon33837779 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258347466807816198",
+        "conversation_id": "1851930832006746308",
+        "created_at": "2024-10-31T21:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T22:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852095186647527589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852095186647527589",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851930832006746308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 汉族，变性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉\n/发推写日记的哪天死了还证明存在过🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 70,
+          "like_count": 777,
+          "listed_count": 0,
+          "tweet_count": 430
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T10:46:37.000Z",
+        "description": "caucasoid",
+        "id": "1258347466807816198",
+        "location": "North Dundas, Ontario",
+        "name": "Jack Miller",
+        "pinned_tweet_id": "1852026689687294463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848559010078736384/Z2Pn818w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 1486,
+          "like_count": 14183,
+          "listed_count": 1,
+          "tweet_count": 14315
+        },
+        "username": "JackDon33837779",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1885826069091307667",
+    "created_at": "2025-02-02T19:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T20:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886139194227224613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487849196921131008",
+          "start": 0,
+          "username": "zaoyoudegou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886139194227224613",
+    "in_reply_to_user_id": "1487849196921131008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885978055631643095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zaoyoudegou 我快16了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1885826069091307667",
+        "created_at": "2025-02-02T19:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T20:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886139194227224613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487849196921131008",
+              "start": 0,
+              "username": "zaoyoudegou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886139194227224613",
+        "in_reply_to_user_id": "1487849196921131008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885978055631643095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zaoyoudegou 我快16了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487849196921131008",
+        "conversation_id": "1885826069091307667",
+        "created_at": "2025-02-02T09:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T10:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885978055631643095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885978055631643095",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885826069091307667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 没长大吧噗 很可爱 据说这种人长大后声音会特别好听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 121,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 98,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4388,
+          "following_count": 524,
+          "like_count": 5057,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 1807
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T18:04:36.000Z",
+        "description": "网络沙沟",
+        "id": "1487849196921131008",
+        "name": "H2O",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879771700503642112/i97PzE3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 23,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 58
+        },
+        "username": "zaoyoudegou",
+        "verified": false
+      }
+    ]
+  }
+}

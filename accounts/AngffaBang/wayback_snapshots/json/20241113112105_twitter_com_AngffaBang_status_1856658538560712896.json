@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1856624067912331440",
+    "created_at": "2024-11-13T11:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T12:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856658538560712896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1691242509815754754",
+          "start": 0,
+          "username": "Laniakea_Aawy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856658538560712896",
+    "in_reply_to_user_id": "1691242509815754754",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856624067912331440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Laniakea_Aawy 互fo呀＼＼\\\\٩( 'ω' )و //／／"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1856624067912331440",
+        "created_at": "2024-11-13T11:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T12:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856658538560712896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1691242509815754754",
+              "start": 0,
+              "username": "Laniakea_Aawy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856658538560712896",
+        "in_reply_to_user_id": "1691242509815754754",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856624067912331440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Laniakea_Aawy 互fo呀＼＼\\\\٩( 'ω' )و //／／"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1856624067912331440",
+        "created_at": "2024-11-13T09:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T10:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856624067912331440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1856624067912331440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 360,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "真想要150fo啊\n真想要150fo啊\n（疯狂暗示）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 122,
+          "like_count": 1467,
+          "listed_count": 0,
+          "tweet_count": 587
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC丨INFP(轻度抑郁)丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但是友善且富有爱心(?)的话痨丨常驻上海两假驻广州丨兴趣极广不用担心踩雷丨偶尔emo丨键政🚫丨中文👌🏻粤语👌🏻英语👌🏻日语机翻(？)丨说话爱带括号别见怪)丨刷屏致歉丨欢迎互fo聊天，也可以私信加我tg😌3Q（鞠躬）",
+        "id": "1691242509815754754",
+        "location": "中国广州&上海",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1854832932009218551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854555981059121152/7o2A5Iyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 593,
+          "like_count": 1230,
+          "listed_count": 0,
+          "tweet_count": 400
+        },
+        "username": "Laniakea_Aawy",
+        "verified": false
+      }
+    ]
+  }
+}

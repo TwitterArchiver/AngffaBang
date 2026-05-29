@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1849919919070249089",
+    "created_at": "2024-10-26T07:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T08:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850081101701886415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1511944029440671746",
+          "start": 0,
+          "username": "lcMenci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850081101701886415",
+    "in_reply_to_user_id": "1511944029440671746",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1849919919070249089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lcMenci 我感觉无条件的爱只会在一个人被爱的身上的爱溢出来并分给别人的爱才是无条件，因为那个人已经不缺爱了，才有精力分给别人多余的爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1849919919070249089",
+        "created_at": "2024-10-26T07:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T08:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850081101701886415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1511944029440671746",
+              "start": 0,
+              "username": "lcMenci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850081101701886415",
+        "in_reply_to_user_id": "1511944029440671746",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1849919919070249089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lcMenci 我感觉无条件的爱只会在一个人被爱的身上的爱溢出来并分给别人的爱才是无条件，因为那个人已经不缺爱了，才有精力分给别人多余的爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511944029440671746",
+        "conversation_id": "1849919919070249089",
+        "created_at": "2024-10-25T21:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-25T22:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1849919919070249089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "碎碎念"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1849919919070249089",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2266,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "无条件的爱…？\n看到很多次这个词了但是我还是无法想象真的会有无条件的爱吗…？\n#碎碎念 （但是并没有在 emo）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP\n无人在意的猪头肉\n发推写日记的，哪天死了还证明存在过🌿🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Minato-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821612885929553924/p43vvaTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 37,
+          "like_count": 596,
+          "listed_count": 0,
+          "tweet_count": 344
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T05:48:50.000Z",
+        "description": "Software Engineer @Microsoft · Works on C++/Web/Linux/DevOps · maimai DX · Project SEKAI · FFXIV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Microsoft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "men.ci",
+                "end": 23,
+                "expanded_url": "https://men.ci",
+                "start": 0,
+                "url": "https://t.co/wP2VzqTLfu"
+              }
+            ]
+          }
+        },
+        "id": "1511944029440671746",
+        "location": "Suzhou, China",
+        "name": "Menci 💖",
+        "pinned_tweet_id": "1841814010586660905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1517907359565488128/PpiYHL1A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4524,
+          "following_count": 174,
+          "like_count": 21497,
+          "listed_count": 15,
+          "tweet_count": 6936
+        },
+        "url": "https://t.co/wP2VzqTLfu",
+        "username": "lcMenci",
+        "verified": false
+      }
+    ]
+  }
+}

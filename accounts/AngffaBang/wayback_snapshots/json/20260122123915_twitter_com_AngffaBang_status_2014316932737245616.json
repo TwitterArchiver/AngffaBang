@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2013694839272144903",
+    "created_at": "2026-01-22T12:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T13:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014316932737245616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1660253397172490244",
+          "start": 0,
+          "username": "igotpsycho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014316932737245616",
+    "in_reply_to_user_id": "1660253397172490244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014315704435228809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igotpsycho 这是实验药，现在在临床试验中，还开不到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-22T12:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014316932737245616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1660253397172490244",
+              "start": 0,
+              "username": "igotpsycho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014316932737245616",
+        "in_reply_to_user_id": "1660253397172490244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014315704435228809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igotpsycho 这是实验药，现在在临床试验中，还开不到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660253397172490244",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-22T12:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T13:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014315704435228809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014315704435228809",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013694839272144903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 我就想知道在哪能开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7138,
+          "following_count": 604,
+          "like_count": 6120,
+          "listed_count": 5,
+          "media_count": 443,
+          "tweet_count": 2673
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T11:57:19.000Z",
+        "description": "一个患者，长期服用精神药物中，时间不多了，在努力寻找治疗自己的办法 \\ 有事没事可以找我聊天，直接私信或者tg都可以，基本都会回fo \\ 暂时不做药代了 \\ 微信公众号：《一天三粒帕罗西汀》，有兴趣可以看看可以来投稿 \\ 还有我是男的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sertraline6",
+                "end": 23,
+                "expanded_url": "http://t.me/sertraline6",
+                "start": 0,
+                "url": "https://t.co/FWlSjbjUY8"
+              }
+            ]
+          }
+        },
+        "id": "1660253397172490244",
+        "location": "长沙，欢迎找我玩、聊天，如果你愿意的话，我需要一些接触",
+        "name": "强迫性神经官能症",
+        "pinned_tweet_id": "1984826289812132037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003839821689843712/L8dlKGNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 589,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1060
+        },
+        "url": "https://t.co/FWlSjbjUY8",
+        "username": "igotpsycho",
+        "verified": false
+      }
+    ]
+  }
+}

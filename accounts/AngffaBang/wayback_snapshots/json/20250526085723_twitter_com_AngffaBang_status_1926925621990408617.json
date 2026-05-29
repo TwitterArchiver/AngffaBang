@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1926925605003546624"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1926925621990408617",
+    "created_at": "2025-05-26T08:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T09:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926925621990408617"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HzZLARNTxo",
+          "end": 27,
+          "expanded_url": "https://x.com/AngffaBang/status/1926925621990408617/photo/1",
+          "media_key": "3_1926925605003546624",
+          "start": 4,
+          "url": "https://t.co/HzZLARNTxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926925621990408617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "羊驼~ https://t.co/HzZLARNTxo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1926925605003546624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr3QoOLXUAAdv25.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926925605003546624"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1926925621990408617",
+        "created_at": "2025-05-26T08:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T09:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926925621990408617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HzZLARNTxo",
+              "end": 27,
+              "expanded_url": "https://x.com/AngffaBang/status/1926925621990408617/photo/1",
+              "media_key": "3_1926925605003546624",
+              "start": 4,
+              "url": "https://t.co/HzZLARNTxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926925621990408617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "羊驼~ https://t.co/HzZLARNTxo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4673,
+          "following_count": 519,
+          "like_count": 5570,
+          "listed_count": 5,
+          "media_count": 273,
+          "tweet_count": 2067
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

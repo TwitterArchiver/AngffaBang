@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1950875794407850193",
+    "created_at": "2025-07-31T11:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T12:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950876903688315362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1654954338",
+          "start": 0,
+          "username": "jwcszxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950876903688315362",
+    "in_reply_to_user_id": "1654954338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950876643825979723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jwcszxc 他觉得我不好好学习去工作，就是懒不想学习，谁不想待在家里，要不是生活所迫谁愿意去工作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1950875794407850193",
+        "created_at": "2025-07-31T11:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950876903688315362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1654954338",
+              "start": 0,
+              "username": "jwcszxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950876903688315362",
+        "in_reply_to_user_id": "1654954338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950876643825979723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwcszxc 他觉得我不好好学习去工作，就是懒不想学习，谁不想待在家里，要不是生活所迫谁愿意去工作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654954338",
+        "conversation_id": "1950875794407850193",
+        "created_at": "2025-07-31T11:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950876643825979723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950876643825979723",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950875794407850193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 没搞懂诋毁点在哪，就算有…诋毁这个行为是不是有点过了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5479,
+          "following_count": 525,
+          "like_count": 5808,
+          "listed_count": 5,
+          "media_count": 316,
+          "tweet_count": 2233
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-08T09:25:12.000Z",
+        "description": "极端血腥｜血液｜裂隙穿行随机刷新",
+        "id": "1654954338",
+        "location": "颅骨王座",
+        "name": "奸奇永世神选",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854404429380030464/7QOJo0zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 33,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 41
+        },
+        "username": "jwcszxc",
+        "verified": false
+      }
+    ]
+  }
+}

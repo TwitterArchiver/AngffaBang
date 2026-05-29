@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1865903162529648666",
+    "created_at": "2024-12-08T23:35:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T00:35:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865903162529648666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800529281384067072",
+          "start": 3,
+          "username": "RainYuYe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865903162529648666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865785185280635167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainYuYe: 好耶！小毛巾快2000fo啦～\n那么为了感谢大家决定做一次抽奖～抽中的幸运儿将会送我一份神秘大奖\n一等奖：红米k80pro（共一份/可折现3999）\n二等奖：游戏充值648（共三份/折现648）\n三等奖：肯德基疯狂星期四（共十份/折现50）\n\n参与方…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1865903162529648666].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1865903162529648666",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1865903162529648666"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865785168767672320"
+          ]
+        },
+        "author_id": "1800529281384067072",
+        "conversation_id": "1865785185280635167",
+        "created_at": "2024-12-08T15:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T16:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865785185280635167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jkzCOpSMjO",
+              "end": 170,
+              "expanded_url": "https://x.com/RainYuYe/status/1865785185280635167/photo/1",
+              "media_key": "3_1865785168767672320",
+              "start": 147,
+              "url": "https://t.co/jkzCOpSMjO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865785185280635167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1597,
+          "like_count": 27,
+          "quote_count": 3,
+          "reply_count": 51,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "好耶！小毛巾快2000fo啦～\n那么为了感谢大家决定做一次抽奖～抽中的幸运儿将会送我一份神秘大奖\n一等奖：红米k80pro（共一份/可折现3999）\n二等奖：游戏充值648（共三份/折现648）\n三等奖：肯德基疯狂星期四（共十份/折现50）\n\n参与方式：评论并转发\n开奖时间：2025.1.1 https://t.co/jkzCOpSMjO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 421,
+          "like_count": 3369,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1300
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T14:03:43.000Z",
+        "description": "你好呀～这里是雨夜的里推  《推止于推》  \n本人爱吃清油火锅菌汤火锅羊肉火锅海鲜火锅麻辣火锅牛杂火锅…\n可以尝试用火锅诱捕我！？…",
+        "id": "1800529281384067072",
+        "location": "河北省石家庄",
+        "name": "我真不是雨夜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812884970400256001/bkwgtTcM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2004,
+          "following_count": 9,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 40,
+          "tweet_count": 65
+        },
+        "username": "RainYuYe",
+        "verified": false
+      }
+    ]
+  }
+}

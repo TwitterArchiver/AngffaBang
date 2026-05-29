@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1930238064934432902",
+    "created_at": "2025-06-04T12:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T13:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930238551830212794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1883047762729820160",
+          "start": 0,
+          "username": "tiny_fun8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930238551830212794",
+    "in_reply_to_user_id": "1883047762729820160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930238284921483722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiny_fun8964 我草泥马你不要去死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1930238064934432902",
+        "created_at": "2025-06-04T12:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T13:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930238551830212794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1883047762729820160",
+              "start": 0,
+              "username": "tiny_fun8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930238551830212794",
+        "in_reply_to_user_id": "1883047762729820160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930238284921483722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiny_fun8964 我草泥马你不要去死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883047762729820160",
+        "conversation_id": "1930238064934432902",
+        "created_at": "2025-06-04T12:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T13:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930238284921483722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930238284921483722",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930238223646609844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 我去死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4715,
+          "following_count": 517,
+          "like_count": 5623,
+          "listed_count": 5,
+          "media_count": 283,
+          "tweet_count": 2114
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T07:02:44.000Z",
+        "description": "『如果以后再也遇不到你 那祝你 早安 午安 晚安』\n好宝宝🤤 @JyushitiYizuka @LiuSuK7777 @LightlyXiaoLu99 @Quitewaterqwq 里 @D1o2ng",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "JyushitiYizuka"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "LiuSuK7777"
+              },
+              {
+                "end": 75,
+                "start": 59,
+                "username": "LightlyXiaoLu99"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "username": "D1o2ng"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nmbot",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nmbot",
+                "start": 0,
+                "url": "https://t.co/3VIgIK5QzX"
+              }
+            ]
+          }
+        },
+        "id": "1883047762729820160",
+        "location": "秋葉原",
+        "name": "泉こなたOffical🇺🇳",
+        "pinned_tweet_id": "1927764183724020144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928107397618274304/Z0ZdVWJv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1881,
+          "like_count": 8822,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 5341
+        },
+        "url": "https://t.co/3VIgIK5QzX",
+        "username": "tiny_fun8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1851510687618777362",
+    "created_at": "2024-10-30T06:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T07:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851510687618777362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1838478259190919168",
+          "start": 3,
+          "username": "Hoshimi_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851510687618777362",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1848544948616106225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoshimi_ovo: 🔝置顶\n我是星见空💕\n武汉 07 164/92 休学 躺尸 \n想和好妹子们互fo互转互赞扩列，同城妹子可以约我玩！\n爸爸活/原味/塔罗占卜/cos假发，都可以找我约（线下不跨省，假发单不面交）\n私信只回女生扩列和过门嘟，不闲聊，看到妹子fo/转…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1851510687618777362].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1851510687618777362",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1851510687618777362"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1848544891368017920",
+            "3_1848544891368050689",
+            "3_1848544891414188032"
+          ]
+        },
+        "author_id": "1838478259190919168",
+        "conversation_id": "1848544948616106225",
+        "created_at": "2024-10-22T02:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T03:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1848544948616106225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EwlWwlrMD8",
+              "end": 151,
+              "expanded_url": "https://x.com/Hoshimi_ovo/status/1848544948616106225/photo/1",
+              "media_key": "3_1848544891368017920",
+              "start": 128,
+              "url": "https://t.co/EwlWwlrMD8"
+            },
+            {
+              "display_url": "pic.x.com/EwlWwlrMD8",
+              "end": 151,
+              "expanded_url": "https://x.com/Hoshimi_ovo/status/1848544948616106225/photo/1",
+              "media_key": "3_1848544891368050689",
+              "start": 128,
+              "url": "https://t.co/EwlWwlrMD8"
+            },
+            {
+              "display_url": "pic.x.com/EwlWwlrMD8",
+              "end": 151,
+              "expanded_url": "https://x.com/Hoshimi_ovo/status/1848544948616106225/photo/1",
+              "media_key": "3_1848544891414188032",
+              "start": 128,
+              "url": "https://t.co/EwlWwlrMD8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1848544948616106225",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6922,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "🔝置顶\n我是星见空💕\n武汉 07 164/92 休学 躺尸 \n想和好妹子们互fo互转互赞扩列，同城妹子可以约我玩！\n爸爸活/原味/塔罗占卜/cos假发，都可以找我约（线下不跨省，假发单不面交）\n私信只回女生扩列和过门嘟，不闲聊，看到妹子fo/转发 会直回 https://t.co/EwlWwlrMD8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP\n无人在意的猪头肉\n发推写日记的，哪天死了还证明存在过🌿🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850819638231465984/4bOKm7sT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 51,
+          "like_count": 703,
+          "listed_count": 0,
+          "tweet_count": 396
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-24T07:19:18.000Z",
+        "description": "上帝不存在",
+        "id": "1838478259190919168",
+        "location": "東京 渋谷区",
+        "name": "星見くう",
+        "pinned_tweet_id": "1848544948616106225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840579748189380608/Fno2R1HB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 33,
+          "like_count": 393,
+          "listed_count": 1,
+          "tweet_count": 66
+        },
+        "username": "Hoshimi_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

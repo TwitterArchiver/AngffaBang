@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1993397977231282625",
+    "created_at": "2025-11-26T09:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993619205007286482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663923642852610049",
+          "start": 0,
+          "username": "yyddjuebudantei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993619205007286482",
+    "in_reply_to_user_id": "1663923642852610049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993437750926950624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyddjuebudantei 我不援交，od伤害也是我自己，我对我养父母很正常，但是我精神疾病是从小被他们教育逼出来的，就没带我治疗过，我才两三岁的时候亲妈都上班很少回家，我当时一两天才能吃上一顿豆浆，营养不良快死了，还是外公叫我养父母养我，但是我养父母的教育方式的问题造成我终身痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1993397977231282625",
+        "created_at": "2025-11-26T09:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993619205007286482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663923642852610049",
+              "start": 0,
+              "username": "yyddjuebudantei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993619205007286482",
+        "in_reply_to_user_id": "1663923642852610049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993437750926950624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyddjuebudantei 我不援交，od伤害也是我自己，我对我养父母很正常，但是我精神疾病是从小被他们教育逼出来的，就没带我治疗过，我才两三岁的时候亲妈都上班很少回家，我当时一两天才能吃上一顿豆浆，营养不良快死了，还是外公叫我养父母养我，但是我养父母的教育方式的问题造成我终身痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663923642852610049",
+        "conversation_id": "1993397977231282625",
+        "created_at": "2025-11-25T21:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T22:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993437750926950624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993437750926950624",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 181,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993397977231282625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 你的意思是   有人敢用童工是吗  bro你是什么工作天才造成的收益可以远高于法律的惩罚 人家当然不要你  你是不是主动躲着一切政府机构  援交od  你全程都再说  别人怎么对你 你可没说  你怎么对别人啊  这样 说一半留一半很难让人信你啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6922,
+          "following_count": 609,
+          "like_count": 6056,
+          "listed_count": 5,
+          "media_count": 415,
+          "tweet_count": 2560
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T15:02:25.000Z",
+        "description": "能谤讥于市朝 闻寡人之耳者  受宫刑",
+        "id": "1663923642852610049",
+        "name": "彭博",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663923897203408896/bunZoRSg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1824
+        },
+        "username": "yyddjuebudantei",
+        "verified": false
+      }
+    ]
+  }
+}

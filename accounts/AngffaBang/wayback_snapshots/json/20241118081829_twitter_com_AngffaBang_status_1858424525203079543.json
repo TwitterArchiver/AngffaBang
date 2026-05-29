@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1857653437565120746",
+    "created_at": "2024-11-18T08:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T09:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858424525203079543"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360124680326111232",
+          "start": 0,
+          "username": "quedelao"
+        },
+        {
+          "end": 26,
+          "id": "1563508655256850433",
+          "start": 10,
+          "username": "Starrynightwglf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858424525203079543",
+    "in_reply_to_user_id": "1360124680326111232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858417502126260516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quedelao @Starrynightwglf 屌丝喵就得配点国潮（＾Ｏ＾）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1857653437565120746",
+        "created_at": "2024-11-18T08:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T09:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858424525203079543"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360124680326111232",
+              "start": 0,
+              "username": "quedelao"
+            },
+            {
+              "end": 26,
+              "id": "1563508655256850433",
+              "start": 10,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858424525203079543",
+        "in_reply_to_user_id": "1360124680326111232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858417502126260516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quedelao @Starrynightwglf 屌丝喵就得配点国潮（＾Ｏ＾）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360124680326111232",
+        "conversation_id": "1857653437565120746",
+        "created_at": "2024-11-18T07:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T08:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858417502126260516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 28,
+              "id": "1563508655256850433",
+              "start": 12,
+              "username": "Starrynightwglf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858417502126260516",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858251025003819465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang @Starrynightwglf 也是吃上国潮了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 209,
+          "like_count": 1828,
+          "listed_count": 0,
+          "tweet_count": 718
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T07:12:56.000Z",
+        "description": "21岁现役吐槽役，是男的",
+        "id": "1360124680326111232",
+        "location": "山东",
+        "name": "吴宁阙🌫️",
+        "pinned_tweet_id": "1571442315222302720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560238471847022592/raaDuYr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 205,
+          "like_count": 4487,
+          "listed_count": 0,
+          "tweet_count": 4578
+        },
+        "username": "quedelao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T12:48:14.000Z",
+        "description": "我想去你的房间看月亮🎑┃06🐣┃INFP-T小蝴蝶🦋┃大一ing🏫┃🏳️‍⚧🍥无证😭┃坐标郑州📍┃没有什么突出的爱好，是个不太有趣的人🤷‍♀️┃不在乎立场，也不喜欢建政🙅‍♀┃欢迎互fo喵🥺（只是中推小透明，fo不fo都无所谓啦，能一眼我就很开心了）┃高强度刷推😁┃点赞是手干的，不是我干的😗┃",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaqaqaqaqaqaqaqaqaq.net",
+                "end": 23,
+                "expanded_url": "http://qaqaqaqaqaqaqaqaqaq.net",
+                "start": 0,
+                "url": "https://t.co/h3pADwksQy"
+              }
+            ]
+          }
+        },
+        "id": "1563508655256850433",
+        "location": "无何有",
+        "name": "Starrynight風阁🍥",
+        "pinned_tweet_id": "1847670974730350853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840001644190412801/y2jbIt1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 3049,
+          "like_count": 39269,
+          "listed_count": 0,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/h3pADwksQy",
+        "username": "Starrynightwglf",
+        "verified": false
+      }
+    ]
+  }
+}

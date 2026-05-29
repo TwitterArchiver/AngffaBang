@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860651654707855578",
+    "created_at": "2024-11-24T13:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T14:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860675263845298179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1512401066981146629",
+          "start": 0,
+          "username": "Viviana_0919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860675263845298179",
+    "in_reply_to_user_id": "1512401066981146629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860671122943123504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Viviana_0919 我也好奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860651654707855578",
+        "created_at": "2024-11-24T13:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T14:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860675263845298179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1512401066981146629",
+              "start": 0,
+              "username": "Viviana_0919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860675263845298179",
+        "in_reply_to_user_id": "1512401066981146629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860671122943123504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Viviana_0919 我也好奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512401066981146629",
+        "conversation_id": "1860651654707855578",
+        "created_at": "2024-11-24T13:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T14:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860671122943123504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "1.广东",
+              "end": 39,
+              "expanded_url": "http://1.xn--xhq521b",
+              "start": 16,
+              "unwound_url": "http://1.xn--xhq521b",
+              "url": "https://t.co/V8D14onlk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860671122943123504",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860651654707855578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 笑死我了https://t.co/V8D14onlk6为什么是个网站"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 329,
+          "like_count": 2433,
+          "listed_count": 0,
+          "tweet_count": 978
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T12:05:01.000Z",
+        "description": "一具男尸————自介在隔壁（目移）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miku-overdose.bsky.social",
+                "end": 23,
+                "expanded_url": "http://miku-overdose.bsky.social",
+                "start": 0,
+                "url": "https://t.co/4cqWvzsCNU"
+              }
+            ]
+          }
+        },
+        "id": "1512401066981146629",
+        "location": "東京都 渋谷区",
+        "name": "金牌厨师长",
+        "pinned_tweet_id": "1848410196793819594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1512401943804592129/s9klZktm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 114,
+          "like_count": 459,
+          "listed_count": 1,
+          "tweet_count": 837
+        },
+        "url": "https://t.co/4cqWvzsCNU",
+        "username": "Viviana_0919",
+        "verified": false
+      }
+    ]
+  }
+}

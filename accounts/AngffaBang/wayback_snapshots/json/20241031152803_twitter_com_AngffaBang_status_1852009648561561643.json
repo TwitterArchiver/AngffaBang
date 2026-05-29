@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1852009648561561643",
+    "created_at": "2024-10-31T15:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T16:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1852009648561561643"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1852009648561561643",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从今天开始，我没饭吃我就喝蜂蜜水😡直接瘦到60斤，把我饿生气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1852009648561561643",
+        "created_at": "2024-10-31T15:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T16:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852009648561561643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852009648561561643",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从今天开始，我没饭吃我就喝蜂蜜水😡直接瘦到60斤，把我饿生气了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉\n/发推写日记的哪天死了还证明存在过🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850819638231465984/4bOKm7sT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 70,
+          "like_count": 755,
+          "listed_count": 0,
+          "tweet_count": 423
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

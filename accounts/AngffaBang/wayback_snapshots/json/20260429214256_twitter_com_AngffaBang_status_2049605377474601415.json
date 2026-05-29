@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2049425270604693850",
+    "created_at": "2026-04-29T21:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T22:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049605377474601415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979108124985561088",
+          "start": 0,
+          "username": "yumenoWchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049605377474601415",
+    "in_reply_to_user_id": "1979108124985561088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049425270604693850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumenoWchan 加油哦宝宝我也助了一份力❤️希望宝宝的画能被越来越多的人看见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2049425270604693850",
+        "created_at": "2026-04-29T21:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T22:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049605377474601415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979108124985561088",
+              "start": 0,
+              "username": "yumenoWchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049605377474601415",
+        "in_reply_to_user_id": "1979108124985561088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049425270604693850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumenoWchan 加油哦宝宝我也助了一份力❤️希望宝宝的画能被越来越多的人看见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979108124985561088",
+        "conversation_id": "2049425270604693850",
+        "created_at": "2026-04-29T09:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049425270604693850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumenowchan/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/yumenowchan/status/2049070153611268223",
+              "start": 13,
+              "url": "https://t.co/mysE0v1qmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049425270604693850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 620,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049070153611268223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "1000like 感謝🥹 https://t.co/mysE0v1qmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8100,
+          "following_count": 610,
+          "like_count": 6416,
+          "listed_count": 7,
+          "media_count": 506,
+          "tweet_count": 2880
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜割裸o",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2046593454990619043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047250628687355904/LIuDBNUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 456,
+          "like_count": 2659,
+          "listed_count": 5,
+          "media_count": 66,
+          "tweet_count": 421
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

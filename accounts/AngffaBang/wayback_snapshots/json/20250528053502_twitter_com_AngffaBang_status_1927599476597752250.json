@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1927599476597752250",
+    "created_at": "2025-05-28T05:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T06:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927599476597752250"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1927599476597752250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你妈的，这疾病发作跟季节有关吗，劳资春天都没那么严重一到夏天整个人像神经病院跑出来的疯子一样，劳资他妈怎么是个人类，人类跟出生一样傻逼，等我哪天飞升到四次元我就摆脱人类躯体进化了，就不用看到一群猴子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1927599476597752250",
+        "created_at": "2025-05-28T05:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927599476597752250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927599476597752250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你妈的，这疾病发作跟季节有关吗，劳资春天都没那么严重一到夏天整个人像神经病院跑出来的疯子一样，劳资他妈怎么是个人类，人类跟出生一样傻逼，等我哪天飞升到四次元我就摆脱人类躯体进化了，就不用看到一群猴子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4668,
+          "following_count": 513,
+          "like_count": 5593,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 2079
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

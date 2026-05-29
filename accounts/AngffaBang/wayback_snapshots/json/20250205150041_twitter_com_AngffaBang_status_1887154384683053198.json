@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1887152631946293408",
+    "created_at": "2025-02-05T15:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T16:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887154384683053198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1689637436840873984",
+          "start": 0,
+          "username": "wei_te64608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887154384683053198",
+    "in_reply_to_user_id": "1689637436840873984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887154050065641877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei_te64608 调回来了，我现在还犯困什么的😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1887152631946293408",
+        "created_at": "2025-02-05T15:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T16:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887154384683053198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689637436840873984",
+              "start": 0,
+              "username": "wei_te64608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887154384683053198",
+        "in_reply_to_user_id": "1689637436840873984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887154050065641877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei_te64608 调回来了，我现在还犯困什么的😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689637436840873984",
+        "conversation_id": "1887152631946293408",
+        "created_at": "2025-02-05T14:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T15:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887154050065641877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887154050065641877",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887152631946293408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 還是不要黑白顛倒了，調整一下作息（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4409,
+          "following_count": 525,
+          "like_count": 5084,
+          "listed_count": 5,
+          "media_count": 204,
+          "tweet_count": 1830
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-10T14:00:13.000Z",
+        "description": "本人是一個十分友好的中國人，喜歡東方projet，興趣愛好是畫畫，泛亞洲主義，提問箱：https://t.co/OByTAGMLUr，喜歡的推友\n@MomazosRiCzer\n@huahuojiang_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 73,
+                "username": "MomazosRiCzer"
+              },
+              {
+                "end": 101,
+                "start": 88,
+                "username": "huahuojiang_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/wei_te64608",
+                "end": 66,
+                "expanded_url": "https://ngl.link/wei_te64608",
+                "start": 43,
+                "url": "https://t.co/OByTAGMLUr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@user-fl2fg9oh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@user-fl2fg9oh9k",
+                "start": 0,
+                "url": "https://t.co/HqggZXzGFa"
+              }
+            ]
+          }
+        },
+        "id": "1689637436840873984",
+        "location": "Hong Kong-China",
+        "name": "橘玖柚🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882949422008725504/WcpxJ0Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 84,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/HqggZXzGFa",
+        "username": "wei_te64608",
+        "verified": false
+      }
+    ]
+  }
+}

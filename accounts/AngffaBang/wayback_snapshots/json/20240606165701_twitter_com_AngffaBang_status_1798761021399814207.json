@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1798494611759136793",
+    "created_at": "2024-06-06T16:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T17:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798761021399814207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786364661182472192",
+          "start": 0,
+          "username": "bqgbfn065511185"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798761021399814207",
+    "in_reply_to_user_id": "1786364661182472192",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798693679445807390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bqgbfn065511185 是的哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1798494611759136793",
+        "created_at": "2024-06-06T16:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T17:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798761021399814207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786364661182472192",
+              "start": 0,
+              "username": "bqgbfn065511185"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798761021399814207",
+        "in_reply_to_user_id": "1786364661182472192",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798693679445807390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bqgbfn065511185 是的哦"
+      },
+      {
+        "attachments": {},
+        "author_id": "1786364661182472192",
+        "conversation_id": "1798494611759136793",
+        "created_at": "2024-06-06T12:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T13:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798693679445807390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798693679445807390",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798494611759136793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 是你自己画的吗宝宝 很好看啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796844774978412544/nuLP0jQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 32,
+          "like_count": 301,
+          "listed_count": 0,
+          "tweet_count": 233
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T11:58:31.000Z",
+        "description": "普普通通的高二学生 偶尔会吃点小药  有轻微暴力倾向",
+        "id": "1786364661182472192",
+        "name": "比企谷八幡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786364799506391040/aVZKGWN9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 83,
+          "like_count": 399,
+          "listed_count": 0,
+          "tweet_count": 40
+        },
+        "username": "bqgbfn065511185",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1794635635166470628",
+    "created_at": "2024-05-26T09:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T10:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794669476816040171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1759466518184890368",
+          "start": 0,
+          "username": "aiyibb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794669476816040171",
+    "in_reply_to_user_id": "1759466518184890368",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794635635166470628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiyibb 直接关注了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1794635635166470628",
+        "created_at": "2024-05-26T09:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T10:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794669476816040171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1759466518184890368",
+              "start": 0,
+              "username": "aiyibb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794669476816040171",
+        "in_reply_to_user_id": "1759466518184890368",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794635635166470628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiyibb 直接关注了！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1759466518184890368",
+        "conversation_id": "1794635635166470628",
+        "created_at": "2024-05-26T07:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T08:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794635635166470628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794635635166470628",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19153,
+          "like_count": 152,
+          "quote_count": 2,
+          "reply_count": 259,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "姐今天受刺激了 就想打钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "pinned_tweet_id": "1793720981145711053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 28,
+          "like_count": 165,
+          "listed_count": 0,
+          "tweet_count": 147
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-19T06:34:56.000Z",
+        "description": "小狗日记｜infp｜日常推｜吐黑泥｜玻璃心｜不接推广 不约",
+        "id": "1759466518184890368",
+        "location": "在岸上",
+        "name": "bb⋆͛",
+        "pinned_tweet_id": "1794401830799368372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759467050307862528/R226bQwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9677,
+          "following_count": 222,
+          "like_count": 2343,
+          "listed_count": 20,
+          "tweet_count": 861
+        },
+        "username": "aiyibb",
+        "verified": false
+      }
+    ]
+  }
+}

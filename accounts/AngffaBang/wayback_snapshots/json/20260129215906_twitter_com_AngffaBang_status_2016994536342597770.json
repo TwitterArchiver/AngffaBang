@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016994526158786560"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2016994536342597770",
+    "created_at": "2026-01-29T21:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T22:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016994536342597770"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OXlairW3Ax",
+          "end": 33,
+          "expanded_url": "https://x.com/AngffaBang/status/2016994536342597770/photo/1",
+          "media_key": "3_2016994526158786560",
+          "start": 10,
+          "url": "https://t.co/OXlairW3Ax"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016994536342597770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可以多停下看看我吗 https://t.co/OXlairW3Ax"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1714,
+        "media_key": "3_2016994526158786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_3N1cWaEAAugre.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016994526158786560"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2016994536342597770",
+        "created_at": "2026-01-29T21:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T22:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016994536342597770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OXlairW3Ax",
+              "end": 33,
+              "expanded_url": "https://x.com/AngffaBang/status/2016994536342597770/photo/1",
+              "media_key": "3_2016994526158786560",
+              "start": 10,
+              "url": "https://t.co/OXlairW3Ax"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016994536342597770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可以多停下看看我吗 https://t.co/OXlairW3Ax"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7110,
+          "following_count": 606,
+          "like_count": 6138,
+          "listed_count": 5,
+          "media_count": 445,
+          "tweet_count": 2684
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

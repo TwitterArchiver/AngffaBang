@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860056475152138515",
+    "created_at": "2024-11-23T07:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T08:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860228011351769461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431390946952978436",
+          "start": 0,
+          "username": "ORXkwoZK3sCbUXZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860228011351769461",
+    "in_reply_to_user_id": "1431390946952978436",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860224497443557571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ORXkwoZK3sCbUXZ 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860056475152138515",
+        "created_at": "2024-11-23T07:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T08:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860228011351769461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1431390946952978436",
+              "start": 0,
+              "username": "ORXkwoZK3sCbUXZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860228011351769461",
+        "in_reply_to_user_id": "1431390946952978436",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860224497443557571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ORXkwoZK3sCbUXZ 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431390946952978436",
+        "conversation_id": "1860056475152138515",
+        "created_at": "2024-11-23T07:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T08:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860224497443557571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860224497443557571",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860056475152138515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 换个亮点的灯吧，家里感觉太暗了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 243,
+          "like_count": 2261,
+          "listed_count": 0,
+          "tweet_count": 891
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-27T22:59:31.000Z",
+        "description": "总是欲求不满",
+        "id": "1431390946952978436",
+        "name": "想要很多爱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449764166705639426/nsJig36F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 176,
+          "like_count": 3387,
+          "listed_count": 0,
+          "tweet_count": 141
+        },
+        "username": "ORXkwoZK3sCbUXZ",
+        "verified": false
+      }
+    ]
+  }
+}

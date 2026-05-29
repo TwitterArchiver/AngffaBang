@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1887923966142201891",
+    "created_at": "2025-02-07T18:15:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T19:15:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887928087549239612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1551797203676852225",
+          "start": 0,
+          "username": "HZM6DC7pIKKFRLp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887928087549239612",
+    "in_reply_to_user_id": "1551797203676852225",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887927364027564109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HZM6DC7pIKKFRLp 可能现实条件不允许吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1887923966142201891",
+        "created_at": "2025-02-07T18:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T19:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887928087549239612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1551797203676852225",
+              "start": 0,
+              "username": "HZM6DC7pIKKFRLp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887928087549239612",
+        "in_reply_to_user_id": "1551797203676852225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887927364027564109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HZM6DC7pIKKFRLp 可能现实条件不允许吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551797203676852225",
+        "conversation_id": "1887923966142201891",
+        "created_at": "2025-02-07T18:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T19:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887927364027564109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887927364027564109",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887923966142201891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 多做點喜歡做的事會有幫助嗎(´･_･`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4403,
+          "following_count": 524,
+          "like_count": 5105,
+          "listed_count": 5,
+          "media_count": 207,
+          "tweet_count": 1846
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-26T05:11:21.000Z",
+        "description": "...",
+        "id": "1551797203676852225",
+        "name": "悲傷的青蛙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758436522754461697/xfU97V6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 1780,
+          "like_count": 6633,
+          "listed_count": 5,
+          "media_count": 98,
+          "tweet_count": 2316
+        },
+        "username": "HZM6DC7pIKKFRLp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1987135685443395890",
+    "created_at": "2025-11-09T07:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T08:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987426049387553177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845844455095762944",
+          "start": 0,
+          "username": "Ankyo127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987426049387553177",
+    "in_reply_to_user_id": "1845844455095762944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987135685443395890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ankyo127 我吞药跳楼上吊割腕都没死，我都不想再次体验那种濒死感了，我都是特别强的濒死感就晕过去了，我都不觉得会有成瘾性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1987135685443395890",
+        "created_at": "2025-11-09T07:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T08:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987426049387553177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845844455095762944",
+              "start": 0,
+              "username": "Ankyo127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987426049387553177",
+        "in_reply_to_user_id": "1845844455095762944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987135685443395890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ankyo127 我吞药跳楼上吊割腕都没死，我都不想再次体验那种濒死感了，我都是特别强的濒死感就晕过去了，我都不觉得会有成瘾性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845844455095762944",
+        "conversation_id": "1987135685443395890",
+        "created_at": "2025-11-08T12:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T13:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987135685443395890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ankyo127/statu…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/Ankyo127/status/1910223478286143592",
+              "start": 115,
+              "url": "https://t.co/5znSSFb1fl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987135685443395890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1037,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910223478286143592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要暴论了：自杀具有成瘾性。\n这个推文我没有提到的还有吞药 砸头 自缢和跳湖，说实话，每次都是越濒死越有一种奇妙的幸福感，被拖进eicu那次最为明显。\n科学的角度来说，应该是人在极度危险的情况下大量分泌肾上腺素，导致的回光返照。 https://t.co/5znSSFb1fl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 91,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 68,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6932,
+          "following_count": 605,
+          "like_count": 6046,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 2488
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T15:10:13.000Z",
+        "description": "桉秋(AQ)丨🏳️‍🌈🏳️‍⚧️友跨丨已确诊:BPD+精分+重抑+中焦丨自伤/drug自避丨欢迎匿名向我：提问/建议/立场输出(攒到四个一起回复哦)https://t.co/XJJrQNEEir🔊支持言论自由，不支持言论滥用，不攻击，不诽谤，理性讨论。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ankyo",
+                "end": 97,
+                "expanded_url": "https://ngl.link/ankyo",
+                "start": 74,
+                "url": "https://t.co/XJJrQNEEir"
+              }
+            ]
+          }
+        },
+        "id": "1845844455095762944",
+        "name": "Ankyo𖤐.🩷",
+        "pinned_tweet_id": "1980838780513972375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971892817447526400/CWJp7sjN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1940,
+          "following_count": 70,
+          "like_count": 358,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 379
+        },
+        "username": "Ankyo127",
+        "verified": false
+      }
+    ]
+  }
+}

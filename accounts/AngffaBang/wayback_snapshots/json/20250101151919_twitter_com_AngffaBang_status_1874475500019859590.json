@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1874352096113578272",
+    "created_at": "2025-01-01T15:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T16:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874475500019859590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1229055277879554049",
+          "start": 0,
+          "username": "qizao1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874475500019859590",
+    "in_reply_to_user_id": "1229055277879554049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874455883155177775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qizao1 笑死我了，好有病的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1874352096113578272",
+        "created_at": "2025-01-01T15:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T16:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874475500019859590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1229055277879554049",
+              "start": 0,
+              "username": "qizao1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874475500019859590",
+        "in_reply_to_user_id": "1229055277879554049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874455883155177775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qizao1 笑死我了，好有病的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229055277879554049",
+        "conversation_id": "1874352096113578272",
+        "created_at": "2025-01-01T14:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T15:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874455883155177775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874455883155177775",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874352096113578272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 对着朋友：xx，我要对你o大咯！（一个梗）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2327,
+          "following_count": 487,
+          "like_count": 4264,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 1548
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-16T14:49:58.000Z",
+        "description": "双偏四爱（只是希望被爱）/曾是mtf（没钱吃了）/傻/重度互联网男孩/比起别人救赎不如变成那个救赎人的人/虽然会发情但是比较拒绝性ღ✙",
+        "id": "1229055277879554049",
+        "location": "河南洛阳",
+        "name": "谢尔汀",
+        "pinned_tweet_id": "1439858329191284739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772526928001716224/QUnLwbW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 1753,
+          "like_count": 1031,
+          "listed_count": 7,
+          "media_count": 33,
+          "tweet_count": 1322
+        },
+        "username": "qizao1",
+        "verified": false
+      }
+    ]
+  }
+}

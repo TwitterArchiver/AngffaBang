@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1881916221442170926",
+    "created_at": "2025-01-22T08:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T09:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881990113535922450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869004630958784513",
+          "start": 0,
+          "username": "brian4637037510"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881990113535922450",
+    "in_reply_to_user_id": "1869004630958784513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881978200341037373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brian4637037510 我生日比较晚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1881916221442170926",
+        "created_at": "2025-01-22T08:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T09:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881990113535922450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869004630958784513",
+              "start": 0,
+              "username": "brian4637037510"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881990113535922450",
+        "in_reply_to_user_id": "1869004630958784513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881978200341037373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brian4637037510 我生日比较晚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869004630958784513",
+        "conversation_id": "1881916221442170926",
+        "created_at": "2025-01-22T08:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T09:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881978200341037373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881978200341037373",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881916221442170926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 不对啊，你09年应该16了啊🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3008,
+          "following_count": 496,
+          "like_count": 4764,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 1730
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T13:00:14.000Z",
+        "description": "",
+        "id": "1869004630958784513",
+        "name": "Brian（秽土转生）",
+        "pinned_tweet_id": "1877442856484286629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869004838622662656/SUVNodIE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 123,
+          "like_count": 1853,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 684
+        },
+        "username": "brian4637037510",
+        "verified": false
+      }
+    ]
+  }
+}

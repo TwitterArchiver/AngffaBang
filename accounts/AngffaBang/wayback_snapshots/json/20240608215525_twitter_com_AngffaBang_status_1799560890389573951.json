@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1799560890389573951",
+    "created_at": "2024-06-08T21:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T22:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799560890389573951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rebecca_hoshin…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/rebecca_hoshino/status/1798877665266708940",
+          "start": 2,
+          "url": "https://t.co/Pb4FaBR6U8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799560890389573951",
+    "lang": "qst",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798877665266708940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/Pb4FaBR6U8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1799560890389573951",
+        "created_at": "2024-06-08T21:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T22:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799560890389573951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rebecca_hoshin…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/rebecca_hoshino/status/1798877665266708940",
+              "start": 2,
+              "url": "https://t.co/Pb4FaBR6U8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799560890389573951",
+        "lang": "qst",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798877665266708940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/Pb4FaBR6U8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798877662540361728"
+          ]
+        },
+        "author_id": "731525153985822720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1798877665266708940",
+        "created_at": "2024-06-07T00:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T01:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798877665266708940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/CZENxrD2ML",
+              "end": 23,
+              "expanded_url": "https://twitter.com/rebecca_hoshino/status/1798877665266708940/photo/1",
+              "media_key": "3_1798877662540361728",
+              "start": 0,
+              "url": "https://t.co/CZENxrD2ML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798877665266708940",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 338840,
+          "like_count": 3425,
+          "quote_count": 33,
+          "reply_count": 84,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CZENxrD2ML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796844774978412544/nuLP0jQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 33,
+          "like_count": 311,
+          "listed_count": 0,
+          "tweet_count": 240
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-14T16:42:42.000Z",
+        "description": "25°C, 78%, 19:31 | 春を告げ踊り出す山菜、夏を見る宇治野原唐草乾くわ、秋の月登ったまん丸さお祝い、冬を過ぎまた月日を数える",
+        "id": "731525153985822720",
+        "location": "Adrastea",
+        "name": "阿米娜・阔伊姆@二代目",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756250182302490624/6xPvlYW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244976,
+          "following_count": 312,
+          "like_count": 8,
+          "listed_count": 751,
+          "tweet_count": 41828
+        },
+        "username": "rebecca_hoshino",
+        "verified": false
+      }
+    ]
+  }
+}

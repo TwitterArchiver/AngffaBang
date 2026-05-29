@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1795899866234892412",
+    "created_at": "2024-05-30T20:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T21:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796279894210699381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1408754918240915459",
+          "start": 0,
+          "username": "bsyy666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796279894210699381",
+    "in_reply_to_user_id": "1408754918240915459",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795899866234892412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bsyy666 笑死我了，他妈妈肯定是用尿道排的他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1795899866234892412",
+        "created_at": "2024-05-30T20:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T21:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796279894210699381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1408754918240915459",
+              "start": 0,
+              "username": "bsyy666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796279894210699381",
+        "in_reply_to_user_id": "1408754918240915459",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795899866234892412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bsyy666 笑死我了，他妈妈肯定是用尿道排的他"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795899863475085312"
+          ]
+        },
+        "author_id": "1408754918240915459",
+        "conversation_id": "1795899866234892412",
+        "created_at": "2024-05-29T19:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T20:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795899866234892412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Aq6r5yGK4u",
+              "end": 50,
+              "expanded_url": "https://twitter.com/bsyy666/status/1795899866234892412/photo/1",
+              "media_key": "3_1795899863475085312",
+              "start": 27,
+              "url": "https://t.co/Aq6r5yGK4u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795899866234892412",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 560574,
+          "like_count": 3586,
+          "quote_count": 94,
+          "reply_count": 268,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "现在你们搞清楚在网上跟你们吵架的都是些什么人了吧…… https://t.co/Aq6r5yGK4u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "pinned_tweet_id": "1793720981145711053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795901752275070977/zmphs37D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 33,
+          "like_count": 213,
+          "listed_count": 0,
+          "tweet_count": 170
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T11:52:22.000Z",
+        "description": "女的。写手。接稿，价格文风私聊。兼职手作v店：白狩阁。淘宝店：白狩阁手作。定制、寄拍（万粉）、分销、产品测评等合作请私信。私信没回复去微店找我。",
+        "id": "1408754918240915459",
+        "name": "白狩阁手作",
+        "pinned_tweet_id": "1780483177569833226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665286400529559553/PGLcDdv-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27337,
+          "following_count": 150,
+          "like_count": 5521,
+          "listed_count": 62,
+          "tweet_count": 1312
+        },
+        "username": "bsyy666",
+        "verified": false
+      }
+    ]
+  }
+}

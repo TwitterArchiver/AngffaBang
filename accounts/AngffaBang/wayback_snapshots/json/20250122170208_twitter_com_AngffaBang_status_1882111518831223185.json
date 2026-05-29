@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1882051236486361337",
+    "created_at": "2025-01-22T17:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T18:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882111518831223185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535207000602476544",
+          "start": 0,
+          "username": "qiushi3146"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882111518831223185",
+    "in_reply_to_user_id": "1535207000602476544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882110269549396260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiushi3146 我QQ的手机号是已经注销过的手机号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1882051236486361337",
+        "created_at": "2025-01-22T17:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T18:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882111518831223185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535207000602476544",
+              "start": 0,
+              "username": "qiushi3146"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882111518831223185",
+        "in_reply_to_user_id": "1535207000602476544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882110269549396260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiushi3146 我QQ的手机号是已经注销过的手机号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535207000602476544",
+        "conversation_id": "1882051236486361337",
+        "created_at": "2025-01-22T16:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T17:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882110269549396260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882110269549396260",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882064947779436763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 保护好自己的隐私吧，能更改qq的绑定手机号就赶紧改，小心对面开盒你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 120,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 97,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3618,
+          "following_count": 499,
+          "like_count": 4803,
+          "listed_count": 6,
+          "media_count": 192,
+          "tweet_count": 1734
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-10T10:27:49.000Z",
+        "description": "有点力气就全用来折腾老百姓了……",
+        "id": "1535207000602476544",
+        "name": "小秋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635209966561951744/-HCaq7us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 50,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "username": "qiushi3146",
+        "verified": false
+      }
+    ]
+  }
+}

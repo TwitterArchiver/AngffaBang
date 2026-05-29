@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2013694839272144903",
+    "created_at": "2026-01-22T15:47:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T16:47:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014364248504426964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1698767411179311104",
+          "start": 0,
+          "username": "MMimeng72886"
+        },
+        {
+          "end": 27,
+          "id": "1726413640008712192",
+          "start": 14,
+          "username": "Tabasco0420_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014364248504426964",
+    "in_reply_to_user_id": "1698767411179311104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014347497016283431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MMimeng72886 @Tabasco0420_ 抽搐还会失去意识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-22T15:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014364248504426964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1698767411179311104",
+              "start": 0,
+              "username": "MMimeng72886"
+            },
+            {
+              "end": 27,
+              "id": "1726413640008712192",
+              "start": 14,
+              "username": "Tabasco0420_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014364248504426964",
+        "in_reply_to_user_id": "1698767411179311104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014347497016283431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MMimeng72886 @Tabasco0420_ 抽搐还会失去意识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698767411179311104",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-22T14:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T15:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014347497016283431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1726413640008712192",
+              "start": 0,
+              "username": "Tabasco0420_"
+            },
+            {
+              "end": 25,
+              "id": "1730458100703064064",
+              "start": 14,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014347497016283431",
+        "in_reply_to_user_id": "1726413640008712192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014342728948322416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tabasco0420_ @AngffaBang 能不能细说癫痫是什么症状"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7138,
+          "following_count": 604,
+          "like_count": 6120,
+          "listed_count": 5,
+          "media_count": 443,
+          "tweet_count": 2675
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T18:38:37.000Z",
+        "description": "INFP/控制专业在读/努力成为整理怪，想成为聪明有趣的人/双相情感障碍/功能退化者/自我构筑中/xp混乱/最爱茶叶蛋/反本质主义者/阿甘本",
+        "id": "1698767411179311104",
+        "name": "mimeng mimeng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840516516011479040/L8Yf8m8a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 416,
+          "like_count": 465,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 76
+        },
+        "username": "MMimeng72886",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-20T01:34:34.000Z",
+        "description": "辣酱｜双相 INTJ｜自伤od｜泛性恋｜直fo选回",
+        "id": "1726413640008712192",
+        "name": "타코",
+        "pinned_tweet_id": "1992250682662142237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990732387681243136/HgU58e4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 166,
+          "like_count": 690,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 460
+        },
+        "username": "Tabasco0420_",
+        "verified": false
+      }
+    ]
+  }
+}

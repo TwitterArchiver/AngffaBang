@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1876951662667206656"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1876951711396298947",
+    "created_at": "2025-01-08T11:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T12:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876951711396298947"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0cEULzU9x",
+          "end": 33,
+          "expanded_url": "https://x.com/AngffaBang/status/1876951711396298947/video/1",
+          "media_key": "7_1876951662667206656",
+          "start": 10,
+          "url": "https://t.co/P0cEULzU9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876951711396298947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃完饭的热身运动~ https://t.co/P0cEULzU9x"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12311,
+        "height": 1280,
+        "media_key": "7_1876951662667206656",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1876951662667206656/pu/img/fBBTWVe3EiteZsCm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1876951662667206656/pu/vid/avc1/320x568/Eqewyjw7V23k_BVn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1876951662667206656/pu/vid/avc1/480x852/GUrW2WNa58YSyWl9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1876951662667206656/pu/vid/avc1/720x1280/bV-Rh0ef24N8C5nP.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1876951662667206656/pu/pl/u6eivbf40nepzHd8.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1876951662667206656"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1876951711396298947",
+        "created_at": "2025-01-08T11:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T12:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876951711396298947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0cEULzU9x",
+              "end": 33,
+              "expanded_url": "https://x.com/AngffaBang/status/1876951711396298947/video/1",
+              "media_key": "7_1876951662667206656",
+              "start": 10,
+              "url": "https://t.co/P0cEULzU9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876951711396298947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完饭的热身运动~ https://t.co/P0cEULzU9x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2313,
+          "following_count": 483,
+          "like_count": 4324,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1580
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

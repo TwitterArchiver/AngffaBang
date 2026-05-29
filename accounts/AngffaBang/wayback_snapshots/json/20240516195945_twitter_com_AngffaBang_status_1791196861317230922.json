@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1791196811069468673"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1791196861317230922",
+    "created_at": "2024-05-16T19:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-16T20:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1791196861317230922"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/fIWxkgfRM8",
+          "end": 30,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1791196861317230922/video/1",
+          "media_key": "7_1791196811069468673",
+          "start": 7,
+          "url": "https://t.co/fIWxkgfRM8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791196861317230922",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的精神状态 https://t.co/fIWxkgfRM8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5916,
+        "height": 720,
+        "media_key": "7_1791196811069468673",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1791196811069468673/pu/img/bYNyQ0Yq7JFOP229.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791196811069468673/pu/vid/avc1/480x270/GiyAOaTCt4gK1JbA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791196811069468673/pu/vid/avc1/640x360/WTz2SZzgY9_36pd2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1791196811069468673/pu/vid/avc1/1280x720/DSlGKdnNrTz4ZR84.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1791196811069468673/pu/pl/QMnYAF8ThOc5WYfy.m3u8?tag=12&container=cmaf"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1791196811069468673"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1791196861317230922",
+        "created_at": "2024-05-16T19:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-16T20:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791196861317230922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/fIWxkgfRM8",
+              "end": 30,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1791196861317230922/video/1",
+              "media_key": "7_1791196811069468673",
+              "start": 7,
+              "url": "https://t.co/fIWxkgfRM8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791196861317230922",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的精神状态 https://t.co/fIWxkgfRM8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788281398287278083/b4Bv8a6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 17,
+          "like_count": 92,
+          "listed_count": 0,
+          "tweet_count": 69
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

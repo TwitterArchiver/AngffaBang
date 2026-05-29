@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863596129818185728",
+        "3_1863596129730109441"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1863596140119371943",
+    "created_at": "2024-12-02T14:48:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T15:48:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863596140119371943"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 2,
+          "normalized_text": "宵崎奏",
+          "probability": 0.5338,
+          "start": 0,
+          "type": "Person"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/urrxkoIKmv",
+          "end": 31,
+          "expanded_url": "https://x.com/AngffaBang/status/1863596140119371943/photo/1",
+          "media_key": "3_1863596129818185728",
+          "start": 8,
+          "url": "https://t.co/urrxkoIKmv"
+        },
+        {
+          "display_url": "pic.x.com/urrxkoIKmv",
+          "end": 31,
+          "expanded_url": "https://x.com/AngffaBang/status/1863596140119371943/photo/1",
+          "media_key": "3_1863596129730109441",
+          "start": 8,
+          "url": "https://t.co/urrxkoIKmv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863596140119371943",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宵崎奏cos！ https://t.co/urrxkoIKmv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1863596129818185728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdzSzmqbEAAPpuG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1863596129730109441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdzSzmVbIAER6_g.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863596129818185728",
+            "3_1863596129730109441"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1863596140119371943",
+        "created_at": "2024-12-02T14:48:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T15:48:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863596140119371943"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "宵崎奏",
+              "probability": 0.5338,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/urrxkoIKmv",
+              "end": 31,
+              "expanded_url": "https://x.com/AngffaBang/status/1863596140119371943/photo/1",
+              "media_key": "3_1863596129818185728",
+              "start": 8,
+              "url": "https://t.co/urrxkoIKmv"
+            },
+            {
+              "display_url": "pic.x.com/urrxkoIKmv",
+              "end": 31,
+              "expanded_url": "https://x.com/AngffaBang/status/1863596140119371943/photo/1",
+              "media_key": "3_1863596129730109441",
+              "start": 8,
+              "url": "https://t.co/urrxkoIKmv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863596140119371943",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宵崎奏cos！ https://t.co/urrxkoIKmv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 390,
+          "like_count": 3040,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1217
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

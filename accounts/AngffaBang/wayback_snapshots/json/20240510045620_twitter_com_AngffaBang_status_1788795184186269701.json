@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1788651767649198229",
+    "created_at": "2024-05-10T04:56:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T05:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788795184186269701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1771577226896855040",
+          "start": 0,
+          "username": "lnxinsh60120867"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788795184186269701",
+    "in_reply_to_user_id": "1771577226896855040",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788776867035791826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnxinsh60120867 我只是化妆和美颜，没有化妆和美颜，就真的是哥布林"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1788651767649198229",
+        "created_at": "2024-05-10T04:56:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T05:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788795184186269701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1771577226896855040",
+              "start": 0,
+              "username": "lnxinsh60120867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788795184186269701",
+        "in_reply_to_user_id": "1771577226896855040",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788776867035791826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnxinsh60120867 我只是化妆和美颜，没有化妆和美颜，就真的是哥布林"
+      },
+      {
+        "attachments": {},
+        "author_id": "1771577226896855040",
+        "conversation_id": "1788651767649198229",
+        "created_at": "2024-05-10T03:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T04:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788776867035791826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788776867035791826",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788651767649198229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 不丑的人说自己丑 像我这种丑的满脸痤疮痘印的人该怎么办😄 我是不是早就下地狱了😃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788281398287278083/b4Bv8a6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 8,
+          "like_count": 62,
+          "listed_count": 0,
+          "tweet_count": 31
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-23T16:38:44.000Z",
+        "description": "一只活在二次元的巨魔哥布林一只罢了 性别♂爱好音游 发呆 我的人生已经彻底完了☺️",
+        "id": "1771577226896855040",
+        "name": "凤梨冰淇淋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788785070268125184/o0Wh0A_d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 14,
+          "like_count": 1,
+          "listed_count": 0,
+          "tweet_count": 5
+        },
+        "username": "lnxinsh60120867",
+        "verified": false
+      }
+    ]
+  }
+}

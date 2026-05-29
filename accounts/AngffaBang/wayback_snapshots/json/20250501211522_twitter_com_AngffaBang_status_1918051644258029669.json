@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1917906824101269925",
+    "created_at": "2025-05-01T21:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T22:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918051644258029669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "zhu6hua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918051644258029669",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917906824101269925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu6hua 我这两个月类看他自杀帖子发了三四次了，都看累了，我已经默认炒作了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1917906810067181568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp3GFQ5bYAAHRVm.jpg",
+        "width": 960
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917906810201346048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp3GFRZakAAwmWb.jpg",
+        "width": 962
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1917906812378181632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp3GFZgacAAZaTY.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1917906824101269925",
+        "created_at": "2025-05-01T21:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T22:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918051644258029669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "zhu6hua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918051644258029669",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917906824101269925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu6hua 我这两个月类看他自杀帖子发了三四次了，都看累了，我已经默认炒作了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1917906810067181568",
+            "3_1917906810201346048",
+            "3_1917906812378181632"
+          ]
+        },
+        "author_id": "1894285195651813378",
+        "conversation_id": "1917906824101269925",
+        "created_at": "2025-05-01T11:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T12:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917906824101269925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hv8r1wn2XO",
+              "end": 37,
+              "expanded_url": "https://x.com/zhu6hua/status/1917906824101269925/photo/1",
+              "media_key": "3_1917906810067181568",
+              "start": 14,
+              "url": "https://t.co/Hv8r1wn2XO"
+            },
+            {
+              "display_url": "pic.x.com/Hv8r1wn2XO",
+              "end": 37,
+              "expanded_url": "https://x.com/zhu6hua/status/1917906824101269925/photo/1",
+              "media_key": "3_1917906810201346048",
+              "start": 14,
+              "url": "https://t.co/Hv8r1wn2XO"
+            },
+            {
+              "display_url": "pic.x.com/Hv8r1wn2XO",
+              "end": 37,
+              "expanded_url": "https://x.com/zhu6hua/status/1917906824101269925/photo/1",
+              "media_key": "3_1917906812378181632",
+              "start": 14,
+              "url": "https://t.co/Hv8r1wn2XO"
+            },
+            {
+              "display_url": "x.com/wtxycCO/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/wtxycCO/status/1917574418349597117",
+              "start": 38,
+              "url": "https://t.co/VUBwZp3LTO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917906824101269925",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17913,
+          "like_count": 104,
+          "quote_count": 5,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917574418349597117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家晚安，六花先走一步啦~ https://t.co/Hv8r1wn2XO https://t.co/VUBwZp3LTO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 115,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 92,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4462,
+          "following_count": 517,
+          "like_count": 5341,
+          "listed_count": 5,
+          "media_count": 248,
+          "tweet_count": 2004
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "我是极左支黑温和键政魔怔类人生物请和我互fo/攻击是我表达爱的方式 初代目@zuifeiwu 二代目@6huazhu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 58,
+                "start": 50,
+                "username": "6huazhu"
+              }
+            ]
+          }
+        },
+        "id": "1894285195651813378",
+        "name": "啊啊啊啊啊坂下你是一个六花啊啊啊啊啊",
+        "pinned_tweet_id": "1895423372273819659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895411742622031872/ktMsbjQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 864,
+          "like_count": 6324,
+          "listed_count": 5,
+          "media_count": 51,
+          "tweet_count": 4062
+        },
+        "username": "zhu6hua",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1951165743950946304"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1951165752414703884",
+    "created_at": "2025-08-01T06:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T07:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1951165752414703884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h2jO7WYaIR",
+          "end": 29,
+          "expanded_url": "https://x.com/AngffaBang/status/1951165752414703884/photo/1",
+          "media_key": "3_1951165743950946304",
+          "start": 6,
+          "url": "https://t.co/h2jO7WYaIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951165752414703884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天造型~ https://t.co/h2jO7WYaIR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1951165743950946304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxPu6AobYAAxi1L.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1951165743950946304"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1951165752414703884",
+        "created_at": "2025-08-01T06:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T07:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951165752414703884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2jO7WYaIR",
+              "end": 29,
+              "expanded_url": "https://x.com/AngffaBang/status/1951165752414703884/photo/1",
+              "media_key": "3_1951165743950946304",
+              "start": 6,
+              "url": "https://t.co/h2jO7WYaIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951165752414703884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天造型~ https://t.co/h2jO7WYaIR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5476,
+          "following_count": 524,
+          "like_count": 5809,
+          "listed_count": 5,
+          "media_count": 317,
+          "tweet_count": 2232
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

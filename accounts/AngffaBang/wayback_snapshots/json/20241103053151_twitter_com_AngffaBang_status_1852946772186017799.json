@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1843251347824804274",
+    "created_at": "2024-11-03T05:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T06:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852946772186017799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1695349499622043648",
+          "start": 0,
+          "username": "_ahinu18"
+        },
+        {
+          "end": 23,
+          "id": "1850374632307830784",
+          "start": 10,
+          "username": "Cherry0620__"
+        },
+        {
+          "end": 38,
+          "id": "1461705872275492866",
+          "start": 24,
+          "username": "Arakawa_ahinu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852946772186017799",
+    "in_reply_to_user_id": "1695349499622043648",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843251347824804274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_ahinu18 @Cherry0620__ @Arakawa_ahinu 宝宝可以互fo么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1843251347824804274",
+        "created_at": "2024-11-03T05:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T06:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852946772186017799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1695349499622043648",
+              "start": 0,
+              "username": "_ahinu18"
+            },
+            {
+              "end": 23,
+              "id": "1850374632307830784",
+              "start": 10,
+              "username": "Cherry0620__"
+            },
+            {
+              "end": 38,
+              "id": "1461705872275492866",
+              "start": 24,
+              "username": "Arakawa_ahinu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852946772186017799",
+        "in_reply_to_user_id": "1695349499622043648",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843251347824804274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_ahinu18 @Cherry0620__ @Arakawa_ahinu 宝宝可以互fo么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1843251335812235264",
+            "3_1843251345115287552",
+            "3_1843251339037704192",
+            "3_1843251339826208768"
+          ]
+        },
+        "author_id": "1695349499622043648",
+        "conversation_id": "1843251347824804274",
+        "created_at": "2024-10-07T11:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-07T12:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843251347824804274"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 107,
+              "tag": "病み垢"
+            },
+            {
+              "end": 122,
+              "start": 112,
+              "tag": "病み垢と繋がりたい"
+            },
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 142,
+              "start": 128,
+              "tag": "病み垢さんと友達になりたい"
+            },
+            {
+              "end": 146,
+              "start": 143,
+              "tag": "水色"
+            },
+            {
+              "end": 150,
+              "start": 147,
+              "tag": "dk"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 39,
+              "id": "1461705872275492866",
+              "start": 25,
+              "username": "Arakawa_ahinu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D50CrA98Si",
+              "end": 174,
+              "expanded_url": "https://x.com/_ahinu18/status/1843251347824804274/photo/1",
+              "media_key": "3_1843251335812235264",
+              "start": 151,
+              "url": "https://t.co/D50CrA98Si"
+            },
+            {
+              "display_url": "pic.x.com/D50CrA98Si",
+              "end": 174,
+              "expanded_url": "https://x.com/_ahinu18/status/1843251347824804274/photo/1",
+              "media_key": "3_1843251345115287552",
+              "start": 151,
+              "url": "https://t.co/D50CrA98Si"
+            },
+            {
+              "display_url": "pic.x.com/D50CrA98Si",
+              "end": 174,
+              "expanded_url": "https://x.com/_ahinu18/status/1843251347824804274/photo/1",
+              "media_key": "3_1843251339037704192",
+              "start": 151,
+              "url": "https://t.co/D50CrA98Si"
+            },
+            {
+              "display_url": "pic.x.com/D50CrA98Si",
+              "end": 174,
+              "expanded_url": "https://x.com/_ahinu18/status/1843251347824804274/photo/1",
+              "media_key": "3_1843251339826208768",
+              "start": 151,
+              "url": "https://t.co/D50CrA98Si"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843251347824804274",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6951,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "⋆⁺₊⋆宇宙穿山甲 請自由稱呼⋆⁺₊⋆\n☆本垢： @Arakawa_ahinu ☆\n☆廢人dk繪師 DD需要各位支持\n☆憂鬱症｜進食障礙｜強迫症\n☆如果很閒請投喂 門檻來找我聊天，純綠哦哦感謝您\n☆互fo互轉歡迎\n#病み垢 #病み垢と繋がりたい #雰囲気 #病み垢さんと友達になりたい #水色 #dk https://t.co/D50CrA98Si"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 92,
+          "like_count": 939,
+          "listed_count": 0,
+          "tweet_count": 471
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T08:16:41.000Z",
+        "description": "裏垢｜OD｜ED                                                           \n中文/日本語/English Ok                                               ⋆⁺₊⋆ ☾⋆⁺₊⋆✧･ﾟ:✧☁︎･ﾟ::･ﾟ✦:･ﾟ✧",
+        "id": "1695349499622043648",
+        "location": "穿山甲王國",
+        "name": "宇宙型晶體",
+        "pinned_tweet_id": "1843251347824804274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820397763344891904/XRZjp7Py_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 67,
+          "like_count": 1757,
+          "listed_count": 1,
+          "tweet_count": 2933
+        },
+        "username": "_ahinu18",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T03:11:23.000Z",
+        "description": "07｜雙向｜焦慮｜台灣｜🚪歡迎提問",
+        "id": "1850374632307830784",
+        "name": "茄利",
+        "pinned_tweet_id": "1852917763570094485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852376346548117504/GIbUaw8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 72,
+          "like_count": 393,
+          "listed_count": 0,
+          "tweet_count": 181
+        },
+        "username": "Cherry0620__",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-19T14:42:59.000Z",
+        "description": "スバ友🚑🚑🚑大空スバル様激推|DD\n日本語、中国語、英語OK |\n鋼の錬金術師03/fa、黄泉のツガイ､ホロライブ、ダークギャザリング、吸血鬼すぐ死ぬ､ヒプマイ…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/70834678",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/70834678",
+                "start": 0,
+                "url": "https://t.co/XdYIVGb6nF"
+              }
+            ]
+          }
+        },
+        "id": "1461705872275492866",
+        "location": "Okinawa-shi, Okinawa",
+        "name": "🚑Arakawaアヒヌ🚑",
+        "pinned_tweet_id": "1846859895276294327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843113851124125696/Mshtw3yb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 313,
+          "like_count": 7167,
+          "listed_count": 0,
+          "tweet_count": 1032
+        },
+        "url": "https://t.co/XdYIVGb6nF",
+        "username": "Arakawa_ahinu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1794222050296648177",
+    "created_at": "2024-05-25T17:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T18:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794418395603153028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1553107630511603712",
+          "start": 0,
+          "username": "JiZhenYouZi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794418395603153028",
+    "in_reply_to_user_id": "1553107630511603712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794222050296648177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiZhenYouZi 羡慕出国的了，我这辈子注定出不了国。。💔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1794222050296648177",
+        "created_at": "2024-05-25T17:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T18:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794418395603153028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1553107630511603712",
+              "start": 0,
+              "username": "JiZhenYouZi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794418395603153028",
+        "in_reply_to_user_id": "1553107630511603712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794222050296648177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiZhenYouZi 羡慕出国的了，我这辈子注定出不了国。。💔"
+      },
+      {
+        "attachments": {
+          "poll_ids": [
+            "1794222046936973312"
+          ]
+        },
+        "author_id": "1553107630511603712",
+        "conversation_id": "1794222050296648177",
+        "created_at": "2024-05-25T04:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T05:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794222050296648177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794222050296648177",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9089,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 68,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家出过的最大地域单位是哪里？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 20,
+          "like_count": 129,
+          "listed_count": 0,
+          "tweet_count": 100
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T19:58:53.000Z",
+        "description": "若非群玉山头见，会向瑶台月下逢。",
+        "id": "1553107630511603712",
+        "name": "纪真由子",
+        "pinned_tweet_id": "1793946841526223047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782734032410963968/DU7EeKmr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1884,
+          "following_count": 1897,
+          "like_count": 7428,
+          "listed_count": 7,
+          "tweet_count": 7153
+        },
+        "username": "JiZhenYouZi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1907042340558323766",
+    "created_at": "2025-04-02T18:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T19:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907504034380140922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1646874954758254593",
+          "start": 0,
+          "username": "TvTnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907504034380140922",
+    "in_reply_to_user_id": "1646874954758254593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907042340558323766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TvTnow 我最长认识的网友都有5年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1907042340558323766",
+        "created_at": "2025-04-02T18:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T19:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907504034380140922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1646874954758254593",
+              "start": 0,
+              "username": "TvTnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907504034380140922",
+        "in_reply_to_user_id": "1646874954758254593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907042340558323766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TvTnow 我最长认识的网友都有5年了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646874954758254593",
+        "conversation_id": "1907042340558323766",
+        "created_at": "2025-04-01T12:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T13:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907042340558323766"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907042340558323766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 22861,
+          "like_count": 256,
+          "quote_count": 8,
+          "reply_count": 46,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "网络上认识的人能坚持三个月都算奇迹。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4468,
+          "following_count": 516,
+          "like_count": 5307,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 1920
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-14T13:56:11.000Z",
+        "description": "缓冲日记",
+        "id": "1646874954758254593",
+        "location": "我的世界。",
+        "name": "旧版磁带",
+        "pinned_tweet_id": "1777354349217497303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876303284904108032/IdmxMcCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 337,
+          "like_count": 11835,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1993
+        },
+        "username": "TvTnow",
+        "verified": false
+      }
+    ]
+  }
+}

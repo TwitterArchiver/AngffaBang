@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1866235762380877863",
+    "created_at": "2024-12-10T00:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T01:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866273843972882668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1735890962269036544",
+          "start": 0,
+          "username": "PetoSag3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866273843972882668",
+    "in_reply_to_user_id": "1735890962269036544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866270488508727498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PetoSag3 诶？可能这是AI？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1866235762380877863",
+        "created_at": "2024-12-10T00:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T01:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866273843972882668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1735890962269036544",
+              "start": 0,
+              "username": "PetoSag3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866273843972882668",
+        "in_reply_to_user_id": "1735890962269036544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866270488508727498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PetoSag3 诶？可能这是AI？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735890962269036544",
+        "conversation_id": "1866235762380877863",
+        "created_at": "2024-12-09T23:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T00:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866270488508727498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866270488508727498",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866235762380877863",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 卧槽 为啥我跟我头像不符"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 421,
+          "like_count": 3416,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1317
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-16T05:14:52.000Z",
+        "description": "Luv and peace 时不时分享一些有趣的东西(*ﾟ▽ﾟ*)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "popcat.click",
+                "end": 23,
+                "expanded_url": "http://popcat.click",
+                "start": 0,
+                "url": "https://t.co/EECUWtdDIl"
+              }
+            ]
+          }
+        },
+        "id": "1735890962269036544",
+        "location": "宇宙的边缘",
+        "name": "古見硝子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844358482251874309/FGzHtnno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 568,
+          "like_count": 6450,
+          "listed_count": 3,
+          "media_count": 1398,
+          "tweet_count": 6680
+        },
+        "url": "https://t.co/EECUWtdDIl",
+        "username": "PetoSag3",
+        "verified": false
+      }
+    ]
+  }
+}

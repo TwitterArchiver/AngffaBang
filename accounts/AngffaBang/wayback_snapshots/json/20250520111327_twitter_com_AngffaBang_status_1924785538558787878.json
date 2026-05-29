@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1924431279552077919",
+    "created_at": "2025-05-20T11:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T12:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924785538558787878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1607642119862358016",
+          "start": 0,
+          "username": "xzy68652748"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924785538558787878",
+    "in_reply_to_user_id": "1607642119862358016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924755304908259489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzy68652748 点的外卖~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1924431279552077919",
+        "created_at": "2025-05-20T11:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T12:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924785538558787878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1607642119862358016",
+              "start": 0,
+              "username": "xzy68652748"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924785538558787878",
+        "in_reply_to_user_id": "1607642119862358016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924755304908259489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzy68652748 点的外卖~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1607642119862358016",
+        "conversation_id": "1924431279552077919",
+        "created_at": "2025-05-20T09:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T10:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924755304908259489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924755304908259489",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924431279552077919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 在哪买的!!!!好肥!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 516,
+          "like_count": 5560,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 2052
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-27T07:39:10.000Z",
+        "description": "21世纪/女/上额窦囊肿破裂/拇指外翻/副甲/结膜炎/肠痉挛/近视/斜视/沙发",
+        "id": "1607642119862358016",
+        "name": "？o(- -)o？",
+        "pinned_tweet_id": "1801123966440063061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661238907772747776/FkXNl_0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 277,
+          "like_count": 194,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 635
+        },
+        "username": "xzy68652748",
+        "verified": false
+      }
+    ]
+  }
+}

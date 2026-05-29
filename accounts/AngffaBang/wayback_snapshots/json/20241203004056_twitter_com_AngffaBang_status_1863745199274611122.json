@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1863596140119371943",
+    "created_at": "2024-12-03T00:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-03T01:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863745199274611122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1258347466807816198",
+          "start": 0,
+          "username": "JackDon33837779"
+        },
+        {
+          "end": 31,
+          "id": "1776506115112718336",
+          "start": 17,
+          "username": "xiaosanjiu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863745199274611122",
+    "in_reply_to_user_id": "1258347466807816198",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863743895571456059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JackDon33837779 @xiaosanjiu520 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1863596140119371943",
+        "created_at": "2024-12-03T00:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T01:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863745199274611122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1258347466807816198",
+              "start": 0,
+              "username": "JackDon33837779"
+            },
+            {
+              "end": 31,
+              "id": "1776506115112718336",
+              "start": 17,
+              "username": "xiaosanjiu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863745199274611122",
+        "in_reply_to_user_id": "1258347466807816198",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863743895571456059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JackDon33837779 @xiaosanjiu520 ？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863743893285584896",
+            "3_1863743893470089216"
+          ]
+        },
+        "author_id": "1258347466807816198",
+        "conversation_id": "1863596140119371943",
+        "created_at": "2024-12-03T00:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T01:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863743895571456059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776506115112718336",
+              "start": 0,
+              "username": "xiaosanjiu520"
+            },
+            {
+              "end": 26,
+              "id": "1730458100703064064",
+              "start": 15,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NiiTDv5tQM",
+              "end": 57,
+              "expanded_url": "https://x.com/JackDon33837779/status/1863743895571456059/photo/1",
+              "media_key": "3_1863743893285584896",
+              "start": 34,
+              "url": "https://t.co/NiiTDv5tQM"
+            },
+            {
+              "display_url": "pic.x.com/NiiTDv5tQM",
+              "end": 57,
+              "expanded_url": "https://x.com/JackDon33837779/status/1863743895571456059/photo/1",
+              "media_key": "3_1863743893470089216",
+              "start": 34,
+              "url": "https://t.co/NiiTDv5tQM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863743895571456059",
+        "in_reply_to_user_id": "1776506115112718336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863630207627997449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosanjiu520 @AngffaBang 沿海南东亚人 https://t.co/NiiTDv5tQM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 400,
+          "like_count": 3088,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 1230
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-07T10:46:37.000Z",
+        "description": "caucasoid",
+        "id": "1258347466807816198",
+        "location": "North Dundas, Ontario",
+        "name": "Jack Miller",
+        "pinned_tweet_id": "1859488374756671917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861977449023537152/iCnBTCDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 1509,
+          "like_count": 14318,
+          "listed_count": 4,
+          "media_count": 3198,
+          "tweet_count": 18716
+        },
+        "username": "JackDon33837779",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T07:04:09.000Z",
+        "description": "他人を愛するときはまず自分を愛し、他人を選ぶときはまず自分の心に問いかけてください。           #ブルアカ #Genshin #崩壊スターレイル",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 53,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 67,
+                "start": 59,
+                "tag": "Genshin"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "tag": "崩壊スターレイル"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/nanazi…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/nanazi520.bsky.social",
+                "start": 0,
+                "url": "https://t.co/nJZsCmvKmd"
+              }
+            ]
+          }
+        },
+        "id": "1776506115112718336",
+        "location": "シティングの箱",
+        "name": "小三玖.",
+        "pinned_tweet_id": "1852983127393579483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861669175477051392/kxBweeBF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 727,
+          "like_count": 12661,
+          "listed_count": 5,
+          "media_count": 753,
+          "tweet_count": 5806
+        },
+        "url": "https://t.co/nJZsCmvKmd",
+        "username": "xiaosanjiu520",
+        "verified": false
+      }
+    ]
+  }
+}

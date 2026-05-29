@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1874478372044341553",
+    "created_at": "2025-01-12T06:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T07:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878321687105802512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1820371009293438976",
+          "start": 0,
+          "username": "ll9217627648228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878321687105802512",
+    "in_reply_to_user_id": "1820371009293438976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878305640197832761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll9217627648228 看要订什么样的和精度的，我想找的画师和建模师加起来也就3800，或者2800"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1874478372044341553",
+        "created_at": "2025-01-12T06:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T07:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878321687105802512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1820371009293438976",
+              "start": 0,
+              "username": "ll9217627648228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878321687105802512",
+        "in_reply_to_user_id": "1820371009293438976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878305640197832761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll9217627648228 看要订什么样的和精度的，我想找的画师和建模师加起来也就3800，或者2800"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820371009293438976",
+        "conversation_id": "1874478372044341553",
+        "created_at": "2025-01-12T04:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T05:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878305640197832761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878305640197832761",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874478372044341553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 这个心愿有点费钱，因为我自己订过虚拟皮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 486,
+          "like_count": 4476,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 1626
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T08:08:07.000Z",
+        "description": "",
+        "id": "1820371009293438976",
+        "name": "乐乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820371248121339904/mEVd6a_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 40,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 35
+        },
+        "username": "ll9217627648228",
+        "verified": false
+      }
+    ]
+  }
+}

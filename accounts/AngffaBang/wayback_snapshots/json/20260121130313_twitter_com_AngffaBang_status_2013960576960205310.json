@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2013694839272144903",
+    "created_at": "2026-01-21T13:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T14:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013960576960205310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1674785462899339268",
+          "start": 0,
+          "username": "Minnie1892373"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013960576960205310",
+    "in_reply_to_user_id": "1674785462899339268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013943421099204783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minnie1892373 这是抗抑郁药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-21T13:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013960576960205310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1674785462899339268",
+              "start": 0,
+              "username": "Minnie1892373"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013960576960205310",
+        "in_reply_to_user_id": "1674785462899339268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013943421099204783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minnie1892373 这是抗抑郁药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674785462899339268",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-21T11:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013943421099204783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013943421099204783",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013694839272144903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 为啥要吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7142,
+          "following_count": 601,
+          "like_count": 6117,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 2662
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T14:22:37.000Z",
+        "description": "hallo, owuwuwuhhh",
+        "id": "1674785462899339268",
+        "location": "America",
+        "name": "Minnie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675412919000109056/mFhj3sto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 44,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "Minnie1892373",
+        "verified": false
+      }
+    ]
+  }
+}

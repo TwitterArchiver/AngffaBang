@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006369842224619520"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2006369859001778203",
+    "created_at": "2025-12-31T14:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T15:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006369859001778203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JQsDrN7Uk2",
+          "end": 32,
+          "expanded_url": "https://x.com/AngffaBang/status/2006369859001778203/photo/1",
+          "media_key": "3_2006369842224619520",
+          "start": 9,
+          "url": "https://t.co/JQsDrN7Uk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006369859001778203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和对象一起跨年~ https://t.co/JQsDrN7Uk2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2006369842224619520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9gOvcXa4AAjXBs.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006369842224619520"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2006369859001778203",
+        "created_at": "2025-12-31T14:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T15:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006369859001778203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JQsDrN7Uk2",
+              "end": 32,
+              "expanded_url": "https://x.com/AngffaBang/status/2006369859001778203/photo/1",
+              "media_key": "3_2006369842224619520",
+              "start": 9,
+              "url": "https://t.co/JQsDrN7Uk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006369859001778203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和对象一起跨年~ https://t.co/JQsDrN7Uk2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6926,
+          "following_count": 599,
+          "like_count": 6062,
+          "listed_count": 5,
+          "media_count": 431,
+          "tweet_count": 2610
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

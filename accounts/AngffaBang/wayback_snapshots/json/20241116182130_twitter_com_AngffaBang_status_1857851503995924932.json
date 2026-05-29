@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1857470927107469695",
+    "created_at": "2024-11-16T18:21:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T19:21:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857851503995924932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836782122037874688",
+          "start": 0,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857851503995924932",
+    "in_reply_to_user_id": "1836782122037874688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857470927107469695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio1738468 我想有很多人和我互动，想被人在意，因为自己一个人孤单太难受了(˃ ⌑ ˂ഃ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1857470927107469695",
+        "created_at": "2024-11-16T18:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T19:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857851503995924932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836782122037874688",
+              "start": 0,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857851503995924932",
+        "in_reply_to_user_id": "1836782122037874688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857470927107469695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio1738468 我想有很多人和我互动，想被人在意，因为自己一个人孤单太难受了(˃ ⌑ ˂ഃ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836782122037874688",
+        "conversation_id": "1857470927107469695",
+        "created_at": "2024-11-15T17:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T18:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857470927107469695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857470927107469695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7149,
+          "like_count": 118,
+          "quote_count": 2,
+          "reply_count": 61,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推u会很在意自己的流量什么的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/名字日文中译是泉！/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 184,
+          "like_count": 1664,
+          "listed_count": 0,
+          "tweet_count": 669
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/碎碎念-分享日常/🚪20纯绿陪聊，给的越多越热情/粥批/亲友妹 @WeiShen60223 /小号@jy3152509243 /谢谢你和我一起玩😽/手作围巾长期有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "WeiShen60223"
+              },
+              {
+                "end": 70,
+                "start": 57,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1857845525556638103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 472,
+          "like_count": 5504,
+          "listed_count": 2,
+          "tweet_count": 4251
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

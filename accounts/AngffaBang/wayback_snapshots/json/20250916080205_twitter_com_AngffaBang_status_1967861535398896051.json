@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1967778962781901025",
+    "created_at": "2025-09-16T08:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T09:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967861535398896051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1276477647522983942",
+          "start": 0,
+          "username": "sm_0403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967861535398896051",
+    "in_reply_to_user_id": "1276477647522983942",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967779966336241835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sm_0403 挺好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1967778962781901025",
+        "created_at": "2025-09-16T08:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967861535398896051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1276477647522983942",
+              "start": 0,
+              "username": "sm_0403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967861535398896051",
+        "in_reply_to_user_id": "1276477647522983942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967779966336241835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sm_0403 挺好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276477647522983942",
+        "conversation_id": "1967778962781901025",
+        "created_at": "2025-09-16T02:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967779966336241835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967779966336241835",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967778962781901025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 還好嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5844,
+          "following_count": 525,
+          "like_count": 5895,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 2387
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-26T11:29:31.000Z",
+        "description": "不知道有沒有想要嘗試虐待男性的女生\n還有控制的 喜歡挑戰各種性玩具 \n#sw\n#異性戀\n#推特止於推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "sw"
+              },
+              {
+                "end": 43,
+                "start": 39,
+                "tag": "異性戀"
+              },
+              {
+                "end": 50,
+                "start": 44,
+                "tag": "推特止於推"
+              }
+            ]
+          }
+        },
+        "id": "1276477647522983942",
+        "name": "CISA",
+        "pinned_tweet_id": "1941089857524400362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887341002232565760/nRAEMREB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 3712,
+          "like_count": 17037,
+          "listed_count": 6,
+          "media_count": 22,
+          "tweet_count": 4858
+        },
+        "username": "sm_0403",
+        "verified": false
+      }
+    ]
+  }
+}

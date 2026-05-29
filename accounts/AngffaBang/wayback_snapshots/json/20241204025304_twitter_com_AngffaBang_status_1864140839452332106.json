@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1863809212759113924",
+    "created_at": "2024-12-04T02:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T03:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864140839452332106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1775851282710122496",
+          "start": 0,
+          "username": "Vincy1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864140839452332106",
+    "in_reply_to_user_id": "1775851282710122496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863809212759113924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vincy1230 我想到我在班上，一群傻逼郭楠问我你个女的为什么有喉结之类的我真的感觉他们好傻逼，是个人都有喉结吧，初中即使转学了也有人这么问我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1863809212759113924",
+        "created_at": "2024-12-04T02:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T03:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864140839452332106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1775851282710122496",
+              "start": 0,
+              "username": "Vincy1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864140839452332106",
+        "in_reply_to_user_id": "1775851282710122496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863809212759113924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vincy1230 我想到我在班上，一群傻逼郭楠问我你个女的为什么有喉结之类的我真的感觉他们好傻逼，是个人都有喉结吧，初中即使转学了也有人这么问我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775851282710122496",
+        "conversation_id": "1863809212759113924",
+        "created_at": "2024-12-03T04:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-03T05:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863809212759113924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1863809212759113924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20279,
+          "like_count": 157,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有小孩叫我阿姨\n被旁边的家长纠正了：\n“叫叔叔”\n“你看，叔叔有喉结”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 401,
+          "like_count": 3164,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1244
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:42:12.000Z",
+        "description": "如果都回不来那么我该为了谁而存在 | 推友寻回中 | 只给熟人看的情绪垃圾场 @BeforeDawnBreak | 坏蛋主人 @HzShibari86",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "BeforeDawnBreak"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "HzShibari86"
+              }
+            ]
+          }
+        },
+        "id": "1775851282710122496",
+        "location": "Macau SAR / Beijing, P.R.China",
+        "name": "Vincy SHI 🍥",
+        "pinned_tweet_id": "1848844455396446314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861596813599608832/SPu60rTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 205,
+          "like_count": 545,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 1976
+        },
+        "username": "Vincy1230",
+        "verified": true
+      }
+    ]
+  }
+}

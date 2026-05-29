@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1908910127908090275",
+    "created_at": "2025-04-06T18:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T19:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908951706614030722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1839303323494789128",
+          "start": 0,
+          "username": "X_806_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908951706614030722",
+    "in_reply_to_user_id": "1839303323494789128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908950041471181050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_806_ 最近磕猛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1908910127908090275",
+        "created_at": "2025-04-06T18:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T19:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908951706614030722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1839303323494789128",
+              "start": 0,
+              "username": "X_806_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908951706614030722",
+        "in_reply_to_user_id": "1839303323494789128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908950041471181050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_806_ 最近磕猛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839303323494789128",
+        "conversation_id": "1908910127908090275",
+        "created_at": "2025-04-06T18:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T19:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908950041471181050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908950041471181050",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908910127908090275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 嗑藥可到失憶？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 116,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 93,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1893035019020706012",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 515,
+          "like_count": 5317,
+          "listed_count": 5,
+          "media_count": 233,
+          "tweet_count": 1938
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T13:57:57.000Z",
+        "description": "休息是為了走更長遠的路\n準備環島中……",
+        "id": "1839303323494789128",
+        "location": "地球",
+        "name": "無人區",
+        "pinned_tweet_id": "1901998256588222821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839303399331999747/8LehlGbP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 52,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 155
+        },
+        "username": "X_806_",
+        "verified": false
+      }
+    ]
+  }
+}

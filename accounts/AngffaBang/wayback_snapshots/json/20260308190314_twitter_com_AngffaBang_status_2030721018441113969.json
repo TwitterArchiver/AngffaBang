@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030721006432907264"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2030721018441113969",
+    "created_at": "2026-03-08T19:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T20:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030721018441113969"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ehc71ihr2b",
+          "end": 39,
+          "expanded_url": "https://x.com/AngffaBang/status/2030721018441113969/photo/1",
+          "media_key": "3_2030721006432907264",
+          "start": 16,
+          "url": "https://t.co/Ehc71ihr2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030721018441113969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "别人说为什么不割脖子我这下割了 https://t.co/Ehc71ihr2b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030721006432907264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC6R_wJbcAAcLKW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030721006432907264"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2030721018441113969",
+        "created_at": "2026-03-08T19:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T20:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030721018441113969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ehc71ihr2b",
+              "end": 39,
+              "expanded_url": "https://x.com/AngffaBang/status/2030721018441113969/photo/1",
+              "media_key": "3_2030721006432907264",
+              "start": 16,
+              "url": "https://t.co/Ehc71ihr2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030721018441113969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "别人说为什么不割脖子我这下割了 https://t.co/Ehc71ihr2b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7545,
+          "following_count": 617,
+          "like_count": 6286,
+          "listed_count": 7,
+          "media_count": 478,
+          "tweet_count": 2783
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

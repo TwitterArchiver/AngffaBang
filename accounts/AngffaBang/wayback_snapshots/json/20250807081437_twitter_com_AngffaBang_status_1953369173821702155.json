@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1953021547033002052",
+    "created_at": "2025-08-07T08:14:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T09:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953369173821702155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1936789334684041216",
+          "start": 0,
+          "username": "H061207Wjh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953369173821702155",
+    "in_reply_to_user_id": "1936789334684041216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953098076606058917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@H061207Wjh 包的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1953021547033002052",
+        "created_at": "2025-08-07T08:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T09:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953369173821702155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1936789334684041216",
+              "start": 0,
+              "username": "H061207Wjh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953369173821702155",
+        "in_reply_to_user_id": "1936789334684041216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953098076606058917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@H061207Wjh 包的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1936789334684041216",
+        "conversation_id": "1953021547033002052",
+        "created_at": "2025-08-06T14:17:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-06T15:17:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953098076606058917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953098076606058917",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953021547033002052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 牢师壕漂酿😍😍😍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5713,
+          "following_count": 522,
+          "like_count": 5850,
+          "listed_count": 5,
+          "media_count": 330,
+          "tweet_count": 2268
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-22T14:12:40.000Z",
+        "description": "一个平平无奇的高三阴暗地雷妹\n在下水道里阴暗爬行的蛆虫 \n偏好：od/键政/心理学/药理学\n＃向往共产主义＃\n☞一个左派，不是网左！\n——  计划去死中——\n 感觉好累……",
+        "id": "1936789334684041216",
+        "location": "想要od  想要优美  想要pr  想要白兔  什么都想要",
+        "name": "青云子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953099582629658625/Rv9ihOCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 44,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "username": "H061207Wjh",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1793938981438308424",
+    "created_at": "2024-05-25T19:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T20:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794452628824543583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1750758905389649920",
+          "start": 0,
+          "username": "ttulutuleu29526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794452628824543583",
+    "in_reply_to_user_id": "1750758905389649920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793938981438308424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ttulutuleu29526 这么深就已经看到血管了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1793938981438308424",
+        "created_at": "2024-05-25T19:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T20:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794452628824543583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1750758905389649920",
+              "start": 0,
+              "username": "ttulutuleu29526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794452628824543583",
+        "in_reply_to_user_id": "1750758905389649920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793938981438308424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ttulutuleu29526 这么深就已经看到血管了"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793938975817916416",
+            "3_1793938976606482433",
+            "3_1793938977797644288",
+            "3_1793938978468663296"
+          ]
+        },
+        "author_id": "1750758905389649920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1793938981438308424",
+        "created_at": "2024-05-24T09:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T10:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793938981438308424"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "자해"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9QU2Gy6KHg",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ttulutuleu29526/status/1793938981438308424/photo/1",
+              "media_key": "3_1793938975817916416",
+              "start": 15,
+              "url": "https://t.co/9QU2Gy6KHg"
+            },
+            {
+              "display_url": "pic.twitter.com/9QU2Gy6KHg",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ttulutuleu29526/status/1793938981438308424/photo/1",
+              "media_key": "3_1793938976606482433",
+              "start": 15,
+              "url": "https://t.co/9QU2Gy6KHg"
+            },
+            {
+              "display_url": "pic.twitter.com/9QU2Gy6KHg",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ttulutuleu29526/status/1793938981438308424/photo/1",
+              "media_key": "3_1793938977797644288",
+              "start": 15,
+              "url": "https://t.co/9QU2Gy6KHg"
+            },
+            {
+              "display_url": "pic.twitter.com/9QU2Gy6KHg",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ttulutuleu29526/status/1793938981438308424/photo/1",
+              "media_key": "3_1793938978468663296",
+              "start": 15,
+              "url": "https://t.co/9QU2Gy6KHg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793938981438308424",
+        "lang": "ko",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 6820,
+          "like_count": 538,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "어제 좀 더 긁었당\n#자해 https://t.co/9QU2Gy6KHg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 25,
+          "like_count": 145,
+          "listed_count": 0,
+          "tweet_count": 134
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T05:53:55.000Z",
+        "description": "눈썹칼로 하는",
+        "id": "1750758905389649920",
+        "name": "ddu e",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791388989704024064/vl00F0hB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 8,
+          "like_count": 20,
+          "listed_count": 0,
+          "tweet_count": 55
+        },
+        "username": "ttulutuleu29526",
+        "verified": false
+      }
+    ]
+  }
+}

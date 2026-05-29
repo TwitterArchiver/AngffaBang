@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860265664579273082",
+    "created_at": "2024-11-23T14:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T15:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860334724780302438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1447496226174238728",
+          "start": 0,
+          "username": "ISSAO_CYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860334724780302438",
+    "in_reply_to_user_id": "1447496226174238728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860320504147771815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ISSAO_CYK 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860265664579273082",
+        "created_at": "2024-11-23T14:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T15:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860334724780302438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1447496226174238728",
+              "start": 0,
+              "username": "ISSAO_CYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860334724780302438",
+        "in_reply_to_user_id": "1447496226174238728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860320504147771815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ISSAO_CYK 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447496226174238728",
+        "conversation_id": "1860265664579273082",
+        "created_at": "2024-11-23T13:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T14:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860320504147771815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860320504147771815",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860265664579273082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 可愛可愛😏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 284,
+          "like_count": 2337,
+          "listed_count": 0,
+          "tweet_count": 930
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:36:31.000Z",
+        "description": "歷史迷、軍事迷兼業餘社評員。\n國際戰略與情事分析室（虛構，簡稱ISSAO）組長、SCP基金會下轄Epsilon-11「九尾妖狐」部隊隊長、CCP Insult Agents（虛構，簡稱CIA）特工",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/u.4d935?igsh=d…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/u.4d935?igsh=dDE4amVzOGM0MDYz",
+                "start": 0,
+                "url": "https://t.co/ArXPodMxRZ"
+              }
+            ]
+          }
+        },
+        "id": "1447496226174238728",
+        "location": "ISSAO組長辦公室",
+        "name": "YK C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842606541914189825/Ry5nlW0C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 1057,
+          "like_count": 20980,
+          "listed_count": 1,
+          "tweet_count": 4173
+        },
+        "url": "https://t.co/ArXPodMxRZ",
+        "username": "ISSAO_CYK",
+        "verified": false
+      }
+    ]
+  }
+}

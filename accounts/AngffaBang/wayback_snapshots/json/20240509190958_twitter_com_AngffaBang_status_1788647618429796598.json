@@ -1,0 +1,138 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1788647600545210368"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1788647618429796598",
+    "created_at": "2024-05-09T19:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T20:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788647618429796598"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "校园"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/NetQTUdO19",
+          "end": 48,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1788647618429796598/photo/1",
+          "media_key": "3_1788647600545210368",
+          "start": 25,
+          "url": "https://t.co/NetQTUdO19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788647618429796598",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#校园 说实话，我还是很讨厌学校，即使最近有演出 https://t.co/NetQTUdO19"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1788647600545210368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNKNhBraIAAry5X.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788647600545210368"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1788647618429796598",
+        "created_at": "2024-05-09T19:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T20:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788647618429796598"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "校园"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NetQTUdO19",
+              "end": 48,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1788647618429796598/photo/1",
+              "media_key": "3_1788647600545210368",
+              "start": 25,
+              "url": "https://t.co/NetQTUdO19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788647618429796598",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#校园 说实话，我还是很讨厌学校，即使最近有演出 https://t.co/NetQTUdO19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788281398287278083/b4Bv8a6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 44,
+          "listed_count": 0,
+          "tweet_count": 13
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

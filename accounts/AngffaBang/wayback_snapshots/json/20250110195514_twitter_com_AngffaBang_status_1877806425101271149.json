@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1877583270386307180",
+    "created_at": "2025-01-10T19:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T20:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877806425101271149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1608034171456294912",
+          "start": 0,
+          "username": "wiopqwtrpp5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877806425101271149",
+    "in_reply_to_user_id": "1608034171456294912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877797618073702475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wiopqwtrpp5 就是傻缺，别管就行，最讨厌对别人身体有占有欲的健全人了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1877583270386307180",
+        "created_at": "2025-01-10T19:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T20:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877806425101271149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1608034171456294912",
+              "start": 0,
+              "username": "wiopqwtrpp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877806425101271149",
+        "in_reply_to_user_id": "1608034171456294912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877797618073702475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wiopqwtrpp5 就是傻缺，别管就行，最讨厌对别人身体有占有欲的健全人了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608034171456294912",
+        "conversation_id": "1877583270386307180",
+        "created_at": "2025-01-10T19:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T20:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877797618073702475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877797618073702475",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877583270386307180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 气笑了 我昨天晚上睡不着 五点多 我想实在不行 我喝点药 睡觉吧 有一个SB说吃药 不好对身体不好  说他也睡不着 让我别吃 我说我有心理疾病  他说我是吃药逃避  让我多运动 调理作息 我也是睡得着也行啊 妈个逼啊 身体不好才吃药好吧 要不是怕号没了 我就要骂人了 我也是SB 我说那么多干嘛啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2402,
+          "following_count": 482,
+          "like_count": 4433,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1614
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-28T09:36:46.000Z",
+        "description": "我有精神病 别烦我 去死好了",
+        "id": "1608034171456294912",
+        "name": "豆沙包",
+        "pinned_tweet_id": "1877018945678450826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877794345266696192/w9QsuLhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 760,
+          "like_count": 5581,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1360
+        },
+        "username": "wiopqwtrpp5",
+        "verified": false
+      }
+    ]
+  }
+}

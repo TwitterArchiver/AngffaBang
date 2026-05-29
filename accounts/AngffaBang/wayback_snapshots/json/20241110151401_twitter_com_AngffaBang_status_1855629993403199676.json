@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1855500315182997806",
+    "created_at": "2024-11-10T15:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T16:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855629993403199676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247041937925758979",
+          "start": 0,
+          "username": "kurioshifio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855629993403199676",
+    "in_reply_to_user_id": "1247041937925758979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855500315182997806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kurioshifio 也有便宜的裙子嘟_(:з」∠)_我没什么预算都会买便宜的裙子穿穿，一套也才二三十"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1855500315182997806",
+        "created_at": "2024-11-10T15:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T16:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855629993403199676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247041937925758979",
+              "start": 0,
+              "username": "kurioshifio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855629993403199676",
+        "in_reply_to_user_id": "1247041937925758979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855500315182997806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurioshifio 也有便宜的裙子嘟_(:з」∠)_我没什么预算都会买便宜的裙子穿穿，一套也才二三十"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855500212695121920"
+          ]
+        },
+        "author_id": "1247041937925758979",
+        "conversation_id": "1855500315182997806",
+        "created_at": "2024-11-10T06:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T07:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855500315182997806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9EFPmNUPqp",
+              "end": 49,
+              "expanded_url": "https://x.com/kurioshifio/status/1855500315182997806/photo/1",
+              "media_key": "3_1855500212695121920",
+              "start": 26,
+              "url": "https://t.co/9EFPmNUPqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855500315182997806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 11661,
+          "like_count": 264,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "做女孩的瘾真的很难戒掉……买少女衣服花了太多钱。😔 https://t.co/9EFPmNUPqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 111,
+          "like_count": 1324,
+          "listed_count": 0,
+          "tweet_count": 544
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T06:02:27.000Z",
+        "description": "我是一个男孩 ☠️⛈ 我有很多来自中国的追随者。我会使用中文翻译工具，如果你不明白，请用英语与我交流。 ☃️Love interest: @shiroko2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "shiroko2024"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/natsumeiroha",
+                "end": 23,
+                "expanded_url": "http://paypal.me/natsumeiroha",
+                "start": 0,
+                "url": "https://t.co/aj17Db92vp"
+              }
+            ]
+          }
+        },
+        "id": "1247041937925758979",
+        "location": "精神病院",
+        "name": "白猫 ShiRoNeko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854760692005720064/EG-VVIx4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 42,
+          "like_count": 768,
+          "listed_count": 1,
+          "tweet_count": 249
+        },
+        "url": "https://t.co/aj17Db92vp",
+        "username": "kurioshifio",
+        "verified": false
+      }
+    ]
+  }
+}

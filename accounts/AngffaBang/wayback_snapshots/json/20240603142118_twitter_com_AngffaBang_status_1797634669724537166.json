@@ -1,0 +1,176 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1797632799954096592",
+    "created_at": "2024-06-03T14:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T15:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797634669724537166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1604004852157538304",
+          "start": 0,
+          "username": "kuro_neko__xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797634669724537166",
+    "in_reply_to_user_id": "1604004852157538304",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797632799954096592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuro_neko__xx おやすみ~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1797632799954096592",
+        "created_at": "2024-06-03T14:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T15:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797634669724537166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1604004852157538304",
+              "start": 0,
+              "username": "kuro_neko__xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797634669724537166",
+        "in_reply_to_user_id": "1604004852157538304",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797632799954096592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuro_neko__xx おやすみ~"
+      },
+      {
+        "attachments": {},
+        "author_id": "1604004852157538304",
+        "conversation_id": "1797632799954096592",
+        "created_at": "2024-06-03T14:13:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T15:13:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797632799954096592"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1797632799954096592",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眠いのでお布団"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796844774978412544/nuLP0jQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 35,
+          "like_count": 275,
+          "listed_count": 0,
+          "tweet_count": 211
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T06:46:03.000Z",
+        "description": "Instagram→https://t.co/M3NbKDEWD5 ￤\n\n業者以外はフォロバ100",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_mitu_xx?igsh=…",
+                "end": 33,
+                "expanded_url": "https://www.instagram.com/_mitu_xx?igsh=dnoweXBmdm52eTh6",
+                "start": 10,
+                "url": "https://t.co/M3NbKDEWD5"
+              }
+            ]
+          }
+        },
+        "id": "1604004852157538304",
+        "name": "み つ",
+        "pinned_tweet_id": "1750446052694700141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774420752500183040/jc9sIfln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 958,
+          "like_count": 26406,
+          "listed_count": 18,
+          "tweet_count": 15793
+        },
+        "username": "kuro_neko__xx",
+        "verified": false
+      }
+    ]
+  }
+}

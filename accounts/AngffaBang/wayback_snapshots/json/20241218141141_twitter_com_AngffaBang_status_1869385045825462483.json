@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1869380029584691512",
+    "created_at": "2024-12-18T14:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T15:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869385045825462483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1532663208393117696",
+          "start": 0,
+          "username": "Ziverk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869385045825462483",
+    "in_reply_to_user_id": "1532663208393117696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869383146103611552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ziverk2 谢谢~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1869380029584691512",
+        "created_at": "2024-12-18T14:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869385045825462483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1532663208393117696",
+              "start": 0,
+              "username": "Ziverk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869385045825462483",
+        "in_reply_to_user_id": "1532663208393117696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869383146103611552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ziverk2 谢谢~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1532663208393117696",
+        "conversation_id": "1869380029584691512",
+        "created_at": "2024-12-18T14:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T15:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869383146103611552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869383146103611552",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869380029584691512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 两只可爱的猫猫n(*≧▽≦*)n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 470,
+          "like_count": 3865,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 1439
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T09:59:29.000Z",
+        "description": "| 08无证含糖 MTF(X) 🏳️‍⚧️🍥家长党\n| Chinese | English | Esperanto\n| Musk还我日常号!😡\n|写歌\n|社恐i宝宝\n| PUBG Mobile |QQ飞车\n|偶尔涉政\n|Web开发(已荒废)\n|写作@EinaPoe\n|负能@TakeNitrite",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 124,
+                "username": "EinaPoe"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "TakeNitrite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.webcats.cn/bx/50796/43330",
+                "end": 23,
+                "expanded_url": "http://m.webcats.cn/bx/50796/43330",
+                "start": 0,
+                "url": "https://t.co/8vFiwJT8Ez"
+              }
+            ]
+          }
+        },
+        "id": "1532663208393117696",
+        "location": "天府",
+        "name": "Einaちゃん💬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864480412086439936/I2-BmRO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 1723,
+          "like_count": 61408,
+          "listed_count": 2,
+          "media_count": 28,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/8vFiwJT8Ez",
+        "username": "Ziverk2",
+        "verified": false
+      }
+    ]
+  }
+}

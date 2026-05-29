@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1868911237742182523",
+    "created_at": "2024-12-17T08:18:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T09:18:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868933886610489749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756716868168192000",
+          "start": 0,
+          "username": "saobijiawo666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868933886610489749",
+    "in_reply_to_user_id": "1756716868168192000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868933630250426599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saobijiawo666 本来就是看别人眼色生活的人，我就是底层的流浪狗，过街老鼠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1868911237742182523",
+        "created_at": "2024-12-17T08:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T09:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868933886610489749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756716868168192000",
+              "start": 0,
+              "username": "saobijiawo666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868933886610489749",
+        "in_reply_to_user_id": "1756716868168192000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868933630250426599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saobijiawo666 本来就是看别人眼色生活的人，我就是底层的流浪狗，过街老鼠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756716868168192000",
+        "conversation_id": "1868911237742182523",
+        "created_at": "2024-12-17T08:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T09:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868933630250426599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868933630250426599",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868911237742182523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 你在这里就是个多余的累赘 看别人的眼色生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 462,
+          "like_count": 3760,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1396
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T16:28:40.000Z",
+        "description": "臭狗的做爱实录https://t.co/Ds2liHdqyE进群🚪300口令私信我报ID",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+_iwb99302UtmM…",
+                "end": 30,
+                "expanded_url": "https://t.me/+_iwb99302UtmMzI1",
+                "start": 7,
+                "url": "https://t.co/Ds2liHdqyE"
+              }
+            ]
+          }
+        },
+        "id": "1756716868168192000",
+        "location": "大弯钩俱乐部",
+        "name": "臭狗一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766852238927069184/iWW_kJPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 64,
+          "like_count": 1264,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1092
+        },
+        "username": "saobijiawo666",
+        "verified": false
+      }
+    ]
+  }
+}

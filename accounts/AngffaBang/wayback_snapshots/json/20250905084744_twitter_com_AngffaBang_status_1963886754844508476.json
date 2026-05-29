@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1963587491078050191",
+    "created_at": "2025-09-05T08:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T09:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963886754844508476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2396906006",
+          "start": 0,
+          "username": "shizunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963886754844508476",
+    "in_reply_to_user_id": "2396906006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963587491078050191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizunyan_ 一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1963587484123893760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0AQacybkAALzG1.jpg",
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1963587491078050191",
+        "created_at": "2025-09-05T08:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T09:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963886754844508476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2396906006",
+              "start": 0,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963886754844508476",
+        "in_reply_to_user_id": "2396906006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963587491078050191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizunyan_ 一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963587484123893760"
+          ]
+        },
+        "author_id": "2396906006",
+        "conversation_id": "1963587491078050191",
+        "created_at": "2025-09-04T12:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T13:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963587491078050191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0tnzSSrn6h",
+              "end": 33,
+              "expanded_url": "https://x.com/shizunyan_/status/1963587491078050191/photo/1",
+              "media_key": "3_1963587484123893760",
+              "start": 10,
+              "url": "https://t.co/0tnzSSrn6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963587491078050191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 513,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候我就这个心情 https://t.co/0tnzSSrn6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5794,
+          "following_count": 519,
+          "like_count": 5836,
+          "listed_count": 6,
+          "media_count": 359,
+          "tweet_count": 2337
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-18T23:23:12.000Z",
+        "description": "深渊 | 妹 @Eveleth_LL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 7,
+                "username": "Eveleth_LL"
+              }
+            ]
+          }
+        },
+        "id": "2396906006",
+        "name": "しず",
+        "pinned_tweet_id": "1959592987564138930",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853737893241704448/tz8XbgoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3255,
+          "following_count": 206,
+          "like_count": 36280,
+          "listed_count": 4,
+          "media_count": 4,
+          "tweet_count": 203
+        },
+        "username": "shizunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

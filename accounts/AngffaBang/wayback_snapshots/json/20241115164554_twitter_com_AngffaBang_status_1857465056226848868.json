@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1857438899997688147",
+    "created_at": "2024-11-15T16:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T17:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857465056226848868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1360124680326111232",
+          "start": 0,
+          "username": "quedelao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857465056226848868",
+    "in_reply_to_user_id": "1360124680326111232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857464802584703249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quedelao 20离我太遥远了不去想最好了，反正我也不知道自己能活多久(｡í _ ì｡)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1857438899997688147",
+        "created_at": "2024-11-15T16:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T17:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857465056226848868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1360124680326111232",
+              "start": 0,
+              "username": "quedelao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857465056226848868",
+        "in_reply_to_user_id": "1360124680326111232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857464802584703249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quedelao 20离我太遥远了不去想最好了，反正我也不知道自己能活多久(｡í _ ì｡)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360124680326111232",
+        "conversation_id": "1857438899997688147",
+        "created_at": "2024-11-15T16:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T17:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857464802584703249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857464802584703249",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857464530470842555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 20的话烦恼会更多的，不会随着年龄增大而减少，反而会越来越多，只是学会如何去控制了罢了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 177,
+          "like_count": 1610,
+          "listed_count": 0,
+          "tweet_count": 650
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-12T07:12:56.000Z",
+        "description": "21岁现役吐槽役，是男的",
+        "id": "1360124680326111232",
+        "location": "山东",
+        "name": "吴宁阙🌫️",
+        "pinned_tweet_id": "1571442315222302720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560238471847022592/raaDuYr8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 268,
+          "like_count": 4418,
+          "listed_count": 0,
+          "tweet_count": 4524
+        },
+        "username": "quedelao",
+        "verified": false
+      }
+    ]
+  }
+}

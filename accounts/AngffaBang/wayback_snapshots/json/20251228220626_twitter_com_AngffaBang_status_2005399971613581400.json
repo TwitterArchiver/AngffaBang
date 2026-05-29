@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2004600890297393574",
+    "created_at": "2025-12-28T22:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T23:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005399971613581400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992873161684316161",
+          "start": 0,
+          "username": "Robin_Loga5303"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005399971613581400",
+    "in_reply_to_user_id": "1992873161684316161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005051484518641810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Robin_Loga5303 不能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2004600890297393574",
+        "created_at": "2025-12-28T22:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T23:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005399971613581400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992873161684316161",
+              "start": 0,
+              "username": "Robin_Loga5303"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005399971613581400",
+        "in_reply_to_user_id": "1992873161684316161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005051484518641810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Robin_Loga5303 不能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992873161684316161",
+        "conversation_id": "2004600890297393574",
+        "created_at": "2025-12-27T23:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T00:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005051484518641810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005051484518641810",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004600890297393574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 就说自己有癫痫史，买来预防，应该能开到处方吧😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6940,
+          "following_count": 600,
+          "like_count": 6057,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 2605
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T08:29:29.000Z",
+        "description": "只为拯救失足少女",
+        "id": "1992873161684316161",
+        "location": "China",
+        "name": "汴梁风月&临安初雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005045252240146432/RPWRlyjs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 23,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "Robin_Loga5303",
+        "verified": false
+      }
+    ]
+  }
+}

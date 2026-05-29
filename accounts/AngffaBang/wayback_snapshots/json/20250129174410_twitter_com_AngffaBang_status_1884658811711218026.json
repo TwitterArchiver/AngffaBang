@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1884640671954571626",
+    "created_at": "2025-01-29T17:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T18:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884658811711218026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1779006683181940738",
+          "start": 0,
+          "username": "Missouolsian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884658811711218026",
+    "in_reply_to_user_id": "1779006683181940738",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884652782478905830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Missouolsian 阔以的呀~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1884640671954571626",
+        "created_at": "2025-01-29T17:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T18:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884658811711218026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1779006683181940738",
+              "start": 0,
+              "username": "Missouolsian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884658811711218026",
+        "in_reply_to_user_id": "1779006683181940738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884652782478905830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Missouolsian 阔以的呀~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779006683181940738",
+        "conversation_id": "1884640671954571626",
+        "created_at": "2025-01-29T17:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T18:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884652782478905830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884652782478905830",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884640671954571626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 主播能不能多出这种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 121,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 98,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4379,
+          "following_count": 523,
+          "like_count": 4971,
+          "listed_count": 5,
+          "media_count": 201,
+          "tweet_count": 1769
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T04:40:30.000Z",
+        "description": "欢迎大家来云养这个白毛红瞳狗狗厨|08 高三|推特是我的垃圾桶记录我的废话不要说我高强度冲浪不要视奸我推特发帖问我为什么不回信息，评论和私信我想回的时候就回|主播用的vpn➡️ https://t.co/6loiPI8ECW|卖惨小号 只过眼熟@lomyveself_xp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 122,
+                "username": "lomyveself_xp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t365.top/-J8zRuo",
+                "end": 112,
+                "expanded_url": "http://t365.top/-J8zRuo",
+                "start": 89,
+                "url": "https://t.co/6loiPI8ECW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/missouolsian",
+                "end": 23,
+                "expanded_url": "https://ngl.link/missouolsian",
+                "start": 0,
+                "url": "https://t.co/7bYFxpfQq8"
+              }
+            ]
+          }
+        },
+        "id": "1779006683181940738",
+        "location": "🚪100纯绿不陪聊 挂着防骚扰而已",
+        "name": "白毛红瞳狗狗厨",
+        "pinned_tweet_id": "1881903096223449482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880844150112915456/H9Nlxai0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5451,
+          "following_count": 178,
+          "like_count": 9996,
+          "listed_count": 12,
+          "media_count": 277,
+          "tweet_count": 4816
+        },
+        "url": "https://t.co/7bYFxpfQq8",
+        "username": "Missouolsian",
+        "verified": false
+      }
+    ]
+  }
+}

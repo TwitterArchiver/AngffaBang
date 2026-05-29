@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884290614638096384"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1884290617393750405",
+    "created_at": "2025-01-28T17:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T18:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1884290617393750405"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y0qfcqeIyY",
+          "end": 64,
+          "expanded_url": "https://x.com/AngffaBang/status/1884290617393750405/photo/1",
+          "media_key": "3_1884290614638096384",
+          "start": 41,
+          "url": "https://t.co/y0qfcqeIyY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884290617393750405",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么？！为什么我不像别的小孩一样过年可以吃团圆饭玩烟花，为什么不让我回家！！！ https://t.co/y0qfcqeIyY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_1884290614638096384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiZYVKMbMAA8viV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884290614638096384"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1884290617393750405",
+        "created_at": "2025-01-28T17:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T18:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884290617393750405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y0qfcqeIyY",
+              "end": 64,
+              "expanded_url": "https://x.com/AngffaBang/status/1884290617393750405/photo/1",
+              "media_key": "3_1884290614638096384",
+              "start": 41,
+              "url": "https://t.co/y0qfcqeIyY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884290617393750405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么？！为什么我不像别的小孩一样过年可以吃团圆饭玩烟花，为什么不让我回家！！！ https://t.co/y0qfcqeIyY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 121,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 98,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4376,
+          "following_count": 521,
+          "like_count": 4947,
+          "listed_count": 5,
+          "media_count": 200,
+          "tweet_count": 1767
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

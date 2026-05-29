@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970867309201047552"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1970867316671103304",
+    "created_at": "2025-09-24T15:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970867316671103304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3PqgPn9Cwx",
+          "end": 36,
+          "expanded_url": "https://x.com/AngffaBang/status/1970867316671103304/photo/1",
+          "media_key": "3_1970867309201047552",
+          "start": 13,
+          "url": "https://t.co/3PqgPn9Cwx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970867316671103304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "什么时候可以成为虚拟v啊 https://t.co/3PqgPn9Cwx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2042,
+        "media_key": "3_1970867309201047552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ntYChbwAAV3Sb.jpg",
+        "width": 1761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970867309201047552"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1970867316671103304",
+        "created_at": "2025-09-24T15:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970867316671103304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PqgPn9Cwx",
+              "end": 36,
+              "expanded_url": "https://x.com/AngffaBang/status/1970867316671103304/photo/1",
+              "media_key": "3_1970867309201047552",
+              "start": 13,
+              "url": "https://t.co/3PqgPn9Cwx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970867316671103304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候可以成为虚拟v啊 https://t.co/3PqgPn9Cwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/中日混血/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 85,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5925,
+          "following_count": 530,
+          "like_count": 5912,
+          "listed_count": 6,
+          "media_count": 383,
+          "tweet_count": 2407
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

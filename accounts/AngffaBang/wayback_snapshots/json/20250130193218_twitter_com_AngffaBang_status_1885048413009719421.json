@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1884290617393750405",
+    "created_at": "2025-01-30T19:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T20:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885048413009719421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601470531349274625",
+          "start": 0,
+          "username": "rednightmare962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885048413009719421",
+    "in_reply_to_user_id": "1601470531349274625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885044779970633867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rednightmare962 谢谢哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1884290617393750405",
+        "created_at": "2025-01-30T19:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T20:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885048413009719421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601470531349274625",
+              "start": 0,
+              "username": "rednightmare962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885048413009719421",
+        "in_reply_to_user_id": "1601470531349274625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885044779970633867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rednightmare962 谢谢哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601470531349274625",
+        "conversation_id": "1884290617393750405",
+        "created_at": "2025-01-30T19:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T20:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885044779970633867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885044779970633867",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884290617393750405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 没事我这几天也都在吃拼好饭，我赛博陪你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 121,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 98,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4375,
+          "following_count": 522,
+          "like_count": 5008,
+          "listed_count": 5,
+          "media_count": 203,
+          "tweet_count": 1779
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T06:55:11.000Z",
+        "description": "男/mtx",
+        "id": "1601470531349274625",
+        "name": "云",
+        "pinned_tweet_id": "1881043829174018516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857101239806300161/qPP42yj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 355,
+          "like_count": 6901,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 3322
+        },
+        "username": "rednightmare962",
+        "verified": false
+      }
+    ]
+  }
+}

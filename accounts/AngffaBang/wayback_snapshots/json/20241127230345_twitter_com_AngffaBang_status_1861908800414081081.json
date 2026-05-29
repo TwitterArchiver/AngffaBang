@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1861908708676308992"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1861908800414081081",
+    "created_at": "2024-11-27T23:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T00:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861908800414081081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ZFFsZ5Bpk",
+          "end": 30,
+          "expanded_url": "https://x.com/AngffaBang/status/1861908800414081081/video/1",
+          "media_key": "7_1861908708676308992",
+          "start": 7,
+          "url": "https://t.co/9ZFFsZ5Bpk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861908800414081081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好久没练琴了 https://t.co/9ZFFsZ5Bpk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65800,
+        "height": 720,
+        "media_key": "7_1861908708676308992",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1861908708676308992/pu/img/CN3ARw28ShvlG0FS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861908708676308992/pu/vid/avc1/480x270/mv_paRNVtISqD4cV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861908708676308992/pu/vid/avc1/640x360/Tp7QHz7c3dMY_kO4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861908708676308992/pu/vid/avc1/1280x720/8DtV2o9-K-5nSblE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1861908708676308992/pu/pl/8JUS5pRA230XD54r.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861908708676308992"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1861908800414081081",
+        "created_at": "2024-11-27T23:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T00:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861908800414081081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ZFFsZ5Bpk",
+              "end": 30,
+              "expanded_url": "https://x.com/AngffaBang/status/1861908800414081081/video/1",
+              "media_key": "7_1861908708676308992",
+              "start": 7,
+              "url": "https://t.co/9ZFFsZ5Bpk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861908800414081081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久没练琴了 https://t.co/9ZFFsZ5Bpk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 373,
+          "like_count": 2797,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1118
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

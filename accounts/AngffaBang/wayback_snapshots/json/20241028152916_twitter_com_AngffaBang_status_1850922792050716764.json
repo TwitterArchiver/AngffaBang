@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1850895569935647028",
+    "created_at": "2024-10-28T15:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-28T16:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850922792050716764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1836782122037874688",
+          "start": 0,
+          "username": "mio1738468"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850922792050716764",
+    "in_reply_to_user_id": "1836782122037874688",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850895569935647028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio1738468 这个地板有点眼熟，但不过还是要过的开心啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1850895569935647028",
+        "created_at": "2024-10-28T15:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T16:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850922792050716764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1836782122037874688",
+              "start": 0,
+              "username": "mio1738468"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850922792050716764",
+        "in_reply_to_user_id": "1836782122037874688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850895569935647028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio1738468 这个地板有点眼熟，但不过还是要过的开心啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850895552038535168"
+          ]
+        },
+        "author_id": "1836782122037874688",
+        "conversation_id": "1850895569935647028",
+        "created_at": "2024-10-28T13:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T14:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850895569935647028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UFD6ifPNi0",
+              "end": 65,
+              "expanded_url": "https://x.com/mio1738468/status/1850895569935647028/photo/1",
+              "media_key": "3_1850895552038535168",
+              "start": 42,
+              "url": "https://t.co/UFD6ifPNi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850895569935647028",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1218,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这样出门霸凌了所有人……我的手臂在学校是不敢呼吸到空气的，敢露头就被主任秒杀劝退 https://t.co/UFD6ifPNi0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP\n无人在意的猪头肉\n发推写日记的，哪天死了还证明存在过🌿🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850819638231465984/4bOKm7sT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 40,
+          "like_count": 642,
+          "listed_count": 0,
+          "tweet_count": 373
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T14:59:26.000Z",
+        "description": "我是今予/双相/entp/抽象妹/🚪20纯绿陪聊/粥批/我想要带给你幸福 @WeiShen60223 /小号：@jy3152509243",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 37,
+                "username": "WeiShen60223"
+              },
+              {
+                "end": 68,
+                "start": 55,
+                "username": "jy3152509243"
+              }
+            ]
+          }
+        },
+        "id": "1836782122037874688",
+        "location": "距离你3km",
+        "name": "今天也在被碳酸锂噎死",
+        "pinned_tweet_id": "1850400229272814004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848603443956748290/A5Wh6pB6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 449,
+          "like_count": 4007,
+          "listed_count": 1,
+          "tweet_count": 2791
+        },
+        "username": "mio1738468",
+        "verified": false
+      }
+    ]
+  }
+}

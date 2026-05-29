@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1861876829986193734",
+    "created_at": "2024-11-27T21:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T22:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861881307804082298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1589150033571897344",
+          "start": 0,
+          "username": "Masaaki_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861881307804082298",
+    "in_reply_to_user_id": "1589150033571897344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861878941134549151",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Masaaki_07 晒衣服的地方可以，之前就是在这个地方上吊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1861876829986193734",
+        "created_at": "2024-11-27T21:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T22:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861881307804082298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1589150033571897344",
+              "start": 0,
+              "username": "Masaaki_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861881307804082298",
+        "in_reply_to_user_id": "1589150033571897344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861878941134549151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Masaaki_07 晒衣服的地方可以，之前就是在这个地方上吊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589150033571897344",
+        "conversation_id": "1861876829986193734",
+        "created_at": "2024-11-27T21:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T22:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861878941134549151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861878941134549151",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861876829986193734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 抱抱😢我连栓绳子的地方都找不到（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 371,
+          "like_count": 2789,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1118
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T06:58:33.000Z",
+        "description": "INFP/❤️ホカロ/東方/二次元/cosplay/00后/🏳️‍🌈/od/sm/郁/\n一个成天发丧无聊透顶的阴暗b/一个每天闲的要死的高三牲/一个每天都很无聊的人欢迎来打扰/看成分互fo/不键政因为闹心/网站是自用梯子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bj1ch.com",
+                "end": 23,
+                "expanded_url": "http://bj1ch.com",
+                "start": 0,
+                "url": "https://t.co/YgARqpZbxk"
+              }
+            ]
+          }
+        },
+        "id": "1589150033571897344",
+        "location": "幻想鄉",
+        "name": "慕乚",
+        "pinned_tweet_id": "1861800869093851182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859941178722189312/sKmFV2HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 712,
+          "like_count": 7723,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/YgARqpZbxk",
+        "username": "Masaaki_07",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1855254193692725440",
+    "created_at": "2024-11-10T11:04:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T12:04:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855567098095055148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815416264770428928",
+          "start": 0,
+          "username": "Etsuko827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855567098095055148",
+    "in_reply_to_user_id": "1815416264770428928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855254193692725440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Etsuko827 因为劳资自己是贫乳，所以我喜欢贫乳ᕙ(`▿´)ᕗ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1855254193692725440",
+        "created_at": "2024-11-10T11:04:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T12:04:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855567098095055148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815416264770428928",
+              "start": 0,
+              "username": "Etsuko827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855567098095055148",
+        "in_reply_to_user_id": "1815416264770428928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855254193692725440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Etsuko827 因为劳资自己是贫乳，所以我喜欢贫乳ᕙ(`▿´)ᕗ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815416264770428928",
+        "conversation_id": "1855254193692725440",
+        "created_at": "2024-11-09T14:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T15:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855254193692725440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855254193692725440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 59143,
+          "like_count": 273,
+          "quote_count": 0,
+          "reply_count": 88,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "是不是大家都爱看大奶啊\n贫乳控会被排挤吗(＞人＜;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 111,
+          "like_count": 1309,
+          "listed_count": 0,
+          "tweet_count": 536
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T15:59:25.000Z",
+        "description": "cosplayer 05//大眼&b站@纸悦Etsu_ko //图包制品指路👉🐟id：高冷土豆酱//接自拍定制委托//不是🐔不接线下 不露点 给我发脏东西我会喷你",
+        "id": "1815416264770428928",
+        "name": "纸悦 Etsu_ko",
+        "pinned_tweet_id": "1854901317703286914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815416629813190657/QY61eLDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13561,
+          "following_count": 44,
+          "like_count": 87,
+          "listed_count": 60,
+          "tweet_count": 49
+        },
+        "username": "Etsuko827",
+        "verified": false
+      }
+    ]
+  }
+}

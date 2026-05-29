@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1937587605845229807",
+    "created_at": "2025-06-24T20:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T21:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937605972001980447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552339082889789446",
+          "start": 0,
+          "username": "SnAuFlat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937605972001980447",
+    "in_reply_to_user_id": "1552339082889789446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937590323934630128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnAuFlat 笑死真的一堆人失恋在我微信里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1937587605845229807",
+        "created_at": "2025-06-24T20:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T21:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937605972001980447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552339082889789446",
+              "start": 0,
+              "username": "SnAuFlat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937605972001980447",
+        "in_reply_to_user_id": "1552339082889789446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937590323934630128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnAuFlat 笑死真的一堆人失恋在我微信里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552339082889789446",
+        "conversation_id": "1937587605845229807",
+        "created_at": "2025-06-24T19:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T20:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937590323934630128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937590323934630128",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937587605845229807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 可能是那個神秘盒子的推文（撓頭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4848,
+          "following_count": 517,
+          "like_count": 5685,
+          "listed_count": 4,
+          "media_count": 294,
+          "tweet_count": 2146
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T17:04:32.000Z",
+        "description": "👊🇦🇶🔥🐧🚩🐧🚩🐧🚩🐧🚩\n/byd高中生\n/強烈支持回調新發田\n/fumo @miyuki_114 \n/窩的好朋朋 @CoolJX4 \n/limSir @liminfin\n/卡滋大手 @H1nako_4ever",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "miyuki_114"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "username": "CoolJX4"
+              },
+              {
+                "end": 85,
+                "start": 76,
+                "username": "liminfin"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "username": "H1nako_4ever"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/SnAuFlat",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/SnAuFlat",
+                "start": 0,
+                "url": "https://t.co/wCURv76XCP"
+              }
+            ]
+          }
+        },
+        "id": "1552339082889789446",
+        "location": "新士瓦本",
+        "name": "SnAuFlat(CLZ預備工具人)",
+        "pinned_tweet_id": "1936490608434294926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873806130264051712/07FI5ZSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 651,
+          "like_count": 93663,
+          "listed_count": 1,
+          "media_count": 3144,
+          "tweet_count": 13070
+        },
+        "url": "https://t.co/wCURv76XCP",
+        "username": "SnAuFlat",
+        "verified": false
+      }
+    ]
+  }
+}

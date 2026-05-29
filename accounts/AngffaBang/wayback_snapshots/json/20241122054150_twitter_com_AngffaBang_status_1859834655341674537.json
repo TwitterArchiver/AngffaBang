@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1859645331803410641",
+    "created_at": "2024-11-22T05:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T06:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859834655341674537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1462292463318872068",
+          "start": 0,
+          "username": "YuukiKitsch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859834655341674537",
+    "in_reply_to_user_id": "1462292463318872068",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859757888815890849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuukiKitsch 诶？羡慕什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1859645331803410641",
+        "created_at": "2024-11-22T05:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T06:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859834655341674537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1462292463318872068",
+              "start": 0,
+              "username": "YuukiKitsch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859834655341674537",
+        "in_reply_to_user_id": "1462292463318872068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859757888815890849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuukiKitsch 诶？羡慕什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462292463318872068",
+        "conversation_id": "1859645331803410641",
+        "created_at": "2024-11-22T00:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T01:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859757888815890849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859757888815890849",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859645331803410641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 羡慕（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 229,
+          "like_count": 2135,
+          "listed_count": 0,
+          "tweet_count": 823
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T05:31:40.000Z",
+        "description": "一个玩gal的｜这里是十二，为什么不来喝两杯呢，很高兴与你结一阵风的交情。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/YuukiKitsch",
+                "end": 23,
+                "expanded_url": "http://t.me/YuukiKitsch",
+                "start": 0,
+                "url": "https://t.co/TDVdWIbPDa"
+              }
+            ]
+          }
+        },
+        "id": "1462292463318872068",
+        "location": "Jamaica",
+        "name": "十二九划生",
+        "pinned_tweet_id": "1859773856220918241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822222585351815168/UjIKLEPI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 109,
+          "like_count": 1727,
+          "listed_count": 1,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/TDVdWIbPDa",
+        "username": "YuukiKitsch",
+        "verified": false
+      }
+    ]
+  }
+}

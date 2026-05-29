@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1948699241217470600",
+    "created_at": "2025-07-26T13:26:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-26T14:26:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949099097278808532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801847638414819328",
+          "start": 0,
+          "username": "miomiomio519107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949099097278808532",
+    "in_reply_to_user_id": "1801847638414819328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949080405833052294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomiomio519107 看看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1948699241217470600",
+        "created_at": "2025-07-26T13:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T14:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949099097278808532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801847638414819328",
+              "start": 0,
+              "username": "miomiomio519107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949099097278808532",
+        "in_reply_to_user_id": "1801847638414819328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949080405833052294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomiomio519107 看看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1801847638414819328",
+        "conversation_id": "1948699241217470600",
+        "created_at": "2025-07-26T12:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T13:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949080405833052294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949080405833052294",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948736038622367935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 🌚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 102,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 79,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5478,
+          "following_count": 525,
+          "like_count": 5802,
+          "listed_count": 5,
+          "media_count": 315,
+          "tweet_count": 2225
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T05:22:18.000Z",
+        "description": "四级我被你干死了",
+        "id": "1801847638414819328",
+        "location": "🚪52纯绿无朋友圈",
+        "name": "miomio（养胃版）",
+        "pinned_tweet_id": "1921866609821372528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801848056544985088/CQ2GTiQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 43,
+          "like_count": 5643,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 2019
+        },
+        "username": "miomiomio519107",
+        "verified": false
+      }
+    ]
+  }
+}

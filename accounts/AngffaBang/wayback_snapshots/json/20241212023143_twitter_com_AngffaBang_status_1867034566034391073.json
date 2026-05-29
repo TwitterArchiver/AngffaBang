@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1867034120720875735",
+    "created_at": "2024-12-12T02:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T03:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867034566034391073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1613070646900146178",
+          "start": 0,
+          "username": "PatchouliSama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867034566034391073",
+    "in_reply_to_user_id": "1613070646900146178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867034392444670193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PatchouliSama (*^▽^*) 嘿嘿~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1867034120720875735",
+        "created_at": "2024-12-12T02:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T03:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867034566034391073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1613070646900146178",
+              "start": 0,
+              "username": "PatchouliSama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867034566034391073",
+        "in_reply_to_user_id": "1613070646900146178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867034392444670193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PatchouliSama (*^▽^*) 嘿嘿~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613070646900146178",
+        "conversation_id": "1867034120720875735",
+        "created_at": "2024-12-12T02:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T03:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867034392444670193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867034392444670193",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867034120720875735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 猫猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 421,
+          "like_count": 3477,
+          "listed_count": 1,
+          "media_count": 146,
+          "tweet_count": 1347
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:09:56.000Z",
+        "description": "迷幻蘑菇🍄//胡言乱语抽象bot                             \n                                                \n以爱和陪伴为养料//置顶的都是可爱的人",
+        "id": "1613070646900146178",
+        "location": "墙角",
+        "name": "是广藿香也是广蘑菇",
+        "pinned_tweet_id": "1866839910994547116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866016233398935552/TdogbAPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 405,
+          "like_count": 74678,
+          "listed_count": 5,
+          "media_count": 485,
+          "tweet_count": 4198
+        },
+        "username": "PatchouliSama",
+        "verified": false
+      }
+    ]
+  }
+}

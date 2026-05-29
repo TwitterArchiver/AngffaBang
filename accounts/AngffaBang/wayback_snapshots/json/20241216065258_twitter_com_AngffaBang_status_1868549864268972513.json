@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1868309285802844578",
+    "created_at": "2024-12-16T06:52:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T07:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868549864268972513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 23,
+          "id": "1735700650472955904",
+          "start": 13,
+          "username": "ErQiu8013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868549864268972513",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868309285802844578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH @ErQiu8013 人在濒死的时候求生欲是特别强大的，我记得我在楼道吞大量药物濒死的时候还想找路人帮忙，反正那段感觉我一直记得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1868309285802844578",
+        "created_at": "2024-12-16T06:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T07:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868549864268972513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 23,
+              "id": "1735700650472955904",
+              "start": 13,
+              "username": "ErQiu8013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868549864268972513",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868309285802844578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH @ErQiu8013 人在濒死的时候求生欲是特别强大的，我记得我在楼道吞大量药物濒死的时候还想找路人帮忙，反正那段感觉我一直记得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868308608968019968"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "conversation_id": "1868309285802844578",
+        "created_at": "2024-12-15T14:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T15:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868309285802844578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtZjbSnqAn",
+              "end": 130,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1868309285802844578/video/1",
+              "media_key": "7_1868308608968019968",
+              "start": 107,
+              "url": "https://t.co/AtZjbSnqAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868309285802844578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【⚠️亚硝酸钠劝诫视频：服用亚硝酸钠后的直接反应❌】\n\n经过我的考虑，我还是决定放出以下这些视频片段。\n\n我希望这个视频材料能够成为一个“亚硝酸钠的劝诫视频”。希望能够对“有这方面念头”的人带来一些影响和改变。\n\n用亚硝酸钠自杀真的很痛苦很痛苦很痛苦……而且人在直面死亡的时候，是会爆发出巨大的恐惧的。\n\n以下的视频内容包含：\"二人服用亚硝酸钠\"、“后悔与报警”、“服用后的反应情况以及描述（包含简单的字幕描述）”等。\n\n⚠️请注意！视频中包含呕吐等画面。视频已添加了敏感标签，如果视频内容令你不适，请及时退出观看。⚠️"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 3351,
+          "like_count": 78,
+          "quote_count": 5,
+          "reply_count": 28,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "【⚠️亚硝酸钠劝诫视频：服用亚硝酸钠后的直接反应❌】\n\n经过我的考虑，我还是决定放出以下这些视频片段。\n\n我希望这个视频材料能够成为一个“亚硝酸钠的劝诫视频”。希望能够对“有这方面念头”的人带来一些影响和改变。… https://t.co/AtZjbSnqAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 458,
+          "like_count": 3729,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1370
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点“里哦😈\n/日常抽象涩涩推🫣/\nENFP(INFP)/偏女性非二元跨mtx(f)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/20岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1822113111270457511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805817537021853699/IF42qnFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8963,
+          "following_count": 964,
+          "like_count": 73117,
+          "listed_count": 16,
+          "media_count": 2836,
+          "tweet_count": 40766
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-15T16:37:52.000Z",
+        "description": "欢迎私信秋儿，秋儿会听你的吐槽呀      \n 无偏向日常，可能o多了会癫，可能难受了会渴望死亡，可能米忽悠，可能爽玩音游，要是都不是就是在飞行/-—-/喹硫平＋艾司西酞普兰 已自停，互fo喵，没被fo的私信一下，会被吞，会fo有内容的推友喵            提问↓↓↓↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/erqiu80131",
+                "end": 23,
+                "expanded_url": "https://ngl.link/erqiu80131",
+                "start": 0,
+                "url": "https://t.co/rQbp7InDUv"
+              }
+            ]
+          }
+        },
+        "id": "1735700650472955904",
+        "location": "0.32km",
+        "name": "𝓦𝓪𝓷𝓰 𝓠𝓲𝓾𝓮𝓻（秋儿）",
+        "pinned_tweet_id": "1868265849423110431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866537587122515968/8WVcBKAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 518,
+          "like_count": 4825,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 609
+        },
+        "url": "https://t.co/rQbp7InDUv",
+        "username": "ErQiu8013",
+        "verified": false
+      }
+    ]
+  }
+}

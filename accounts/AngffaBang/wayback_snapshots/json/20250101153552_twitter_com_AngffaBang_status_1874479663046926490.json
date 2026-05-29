@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1874478372044341553",
+    "created_at": "2025-01-01T15:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-01T16:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874479663046926490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842085513341370368",
+          "start": 0,
+          "username": "yyl0706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874479663046926490",
+    "in_reply_to_user_id": "1842085513341370368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874479459602170293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyl0706 加油！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1874478372044341553",
+        "created_at": "2025-01-01T15:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T16:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874479663046926490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842085513341370368",
+              "start": 0,
+              "username": "yyl0706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874479663046926490",
+        "in_reply_to_user_id": "1842085513341370368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874479459602170293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyl0706 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842085513341370368",
+        "conversation_id": "1874478372044341553",
+        "created_at": "2025-01-01T15:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-01T16:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874479459602170293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874479459602170293",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874478372044341553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 加油!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 487,
+          "like_count": 4269,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1555
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:14:04.000Z",
+        "description": "世界というのは、大きな宝石箱だ。キラキラと輝くもので満ちた宝石箱だ。                        -- 星シロ",
+        "id": "1842085513341370368",
+        "location": "虚拟世界",
+        "name": "晓",
+        "pinned_tweet_id": "1868802417128882686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866521984898863104/qFJINmcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 692,
+          "like_count": 6374,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1478
+        },
+        "username": "yyl0706",
+        "verified": false
+      }
+    ]
+  }
+}

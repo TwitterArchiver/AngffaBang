@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1906813584266682845",
+    "created_at": "2025-04-01T00:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T01:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906865541308133750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1765072369599795202",
+          "start": 0,
+          "username": "Kaoruko157"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906865541308133750",
+    "in_reply_to_user_id": "1765072369599795202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906861350296699359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaoruko157 那当然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1906813584266682845",
+        "created_at": "2025-04-01T00:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T01:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906865541308133750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1765072369599795202",
+              "start": 0,
+              "username": "Kaoruko157"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906865541308133750",
+        "in_reply_to_user_id": "1765072369599795202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906861350296699359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaoruko157 那当然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765072369599795202",
+        "conversation_id": "1906813584266682845",
+        "created_at": "2025-04-01T00:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T01:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906861350296699359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906861350296699359",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906813584266682845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 愚人节玩笑，吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 516,
+          "like_count": 5306,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 1917
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T17:50:37.000Z",
+        "description": "私たくさんの人に助けられてま す、この気持ちをいつか返せる人 |大切な弟 @_Pnky__|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "_Pnky__"
+              }
+            ]
+          }
+        },
+        "id": "1765072369599795202",
+        "name": "小混沌",
+        "pinned_tweet_id": "1895345693382058375",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792135388347457536/iBr2rRJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 699,
+          "like_count": 1122,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 689
+        },
+        "username": "Kaoruko157",
+        "verified": false
+      }
+    ]
+  }
+}

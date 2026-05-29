@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1858188548584923422",
+    "created_at": "2024-11-18T10:48:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T11:48:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858462219341889701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1479696561302999042",
+          "start": 0,
+          "username": "quitee123"
+        },
+        {
+          "end": 21,
+          "id": "1832834649493762048",
+          "start": 11,
+          "username": "1n_fhtagn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858462219341889701",
+    "in_reply_to_user_id": "1479696561302999042",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858450615627903364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quitee123 @1n_fhtagn 要入体的我就不喜欢( ๑ŏ ﹏ ŏ๑ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1858188548584923422",
+        "created_at": "2024-11-18T10:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T11:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858462219341889701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1479696561302999042",
+              "start": 0,
+              "username": "quitee123"
+            },
+            {
+              "end": 21,
+              "id": "1832834649493762048",
+              "start": 11,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858462219341889701",
+        "in_reply_to_user_id": "1479696561302999042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858450615627903364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quitee123 @1n_fhtagn 要入体的我就不喜欢( ๑ŏ ﹏ ŏ๑ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1858188548584923422",
+        "created_at": "2024-11-18T10:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T11:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858450615627903364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 22,
+              "id": "1832834649493762048",
+              "start": 12,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858450615627903364",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858233126906179947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang @1n_fhtagn 没牛子也可以紫薇的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 210,
+          "like_count": 1845,
+          "listed_count": 0,
+          "tweet_count": 722
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 持证含糖家长党🏳️‍⚧️/经济学/管理学/只要不是三无小号就会互fo Steam/OW2/板绘/剪辑/航拍 “死亡是最好的归宿吗？” 猫猫@qidan5298677840 @Shion_Glad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "qidan5298677840"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "Shion_Glad"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱（休学躺平版）",
+        "pinned_tweet_id": "1851427968431861994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808784612799434755/usZJwzL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3717,
+          "following_count": 1612,
+          "like_count": 18141,
+          "listed_count": 6,
+          "tweet_count": 7643
+        },
+        "username": "quitee123",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "皮囊而已",
+        "id": "1832834649493762048",
+        "location": "荒野",
+        "name": "雪山葵",
+        "pinned_tweet_id": "1858307453487898754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836095193231290368/FGX84gmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1320,
+          "following_count": 975,
+          "like_count": 10115,
+          "listed_count": 1,
+          "tweet_count": 2922
+        },
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

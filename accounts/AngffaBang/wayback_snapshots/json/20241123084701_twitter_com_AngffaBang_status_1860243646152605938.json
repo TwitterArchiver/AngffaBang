@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860232921241780250",
+    "created_at": "2024-11-23T08:47:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T09:47:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860243646152605938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1849314404791373824",
+          "start": 0,
+          "username": "HuMie298383"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860243646152605938",
+    "in_reply_to_user_id": "1849314404791373824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860238505164894414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuMie298383 嗯嗯！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860232921241780250",
+        "created_at": "2024-11-23T08:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T09:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860243646152605938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1849314404791373824",
+              "start": 0,
+              "username": "HuMie298383"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860243646152605938",
+        "in_reply_to_user_id": "1849314404791373824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860238505164894414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuMie298383 嗯嗯！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849314404791373824",
+        "conversation_id": "1860232921241780250",
+        "created_at": "2024-11-23T08:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T09:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860238505164894414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860238505164894414",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860232921241780250",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 也许大家更喜欢更真实的你吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 270,
+          "like_count": 2286,
+          "listed_count": 0,
+          "tweet_count": 903
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T04:58:18.000Z",
+        "description": "先就这样吧",
+        "id": "1849314404791373824",
+        "name": "幻灭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858093479769063424/rkiePtXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 21,
+          "like_count": 101,
+          "listed_count": 0,
+          "tweet_count": 154
+        },
+        "username": "HuMie298383",
+        "verified": false
+      }
+    ]
+  }
+}

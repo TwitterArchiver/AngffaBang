@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1955246048588468525",
+    "created_at": "2025-08-13T06:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T07:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955516509650124850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2396906006",
+          "start": 0,
+          "username": "shizunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955516509650124850",
+    "in_reply_to_user_id": "2396906006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955246048588468525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shizunyan_ 开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1955246048588468525",
+        "created_at": "2025-08-13T06:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T07:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955516509650124850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2396906006",
+              "start": 0,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955516509650124850",
+        "in_reply_to_user_id": "2396906006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955246048588468525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shizunyan_ 开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2396906006",
+        "conversation_id": "1955246048588468525",
+        "created_at": "2025-08-12T12:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T13:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955246048588468525"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955246048588468525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2400,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "清了一波自己关注的\n我很少会主动关注或回关的，除非真的对你的推文感兴趣\n所以剩下除开官方号和画家50人不到的，我大概是对你很感兴趣吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5727,
+          "following_count": 521,
+          "like_count": 5860,
+          "listed_count": 5,
+          "media_count": 335,
+          "tweet_count": 2282
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-18T23:23:12.000Z",
+        "description": "【終】",
+        "id": "2396906006",
+        "name": "しず",
+        "pinned_tweet_id": "1868889445971472456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853737893241704448/tz8XbgoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3053,
+          "following_count": 201,
+          "like_count": 35724,
+          "listed_count": 3,
+          "media_count": 1,
+          "tweet_count": 176
+        },
+        "username": "shizunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1858716223707770921",
+    "created_at": "2024-11-21T20:07:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T21:07:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859690129859936588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1645627834701082624",
+          "start": 0,
+          "username": "kira20194922529"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859690129859936588",
+    "in_reply_to_user_id": "1645627834701082624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858716223707770921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kira20194922529 好像那个在韩国拿到3000韩元的那个男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1858716223707770921",
+        "created_at": "2024-11-21T20:07:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T21:07:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859690129859936588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1645627834701082624",
+              "start": 0,
+              "username": "kira20194922529"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859690129859936588",
+        "in_reply_to_user_id": "1645627834701082624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858716223707770921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kira20194922529 好像那个在韩国拿到3000韩元的那个男的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858716180758097920"
+          ]
+        },
+        "author_id": "1645627834701082624",
+        "conversation_id": "1858716223707770921",
+        "created_at": "2024-11-19T03:37:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T04:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858716223707770921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZiHKWEw05S",
+              "end": 23,
+              "expanded_url": "https://x.com/kira20194922529/status/1858716223707770921/photo/1",
+              "media_key": "3_1858716180758097920",
+              "start": 0,
+              "url": "https://t.co/ZiHKWEw05S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858716223707770921",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 477,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZiHKWEw05S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 229,
+          "like_count": 2125,
+          "listed_count": 0,
+          "tweet_count": 817
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-11T03:20:33.000Z",
+        "description": "cosplay/od/调酒师/咖啡师/作曲",
+        "id": "1645627834701082624",
+        "location": "0.1km",
+        "name": "Jonas·El Niño",
+        "pinned_tweet_id": "1852839635296416242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645628779786805252/T-IMg8Hy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 1107,
+          "like_count": 20125,
+          "listed_count": 0,
+          "tweet_count": 1291
+        },
+        "username": "kira20194922529",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1879627326104969216",
+        "3_1879627326289563648",
+        "3_1879627326465740800",
+        "3_1879627326683860992"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1879627329724719135",
+    "created_at": "2025-01-15T20:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T21:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1879627329724719135"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mcj3S005oC",
+          "end": 44,
+          "expanded_url": "https://x.com/AngffaBang/status/1879627329724719135/photo/1",
+          "media_key": "3_1879627326104969216",
+          "start": 21,
+          "url": "https://t.co/mcj3S005oC"
+        },
+        {
+          "display_url": "pic.x.com/mcj3S005oC",
+          "end": 44,
+          "expanded_url": "https://x.com/AngffaBang/status/1879627329724719135/photo/1",
+          "media_key": "3_1879627326289563648",
+          "start": 21,
+          "url": "https://t.co/mcj3S005oC"
+        },
+        {
+          "display_url": "pic.x.com/mcj3S005oC",
+          "end": 44,
+          "expanded_url": "https://x.com/AngffaBang/status/1879627329724719135/photo/1",
+          "media_key": "3_1879627326465740800",
+          "start": 21,
+          "url": "https://t.co/mcj3S005oC"
+        },
+        {
+          "display_url": "pic.x.com/mcj3S005oC",
+          "end": 44,
+          "expanded_url": "https://x.com/AngffaBang/status/1879627329724719135/photo/1",
+          "media_key": "3_1879627326683860992",
+          "start": 21,
+          "url": "https://t.co/mcj3S005oC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879627329724719135",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最新挑的回答₍˄·͈w·͈˄*₎◞ ̑̑ https://t.co/mcj3S005oC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1879627326104969216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhXHGCqaoAAe4nX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 810,
+        "media_key": "3_1879627326289563648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhXHGDWbUAAEc91.jpg",
+        "width": 1080
+      },
+      {
+        "height": 810,
+        "media_key": "3_1879627326465740800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhXHGEAbkAAzkko.jpg",
+        "width": 1080
+      },
+      {
+        "height": 810,
+        "media_key": "3_1879627326683860992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GhXHGE0b0AAE2j_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879627326104969216",
+            "3_1879627326289563648",
+            "3_1879627326465740800",
+            "3_1879627326683860992"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1879627329724719135",
+        "created_at": "2025-01-15T20:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T21:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879627329724719135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mcj3S005oC",
+              "end": 44,
+              "expanded_url": "https://x.com/AngffaBang/status/1879627329724719135/photo/1",
+              "media_key": "3_1879627326104969216",
+              "start": 21,
+              "url": "https://t.co/mcj3S005oC"
+            },
+            {
+              "display_url": "pic.x.com/mcj3S005oC",
+              "end": 44,
+              "expanded_url": "https://x.com/AngffaBang/status/1879627329724719135/photo/1",
+              "media_key": "3_1879627326289563648",
+              "start": 21,
+              "url": "https://t.co/mcj3S005oC"
+            },
+            {
+              "display_url": "pic.x.com/mcj3S005oC",
+              "end": 44,
+              "expanded_url": "https://x.com/AngffaBang/status/1879627329724719135/photo/1",
+              "media_key": "3_1879627326465740800",
+              "start": 21,
+              "url": "https://t.co/mcj3S005oC"
+            },
+            {
+              "display_url": "pic.x.com/mcj3S005oC",
+              "end": 44,
+              "expanded_url": "https://x.com/AngffaBang/status/1879627329724719135/photo/1",
+              "media_key": "3_1879627326683860992",
+              "start": 21,
+              "url": "https://t.co/mcj3S005oC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879627329724719135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最新挑的回答₍˄·͈w·͈˄*₎◞ ̑̑ https://t.co/mcj3S005oC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 487,
+          "like_count": 4547,
+          "listed_count": 2,
+          "media_count": 189,
+          "tweet_count": 1653
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

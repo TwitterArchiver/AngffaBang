@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2049215849043841266",
+    "created_at": "2026-04-28T19:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T20:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049215849043841266"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yumenowchan/st…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yumenowchan/status/2049070153611268223",
+          "start": 4,
+          "url": "https://t.co/pIAqRTNTrJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049215849043841266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049070153611268223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱捏 https://t.co/pIAqRTNTrJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1631,
+        "media_key": "3_2049070140806008832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG_Cb8aaEAAFcE3.jpg",
+        "width": 1620
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2049215849043841266",
+        "created_at": "2026-04-28T19:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T20:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049215849043841266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumenowchan/st…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yumenowchan/status/2049070153611268223",
+              "start": 4,
+              "url": "https://t.co/pIAqRTNTrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049215849043841266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049070153611268223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱捏 https://t.co/pIAqRTNTrJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049070140806008832"
+          ]
+        },
+        "author_id": "1979108124985561088",
+        "conversation_id": "2049070153611268223",
+        "created_at": "2026-04-28T10:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049070153611268223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRo9LlRTWh",
+              "end": 23,
+              "expanded_url": "https://x.com/yumenoWchan/status/2049070153611268223/photo/1",
+              "media_key": "3_2049070140806008832",
+              "start": 0,
+              "url": "https://t.co/MRo9LlRTWh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049070153611268223",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2025,
+          "like_count": 238,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/MRo9LlRTWh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8092,
+          "following_count": 609,
+          "like_count": 6394,
+          "listed_count": 7,
+          "media_count": 505,
+          "tweet_count": 2878
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕/阿欠｜🇨🇳🇭🇰｜割裸o",
+        "id": "1979108124985561088",
+        "name": "えぐち",
+        "pinned_tweet_id": "2046593454990619043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047250628687355904/LIuDBNUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 452,
+          "like_count": 2584,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 406
+        },
+        "username": "yumenoWchan",
+        "verified": false
+      }
+    ]
+  }
+}

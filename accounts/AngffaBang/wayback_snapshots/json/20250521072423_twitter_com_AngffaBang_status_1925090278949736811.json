@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1924431279552077919",
+    "created_at": "2025-05-21T07:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T08:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925090278949736811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902470064416407552",
+          "start": 0,
+          "username": "2hhart"
+        },
+        {
+          "end": 20,
+          "id": "1278142681319800832",
+          "start": 8,
+          "username": "xiaoxi_9726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925090278949736811",
+    "in_reply_to_user_id": "1902470064416407552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925039837616472497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2hhart @xiaoxi_9726 😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1924431279552077919",
+        "created_at": "2025-05-21T07:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T08:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925090278949736811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902470064416407552",
+              "start": 0,
+              "username": "2hhart"
+            },
+            {
+              "end": 20,
+              "id": "1278142681319800832",
+              "start": 8,
+              "username": "xiaoxi_9726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925090278949736811",
+        "in_reply_to_user_id": "1902470064416407552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925039837616472497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2hhart @xiaoxi_9726 😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902470064416407552",
+        "conversation_id": "1924431279552077919",
+        "created_at": "2025-05-21T04:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T05:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925039837616472497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1278142681319800832",
+              "start": 0,
+              "username": "xiaoxi_9726"
+            },
+            {
+              "end": 24,
+              "id": "1730458100703064064",
+              "start": 13,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925039837616472497",
+        "in_reply_to_user_id": "1278142681319800832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924886882032484548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoxi_9726 @AngffaBang 你…吃到虹鳟了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4659,
+          "following_count": 516,
+          "like_count": 5538,
+          "listed_count": 5,
+          "media_count": 266,
+          "tweet_count": 2053
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T21:20:00.000Z",
+        "description": "只会说对不起",
+        "id": "1902470064416407552",
+        "name": "阿卡林",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919715659455533056/jPdZgiSI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 71,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 55
+        },
+        "username": "2hhart",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-01T01:45:43.000Z",
+        "description": "infp 被动",
+        "id": "1278142681319800832",
+        "name": "处男膜留给心爱的人",
+        "pinned_tweet_id": "1902662169277387244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886137857062166528/OA00m8FD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 297,
+          "like_count": 4048,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 419
+        },
+        "username": "xiaoxi_9726",
+        "verified": false
+      }
+    ]
+  }
+}

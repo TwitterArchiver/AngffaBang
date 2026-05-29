@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1980143607047995522",
+    "created_at": "2025-10-21T15:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T16:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980655141302026643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1896893168937021440",
+          "start": 0,
+          "username": "hNksSFUzyw54834"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980655141302026643",
+    "in_reply_to_user_id": "1896893168937021440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980223409545224629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hNksSFUzyw54834 18年后美沙酮才没的，18年后算dp了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1980143607047995522",
+        "created_at": "2025-10-21T15:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980655141302026643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1896893168937021440",
+              "start": 0,
+              "username": "hNksSFUzyw54834"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980655141302026643",
+        "in_reply_to_user_id": "1896893168937021440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980223409545224629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hNksSFUzyw54834 18年后美沙酮才没的，18年后算dp了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896893168937021440",
+        "conversation_id": "1980143607047995522",
+        "created_at": "2025-10-20T10:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980223409545224629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980223409545224629",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980143607047995522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 居然还能吃到买不到的药吗，有点厉害）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/中日混血/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 85,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5985,
+          "following_count": 600,
+          "like_count": 5995,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 2457
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T11:59:17.000Z",
+        "description": "单机游戏和轻小说还有音乐和文学爱好者大概这样子）\n如果能帮到大家就最好啦~\n我的最最闪亮的明星 @baizhimengyao ！ 陪伴每一夜\n我亲爱的家养忠犬系姐姐！ @Kisaragi_Momoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "baizhimengyao"
+              },
+              {
+                "end": 99,
+                "start": 84,
+                "username": "Kisaragi_Momoe"
+              }
+            ]
+          }
+        },
+        "id": "1896893168937021440",
+        "name": "高天原の黑猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896893298893369345/w4oiHN8K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 180,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 329
+        },
+        "username": "hNksSFUzyw54834",
+        "verified": false
+      }
+    ]
+  }
+}

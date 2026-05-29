@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2000605617082556884",
+    "created_at": "2025-12-15T17:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T18:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000623721216975172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1877340124544925696",
+          "start": 0,
+          "username": "GeeEgg447"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000623721216975172",
+    "in_reply_to_user_id": "1877340124544925696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000619092865372551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeeEgg447 它生气了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2000605617082556884",
+        "created_at": "2025-12-15T17:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T18:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000623721216975172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1877340124544925696",
+              "start": 0,
+              "username": "GeeEgg447"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000623721216975172",
+        "in_reply_to_user_id": "1877340124544925696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000619092865372551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeeEgg447 它生气了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877340124544925696",
+        "conversation_id": "2000605617082556884",
+        "created_at": "2025-12-15T17:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T18:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000619092865372551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000619092865372551",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000605617082556884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 尾巴怎么不见喵😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6872,
+          "following_count": 602,
+          "like_count": 6065,
+          "listed_count": 5,
+          "media_count": 418,
+          "tweet_count": 2581
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-09T13:02:41.000Z",
+        "description": "👐和平主义/🫡直男/幼稚👻/贪财好色是个好🐒/🐼不理解但尊重/ 😽",
+        "id": "1877340124544925696",
+        "location": "不周山",
+        "name": "诸葛笨蛋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894232204194070528/JzBgySI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 308,
+          "like_count": 908,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 218
+        },
+        "username": "GeeEgg447",
+        "verified": false
+      }
+    ]
+  }
+}

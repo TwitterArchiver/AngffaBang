@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1793934379531796893",
+    "created_at": "2024-05-25T18:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T19:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794436666830295271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1619664175957147648",
+          "start": 0,
+          "username": "angelkawaiiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794436666830295271",
+    "in_reply_to_user_id": "1619664175957147648",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793934379531796893",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@angelkawaiiko 毎日あなたの投稿を見て生きられると感じます"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1793934379531796893",
+        "created_at": "2024-05-25T18:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T19:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794436666830295271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1619664175957147648",
+              "start": 0,
+              "username": "angelkawaiiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794436666830295271",
+        "in_reply_to_user_id": "1619664175957147648",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793934379531796893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@angelkawaiiko 毎日あなたの投稿を見て生きられると感じます"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793934366625906688"
+          ]
+        },
+        "author_id": "1619664175957147648",
+        "conversation_id": "1793934379531796893",
+        "created_at": "2024-05-24T09:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T10:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793934379531796893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/RhaevSg1hf",
+              "end": 33,
+              "expanded_url": "https://twitter.com/angelkawaiiko/status/1793934379531796893/photo/1",
+              "media_key": "3_1793934366625906688",
+              "start": 10,
+              "url": "https://t.co/RhaevSg1hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793934379531796893",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 45137,
+          "like_count": 3558,
+          "quote_count": 16,
+          "reply_count": 6,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "次はお前がこうなる https://t.co/RhaevSg1hf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 22,
+          "like_count": 136,
+          "listed_count": 0,
+          "tweet_count": 111
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T11:50:22.000Z",
+        "description": "この混沌とした令和のインターネットを照らす一筋の光 電子の海を漂うオタクに笑顔を 未来の平和をお約束 躁鬱だけどまかせとけ インターネット・エンジェルXにもただいま降臨✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com/gallery/",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/gallery/",
+                "start": 0,
+                "url": "https://t.co/IE4BytTCrO"
+              }
+            ]
+          }
+        },
+        "id": "1619664175957147648",
+        "location": "ただのなりきり垢だから誤フォローに注意してね",
+        "name": "超てんちゃん",
+        "pinned_tweet_id": "1750030379158032828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756616977114931200/vvyYLpeV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3287,
+          "following_count": 5,
+          "like_count": 189,
+          "listed_count": 10,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/IE4BytTCrO",
+        "username": "angelkawaiiko",
+        "verified": false
+      }
+    ]
+  }
+}

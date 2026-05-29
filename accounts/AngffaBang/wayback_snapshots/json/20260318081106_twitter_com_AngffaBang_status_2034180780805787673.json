@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2034124492180468000",
+    "created_at": "2026-03-18T08:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T09:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034180780805787673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454011300854460420",
+          "start": 0,
+          "username": "rara_0615xx"
+        },
+        {
+          "end": 27,
+          "id": "1766084836572172288",
+          "start": 13,
+          "username": "Smertkakput12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034180780805787673",
+    "in_reply_to_user_id": "1454011300854460420",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034124492180468000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rara_0615xx @Smertkakput12 互fo哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2034124492180468000",
+        "created_at": "2026-03-18T08:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T09:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034180780805787673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454011300854460420",
+              "start": 0,
+              "username": "rara_0615xx"
+            },
+            {
+              "end": 27,
+              "id": "1766084836572172288",
+              "start": 13,
+              "username": "Smertkakput12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034180780805787673",
+        "in_reply_to_user_id": "1454011300854460420",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034124492180468000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rara_0615xx @Smertkakput12 互fo哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454011300854460420",
+        "conversation_id": "2034124492180468000",
+        "created_at": "2026-03-18T04:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T05:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034124492180468000"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034124492180468000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "推特妹子你萌好好，，威逼上幾百互fo的沒一個人理我🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7495,
+          "following_count": 613,
+          "like_count": 6306,
+          "listed_count": 7,
+          "media_count": 484,
+          "tweet_count": 2801
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-29T09:04:56.000Z",
+        "description": "04/日專生/自殘/bdsm/女孩子們和我互fo好嗎【🚪純綠52】歡迎提問https://t.co/kufx27b3v9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rarahkakoakq",
+                "end": 60,
+                "expanded_url": "https://ngl.link/rarahkakoakq",
+                "start": 37,
+                "url": "https://t.co/kufx27b3v9"
+              }
+            ]
+          }
+        },
+        "id": "1454011300854460420",
+        "location": "Tokyo-to, Japan",
+        "name": "♡純白色罪業",
+        "pinned_tweet_id": "2033890999110390033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002775472145567744/UhNTYaHI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 58,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 100
+        },
+        "username": "rara_0615xx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-08T12:53:44.000Z",
+        "description": "林鴿｜mha gbc oc｜18歲休學中…在更新負能血圖貓狗和女友姐日常、想互fo我就會直接關注🥺不关男的建政，直fo查成分回",
+        "id": "1766084836572172288",
+        "name": "活到冇瘾TTttt（互fo版",
+        "pinned_tweet_id": "2027639613045739521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029163126839754752/qrVxto-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 557,
+          "like_count": 1093,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 869
+        },
+        "username": "Smertkakput12",
+        "verified": false
+      }
+    ]
+  }
+}

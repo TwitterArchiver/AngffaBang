@@ -1,0 +1,228 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1794435665935159578",
+    "created_at": "2024-05-25T18:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T19:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794438419424096487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674802229012992004",
+          "start": 0,
+          "username": "non_no3503"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794438419424096487",
+    "in_reply_to_user_id": "1674802229012992004",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794438176007918043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@non_no3503 我的画风太可爱了(•̩̩̩̩＿•̩̩̩̩)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1794435665935159578",
+        "created_at": "2024-05-25T18:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T19:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794438419424096487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674802229012992004",
+              "start": 0,
+              "username": "non_no3503"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794438419424096487",
+        "in_reply_to_user_id": "1674802229012992004",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794438176007918043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@non_no3503 我的画风太可爱了(•̩̩̩̩＿•̩̩̩̩)"
+      },
+      {
+        "attachments": {},
+        "author_id": "1674802229012992004",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1794435665935159578",
+        "created_at": "2024-05-25T18:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T19:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794438176007918043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794438176007918043",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794437303097840067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 感觉r18对人体要求还是挺高的）多画点人体写生可能会上手点？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 23,
+          "like_count": 136,
+          "listed_count": 0,
+          "tweet_count": 116
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T15:29:19.000Z",
+        "description": "我是人类👁️‍🗨️观察有趣人类and看点荤的",
+        "id": "1674802229012992004",
+        "name": "IIHII",
+        "pinned_tweet_id": "1785749322262589913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785739261632974848/2MV2PI-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 109,
+          "like_count": 29,
+          "listed_count": 3,
+          "tweet_count": 16
+        },
+        "username": "non_no3503",
+        "verified": false
+      }
+    ]
+  }
+}

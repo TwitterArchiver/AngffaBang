@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1880578819620520266",
+    "created_at": "2025-01-18T14:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T15:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880626760733368478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794147619234803712",
+          "start": 0,
+          "username": "3TUdfRK5Vn77717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880626760733368478",
+    "in_reply_to_user_id": "1794147619234803712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880626112843465072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3TUdfRK5Vn77717 只要能填饱肚子也是可以接受的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1880578819620520266",
+        "created_at": "2025-01-18T14:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T15:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880626760733368478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794147619234803712",
+              "start": 0,
+              "username": "3TUdfRK5Vn77717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880626760733368478",
+        "in_reply_to_user_id": "1794147619234803712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880626112843465072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3TUdfRK5Vn77717 只要能填饱肚子也是可以接受的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880626109513121792"
+          ]
+        },
+        "author_id": "1794147619234803712",
+        "conversation_id": "1880578819620520266",
+        "created_at": "2025-01-18T14:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T15:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880626112843465072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0afrwYJbQ",
+              "end": 40,
+              "expanded_url": "https://x.com/3TUdfRK5Vn77717/status/1880626112843465072/photo/1",
+              "media_key": "3_1880626109513121792",
+              "start": 17,
+              "url": "https://t.co/A0afrwYJbQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880626112843465072",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880625792247636210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 苦瓜榨汁 https://t.co/A0afrwYJbQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 489,
+          "like_count": 4661,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 1698
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:25:11.000Z",
+        "description": "一种颜色",
+        "id": "1794147619234803712",
+        "name": "银白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878489014715760641/xKxv-Sq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 104,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 144
+        },
+        "username": "3TUdfRK5Vn77717",
+        "verified": false
+      }
+    ]
+  }
+}

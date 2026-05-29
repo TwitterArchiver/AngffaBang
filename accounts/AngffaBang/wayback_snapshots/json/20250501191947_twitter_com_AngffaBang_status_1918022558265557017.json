@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918022555467956224"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1918022558265557017",
+    "created_at": "2025-05-01T19:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-01T20:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918022558265557017"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nyIenOly1V",
+          "end": 73,
+          "expanded_url": "https://x.com/AngffaBang/status/1918022558265557017/photo/1",
+          "media_key": "3_1918022555467956224",
+          "start": 50,
+          "url": "https://t.co/nyIenOly1V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918022558265557017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做梦梦见自己又在流浪，没有家人联系，没有住所，自己就像灵魂一样没有人注意（感觉像中国版的神待少女） https://t.co/nyIenOly1V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 584,
+        "media_key": "3_1918022555467956224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp4vWiHawAAPGzH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918022555467956224"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1918022558265557017",
+        "created_at": "2025-05-01T19:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-01T20:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918022558265557017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nyIenOly1V",
+              "end": 73,
+              "expanded_url": "https://x.com/AngffaBang/status/1918022558265557017/photo/1",
+              "media_key": "3_1918022555467956224",
+              "start": 50,
+              "url": "https://t.co/nyIenOly1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918022558265557017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做梦梦见自己又在流浪，没有家人联系，没有住所，自己就像灵魂一样没有人注意（感觉像中国版的神待少女） https://t.co/nyIenOly1V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 115,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 92,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4461,
+          "following_count": 517,
+          "like_count": 5341,
+          "listed_count": 5,
+          "media_count": 248,
+          "tweet_count": 2003
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1986524739310071933",
+    "created_at": "2025-11-07T08:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986714944486940950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879353023451062272",
+          "start": 0,
+          "username": "xiaoyibao_666"
+        },
+        {
+          "end": 28,
+          "id": "1963867793776070656",
+          "start": 15,
+          "username": "drug_artist1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986714944486940950",
+    "in_reply_to_user_id": "1879353023451062272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986624292700967352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyibao_666 @drug_artist1 慢慢减量，一天2t，等一个星期后就1t，戒pr只能忍，我戒成功单纯是因为减量+忍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1986524739310071933",
+        "created_at": "2025-11-07T08:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986714944486940950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879353023451062272",
+              "start": 0,
+              "username": "xiaoyibao_666"
+            },
+            {
+              "end": 28,
+              "id": "1963867793776070656",
+              "start": 15,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986714944486940950",
+        "in_reply_to_user_id": "1879353023451062272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986624292700967352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyibao_666 @drug_artist1 慢慢减量，一天2t，等一个星期后就1t，戒pr只能忍，我戒成功单纯是因为减量+忍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879353023451062272",
+        "conversation_id": "1986524739310071933",
+        "created_at": "2025-11-07T02:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T03:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986624292700967352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1963867793776070656",
+              "start": 0,
+              "username": "drug_artist1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986624292700967352",
+        "in_reply_to_user_id": "1963867793776070656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986524739310071933",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artist1 pr到底怎么借啊，借的我生不如死又继续o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 91,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 68,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6943,
+          "following_count": 604,
+          "like_count": 6036,
+          "listed_count": 5,
+          "media_count": 411,
+          "tweet_count": 2485
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T02:21:10.000Z",
+        "description": "有🚪除了我自己愿意加的\n不怎么玩这个，可能隔一顿时间玩一阵子",
+        "id": "1879353023451062272",
+        "name": "小弈宝",
+        "pinned_tweet_id": "1896606977389957166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931246263875567616/5nU-69vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1726,
+          "following_count": 13,
+          "like_count": 164,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "username": "xiaoyibao_666",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:32:46.000Z",
+        "description": "药物百科wiki主｜投稿报告请私信我｜长发视觉系4i男娘｜售卖合法物质直接私信我或联系TG: https://t.co/epYRPhDhLb ｜提问箱:https://t.co/ez10SQIb3b｜愿每一位药物滥用者都能脱离深渊｜提供药物咨询 ｜im crazy!",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/drug_artist",
+                "end": 70,
+                "expanded_url": "http://t.me/drug_artist",
+                "start": 47,
+                "url": "https://t.co/epYRPhDhLb"
+              },
+              {
+                "display_url": "ngl.link/drug_artist",
+                "end": 99,
+                "expanded_url": "https://ngl.link/drug_artist",
+                "start": 76,
+                "url": "https://t.co/ez10SQIb3b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/N4ZvRToqxO"
+              }
+            ]
+          }
+        },
+        "id": "1963867793776070656",
+        "location": "Xanax天国12mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1985641950721294743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984290837677965312/pwoAuV9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1662,
+          "following_count": 88,
+          "like_count": 513,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/N4ZvRToqxO",
+        "username": "drug_artist1",
+        "verified": false
+      }
+    ]
+  }
+}

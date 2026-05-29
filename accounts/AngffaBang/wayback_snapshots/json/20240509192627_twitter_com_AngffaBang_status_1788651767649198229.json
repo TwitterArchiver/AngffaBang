@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1788651767649198229",
+    "created_at": "2024-05-09T19:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T20:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788651767649198229"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1788651767649198229",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那么多人都长得那么好看，每天夜晚都没人陪我说话，我自己就是个哥布林，我真的要去死！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1788651767649198229",
+        "created_at": "2024-05-09T19:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T20:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788651767649198229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1788651767649198229",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那么多人都长得那么好看，每天夜晚都没人陪我说话，我自己就是个哥布林，我真的要去死！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788281398287278083/b4Bv8a6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 56,
+          "listed_count": 0,
+          "tweet_count": 20
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

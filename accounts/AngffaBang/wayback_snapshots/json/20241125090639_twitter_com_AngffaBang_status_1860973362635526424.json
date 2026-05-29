@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860968213917687911",
+    "created_at": "2024-11-25T09:06:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T10:06:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860973362635526424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1653221507534065666",
+          "start": 0,
+          "username": "Zhouhongfan2009"
+        },
+        {
+          "end": 31,
+          "id": "1826611872118046720",
+          "start": 17,
+          "username": "Ijichi_Kotomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860973362635526424",
+    "in_reply_to_user_id": "1653221507534065666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860972357982064918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhouhongfan2009 @Ijichi_Kotomi 你们两个好厉害，自己是3和4的结合体！（＞ｙ＜）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860968213917687911",
+        "created_at": "2024-11-25T09:06:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T10:06:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860973362635526424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1653221507534065666",
+              "start": 0,
+              "username": "Zhouhongfan2009"
+            },
+            {
+              "end": 31,
+              "id": "1826611872118046720",
+              "start": 17,
+              "username": "Ijichi_Kotomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860973362635526424",
+        "in_reply_to_user_id": "1653221507534065666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860972357982064918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhouhongfan2009 @Ijichi_Kotomi 你们两个好厉害，自己是3和4的结合体！（＞ｙ＜）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653221507534065666",
+        "conversation_id": "1860968213917687911",
+        "created_at": "2024-11-25T09:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T10:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860972357982064918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826611872118046720",
+              "start": 0,
+              "username": "Ijichi_Kotomi"
+            },
+            {
+              "end": 26,
+              "id": "1730458100703064064",
+              "start": 15,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860972357982064918",
+        "in_reply_to_user_id": "1826611872118046720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860971511823364111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ijichi_Kotomi @AngffaBang 感觉泥是三🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 344,
+          "like_count": 2511,
+          "listed_count": 0,
+          "tweet_count": 1004
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T02:15:20.000Z",
+        "description": "简介真的会有人看吗？｜中学牲，非常社恐｜喜欢Miku｜喜欢音乐｜来自成都｜kigurumi初学者｜航拍📹｜尝试扩列｜喜欢我的世界 原神｜（男孩子 除了在梦里）｜网易云阴乐人｜希望友好与大家相处｜🏳️🏳️🏳️🏳️🏳️｜葱性恋｜呼呼 就要喵喵喵～｜那种主页全是涩涩的不要加我，真没有兴趣回复😅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "紫薇.中国/index.php/samp…",
+                "end": 23,
+                "expanded_url": "https://xn--4b0a44o.xn--fiqs8s/index.php/sample-page/",
+                "start": 0,
+                "url": "https://t.co/UMKZR8D9zU"
+              }
+            ]
+          }
+        },
+        "id": "1653221507534065666",
+        "location": "香港",
+        "name": "香山一颗葱（上学版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823637391178862592/25wwfix1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 132,
+          "like_count": 1970,
+          "listed_count": 0,
+          "tweet_count": 1242
+        },
+        "url": "https://t.co/UMKZR8D9zU",
+        "username": "Zhouhongfan2009",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T13:26:34.000Z",
+        "description": "High School Student/17/China\nUS College Application in progress/CS major\ninterest: anime & painting & 术力口/favorite anime: CLANNAD/pjsk\nBilingual: En/Zh",
+        "id": "1826611872118046720",
+        "location": "下北泽",
+        "name": "kotomi（求互fo）",
+        "pinned_tweet_id": "1859982370180673980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827373124834488324/it8d7wRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 433,
+          "like_count": 4862,
+          "listed_count": 3,
+          "tweet_count": 1571
+        },
+        "username": "Ijichi_Kotomi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1878291136680165557",
+    "created_at": "2025-01-12T06:04:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-12T07:04:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878322109409026546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801847638414819328",
+          "start": 0,
+          "username": "miomiomio519107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878322109409026546",
+    "in_reply_to_user_id": "1801847638414819328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878291136680165557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomiomio519107 没我纯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1878291136680165557",
+        "created_at": "2025-01-12T06:04:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T07:04:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878322109409026546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801847638414819328",
+              "start": 0,
+              "username": "miomiomio519107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878322109409026546",
+        "in_reply_to_user_id": "1801847638414819328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878291136680165557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomiomio519107 没我纯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1878290204446130176"
+          ]
+        },
+        "author_id": "1801847638414819328",
+        "conversation_id": "1878291136680165557",
+        "created_at": "2025-01-12T04:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T05:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1878291136680165557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeoSKY6tbO",
+              "end": 26,
+              "expanded_url": "https://x.com/miomiomio519107/status/1878291136680165557/video/1",
+              "media_key": "7_1878290204446130176",
+              "start": 3,
+              "url": "https://t.co/YeoSKY6tbO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878291136680165557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请听 https://t.co/YeoSKY6tbO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2681,
+          "following_count": 486,
+          "like_count": 4476,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1626
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T05:22:18.000Z",
+        "description": "第二个朋友圈，感谢关注🥺                                                         直男，性取向正常，死宅，玩一点烤蛇，🔥p                   \n玩亿点点抽象，喜欢被夸😋\n甜妹重度依赖🥺",
+        "id": "1801847638414819328",
+        "location": "5.2km",
+        "name": "miomio",
+        "pinned_tweet_id": "1872109793441431970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801848056544985088/CQ2GTiQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 39,
+          "like_count": 3341,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1074
+        },
+        "username": "miomiomio519107",
+        "verified": false
+      }
+    ]
+  }
+}

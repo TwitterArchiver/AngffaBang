@@ -1,0 +1,138 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1788647065603788800"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1788647080690614575",
+    "created_at": "2024-05-09T19:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T20:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788647080690614575"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/LCvlCCKdd0",
+          "end": 35,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1788647080690614575/photo/1",
+          "media_key": "3_1788647065603788800",
+          "start": 12,
+          "url": "https://t.co/LCvlCCKdd0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788647080690614575",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#cos 压力值100 https://t.co/LCvlCCKdd0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1788647065603788800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNKNB43b0AAPXI4.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788647065603788800"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1788647080690614575",
+        "created_at": "2024-05-09T19:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T20:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788647080690614575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/LCvlCCKdd0",
+              "end": 35,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1788647080690614575/photo/1",
+              "media_key": "3_1788647065603788800",
+              "start": 12,
+              "url": "https://t.co/LCvlCCKdd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788647080690614575",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#cos 压力值100 https://t.co/LCvlCCKdd0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788281398287278083/b4Bv8a6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 43,
+          "listed_count": 0,
+          "tweet_count": 12
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

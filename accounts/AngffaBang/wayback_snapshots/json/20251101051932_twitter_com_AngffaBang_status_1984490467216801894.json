@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1983371322500755924",
+    "created_at": "2025-11-01T05:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T06:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984490467216801894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1886602820314624000",
+          "start": 0,
+          "username": "sakaitakashi916"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984490467216801894",
+    "in_reply_to_user_id": "1886602820314624000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984293019433197697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakaitakashi916 我会的，谢谢你们提的建议"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1983371322500755924",
+        "created_at": "2025-11-01T05:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T06:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984490467216801894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1886602820314624000",
+              "start": 0,
+              "username": "sakaitakashi916"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984490467216801894",
+        "in_reply_to_user_id": "1886602820314624000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984293019433197697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakaitakashi916 我会的，谢谢你们提的建议"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886602820314624000",
+        "conversation_id": "1983371322500755924",
+        "created_at": "2025-10-31T16:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984293019433197697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984293019433197697",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983371322500755924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 不行也可以去试试仓管，或者干绘画爱好者高频率发推或是连载，总得找点事情做来忘记痛苦吧？我一个朋友干仓管，工资虽说不算多，好在有五险一金，事情相对也少，还可以玩玩电脑或是看看书；有一次冬天仓库还有点冷，我买些火锅材料去找他，两个人在仓库里看雪吃火锅，有一种杰洛和乔尼的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 103,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 80,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6073,
+          "following_count": 605,
+          "like_count": 6029,
+          "listed_count": 5,
+          "media_count": 408,
+          "tweet_count": 2479
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T02:29:16.000Z",
+        "description": "世界は一つの屋根の下に集う家族",
+        "id": "1886602820314624000",
+        "location": "日本 大阪",
+        "name": "氢氟酸不氢氟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886602899171749888/xX0Kp9uL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 44,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 139
+        },
+        "username": "sakaitakashi916",
+        "verified": false
+      }
+    ]
+  }
+}

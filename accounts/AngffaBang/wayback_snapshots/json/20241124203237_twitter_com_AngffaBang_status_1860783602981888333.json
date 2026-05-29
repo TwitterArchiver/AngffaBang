@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860783602981888333",
+    "created_at": "2024-11-24T20:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T21:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860783602981888333"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1860783602981888333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😡😡劳资有病吧，自己过得不咋地反倒是对餐券男生有保护欲，估计我也要变成了，小弟弟~看你发的推文你是有什么不开心的吗，看你自己割手姐姐可心疼了，这样多疼啊，不要od呀小弟弟，对自己身体多不好啊，要好好生活呀小弟弟，哦对了，姐姐可以和你谈恋爱吗😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860783602981888333",
+        "created_at": "2024-11-24T20:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T21:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860783602981888333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860783602981888333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😡😡劳资有病吧，自己过得不咋地反倒是对餐券男生有保护欲，估计我也要变成了，小弟弟~看你发的推文你是有什么不开心的吗，看你自己割手姐姐可心疼了，这样多疼啊，不要od呀小弟弟，对自己身体多不好啊，要好好生活呀小弟弟，哦对了，姐姐可以和你谈恋爱吗😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 336,
+          "like_count": 2467,
+          "listed_count": 0,
+          "tweet_count": 986
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

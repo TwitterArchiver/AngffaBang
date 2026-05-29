@@ -1,0 +1,229 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1794694973692039607",
+    "created_at": "2024-05-26T15:39:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T16:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794755260902408226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1490627890995953665",
+          "start": 0,
+          "username": "tannokasa4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794755260902408226",
+    "in_reply_to_user_id": "1490627890995953665",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794694973692039607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tannokasa4 可愛い！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1794694973692039607",
+        "created_at": "2024-05-26T15:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T16:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794755260902408226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1490627890995953665",
+              "start": 0,
+              "username": "tannokasa4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794755260902408226",
+        "in_reply_to_user_id": "1490627890995953665",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794694973692039607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tannokasa4 可愛い！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1794675315450769408"
+          ]
+        },
+        "author_id": "1490627890995953665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1794694973692039607",
+        "created_at": "2024-05-26T11:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T12:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794694973692039607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/IeM4hokZNC",
+              "end": 39,
+              "expanded_url": "https://twitter.com/tannokasa4/status/1794694973692039607/video/1",
+              "media_key": "7_1794675315450769408",
+              "start": 16,
+              "url": "https://t.co/IeM4hokZNC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794694973692039607",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4416,
+          "impression_count": 2174523,
+          "like_count": 89720,
+          "quote_count": 2190,
+          "reply_count": 195,
+          "retweet_count": 11834
+        },
+        "reply_settings": "everyone",
+        "text": "何でもちいかわに見えるメガネ✨ https://t.co/IeM4hokZNC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "pinned_tweet_id": "1793720981145711053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 29,
+          "like_count": 186,
+          "listed_count": 0,
+          "tweet_count": 156
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T10:06:10.000Z",
+        "description": "主に面白動画の紹介をしています✨\n\n🌈他のアカウントでも色々と紹介しています🌈\n@tannokasa ➡動物動画\n@tannokasa3 ➡雑多な動画\n@tannokasa5 ➡食べ物動画や日常ポスト\n@tannokasa6 ➡動物動画\n@tannokasa8 ➡動物動画\n@tannokasa9 ➡避難用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "tannokasa"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "tannokasa3"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "tannokasa5"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "tannokasa6"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "tannokasa8"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "tannokasa9"
+              }
+            ]
+          }
+        },
+        "id": "1490627890995953665",
+        "location": "千葉県",
+        "name": "ヒロクライム",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603430212871806976/8zRptIjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89487,
+          "following_count": 54306,
+          "like_count": 197721,
+          "listed_count": 541,
+          "tweet_count": 97406
+        },
+        "username": "tannokasa4",
+        "verified": true
+      }
+    ]
+  }
+}

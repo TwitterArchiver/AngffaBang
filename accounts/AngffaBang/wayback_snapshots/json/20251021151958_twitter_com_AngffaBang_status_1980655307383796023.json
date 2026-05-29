@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1979841225231601701",
+    "created_at": "2025-10-21T15:19:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T16:19:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980655307383796023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934467797226283009",
+          "start": 0,
+          "username": "LovePaxi12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980655307383796023",
+    "in_reply_to_user_id": "1934467797226283009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980179042306572415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovePaxi12 绿魔抓确实好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1979841225231601701",
+        "created_at": "2025-10-21T15:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980655307383796023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934467797226283009",
+              "start": 0,
+              "username": "LovePaxi12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980655307383796023",
+        "in_reply_to_user_id": "1934467797226283009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980179042306572415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovePaxi12 绿魔抓确实好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934467797226283009",
+        "conversation_id": "1979841225231601701",
+        "created_at": "2025-10-20T07:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980179042306572415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980179042306572415",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979841225231601701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 粉魔爪和绿魔爪才好喝😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/中日混血/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 85,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5985,
+          "following_count": 600,
+          "like_count": 5995,
+          "listed_count": 5,
+          "media_count": 405,
+          "tweet_count": 2459
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T04:27:24.000Z",
+        "description": "🚪30 xyn｜4i｜🍥2025.1.26｜10年 ｜地雷系｜雷：火影男+河南人 || 顽泪cp 「好女人得到名聲，壞女人得到世界」\n（简体中文、繁體中文、English、日本語）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com",
+                "end": 23,
+                "expanded_url": "http://apple.com",
+                "start": 0,
+                "url": "https://t.co/YIvmZcaJpC"
+              }
+            ]
+          }
+        },
+        "id": "1934467797226283009",
+        "location": "羽丘女子学院",
+        "name": "若葉睦Wakaba Mutsumi🍥",
+        "pinned_tweet_id": "1975412026362286479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977716602255839232/dk7gZeTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 282,
+          "like_count": 2092,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 386
+        },
+        "url": "https://t.co/YIvmZcaJpC",
+        "username": "LovePaxi12",
+        "verified": false
+      }
+    ]
+  }
+}

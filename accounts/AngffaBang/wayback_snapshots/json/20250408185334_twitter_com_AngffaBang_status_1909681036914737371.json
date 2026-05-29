@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1909625302961340654",
+    "created_at": "2025-04-08T18:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-08T19:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909681036914737371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1512401066981146629",
+          "start": 0,
+          "username": "Sunflower_sk919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909681036914737371",
+    "in_reply_to_user_id": "1512401066981146629",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909666631590334651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunflower_sk919 呵呵，只有愈美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1909625302961340654",
+        "created_at": "2025-04-08T18:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T19:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909681036914737371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1512401066981146629",
+              "start": 0,
+              "username": "Sunflower_sk919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909681036914737371",
+        "in_reply_to_user_id": "1512401066981146629",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909666631590334651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunflower_sk919 呵呵，只有愈美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512401066981146629",
+        "conversation_id": "1909625302961340654",
+        "created_at": "2025-04-08T17:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-08T18:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909666631590334651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909666631590334651",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909625302961340654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 来点阿片，没有不谈😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 116,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 93,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4467,
+          "following_count": 516,
+          "like_count": 5324,
+          "listed_count": 5,
+          "media_count": 235,
+          "tweet_count": 1946
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T12:05:01.000Z",
+        "description": "一具男尸🏳️‍🌈无性别————自介在隔壁（目移）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "end": 23,
+                "expanded_url": "http://marshmallow-qa.com/6lwi0xpga3tc1ev",
+                "start": 0,
+                "url": "https://t.co/LhhLTxA2kl"
+              }
+            ]
+          }
+        },
+        "id": "1512401066981146629",
+        "location": "🚪20 可陪听术曲 也接真皮层伤口定制",
+        "name": "金牌厨师长",
+        "pinned_tweet_id": "1881492899181040055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874913097737203712/XmTqMe_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 295,
+          "like_count": 2108,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 2039
+        },
+        "url": "https://t.co/LhhLTxA2kl",
+        "username": "Sunflower_sk919",
+        "verified": true
+      }
+    ]
+  }
+}

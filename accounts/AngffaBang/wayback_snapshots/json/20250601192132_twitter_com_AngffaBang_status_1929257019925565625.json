@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1929105761403298151",
+    "created_at": "2025-06-01T19:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T20:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929257019925565625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1678928697334562817",
+          "start": 0,
+          "username": "chen_lin36505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929257019925565625",
+    "in_reply_to_user_id": "1678928697334562817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929256181195014176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chen_lin36505 哇哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929256178854543360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsYYReVaQAAHJel.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1929105761403298151",
+        "created_at": "2025-06-01T19:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T20:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929257019925565625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1678928697334562817",
+              "start": 0,
+              "username": "chen_lin36505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929257019925565625",
+        "in_reply_to_user_id": "1678928697334562817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929256181195014176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chen_lin36505 哇哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929256178854543360"
+          ]
+        },
+        "author_id": "1678928697334562817",
+        "conversation_id": "1929105761403298151",
+        "created_at": "2025-06-01T19:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T20:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929256181195014176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pW4t9Aa747",
+              "end": 35,
+              "expanded_url": "https://x.com/chen_lin36505/status/1929256181195014176/photo/1",
+              "media_key": "3_1929256178854543360",
+              "start": 12,
+              "url": "https://t.co/pW4t9Aa747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929256181195014176",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929105761403298151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang https://t.co/pW4t9Aa747"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4711,
+          "following_count": 515,
+          "like_count": 5610,
+          "listed_count": 5,
+          "media_count": 276,
+          "tweet_count": 2090
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T00:46:45.000Z",
+        "description": "",
+        "id": "1678928697334562817",
+        "name": "昱？！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910745498371448833/3cXr51_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 101,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "chen_lin36505",
+        "verified": false
+      }
+    ]
+  }
+}

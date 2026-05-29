@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1851906709448708096"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1851906746241159597",
+    "created_at": "2024-10-31T08:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-31T09:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851906746241159597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gAc3caBLhx",
+          "end": 61,
+          "expanded_url": "https://x.com/AngffaBang/status/1851906746241159597/video/1",
+          "media_key": "7_1851906709448708096",
+          "start": 38,
+          "url": "https://t.co/gAc3caBLhx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851906746241159597",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天好饿，吃不饱，想吃饭cccc，自己没有做菜天赋😩，做的东西也是一言难尽 https://t.co/gAc3caBLhx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10320,
+        "height": 1278,
+        "media_key": "7_1851906709448708096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1851906709448708096/pu/img/excTNWSOqJCUKMuo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851906709448708096/pu/vid/avc1/320x702/BLtcyX2Zsk9TcTum.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851906709448708096/pu/vid/avc1/480x1054/yMbFB4DToa6X62vh.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1851906709448708096/pu/vid/avc1/582x1278/vve7ZmExRrlk1cpn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1851906709448708096/pu/pl/M2-zM164C-7YFFJV.m3u8?tag=12"
+          }
+        ],
+        "width": 582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1851906709448708096"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1851906746241159597",
+        "created_at": "2024-10-31T08:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T09:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851906746241159597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gAc3caBLhx",
+              "end": 61,
+              "expanded_url": "https://x.com/AngffaBang/status/1851906746241159597/video/1",
+              "media_key": "7_1851906709448708096",
+              "start": 38,
+              "url": "https://t.co/gAc3caBLhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851906746241159597",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天好饿，吃不饱，想吃饭cccc，自己没有做菜天赋😩，做的东西也是一言难尽 https://t.co/gAc3caBLhx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP\n无人在意的猪头肉\n发推写日记的，哪天死了还证明存在过🌿🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850819638231465984/4bOKm7sT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 68,
+          "like_count": 742,
+          "listed_count": 0,
+          "tweet_count": 414
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

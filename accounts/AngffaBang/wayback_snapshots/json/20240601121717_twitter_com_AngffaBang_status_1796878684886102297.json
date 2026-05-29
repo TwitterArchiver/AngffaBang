@@ -1,0 +1,125 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1796878670587740161"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1796878684886102297",
+    "created_at": "2024-06-01T12:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T13:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796878684886102297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/ucTA4Unz0X",
+          "end": 29,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1796878684886102297/photo/1",
+          "media_key": "3_1796878670587740161",
+          "start": 6,
+          "url": "https://t.co/ucTA4Unz0X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796878684886102297",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "素颜拍拍~ https://t.co/ucTA4Unz0X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1796878670587740161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GO_LoXDbwAEZrEl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796878670587740161"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1796878684886102297",
+        "created_at": "2024-06-01T12:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T13:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796878684886102297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ucTA4Unz0X",
+              "end": 29,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1796878684886102297/photo/1",
+              "media_key": "3_1796878670587740161",
+              "start": 6,
+              "url": "https://t.co/ucTA4Unz0X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796878684886102297",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "素颜拍拍~ https://t.co/ucTA4Unz0X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A     13岁，别来勿扰，小心抓局里",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "pinned_tweet_id": "1793720981145711053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796844774978412544/nuLP0jQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 33,
+          "like_count": 234,
+          "listed_count": 0,
+          "tweet_count": 195
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

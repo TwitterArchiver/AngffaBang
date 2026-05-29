@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1863596140119371943",
+    "created_at": "2024-12-02T16:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T17:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863621902205604294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1314087418253832192",
+          "start": 0,
+          "username": "wuyueqixing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863621902205604294",
+    "in_reply_to_user_id": "1314087418253832192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863619593513873584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuyueqixing 嘿嘿~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1863596140119371943",
+        "created_at": "2024-12-02T16:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T17:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863621902205604294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1314087418253832192",
+              "start": 0,
+              "username": "wuyueqixing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863621902205604294",
+        "in_reply_to_user_id": "1314087418253832192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863619593513873584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuyueqixing 嘿嘿~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314087418253832192",
+        "conversation_id": "1863596140119371943",
+        "created_at": "2024-12-02T16:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T17:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863619593513873584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863619593513873584",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863596140119371943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 终于看见出宵崎奏的老师了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 392,
+          "like_count": 3063,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1220
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-08T06:17:18.000Z",
+        "description": "重度焦慮/重度抑鬱/自殘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuyueqixing.cn",
+                "end": 23,
+                "expanded_url": "http://www.wuyueqixing.cn",
+                "start": 0,
+                "url": "https://t.co/C60PWZFdrn"
+              }
+            ]
+          }
+        },
+        "id": "1314087418253832192",
+        "name": "伍月柒星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760956292321906688/5yZTkgPi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 1410,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 39
+        },
+        "url": "https://t.co/C60PWZFdrn",
+        "username": "wuyueqixing",
+        "verified": false
+      }
+    ]
+  }
+}

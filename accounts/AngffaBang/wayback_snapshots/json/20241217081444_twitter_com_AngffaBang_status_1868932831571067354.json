@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1868911237742182523",
+    "created_at": "2024-12-17T08:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T09:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868932831571067354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1682890080724320256",
+          "start": 0,
+          "username": "huoke20070831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868932831571067354",
+    "in_reply_to_user_id": "1682890080724320256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868931720843801048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huoke20070831 没有，我亲妈是这里的员工，她没钱租房就让我住这里，我被我养母赶出去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1868911237742182523",
+        "created_at": "2024-12-17T08:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T09:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868932831571067354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1682890080724320256",
+              "start": 0,
+              "username": "huoke20070831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868932831571067354",
+        "in_reply_to_user_id": "1682890080724320256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868931720843801048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huoke20070831 没有，我亲妈是这里的员工，她没钱租房就让我住这里，我被我养母赶出去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682890080724320256",
+        "conversation_id": "1868911237742182523",
+        "created_at": "2024-12-17T08:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T09:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868931720843801048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868931720843801048",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868911237742182523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 领导还敢说你？你可以报警说雇佣15岁童工"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 462,
+          "like_count": 3760,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1395
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T23:07:25.000Z",
+        "description": "",
+        "id": "1682890080724320256",
+        "location": "江苏 南通",
+        "name": "jiashuai.zhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854421527162236935/2VFmPOCC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 609,
+          "like_count": 1815,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 981
+        },
+        "username": "huoke20070831",
+        "verified": false
+      }
+    ]
+  }
+}

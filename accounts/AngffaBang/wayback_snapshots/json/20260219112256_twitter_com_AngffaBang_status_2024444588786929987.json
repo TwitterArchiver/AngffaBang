@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024444556406910976"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2024444588786929987",
+    "created_at": "2026-02-19T11:22:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T12:22:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024444588786929987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LXtoqnJ97n",
+          "end": 23,
+          "expanded_url": "https://x.com/AngffaBang/status/2024444588786929987/photo/1",
+          "media_key": "3_2024444556406910976",
+          "start": 0,
+          "url": "https://t.co/LXtoqnJ97n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024444588786929987",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/LXtoqnJ97n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2024444556406910976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBhFmRwbcAANjvW.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024444556406910976"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2024444588786929987",
+        "created_at": "2026-02-19T11:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T12:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024444588786929987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LXtoqnJ97n",
+              "end": 23,
+              "expanded_url": "https://x.com/AngffaBang/status/2024444588786929987/photo/1",
+              "media_key": "3_2024444556406910976",
+              "start": 0,
+              "url": "https://t.co/LXtoqnJ97n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024444588786929987",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LXtoqnJ97n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7221,
+          "following_count": 607,
+          "like_count": 6210,
+          "listed_count": 5,
+          "media_count": 461,
+          "tweet_count": 2720
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

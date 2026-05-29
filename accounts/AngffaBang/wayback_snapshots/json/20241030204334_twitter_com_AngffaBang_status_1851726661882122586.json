@@ -1,0 +1,86 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1851726661882122586",
+    "created_at": "2024-10-30T20:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T21:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851726661882122586"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1851726661882122586",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我操你妈，劳资长得丑怎么了？无人在意怎么了？真的破防了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1851726661882122586",
+        "created_at": "2024-10-30T20:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T21:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851726661882122586"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851726661882122586",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈，劳资长得丑怎么了？无人在意怎么了？真的破防了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP\n无人在意的猪头肉\n发推写日记的，哪天死了还证明存在过🌿🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850819638231465984/4bOKm7sT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 66,
+          "like_count": 730,
+          "listed_count": 0,
+          "tweet_count": 410
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1929811982968115200",
+        "3_1929811992862404608"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1929812000743608597",
+    "created_at": "2025-06-03T08:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T09:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929812000743608597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7njKDgDjpw",
+          "end": 102,
+          "expanded_url": "https://x.com/AngffaBang/status/1929812000743608597/photo/1",
+          "media_key": "3_1929811982968115200",
+          "start": 79,
+          "url": "https://t.co/7njKDgDjpw"
+        },
+        {
+          "display_url": "pic.x.com/7njKDgDjpw",
+          "end": 102,
+          "expanded_url": "https://x.com/AngffaBang/status/1929812000743608597/photo/1",
+          "media_key": "3_1929811992862404608",
+          "start": 79,
+          "url": "https://t.co/7njKDgDjpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929812000743608597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在抖音堪比暗网，别人就发了个猫和狗打架的视频，虐猫的一大堆窜出来了，动图里全是血腥的，审核去哪了，评论区只敢虐待比自己小的生物，却不敢对自己强的动手😂😂😂 https://t.co/7njKDgDjpw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1929811982968115200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsgRxiAbUAAPJWu.jpg",
+        "width": 925
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1929811992862404608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsgRyG3aMAAqeLP.jpg",
+        "width": 925
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929811982968115200",
+            "3_1929811992862404608"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1929812000743608597",
+        "created_at": "2025-06-03T08:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T09:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929812000743608597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7njKDgDjpw",
+              "end": 102,
+              "expanded_url": "https://x.com/AngffaBang/status/1929812000743608597/photo/1",
+              "media_key": "3_1929811982968115200",
+              "start": 79,
+              "url": "https://t.co/7njKDgDjpw"
+            },
+            {
+              "display_url": "pic.x.com/7njKDgDjpw",
+              "end": 102,
+              "expanded_url": "https://x.com/AngffaBang/status/1929812000743608597/photo/1",
+              "media_key": "3_1929811992862404608",
+              "start": 79,
+              "url": "https://t.co/7njKDgDjpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929812000743608597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在抖音堪比暗网，别人就发了个猫和狗打架的视频，虐猫的一大堆窜出来了，动图里全是血腥的，审核去哪了，评论区只敢虐待比自己小的生物，却不敢对自己强的动手😂😂😂 https://t.co/7njKDgDjpw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4714,
+          "following_count": 516,
+          "like_count": 5595,
+          "listed_count": 5,
+          "media_count": 278,
+          "tweet_count": 2095
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

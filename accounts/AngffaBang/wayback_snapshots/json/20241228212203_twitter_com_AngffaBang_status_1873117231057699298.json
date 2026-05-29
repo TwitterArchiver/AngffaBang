@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1873040286294946232",
+    "created_at": "2024-12-28T21:22:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T22:22:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873117231057699298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818697430248181760",
+          "start": 0,
+          "username": "YumekaAyumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873117231057699298",
+    "in_reply_to_user_id": "1818697430248181760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873040286294946232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YumekaAyumi 脾气会特别躁，然后食欲大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1873040286294946232",
+        "created_at": "2024-12-28T21:22:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T22:22:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873117231057699298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818697430248181760",
+              "start": 0,
+              "username": "YumekaAyumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873117231057699298",
+        "in_reply_to_user_id": "1818697430248181760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873040286294946232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YumekaAyumi 脾气会特别躁，然后食欲大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818697430248181760",
+        "conversation_id": "1873040286294946232",
+        "created_at": "2024-12-28T16:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T17:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873040286294946232"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1873040286294946232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近消化系统有些难受，大概是生理期要来了。你们生理期之前会感到不适吗，还是只有我这样🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2321,
+          "following_count": 483,
+          "like_count": 4185,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 1511
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T17:17:55.000Z",
+        "description": "视奸我的自觉把头打掉👁️👁️",
+        "id": "1818697430248181760",
+        "location": "三高",
+        "name": "愛島在做梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819696012434509824/stCbPrUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 456,
+          "like_count": 4955,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1802
+        },
+        "username": "YumekaAyumi",
+        "verified": false
+      }
+    ]
+  }
+}

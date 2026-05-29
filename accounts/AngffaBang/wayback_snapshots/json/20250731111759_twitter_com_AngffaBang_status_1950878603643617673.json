@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1950875794407850193",
+    "created_at": "2025-07-31T11:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T12:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950878603643617673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1654954338",
+          "start": 0,
+          "username": "jwcszxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950878603643617673",
+    "in_reply_to_user_id": "1654954338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950878093985661383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jwcszxc 我打算分手了，我受不了这种人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1950875794407850193",
+        "created_at": "2025-07-31T11:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950878603643617673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1654954338",
+              "start": 0,
+              "username": "jwcszxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950878603643617673",
+        "in_reply_to_user_id": "1654954338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950878093985661383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jwcszxc 我打算分手了，我受不了这种人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654954338",
+        "conversation_id": "1950875794407850193",
+        "created_at": "2025-07-31T11:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T12:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950878093985661383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950878093985661383",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950876903688315362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 只看到了令自己反感的点，丝毫不去关心了解深层原因，就一股脑的输出负面情绪。这样做除了让人更受伤还能怎么样呢。或许自己的负面情绪得到了发泄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5479,
+          "following_count": 525,
+          "like_count": 5812,
+          "listed_count": 5,
+          "media_count": 316,
+          "tweet_count": 2234
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-08T09:25:12.000Z",
+        "description": "极端血腥｜血液｜裂隙穿行随机刷新",
+        "id": "1654954338",
+        "location": "颅骨王座",
+        "name": "奸奇永世神选",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854404429380030464/7QOJo0zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 33,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 43
+        },
+        "username": "jwcszxc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1855602166054187371",
+    "created_at": "2024-11-11T12:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T13:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855946890744910175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845031423440531456",
+          "start": 0,
+          "username": "ElienAwAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855946890744910175",
+    "in_reply_to_user_id": "1845031423440531456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855926172506583251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElienAwAa 爱吃，但是分量太少了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1855602166054187371",
+        "created_at": "2024-11-11T12:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T13:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855946890744910175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845031423440531456",
+              "start": 0,
+              "username": "ElienAwAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855946890744910175",
+        "in_reply_to_user_id": "1845031423440531456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855926172506583251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElienAwAa 爱吃，但是分量太少了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845031423440531456",
+        "conversation_id": "1855602166054187371",
+        "created_at": "2024-11-11T10:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T11:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855926172506583251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855926172506583251",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855602166054187371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 你吃魔芋爽吗 我觉得橘色和红色的魔芋爽也非常上头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 114,
+          "like_count": 1357,
+          "listed_count": 0,
+          "tweet_count": 557
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T09:19:30.000Z",
+        "description": "你好我叫皇帝｜邪恶混乱泛性恋｜王者q区｜中辅｜诚聘靠谱王者段位游戏搭子｜我是女的 看不见吗 i am a female 私は女です 저는여자예요 Je suis une femme｜不过门不加v",
+        "id": "1845031423440531456",
+        "location": "🚪88/288/888 仅纯绿",
+        "name": "♡王者荣耀重度依赖♡",
+        "pinned_tweet_id": "1855481482451841110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855461398295490560/riE48bkU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 25,
+          "like_count": 122,
+          "listed_count": 0,
+          "tweet_count": 211
+        },
+        "username": "ElienAwAa",
+        "verified": false
+      }
+    ]
+  }
+}

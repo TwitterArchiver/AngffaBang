@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1857854579909734543",
+    "created_at": "2024-11-16T18:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T19:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857854579909734543"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1857854579909734543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "解离24小时了，我感觉下次再o要有精神分裂了。。。自己的认知有点障碍了⊙_⊙精神分裂能把我朋友分裂出来吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1857854579909734543",
+        "created_at": "2024-11-16T18:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T19:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857854579909734543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857854579909734543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解离24小时了，我感觉下次再o要有精神分裂了。。。自己的认知有点障碍了⊙_⊙精神分裂能把我朋友分裂出来吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/名字日文中译是泉！/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 184,
+          "like_count": 1665,
+          "listed_count": 0,
+          "tweet_count": 671
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

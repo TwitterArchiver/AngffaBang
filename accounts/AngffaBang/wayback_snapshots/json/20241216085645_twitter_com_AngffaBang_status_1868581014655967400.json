@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1868578576599265569",
+    "created_at": "2024-12-16T08:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T09:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868581014655967400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1544871690408443904",
+          "start": 0,
+          "username": "hahahah35550292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868581014655967400",
+    "in_reply_to_user_id": "1544871690408443904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868579361735266344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahahah35550292 搞不懂哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1868578576599265569",
+        "created_at": "2024-12-16T08:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T09:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868581014655967400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1544871690408443904",
+              "start": 0,
+              "username": "hahahah35550292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868581014655967400",
+        "in_reply_to_user_id": "1544871690408443904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868579361735266344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahahah35550292 搞不懂哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544871690408443904",
+        "conversation_id": "1868578576599265569",
+        "created_at": "2024-12-16T08:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T09:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868579361735266344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868579361735266344",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868578576599265569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 老马怎么管的这么严格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 458,
+          "like_count": 3741,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1379
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T02:31:40.000Z",
+        "description": "是個擺爛coser，喜歡lovelive，1999，薩爾達傳說。在空間偶爾營業，同好可以來互fo\nA cosplayer from HK,really like arknights and persona.",
+        "id": "1544871690408443904",
+        "location": "Hong Kong",
+        "name": "Bkorn Joe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864141527418851330/2DTyUn_5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 190,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 464
+        },
+        "username": "hahahah35550292",
+        "verified": false
+      }
+    ]
+  }
+}

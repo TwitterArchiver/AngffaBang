@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1858188548584923422",
+    "created_at": "2024-11-17T19:37:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T20:37:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858233126906179947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1832834649493762048",
+          "start": 0,
+          "username": "1n_fhtagn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858233126906179947",
+    "in_reply_to_user_id": "1832834649493762048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858188548584923422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1n_fhtagn 啦啦啦啦啦，😋嗑药最爽了，建政跟我没一点关系也改变不了什么，自己又没有牛子🥺那我就嗑药👿大嗑特嗑，把自己嗑傻😍割手只会让我清醒，那我还是沉浸在世界不真实嗑药的解离感里吧😋啦啦啦啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1858188548584923422",
+        "created_at": "2024-11-17T19:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T20:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858233126906179947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1832834649493762048",
+              "start": 0,
+              "username": "1n_fhtagn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858233126906179947",
+        "in_reply_to_user_id": "1832834649493762048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858188548584923422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1n_fhtagn 啦啦啦啦啦，😋嗑药最爽了，建政跟我没一点关系也改变不了什么，自己又没有牛子🥺那我就嗑药👿大嗑特嗑，把自己嗑傻😍割手只会让我清醒，那我还是沉浸在世界不真实嗑药的解离感里吧😋啦啦啦啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1858188547116945408"
+          ]
+        },
+        "author_id": "1832834649493762048",
+        "conversation_id": "1858188548584923422",
+        "created_at": "2024-11-17T16:40:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T17:40:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858188548584923422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858188548584923422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果只能选一个，你会每天做哪一个呢？\n来看看推友平均水平😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/名字日文中译是泉！/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 196,
+          "like_count": 1770,
+          "listed_count": 0,
+          "tweet_count": 698
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-08T17:34:06.000Z",
+        "description": "杀了我吧\n歌颂我吧\n让我死吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Yukiwasaoisnowlotus.com",
+                "end": 23,
+                "expanded_url": "http://www.Yukiwasaoisnowlotus.com",
+                "start": 0,
+                "url": "https://t.co/jJB9Fhi4cr"
+              }
+            ]
+          }
+        },
+        "id": "1832834649493762048",
+        "location": "荒野",
+        "name": "雪山葵",
+        "pinned_tweet_id": "1858153225872097286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836095193231290368/FGX84gmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1313,
+          "following_count": 973,
+          "like_count": 10057,
+          "listed_count": 1,
+          "tweet_count": 2881
+        },
+        "url": "https://t.co/jJB9Fhi4cr",
+        "username": "1n_fhtagn",
+        "verified": false
+      }
+    ]
+  }
+}

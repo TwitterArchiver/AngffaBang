@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1882051236486361337",
+    "created_at": "2025-01-22T16:53:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T17:53:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882109333645017349"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1882109333645017349",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882051236486361337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起我已经删帖了，我没想到自己的一时吐槽会闹得这么大，我知道我没错，但是我想平复这个事情，很抱歉占用大家的资源了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1882051236486361337",
+        "created_at": "2025-01-22T16:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T17:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882109333645017349"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882109333645017349",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882051236486361337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起我已经删帖了，我没想到自己的一时吐槽会闹得这么大，我知道我没错，但是我想平复这个事情，很抱歉占用大家的资源了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1882051236486361337",
+        "created_at": "2025-01-22T13:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T14:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882051236486361337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882051236486361337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 52751,
+          "like_count": 173,
+          "quote_count": 0,
+          "reply_count": 72,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想删帖了，我怕了，有很多人骂我，我是不是把这事情闹大了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 120,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 97,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3610,
+          "following_count": 499,
+          "like_count": 4802,
+          "listed_count": 6,
+          "media_count": 192,
+          "tweet_count": 1733
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

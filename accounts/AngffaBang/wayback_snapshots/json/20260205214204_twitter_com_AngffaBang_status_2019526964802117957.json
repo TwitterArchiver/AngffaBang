@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019526952760266752"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2019526964802117957",
+    "created_at": "2026-02-05T21:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T22:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019526964802117957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYi8e6tX4n",
+          "end": 35,
+          "expanded_url": "https://x.com/AngffaBang/status/2019526964802117957/photo/1",
+          "media_key": "3_2019526952760266752",
+          "start": 12,
+          "url": "https://t.co/IYi8e6tX4n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019526964802117957",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在照样能买到普瑞巴林 https://t.co/IYi8e6tX4n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2019526952760266752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAbNEEmaUAAAYcG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019526952760266752"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2019526964802117957",
+        "created_at": "2026-02-05T21:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019526964802117957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYi8e6tX4n",
+              "end": 35,
+              "expanded_url": "https://x.com/AngffaBang/status/2019526964802117957/photo/1",
+              "media_key": "3_2019526952760266752",
+              "start": 12,
+              "url": "https://t.co/IYi8e6tX4n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019526964802117957",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在照样能买到普瑞巴林 https://t.co/IYi8e6tX4n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7142,
+          "following_count": 608,
+          "like_count": 6164,
+          "listed_count": 5,
+          "media_count": 450,
+          "tweet_count": 2692
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1927596789013582258",
+    "created_at": "2025-05-28T05:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T06:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927600998576505246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "758296624875446272",
+          "start": 0,
+          "username": "ShimonaChan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927600998576505246",
+    "in_reply_to_user_id": "758296624875446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927600361348452553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShimonaChan 这种人真的很恶心，我老是动不动就遇到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1927596789013582258",
+        "created_at": "2025-05-28T05:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927600998576505246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "ShimonaChan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927600998576505246",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927600361348452553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShimonaChan 这种人真的很恶心，我老是动不动就遇到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "758296624875446272",
+        "conversation_id": "1927596789013582258",
+        "created_at": "2025-05-28T05:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T06:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927600361348452553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927600361348452553",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927596789013582258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 摸摸小泉qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4668,
+          "following_count": 513,
+          "like_count": 5593,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 2079
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "眠るのが好き…",
+        "id": "758296624875446272",
+        "location": "別看，看了會死",
+        "name": "Shimona",
+        "pinned_tweet_id": "1915837945178951857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923325303193296896/3M20fT_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27398,
+          "following_count": 3482,
+          "like_count": 9551,
+          "listed_count": 27,
+          "media_count": 4073,
+          "tweet_count": 27034
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      }
+    ]
+  }
+}

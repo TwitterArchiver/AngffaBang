@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1932632596175016344",
+    "created_at": "2025-06-11T05:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-11T06:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932667603253862590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1408785570860474373",
+          "start": 0,
+          "username": "JlinwJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932667603253862590",
+    "in_reply_to_user_id": "1408785570860474373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932667522836549851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JlinwJ 给直男改造"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1932632596175016344",
+        "created_at": "2025-06-11T05:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932667603253862590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1408785570860474373",
+              "start": 0,
+              "username": "JlinwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932667603253862590",
+        "in_reply_to_user_id": "1408785570860474373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932667522836549851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JlinwJ 给直男改造"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408785570860474373",
+        "conversation_id": "1932632596175016344",
+        "created_at": "2025-06-11T05:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-11T06:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932667522836549851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932667522836549851",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932632596175016344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 那这个小泉很坏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4715,
+          "following_count": 511,
+          "like_count": 5656,
+          "listed_count": 5,
+          "media_count": 287,
+          "tweet_count": 2126
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T13:54:08.000Z",
+        "description": "ciallo～",
+        "id": "1408785570860474373",
+        "name": "JlinwJJ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868659339122331648/3pLXehJZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 160,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 405
+        },
+        "username": "JlinwJ",
+        "verified": false
+      }
+    ]
+  }
+}

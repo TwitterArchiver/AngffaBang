@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1862299340259434865",
+    "created_at": "2024-11-29T01:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T02:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862301974827520217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1776950428162297856",
+          "start": 0,
+          "username": "kuangrezhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862301974827520217",
+    "in_reply_to_user_id": "1776950428162297856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862301225536168008",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuangrezhi 没事，精神上变得温暖了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1862299340259434865",
+        "created_at": "2024-11-29T01:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T02:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862301974827520217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776950428162297856",
+              "start": 0,
+              "username": "kuangrezhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862301974827520217",
+        "in_reply_to_user_id": "1776950428162297856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862301225536168008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuangrezhi 没事，精神上变得温暖了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776950428162297856",
+        "conversation_id": "1862299340259434865",
+        "created_at": "2024-11-29T01:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T02:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862301225536168008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862301225536168008",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862299340259434865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 围上48小时后身体变得跟周围环境一样冷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 382,
+          "like_count": 2887,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1151
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T12:29:41.000Z",
+        "description": "传奇疯狗领域活佛，农药化肥能材兵击铁条健身大练功中级高手，擅种大苞米耍棒剑长剑日本刀画小人写作民俗人类学下咒方人，前原始主义基督佛教徒穆斯林撒旦教老道楚人巫觋轮子传武气功老嗨，上山下乡星露谷实践进厂工屌大健身黑皮快打田野调查老资历，已缓刑释放",
+        "id": "1776950428162297856",
+        "location": "蚌埠自由邦",
+        "name": "无神论",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776950689232515072/GsR5_Bhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 24,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 203
+        },
+        "username": "kuangrezhi",
+        "verified": false
+      }
+    ]
+  }
+}

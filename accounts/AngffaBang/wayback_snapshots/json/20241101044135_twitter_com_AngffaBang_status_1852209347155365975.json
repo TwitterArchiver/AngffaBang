@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1851930832006746308",
+    "created_at": "2024-11-01T04:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T05:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852209347155365975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1731670068189114368",
+          "start": 0,
+          "username": "Oori_TW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852209347155365975",
+    "in_reply_to_user_id": "1731670068189114368",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852090456835756433",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oori_TW (˵¯͒〰¯͒˵)谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1851930832006746308",
+        "created_at": "2024-11-01T04:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T05:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852209347155365975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1731670068189114368",
+              "start": 0,
+              "username": "Oori_TW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852209347155365975",
+        "in_reply_to_user_id": "1731670068189114368",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852090456835756433",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oori_TW (˵¯͒〰¯͒˵)谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731670068189114368",
+        "conversation_id": "1851930832006746308",
+        "created_at": "2024-10-31T20:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T21:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852090456835756433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852090456835756433",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851930832006746308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 美哭了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘\n/发推写日记的哪天死了还证明存在过🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 71,
+          "like_count": 778,
+          "listed_count": 0,
+          "tweet_count": 431
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T13:42:14.000Z",
+        "description": "喜歡聰明的人。EN/JP/CN ｜互fo大歡迎！｜尖酸刻薄抽象ㄅ｜不鍵政｜TYVAディヴァ｜リトルライター｜ペンギンやで｜DM無視",
+        "id": "1731670068189114368",
+        "location": "My mom",
+        "name": "オオリ_ディヴァ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850151764940742656/aXoOPu-W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 254,
+          "like_count": 13794,
+          "listed_count": 0,
+          "tweet_count": 1550
+        },
+        "username": "Oori_TW",
+        "verified": false
+      }
+    ]
+  }
+}

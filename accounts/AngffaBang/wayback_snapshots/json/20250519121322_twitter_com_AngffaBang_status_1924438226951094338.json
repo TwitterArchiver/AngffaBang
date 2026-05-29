@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924438223905853440"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1924431279552077919",
+    "created_at": "2025-05-19T12:13:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-19T13:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924438226951094338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1770062031762477056",
+          "start": 0,
+          "username": "kirisamexin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eMV1gjT3BV",
+          "end": 36,
+          "expanded_url": "https://x.com/AngffaBang/status/1924438226951094338/photo/1",
+          "media_key": "3_1924438223905853440",
+          "start": 13,
+          "url": "https://t.co/eMV1gjT3BV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924438226951094338",
+    "in_reply_to_user_id": "1770062031762477056",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924431614446031134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kirisamexin https://t.co/eMV1gjT3BV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 195,
+        "media_key": "3_1924438223905853440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrT6XlgXkAA-hLM.jpg",
+        "width": 200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924438223905853440"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1924431279552077919",
+        "created_at": "2025-05-19T12:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T13:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924438226951094338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1770062031762477056",
+              "start": 0,
+              "username": "kirisamexin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eMV1gjT3BV",
+              "end": 36,
+              "expanded_url": "https://x.com/AngffaBang/status/1924438226951094338/photo/1",
+              "media_key": "3_1924438223905853440",
+              "start": 13,
+              "url": "https://t.co/eMV1gjT3BV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924438226951094338",
+        "in_reply_to_user_id": "1770062031762477056",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924431614446031134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirisamexin https://t.co/eMV1gjT3BV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770062031762477056",
+        "conversation_id": "1924431279552077919",
+        "created_at": "2025-05-19T11:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T12:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924431614446031134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924431614446031134",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924431279552077919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 好吃吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4606,
+          "following_count": 514,
+          "like_count": 5505,
+          "listed_count": 5,
+          "media_count": 264,
+          "tweet_count": 2046
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T12:17:40.000Z",
+        "description": "飞吧飞吧飞向遥远的彼方纵使没有翅膀 自我阴暗面小号（也许血图警告⚠️）@shngxn226518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "shngxn226518"
+              }
+            ]
+          }
+        },
+        "id": "1770062031762477056",
+        "location": "三途川",
+        "name": "✨雾雨星✨",
+        "pinned_tweet_id": "1920416553868095871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920420124877598721/1qwExuvh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 57,
+          "like_count": 2487,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1259
+        },
+        "username": "kirisamexin",
+        "verified": false
+      }
+    ]
+  }
+}

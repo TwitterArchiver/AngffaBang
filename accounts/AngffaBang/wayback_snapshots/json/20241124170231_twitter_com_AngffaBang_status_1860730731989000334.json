@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860730727635255296",
+        "3_1860730728826494976",
+        "3_1860730728600023040",
+        "3_1860730728734179328"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860730731989000334",
+    "created_at": "2024-11-24T17:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T18:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860730731989000334"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VCHlH585kd",
+          "end": 109,
+          "expanded_url": "https://x.com/AngffaBang/status/1860730731989000334/photo/1",
+          "media_key": "3_1860730727635255296",
+          "start": 86,
+          "url": "https://t.co/VCHlH585kd"
+        },
+        {
+          "display_url": "pic.x.com/VCHlH585kd",
+          "end": 109,
+          "expanded_url": "https://x.com/AngffaBang/status/1860730731989000334/photo/1",
+          "media_key": "3_1860730728826494976",
+          "start": 86,
+          "url": "https://t.co/VCHlH585kd"
+        },
+        {
+          "display_url": "pic.x.com/VCHlH585kd",
+          "end": 109,
+          "expanded_url": "https://x.com/AngffaBang/status/1860730731989000334/photo/1",
+          "media_key": "3_1860730728600023040",
+          "start": 86,
+          "url": "https://t.co/VCHlH585kd"
+        },
+        {
+          "display_url": "pic.x.com/VCHlH585kd",
+          "end": 109,
+          "expanded_url": "https://x.com/AngffaBang/status/1860730731989000334/photo/1",
+          "media_key": "3_1860730728734179328",
+          "start": 86,
+          "url": "https://t.co/VCHlH585kd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860730731989000334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.带身份，身份证~\n2.陪伴！\n3.我不会反感和我交朋友的\n4.我可是有保护欲的女孩子，喜欢的类型肯定是餐券男！（长得像个人）或者是和我很相似的男生！(˵¯͒〰¯͒˵) https://t.co/VCHlH585kd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 547,
+        "media_key": "3_1860730727635255296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKkvPtagAAGqIU.jpg",
+        "width": 1063
+      },
+      {
+        "height": 558,
+        "media_key": "3_1860730728826494976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKkvUJbYAAqYIt.jpg",
+        "width": 1080
+      },
+      {
+        "height": 587,
+        "media_key": "3_1860730728600023040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKkvTTbsAAsccg.jpg",
+        "width": 1058
+      },
+      {
+        "height": 563,
+        "media_key": "3_1860730728734179328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdKkvTzawAAhBWH.jpg",
+        "width": 1065
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860730727635255296",
+            "3_1860730728826494976",
+            "3_1860730728600023040",
+            "3_1860730728734179328"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860730731989000334",
+        "created_at": "2024-11-24T17:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T18:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860730731989000334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VCHlH585kd",
+              "end": 109,
+              "expanded_url": "https://x.com/AngffaBang/status/1860730731989000334/photo/1",
+              "media_key": "3_1860730727635255296",
+              "start": 86,
+              "url": "https://t.co/VCHlH585kd"
+            },
+            {
+              "display_url": "pic.x.com/VCHlH585kd",
+              "end": 109,
+              "expanded_url": "https://x.com/AngffaBang/status/1860730731989000334/photo/1",
+              "media_key": "3_1860730728826494976",
+              "start": 86,
+              "url": "https://t.co/VCHlH585kd"
+            },
+            {
+              "display_url": "pic.x.com/VCHlH585kd",
+              "end": 109,
+              "expanded_url": "https://x.com/AngffaBang/status/1860730731989000334/photo/1",
+              "media_key": "3_1860730728600023040",
+              "start": 86,
+              "url": "https://t.co/VCHlH585kd"
+            },
+            {
+              "display_url": "pic.x.com/VCHlH585kd",
+              "end": 109,
+              "expanded_url": "https://x.com/AngffaBang/status/1860730731989000334/photo/1",
+              "media_key": "3_1860730728734179328",
+              "start": 86,
+              "url": "https://t.co/VCHlH585kd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860730731989000334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.带身份，身份证~\n2.陪伴！\n3.我不会反感和我交朋友的\n4.我可是有保护欲的女孩子，喜欢的类型肯定是餐券男！（长得像个人）或者是和我很相似的男生！(˵¯͒〰¯͒˵) https://t.co/VCHlH585kd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 333,
+          "like_count": 2444,
+          "listed_count": 0,
+          "tweet_count": 980
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860265664579273082",
+    "created_at": "2024-11-23T14:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T15:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860334405853806917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1751778601416970240",
+          "start": 0,
+          "username": "Alexzander57276"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860334405853806917",
+    "in_reply_to_user_id": "1751778601416970240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860308046775484929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexzander57276 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860265664579273082",
+        "created_at": "2024-11-23T14:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T15:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860334405853806917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1751778601416970240",
+              "start": 0,
+              "username": "Alexzander57276"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860334405853806917",
+        "in_reply_to_user_id": "1751778601416970240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860308046775484929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexzander57276 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751778601416970240",
+        "conversation_id": "1860265664579273082",
+        "created_at": "2024-11-23T13:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T14:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860308046775484929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860308046775484929",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860265664579273082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 很有氛围感的美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 284,
+          "like_count": 2332,
+          "listed_count": 0,
+          "tweet_count": 926
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-29T01:25:56.000Z",
+        "description": "吾心吾行澄如明镜",
+        "id": "1751778601416970240",
+        "name": "杰哥",
+        "pinned_tweet_id": "1762455130795061731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762448674276425728/jZmfLXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 47,
+          "like_count": 3048,
+          "listed_count": 0,
+          "tweet_count": 2081
+        },
+        "username": "Alexzander57276",
+        "verified": false
+      }
+    ]
+  }
+}

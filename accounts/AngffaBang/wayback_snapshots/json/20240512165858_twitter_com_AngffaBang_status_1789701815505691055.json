@@ -1,0 +1,84 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1789701815505691055",
+    "created_at": "2024-05-12T16:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-12T17:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1789701815505691055"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1789701815505691055",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我妈说要是再不去上学在家当废人的话，就得把我赶出家门让我睡桥洞别回来了，之前就已经有过一次了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1789701815505691055",
+        "created_at": "2024-05-12T16:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-12T17:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789701815505691055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789701815505691055",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我妈说要是再不去上学在家当废人的话，就得把我赶出家门让我睡桥洞别回来了，之前就已经有过一次了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788281398287278083/b4Bv8a6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 12,
+          "like_count": 65,
+          "listed_count": 0,
+          "tweet_count": 39
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

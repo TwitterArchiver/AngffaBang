@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970245296535019520"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1970245306626515037",
+    "created_at": "2025-09-22T21:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T22:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970245306626515037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B61O3jLvXK",
+          "end": 31,
+          "expanded_url": "https://x.com/AngffaBang/status/1970245306626515037/photo/1",
+          "media_key": "3_1970245296535019520",
+          "start": 8,
+          "url": "https://t.co/B61O3jLvXK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970245306626515037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的没人理我吗 https://t.co/B61O3jLvXK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1970245296535019520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1e3qIxaoAAC-Y8.png",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970245296535019520"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1970245306626515037",
+        "created_at": "2025-09-22T21:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T22:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970245306626515037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B61O3jLvXK",
+              "end": 31,
+              "expanded_url": "https://x.com/AngffaBang/status/1970245306626515037/photo/1",
+              "media_key": "3_1970245296535019520",
+              "start": 8,
+              "url": "https://t.co/B61O3jLvXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970245306626515037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的没人理我吗 https://t.co/B61O3jLvXK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/中日混血/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 85,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5932,
+          "following_count": 525,
+          "like_count": 5906,
+          "listed_count": 6,
+          "media_count": 381,
+          "tweet_count": 2404
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

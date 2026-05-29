@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1987527433701220559",
+    "created_at": "2025-11-09T14:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T15:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987527433701220559"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987527433701220559",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗑药一年了，长时间愈美过量导致我精神分裂被害妄想，我搞不懂那些嗑药一年的人是怎么不精分还继续嗑药的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1987527433701220559",
+        "created_at": "2025-11-09T14:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987527433701220559"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987527433701220559",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗑药一年了，长时间愈美过量导致我精神分裂被害妄想，我搞不懂那些嗑药一年的人是怎么不精分还继续嗑药的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 91,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 68,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6937,
+          "following_count": 606,
+          "like_count": 6047,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 2489
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

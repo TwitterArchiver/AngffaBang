@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1993397977231282625",
+    "created_at": "2025-11-26T10:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993631587318354419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1663923642852610049",
+          "start": 0,
+          "username": "yyddjuebudantei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993631587318354419",
+    "in_reply_to_user_id": "1663923642852610049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993630416801288214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyddjuebudantei 你以为社区人员那么好吗，我被抛弃到社会，报j，警察叔叔就单纯调解，还说家庭纠纷他管不着，就随便劝劝，你觉得擦边会进去吗，我又不是卖淫我进去啥，社会上那么多这种家庭，社区人员难道都管吗，完全就是把这些当空气跟没看到一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1993397977231282625",
+        "created_at": "2025-11-26T10:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993631587318354419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1663923642852610049",
+              "start": 0,
+              "username": "yyddjuebudantei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993631587318354419",
+        "in_reply_to_user_id": "1663923642852610049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993630416801288214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyddjuebudantei 你以为社区人员那么好吗，我被抛弃到社会，报j，警察叔叔就单纯调解，还说家庭纠纷他管不着，就随便劝劝，你觉得擦边会进去吗，我又不是卖淫我进去啥，社会上那么多这种家庭，社区人员难道都管吗，完全就是把这些当空气跟没看到一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663923642852610049",
+        "conversation_id": "1993397977231282625",
+        "created_at": "2025-11-26T10:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993630416801288214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993630416801288214",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993627776700850613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 哦   擦边  是吧  没进去  那难绷  不过你还是没说你怎么和别人相处  你作为行为能力人  可以在你说别人对你不好的时候也说自己的反应和应对吗  你的情况没有社区人员介入是不可能的  除非你非常抵触"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6924,
+          "following_count": 610,
+          "like_count": 6059,
+          "listed_count": 5,
+          "media_count": 416,
+          "tweet_count": 2565
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T15:02:25.000Z",
+        "description": "能谤讥于市朝 闻寡人之耳者  受宫刑",
+        "id": "1663923642852610049",
+        "name": "彭博",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663923897203408896/bunZoRSg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1827
+        },
+        "username": "yyddjuebudantei",
+        "verified": false
+      }
+    ]
+  }
+}

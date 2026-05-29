@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1983371322500755924",
+    "created_at": "2025-10-30T09:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T10:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983828525993112051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828234384949891072",
+          "start": 0,
+          "username": "linglingml77780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983828525993112051",
+    "in_reply_to_user_id": "1828234384949891072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983558265972908199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linglingml77780 摆烂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1983371322500755924",
+        "created_at": "2025-10-30T09:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T10:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983828525993112051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1828234384949891072",
+              "start": 0,
+              "username": "linglingml77780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983828525993112051",
+        "in_reply_to_user_id": "1828234384949891072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983558265972908199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linglingml77780 摆烂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828234384949891072",
+        "conversation_id": "1983371322500755924",
+        "created_at": "2025-10-29T15:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T16:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983558265972908199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983558265972908199",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983371322500755924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang ……那你之后怎么？怎么活？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 103,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 80,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6042,
+          "following_count": 603,
+          "like_count": 6026,
+          "listed_count": 5,
+          "media_count": 408,
+          "tweet_count": 2475
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-27T00:53:58.000Z",
+        "description": "偶尔浏览推特，大部分时间在晚上",
+        "id": "1828234384949891072",
+        "location": "私立直江津高等学校3年1班、\n\n",
+        "name": "阿良良木历",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828234530697732096/o1RjqKNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 199,
+          "like_count": 3107,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 785
+        },
+        "username": "linglingml77780",
+        "verified": false
+      }
+    ]
+  }
+}

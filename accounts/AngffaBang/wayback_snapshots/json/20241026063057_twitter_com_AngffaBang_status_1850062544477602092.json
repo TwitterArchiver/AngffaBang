@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1850038572604358719",
+    "created_at": "2024-10-26T06:30:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T07:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850062544477602092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1536583610714640384",
+          "start": 0,
+          "username": "Princesstoast11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850062544477602092",
+    "in_reply_to_user_id": "1536583610714640384",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850038572604358719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Princesstoast11 爽了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1850038572604358719",
+        "created_at": "2024-10-26T06:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T07:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850062544477602092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1536583610714640384",
+              "start": 0,
+              "username": "Princesstoast11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850062544477602092",
+        "in_reply_to_user_id": "1536583610714640384",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850038572604358719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Princesstoast11 爽了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536583610714640384",
+        "conversation_id": "1850038572604358719",
+        "created_at": "2024-10-26T04:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T05:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850038572604358719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850038572604358719",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1918,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我老觉得你们长头像那样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP\n无人在意的猪头肉\n发推写日记的，哪天死了还证明存在过🌿🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Minato-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821612885929553924/p43vvaTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 36,
+          "like_count": 585,
+          "listed_count": 0,
+          "tweet_count": 335
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-14T05:37:45.000Z",
+        "description": "说谢谢了吗 提问在https://t.co/GCUwp11wvT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/undefined",
+                "end": 32,
+                "expanded_url": "https://ngl.link/undefined",
+                "start": 9,
+                "url": "https://t.co/GCUwp11wvT"
+              }
+            ]
+          }
+        },
+        "id": "1536583610714640384",
+        "location": "吉娃娃坚定拥护者",
+        "name": "洗袜袜",
+        "pinned_tweet_id": "1846172516932600090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847294583400755200/egDwWtmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3131,
+          "following_count": 621,
+          "like_count": 26192,
+          "listed_count": 21,
+          "tweet_count": 26259
+        },
+        "username": "Princesstoast11",
+        "verified": false
+      }
+    ]
+  }
+}

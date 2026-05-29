@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2008935215969013909",
+    "created_at": "2026-01-08T11:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T12:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009227674674426019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1741057507089657857",
+          "start": 0,
+          "username": "CaffeineOverlor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009227674674426019",
+    "in_reply_to_user_id": "1741057507089657857",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009171543851721123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CaffeineOverlor 我这是日系妆容🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2008935215969013909",
+        "created_at": "2026-01-08T11:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009227674674426019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1741057507089657857",
+              "start": 0,
+              "username": "CaffeineOverlor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009227674674426019",
+        "in_reply_to_user_id": "1741057507089657857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009171543851721123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CaffeineOverlor 我这是日系妆容🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741057507089657857",
+        "conversation_id": "2008935215969013909",
+        "created_at": "2026-01-08T07:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009171543851721123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009171543851721123",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008935215969013909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 有妆容教程吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7038,
+          "following_count": 603,
+          "like_count": 6057,
+          "listed_count": 5,
+          "media_count": 436,
+          "tweet_count": 2623
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:24:11.000Z",
+        "description": "by the way",
+        "id": "1741057507089657857",
+        "name": "真璃🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741078562885795840/TddT0JtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 8,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "username": "CaffeineOverlor",
+        "verified": false
+      }
+    ]
+  }
+}

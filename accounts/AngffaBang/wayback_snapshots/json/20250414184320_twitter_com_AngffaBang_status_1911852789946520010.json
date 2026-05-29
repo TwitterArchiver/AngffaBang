@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1911142898391007398",
+    "created_at": "2025-04-14T18:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T19:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911852789946520010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1810060676322451457",
+          "start": 0,
+          "username": "zhangxiaozhou0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911852789946520010",
+    "in_reply_to_user_id": "1810060676322451457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911839538525425732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangxiaozhou0 😭我除了o现实完全不知道如何寻找快乐，我太孤僻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1911142898391007398",
+        "created_at": "2025-04-14T18:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T19:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911852789946520010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810060676322451457",
+              "start": 0,
+              "username": "zhangxiaozhou0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911852789946520010",
+        "in_reply_to_user_id": "1810060676322451457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911839538525425732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangxiaozhou0 😭我除了o现实完全不知道如何寻找快乐，我太孤僻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810060676322451457",
+        "conversation_id": "1911142898391007398",
+        "created_at": "2025-04-14T17:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T18:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911839538525425732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911839538525425732",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911142898391007398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang ？你不是不o了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 116,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 93,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477,
+          "following_count": 517,
+          "like_count": 5316,
+          "listed_count": 5,
+          "media_count": 234,
+          "tweet_count": 1963
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T21:17:57.000Z",
+        "description": "是個死人",
+        "id": "1810060676322451457",
+        "location": "陕西",
+        "name": "张小粥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815348678372298752/2oSOO8G3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 81,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 65
+        },
+        "username": "zhangxiaozhou0",
+        "verified": false
+      }
+    ]
+  }
+}

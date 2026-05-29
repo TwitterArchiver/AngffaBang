@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1858190515944276139",
+    "created_at": "2024-11-17T17:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T18:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858193879142727794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1836691093775368192",
+          "start": 0,
+          "username": "wzj1213"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858193879142727794",
+    "in_reply_to_user_id": "1836691093775368192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858192232723124337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzj1213 我在湖南不出门，我感觉可能是昨天被子太薄着凉了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1858190515944276139",
+        "created_at": "2024-11-17T17:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T18:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858193879142727794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1836691093775368192",
+              "start": 0,
+              "username": "wzj1213"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858193879142727794",
+        "in_reply_to_user_id": "1836691093775368192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858192232723124337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzj1213 我在湖南不出门，我感觉可能是昨天被子太薄着凉了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836691093775368192",
+        "conversation_id": "1858190515944276139",
+        "created_at": "2024-11-17T16:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T17:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858192232723124337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858192232723124337",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858191618819727809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 有些先是嗓子疼，然后直接步入重感冒，发烧全身无力，你不会在广东吧，那边又开始冒病毒了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/名字日文中译是泉！/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 197,
+          "like_count": 1753,
+          "listed_count": 0,
+          "tweet_count": 694
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T08:57:46.000Z",
+        "description": "我♂的，02谈过俩，一个算了第一个不说，一个没未始这也不说了都是痛，嘴笨（童子身）纯爱，我真的还能坚持吗？喜欢：运动，听歌，阴阳师，讨论国家大事（欣赏女性人体艺术）你们👀什么男人本色\n匿名提问：https://t.co/OIp92z8rWz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wzj1213",
+                "end": 120,
+                "expanded_url": "https://ngl.link/wzj1213",
+                "start": 97,
+                "url": "https://t.co/OIp92z8rWz"
+              }
+            ]
+          }
+        },
+        "id": "1836691093775368192",
+        "location": "心灰意冷的地方",
+        "name": "闭嘴的咸鱼",
+        "pinned_tweet_id": "1857713550808199503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857330251342422016/uG5nExs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 161,
+          "like_count": 2071,
+          "listed_count": 0,
+          "tweet_count": 658
+        },
+        "username": "wzj1213",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1864146498243395607",
+    "created_at": "2024-12-04T03:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T04:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864147457032040831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757148144738123776",
+          "start": 0,
+          "username": "zyl1518124"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864147457032040831",
+    "in_reply_to_user_id": "1757148144738123776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864147017179779205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyl1518124 会爆浆超级恶心，但不过蜘蛛是益虫我就把它赶出房间让它继续在我家吃昆虫啦٩(๑^o^๑)۶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1864146498243395607",
+        "created_at": "2024-12-04T03:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T04:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864147457032040831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757148144738123776",
+              "start": 0,
+              "username": "zyl1518124"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864147457032040831",
+        "in_reply_to_user_id": "1757148144738123776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864147017179779205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyl1518124 会爆浆超级恶心，但不过蜘蛛是益虫我就把它赶出房间让它继续在我家吃昆虫啦٩(๑^o^๑)۶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757148144738123776",
+        "conversation_id": "1864146498243395607",
+        "created_at": "2024-12-04T03:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T04:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864147017179779205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864147017179779205",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864146498243395607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 把這個副本boss打了，\n看看爆什麼裝備¯⁠\\⁠_⁠༼⁠ᴼ⁠ل͜⁠ᴼ⁠༽⁠_⁠/⁠¯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 401,
+          "like_count": 3169,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1246
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T21:02:30.000Z",
+        "description": "ENFP-T🎲 桌游爱好者 | 🎶 音乐探索者 | ☕ 随性漫游者\n\n在骰子与卡牌的世界中，我找到乐趣；在旋律与节拍中，我寻找灵感。爱好闲逛，寻找创意与美好瞬间。让我们一起分享游戏的策略、音乐的节拍，和生活的点滴！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zyl1518124",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zyl1518124",
+                "start": 0,
+                "url": "https://t.co/qUsOw3WiAq"
+              }
+            ]
+          }
+        },
+        "id": "1757148144738123776",
+        "location": "卡里姆多",
+        "name": "zyl",
+        "pinned_tweet_id": "1863798544077066729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860802474233528320/UC7eaYgN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 193,
+          "like_count": 2339,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2634
+        },
+        "url": "https://t.co/qUsOw3WiAq",
+        "username": "zyl1518124",
+        "verified": false
+      }
+    ]
+  }
+}

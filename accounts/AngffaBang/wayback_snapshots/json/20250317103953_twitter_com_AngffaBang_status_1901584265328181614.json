@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1901581975456272716",
+    "created_at": "2025-03-17T10:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T11:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901584265328181614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1552339082889789446",
+          "start": 0,
+          "username": "SnAuFlat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901584265328181614",
+    "in_reply_to_user_id": "1552339082889789446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901583077454819777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnAuFlat 好难戒啊，生活没有希望"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1901581975456272716",
+        "created_at": "2025-03-17T10:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T11:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901584265328181614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552339082889789446",
+              "start": 0,
+              "username": "SnAuFlat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901584265328181614",
+        "in_reply_to_user_id": "1552339082889789446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901583077454819777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnAuFlat 好难戒啊，生活没有希望"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552339082889789446",
+        "conversation_id": "1901581975456272716",
+        "created_at": "2025-03-17T10:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T11:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901583077454819777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901583077454819777",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901581975456272716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 快戒了啊😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 524,
+          "like_count": 5304,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 1897
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T17:04:32.000Z",
+        "description": "「Анархия-мама за нас!」\n/我先投降主義🏳️🏳️\n/奇異搞笑一般通過左b\n/法烏克斯最優質的戰士\n/♿奧利安費♿主義\n/小帳@SnAuFlat_Kaiser \n/fumo： @miyuki_114 \n/窩的好朋朋：@CoolJX4 \n/limSir：@liminfin\n視成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "SnAuFlat_Kaiser"
+              },
+              {
+                "end": 108,
+                "start": 97,
+                "username": "miyuki_114"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "CoolJX4"
+              },
+              {
+                "end": 144,
+                "start": 135,
+                "username": "liminfin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/SnAuFlat",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/SnAuFlat",
+                "start": 0,
+                "url": "https://t.co/wCURv76pNh"
+              }
+            ]
+          }
+        },
+        "id": "1552339082889789446",
+        "location": "廣西自由地區-南寧公社",
+        "name": "SnAuFlat•Rheinland",
+        "pinned_tweet_id": "1896961785128956254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873806130264051712/07FI5ZSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 618,
+          "like_count": 66458,
+          "listed_count": 2,
+          "media_count": 1677,
+          "tweet_count": 7325
+        },
+        "url": "https://t.co/wCURv76pNh",
+        "username": "SnAuFlat",
+        "verified": false
+      }
+    ]
+  }
+}

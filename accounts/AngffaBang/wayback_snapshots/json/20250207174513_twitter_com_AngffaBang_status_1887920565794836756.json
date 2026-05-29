@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1887920565794836756",
+    "created_at": "2025-02-07T17:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T18:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1887920565794836756"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1887920565794836756",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😞我不想把负能量带给大家，我想诉说出我的问题，让我自己舒服点\n  我听医生的话好好吃药了，好处就是被害妄想没有了，门外也没有人敲门了\n  但是我还是一直解离，解离到时间认知错乱，为什么吃药不能阻止解离，我又要去医院问医生的话我已经没有钱了，上次花了600把我的存款都花完了😭💔医院太花钱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1887920565794836756",
+        "created_at": "2025-02-07T17:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T18:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887920565794836756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887920565794836756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😞我不想把负能量带给大家，我想诉说出我的问题，让我自己舒服点\n  我听医生的话好好吃药了，好处就是被害妄想没有了，门外也没有人敲门了\n  但是我还是一直解离，解离到时间认知错乱，为什么吃药不能阻止解离，我又要去医院问医生的话我已经没有钱了，上次花了600把我的存款都花完了😭💔医院太花钱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4403,
+          "following_count": 524,
+          "like_count": 5094,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 1841
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

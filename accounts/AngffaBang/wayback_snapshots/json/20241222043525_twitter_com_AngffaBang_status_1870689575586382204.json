@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1870670523350606109",
+    "created_at": "2024-12-22T04:35:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-22T05:35:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870689575586382204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1447496226174238728",
+          "start": 0,
+          "username": "ISSAO_CYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870689575586382204",
+    "in_reply_to_user_id": "1447496226174238728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870674985045659738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ISSAO_CYK 不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1870670523350606109",
+        "created_at": "2024-12-22T04:35:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T05:35:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870689575586382204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1447496226174238728",
+              "start": 0,
+              "username": "ISSAO_CYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870689575586382204",
+        "in_reply_to_user_id": "1447496226174238728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870674985045659738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ISSAO_CYK 不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1447496226174238728",
+        "conversation_id": "1870670523350606109",
+        "created_at": "2024-12-22T03:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T04:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870674985045659738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870674985045659738",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870670523350606109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 我主頁很少看到吔\n簡中推特是什麼情況…（？？？）\n🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 477,
+          "like_count": 4014,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 1472
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:36:31.000Z",
+        "description": "歷史迷、軍事迷兼業餘社評員。\n國際戰略與情事分析室（虛構，簡稱ISSAO）組長、SCP基金會下轄Epsilon-11「九尾妖狐」部隊隊長、CCP Insult Agents（虛構，簡稱CIA）特工",
+        "id": "1447496226174238728",
+        "location": "ISSAO組長辦公室",
+        "name": "YK C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866844273221701638/LFaBMetG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 1158,
+          "like_count": 23934,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 4817
+        },
+        "username": "ISSAO_CYK",
+        "verified": false
+      }
+    ]
+  }
+}

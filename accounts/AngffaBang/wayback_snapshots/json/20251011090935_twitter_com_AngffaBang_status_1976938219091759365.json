@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1976917122380185628",
+    "created_at": "2025-10-11T09:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T10:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976938219091759365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886242726242639872",
+          "start": 0,
+          "username": "cat_coke_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976938219091759365",
+    "in_reply_to_user_id": "1886242726242639872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976931523745267768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cat_coke_cat 没感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1976917122380185628",
+        "created_at": "2025-10-11T09:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T10:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976938219091759365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886242726242639872",
+              "start": 0,
+              "username": "cat_coke_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976938219091759365",
+        "in_reply_to_user_id": "1886242726242639872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976931523745267768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cat_coke_cat 没感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886242726242639872",
+        "conversation_id": "1976917122380185628",
+        "created_at": "2025-10-11T08:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T09:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976931523745267768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976931523745267768",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976917122380185628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 看起来就好痛..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/中日混血/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 85,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5865,
+          "following_count": 528,
+          "like_count": 5945,
+          "listed_count": 6,
+          "media_count": 397,
+          "tweet_count": 2439
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T02:38:24.000Z",
+        "description": "来自中国大连的初中生，各位多多关照\n希望被fo，想要交更多的朋友\n爱人：@Believer_TERD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 36,
+                "username": "Believer_TERD"
+              }
+            ]
+          }
+        },
+        "id": "1886242726242639872",
+        "location": "桥洞下",
+        "name": "蕾米莉亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886242884464381952/xHJv7s4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 164,
+          "like_count": 1174,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 305
+        },
+        "username": "cat_coke_cat",
+        "verified": false
+      }
+    ]
+  }
+}

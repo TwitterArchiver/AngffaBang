@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1887744127053537634",
+    "created_at": "2025-02-07T06:18:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T07:18:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887747719915327575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664859019830517760",
+          "start": 0,
+          "username": "kagurazakachiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887747719915327575",
+    "in_reply_to_user_id": "1664859019830517760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887744724100128847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakachiyo 🥺因为喜欢可爱的东西嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1887744127053537634",
+        "created_at": "2025-02-07T06:18:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:18:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887747719915327575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664859019830517760",
+              "start": 0,
+              "username": "kagurazakachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887747719915327575",
+        "in_reply_to_user_id": "1664859019830517760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887744724100128847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakachiyo 🥺因为喜欢可爱的东西嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664859019830517760",
+        "conversation_id": "1887744127053537634",
+        "created_at": "2025-02-07T06:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887744724100128847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887744724100128847",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887744127053537634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 字体好违和😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4406,
+          "following_count": 524,
+          "like_count": 5092,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 1838
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T04:58:45.000Z",
+        "description": "🥺",
+        "id": "1664859019830517760",
+        "name": "神楽坂千代🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816712967162925056/QM2X2ZK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 1914,
+          "like_count": 12855,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 2377
+        },
+        "username": "kagurazakachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

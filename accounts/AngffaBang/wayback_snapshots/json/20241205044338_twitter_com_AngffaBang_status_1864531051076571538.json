@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864531046374756352",
+        "3_1864531047842762752",
+        "3_1864531047196839936",
+        "3_1864531048278921216"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1864531051076571538",
+    "created_at": "2024-12-05T04:43:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T05:43:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1864531051076571538"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D22tQQg4r7",
+          "end": 84,
+          "expanded_url": "https://x.com/AngffaBang/status/1864531051076571538/photo/1",
+          "media_key": "3_1864531046374756352",
+          "start": 61,
+          "url": "https://t.co/D22tQQg4r7"
+        },
+        {
+          "display_url": "pic.x.com/D22tQQg4r7",
+          "end": 84,
+          "expanded_url": "https://x.com/AngffaBang/status/1864531051076571538/photo/1",
+          "media_key": "3_1864531047842762752",
+          "start": 61,
+          "url": "https://t.co/D22tQQg4r7"
+        },
+        {
+          "display_url": "pic.x.com/D22tQQg4r7",
+          "end": 84,
+          "expanded_url": "https://x.com/AngffaBang/status/1864531051076571538/photo/1",
+          "media_key": "3_1864531047196839936",
+          "start": 61,
+          "url": "https://t.co/D22tQQg4r7"
+        },
+        {
+          "display_url": "pic.x.com/D22tQQg4r7",
+          "end": 84,
+          "expanded_url": "https://x.com/AngffaBang/status/1864531051076571538/photo/1",
+          "media_key": "3_1864531048278921216",
+          "start": 61,
+          "url": "https://t.co/D22tQQg4r7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864531051076571538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.诶？好多口（自己看字有点抽象）\n2.姐姐是贝利亚👿\n3.超级强，强到想要对方只有我一个最好的朋友\n4.(*^ω^*) https://t.co/D22tQQg4r7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 775,
+        "media_key": "3_1864531046374756352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeAlG6Pa0AA6uHu.png",
+        "width": 1080
+      },
+      {
+        "height": 484,
+        "media_key": "3_1864531047842762752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeAlG_ta0AAtmhM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 491,
+        "media_key": "3_1864531047196839936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeAlG9Ta0AAOGgj.jpg",
+        "width": 1080
+      },
+      {
+        "height": 484,
+        "media_key": "3_1864531048278921216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeAlHBVaEAAdU28.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864531046374756352",
+            "3_1864531047842762752",
+            "3_1864531047196839936",
+            "3_1864531048278921216"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1864531051076571538",
+        "created_at": "2024-12-05T04:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T05:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864531051076571538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D22tQQg4r7",
+              "end": 84,
+              "expanded_url": "https://x.com/AngffaBang/status/1864531051076571538/photo/1",
+              "media_key": "3_1864531046374756352",
+              "start": 61,
+              "url": "https://t.co/D22tQQg4r7"
+            },
+            {
+              "display_url": "pic.x.com/D22tQQg4r7",
+              "end": 84,
+              "expanded_url": "https://x.com/AngffaBang/status/1864531051076571538/photo/1",
+              "media_key": "3_1864531047842762752",
+              "start": 61,
+              "url": "https://t.co/D22tQQg4r7"
+            },
+            {
+              "display_url": "pic.x.com/D22tQQg4r7",
+              "end": 84,
+              "expanded_url": "https://x.com/AngffaBang/status/1864531051076571538/photo/1",
+              "media_key": "3_1864531047196839936",
+              "start": 61,
+              "url": "https://t.co/D22tQQg4r7"
+            },
+            {
+              "display_url": "pic.x.com/D22tQQg4r7",
+              "end": 84,
+              "expanded_url": "https://x.com/AngffaBang/status/1864531051076571538/photo/1",
+              "media_key": "3_1864531048278921216",
+              "start": 61,
+              "url": "https://t.co/D22tQQg4r7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864531051076571538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.诶？好多口（自己看字有点抽象）\n2.姐姐是贝利亚👿\n3.超级强，强到想要对方只有我一个最好的朋友\n4.(*^ω^*) https://t.co/D22tQQg4r7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 405,
+          "like_count": 3233,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1267
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

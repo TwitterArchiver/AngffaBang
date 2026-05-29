@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1862498500296286620",
+    "created_at": "2024-11-29T17:23:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T18:23:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862547995868504414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1236256819556651008",
+          "start": 0,
+          "username": "Shinoda_Tsumune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862547995868504414",
+    "in_reply_to_user_id": "1236256819556651008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862498500296286620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shinoda_Tsumune 平行世界继续活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1862498500296286620",
+        "created_at": "2024-11-29T17:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T18:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862547995868504414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1236256819556651008",
+              "start": 0,
+              "username": "Shinoda_Tsumune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862547995868504414",
+        "in_reply_to_user_id": "1236256819556651008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862498500296286620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shinoda_Tsumune 平行世界继续活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236256819556651008",
+        "conversation_id": "1862498500296286620",
+        "created_at": "2024-11-29T14:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T15:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862498500296286620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862498500296286620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1345,
+          "like_count": 46,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家觉得人死了之后会去哪里呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 385,
+          "like_count": 2945,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1180
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-07T11:47:48.000Z",
+        "description": "",
+        "id": "1236256819556651008",
+        "name": "つむね",
+        "pinned_tweet_id": "1852008192160747697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859607107991228416/eifR5S94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 761,
+          "like_count": 7426,
+          "listed_count": 15,
+          "media_count": 2,
+          "tweet_count": 4
+        },
+        "username": "Shinoda_Tsumune",
+        "verified": false
+      }
+    ]
+  }
+}

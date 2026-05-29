@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1930198508893810691"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1930173265571656130",
+    "created_at": "2025-06-04T09:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T10:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930198519819968872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1805216480398819329",
+          "start": 0,
+          "username": "bu_ti49967"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kxFTXGJiKV",
+          "end": 35,
+          "expanded_url": "https://x.com/AngffaBang/status/1930198519819968872/photo/1",
+          "media_key": "3_1930198508893810691",
+          "start": 12,
+          "url": "https://t.co/kxFTXGJiKV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930198519819968872",
+    "in_reply_to_user_id": "1805216480398819329",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930198396654235822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bu_ti49967 https://t.co/kxFTXGJiKV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2177,
+        "media_key": "3_1930198508893810691",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GslxUTSasAMFp_S.jpg",
+        "width": 2177
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930198508893810691"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1930173265571656130",
+        "created_at": "2025-06-04T09:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T10:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930198519819968872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805216480398819329",
+              "start": 0,
+              "username": "bu_ti49967"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxFTXGJiKV",
+              "end": 35,
+              "expanded_url": "https://x.com/AngffaBang/status/1930198519819968872/photo/1",
+              "media_key": "3_1930198508893810691",
+              "start": 12,
+              "url": "https://t.co/kxFTXGJiKV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930198519819968872",
+        "in_reply_to_user_id": "1805216480398819329",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930198396654235822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bu_ti49967 https://t.co/kxFTXGJiKV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1805216480398819329",
+        "conversation_id": "1930173265571656130",
+        "created_at": "2025-06-04T09:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-04T10:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930198396654235822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930198396654235822",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930173265571656130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4713,
+          "following_count": 517,
+          "like_count": 5608,
+          "listed_count": 5,
+          "media_count": 281,
+          "tweet_count": 2104
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T12:29:19.000Z",
+        "description": "无论我们自由与否，在有限的条件下努力让自己获得无限的成长总是对的。Whether we are free or not, it is always right to strive to achieve unlimited growth under limited conditions.美股基金 ‖ 二级 ‖ 投资实习生",
+        "id": "1805216480398819329",
+        "name": "乌萨奇不吃蟑螂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916417515204509696/wnSQ8QtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 23,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "username": "bu_ti49967",
+        "verified": false
+      }
+    ]
+  }
+}

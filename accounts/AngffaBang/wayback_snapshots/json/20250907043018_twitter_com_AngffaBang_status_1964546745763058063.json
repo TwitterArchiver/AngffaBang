@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1964313560517124406",
+    "created_at": "2025-09-07T04:30:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T05:30:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964546745763058063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801847638414819328",
+          "start": 0,
+          "username": "miomiomio519107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964546745763058063",
+    "in_reply_to_user_id": "1801847638414819328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964313560517124406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miomiomio519107 有点像韩国欧巴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1964313509728235520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Kkus7aMAA_8Zm.jpg",
+        "width": 720
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1964313509690478592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0KkusyaEAANPP8.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1384,
+        "media_key": "3_1964313552359161856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0KkxLvagAAZ54c.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1964313560517124406",
+        "created_at": "2025-09-07T04:30:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T05:30:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964546745763058063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801847638414819328",
+              "start": 0,
+              "username": "miomiomio519107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964546745763058063",
+        "in_reply_to_user_id": "1801847638414819328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964313560517124406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miomiomio519107 有点像韩国欧巴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964313509728235520",
+            "3_1964313509690478592",
+            "3_1964313552359161856"
+          ]
+        },
+        "author_id": "1801847638414819328",
+        "conversation_id": "1964313560517124406",
+        "created_at": "2025-09-06T13:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T14:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964313560517124406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CDROva5GWn",
+              "end": 44,
+              "expanded_url": "https://x.com/miomiomio519107/status/1964313560517124406/photo/1",
+              "media_key": "3_1964313509728235520",
+              "start": 21,
+              "url": "https://t.co/CDROva5GWn"
+            },
+            {
+              "display_url": "pic.x.com/CDROva5GWn",
+              "end": 44,
+              "expanded_url": "https://x.com/miomiomio519107/status/1964313560517124406/photo/1",
+              "media_key": "3_1964313509690478592",
+              "start": 21,
+              "url": "https://t.co/CDROva5GWn"
+            },
+            {
+              "display_url": "pic.x.com/CDROva5GWn",
+              "end": 44,
+              "expanded_url": "https://x.com/miomiomio519107/status/1964313560517124406/photo/1",
+              "media_key": "3_1964313552359161856",
+              "start": 21,
+              "url": "https://t.co/CDROva5GWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964313560517124406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 953,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "p1理发前，p2准备剪的发型，p3理发后 https://t.co/CDROva5GWn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5879,
+          "following_count": 521,
+          "like_count": 5856,
+          "listed_count": 6,
+          "media_count": 363,
+          "tweet_count": 2359
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T05:22:18.000Z",
+        "description": "四级我被你干死了",
+        "id": "1801847638414819328",
+        "location": "🚪52纯绿无朋友圈",
+        "name": "miomio（养胃版）",
+        "pinned_tweet_id": "1921866609821372528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801848056544985088/CQ2GTiQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 38,
+          "like_count": 5376,
+          "listed_count": 4,
+          "media_count": 7,
+          "tweet_count": 2039
+        },
+        "username": "miomiomio519107",
+        "verified": false
+      }
+    ]
+  }
+}

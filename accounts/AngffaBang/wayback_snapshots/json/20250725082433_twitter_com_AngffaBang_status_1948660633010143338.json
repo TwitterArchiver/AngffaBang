@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1941840053774553332",
+    "created_at": "2025-07-25T08:24:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T09:24:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948660633010143338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1933212664131629056",
+          "start": 0,
+          "username": "xuan_gao80760"
+        },
+        {
+          "end": 26,
+          "id": "1929600667670466560",
+          "start": 15,
+          "username": "yagami0208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948660633010143338",
+    "in_reply_to_user_id": "1933212664131629056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946895432996806700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuan_gao80760 @yagami0208 p丑图也看不出你也是神人了 你这种人一般几把用不了几下就废掉了 你女朋友也是眼睛瞎了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1941840053774553332",
+        "created_at": "2025-07-25T08:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T09:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948660633010143338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933212664131629056",
+              "start": 0,
+              "username": "xuan_gao80760"
+            },
+            {
+              "end": 26,
+              "id": "1929600667670466560",
+              "start": 15,
+              "username": "yagami0208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948660633010143338",
+        "in_reply_to_user_id": "1933212664131629056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946895432996806700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuan_gao80760 @yagami0208 p丑图也看不出你也是神人了 你这种人一般几把用不了几下就废掉了 你女朋友也是眼睛瞎了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933212664131629056",
+        "conversation_id": "1941840053774553332",
+        "created_at": "2025-07-20T11:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T12:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946895432996806700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929600667670466560",
+              "start": 0,
+              "username": "yagami0208"
+            },
+            {
+              "end": 23,
+              "id": "1730458100703064064",
+              "start": 12,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946895432996806700",
+        "in_reply_to_user_id": "1929600667670466560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944045088986083439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yagami0208 @AngffaBang 这种白给我查 我都不要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 102,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 79,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5473,
+          "following_count": 523,
+          "like_count": 5801,
+          "listed_count": 5,
+          "media_count": 315,
+          "tweet_count": 2219
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:20:12.000Z",
+        "description": "忍耐 就是想得开 挺得住😋",
+        "id": "1933212664131629056",
+        "name": "王兰傲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938175705977917443/4xo6jB_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 14
+        },
+        "username": "xuan_gao80760",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T18:07:31.000Z",
+        "description": "原神",
+        "id": "1929600667670466560",
+        "location": "刺激战场",
+        "name": "能活就活没活硬整",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929820736556093445/xQo9wcpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 80
+        },
+        "username": "yagami0208",
+        "verified": false
+      }
+    ]
+  }
+}

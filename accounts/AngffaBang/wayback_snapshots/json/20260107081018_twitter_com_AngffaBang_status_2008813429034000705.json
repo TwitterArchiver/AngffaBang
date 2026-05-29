@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2008588540431790355",
+    "created_at": "2026-01-07T08:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T09:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008813429034000705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1448999690272268295",
+          "start": 0,
+          "username": "Prushka_OvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008813429034000705",
+    "in_reply_to_user_id": "1448999690272268295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008805385688535497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prushka_OvO 他是香港人抓不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2008588540431790355",
+        "created_at": "2026-01-07T08:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008813429034000705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448999690272268295",
+              "start": 0,
+              "username": "Prushka_OvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008813429034000705",
+        "in_reply_to_user_id": "1448999690272268295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008805385688535497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prushka_OvO 他是香港人抓不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1448999690272268295",
+        "conversation_id": "2008588540431790355",
+        "created_at": "2026-01-07T07:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008805385688535497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008805385688535497",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008588540431790355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 报警能抓他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6976,
+          "following_count": 602,
+          "like_count": 6054,
+          "listed_count": 5,
+          "media_count": 434,
+          "tweet_count": 2617
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-15T13:10:29.000Z",
+        "description": "mtf/ les/ 天津/ 世界在这里结束/ 我想把我的房子打造成避难所，所以需要人照顾的孩子，无处可去的孩子，来找我吧。",
+        "id": "1448999690272268295",
+        "name": "月涟🍥 想做庇护所",
+        "pinned_tweet_id": "2008599206920085605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776147587726532608/PDRPZmXY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 395,
+          "like_count": 6958,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 6163
+        },
+        "username": "Prushka_OvO",
+        "verified": false
+      }
+    ]
+  }
+}

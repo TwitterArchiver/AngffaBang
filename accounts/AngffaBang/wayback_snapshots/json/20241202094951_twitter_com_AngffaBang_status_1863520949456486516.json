@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1863329931108966414",
+    "created_at": "2024-12-02T09:49:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-02T10:49:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863520949456486516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1589150033571897344",
+          "start": 0,
+          "username": "Masaaki_07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863520949456486516",
+    "in_reply_to_user_id": "1589150033571897344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863399013543797195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Masaaki_07 可以啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1863329931108966414",
+        "created_at": "2024-12-02T09:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T10:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863520949456486516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1589150033571897344",
+              "start": 0,
+              "username": "Masaaki_07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863520949456486516",
+        "in_reply_to_user_id": "1589150033571897344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863399013543797195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Masaaki_07 可以啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589150033571897344",
+        "conversation_id": "1863329931108966414",
+        "created_at": "2024-12-02T01:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-02T02:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863399013543797195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863399013543797195",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863329931108966414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 以后趁你o的时候问点什么（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 387,
+          "like_count": 3024,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1208
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T06:58:33.000Z",
+        "description": "INFP/❤️ホカロ/東方/二次元/cosplay/00后/🏳️‍🌈/od/sm/郁/\n一个成天发丧无聊透顶的阴暗b/一个每天闲的要死的高三牲/一个每天都很无聊的人欢迎来打扰/看成分互fo/不键政因为闹心/网站是自己的匿名信箱攒够四张会一起回复",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/masaaki_07",
+                "end": 23,
+                "expanded_url": "https://ngl.link/masaaki_07",
+                "start": 0,
+                "url": "https://t.co/6H71wkOz3w"
+              }
+            ]
+          }
+        },
+        "id": "1589150033571897344",
+        "location": "幻想鄉",
+        "name": "慕乚",
+        "pinned_tweet_id": "1862919474682159339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859941178722189312/sKmFV2HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 768,
+          "like_count": 8016,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 275
+        },
+        "url": "https://t.co/6H71wkOz3w",
+        "username": "Masaaki_07",
+        "verified": false
+      }
+    ]
+  }
+}

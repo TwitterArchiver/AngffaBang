@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1954438100186247591",
+    "created_at": "2025-08-10T14:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T15:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954555999991521499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "820149733222006784",
+          "start": 0,
+          "username": "dlover9527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954555999991521499",
+    "in_reply_to_user_id": "820149733222006784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954528027305795832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dlover9527 暂时不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1954438100186247591",
+        "created_at": "2025-08-10T14:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T15:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954555999991521499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "820149733222006784",
+              "start": 0,
+              "username": "dlover9527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954555999991521499",
+        "in_reply_to_user_id": "820149733222006784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954528027305795832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dlover9527 暂时不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "820149733222006784",
+        "conversation_id": "1954438100186247591",
+        "created_at": "2025-08-10T12:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T13:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954528027305795832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954528027305795832",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954438100186247591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 好像刷到你了 是不是在广东啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5724,
+          "following_count": 522,
+          "like_count": 5855,
+          "listed_count": 5,
+          "media_count": 333,
+          "tweet_count": 2277
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-14T06:05:08.000Z",
+        "description": "一个有礼貌的变态",
+        "id": "820149733222006784",
+        "location": "荒野求生中",
+        "name": "D&P",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699108369515307009/53C4tvDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 929,
+          "like_count": 1867,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 1868
+        },
+        "username": "dlover9527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1887744127053537634",
+    "created_at": "2025-02-07T06:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T07:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887747617771430076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592575697028935680",
+          "start": 0,
+          "username": "starfish3125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887747617771430076",
+    "in_reply_to_user_id": "1592575697028935680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887746188507570294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starfish3125 是的，太迷信了，基本对话都对话不上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1887744127053537634",
+        "created_at": "2025-02-07T06:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887747617771430076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592575697028935680",
+              "start": 0,
+              "username": "starfish3125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887747617771430076",
+        "in_reply_to_user_id": "1592575697028935680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887746188507570294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starfish3125 是的，太迷信了，基本对话都对话不上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592575697028935680",
+        "conversation_id": "1887744127053537634",
+        "created_at": "2025-02-07T06:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T07:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887746188507570294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887746188507570294",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887744127053537634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 这种神经的迷信家长得用火烧💢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4406,
+          "following_count": 524,
+          "like_count": 5089,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 1837
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T17:50:17.000Z",
+        "description": "你好，朋友。\n这是…自我介绍。\n♂｜海星……是的…是海星｜infp｜冷漠的正论怪星｜网络社恐，不会骂人｜是海星所以没什么性别，但是♂｜喜欢游戏、书、电影、旅游、猫｜喜欢的数字是5｜（喜欢潜水盯着你们的推文发呆）｜住在现实和梦的夹层里｜有些感性、有点公式，还是个自负的讨厌鬼。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/haixing3125",
+                "end": 23,
+                "expanded_url": "https://ngl.link/haixing3125",
+                "start": 0,
+                "url": "https://t.co/mPpMW2jm3E"
+              }
+            ]
+          }
+        },
+        "id": "1592575697028935680",
+        "location": "上海",
+        "name": "海星",
+        "pinned_tweet_id": "1816995660497141801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872080191171985408/Xej1nyv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 299,
+          "like_count": 2301,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/mPpMW2jm3E",
+        "username": "starfish3125",
+        "verified": false
+      }
+    ]
+  }
+}

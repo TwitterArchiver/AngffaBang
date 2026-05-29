@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860968203280863232"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1860968213917687911",
+    "created_at": "2024-11-25T08:46:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T09:46:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860968213917687911"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j86GlUVclK",
+          "end": 36,
+          "expanded_url": "https://x.com/AngffaBang/status/1860968213917687911/photo/1",
+          "media_key": "3_1860968203280863232",
+          "start": 13,
+          "url": "https://t.co/j86GlUVclK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860968213917687911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家觉得我是那一类的人~ https://t.co/j86GlUVclK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_1860968203280863232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdN8uJbaUAASvil.jpg",
+        "width": 756
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860968203280863232"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1860968213917687911",
+        "created_at": "2024-11-25T08:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T09:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860968213917687911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j86GlUVclK",
+              "end": 36,
+              "expanded_url": "https://x.com/AngffaBang/status/1860968213917687911/photo/1",
+              "media_key": "3_1860968203280863232",
+              "start": 13,
+              "url": "https://t.co/j86GlUVclK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860968213917687911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家觉得我是那一类的人~ https://t.co/j86GlUVclK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 343,
+          "like_count": 2503,
+          "listed_count": 0,
+          "tweet_count": 997
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

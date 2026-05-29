@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1830635529245012008",
+    "created_at": "2024-09-04T17:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T18:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831389593234751765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1439483091345555456",
+          "start": 0,
+          "username": "a2061877122"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831389593234751765",
+    "in_reply_to_user_id": "1439483091345555456",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831276753052172685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2061877122 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1830635529245012008",
+        "created_at": "2024-09-04T17:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T18:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831389593234751765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1439483091345555456",
+              "start": 0,
+              "username": "a2061877122"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831389593234751765",
+        "in_reply_to_user_id": "1439483091345555456",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831276753052172685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2061877122 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439483091345555456",
+        "conversation_id": "1830635529245012008",
+        "created_at": "2024-09-04T10:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T11:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831276753052172685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831276753052172685",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830635529245012008",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 日日？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821612885929553924/p43vvaTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 31,
+          "like_count": 453,
+          "listed_count": 0,
+          "tweet_count": 341
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-19T06:55:01.000Z",
+        "description": "嘎嘎嘎",
+        "id": "1439483091345555456",
+        "name": "狗头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648723435156131840/_vRzzrEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 37,
+          "like_count": 118,
+          "listed_count": 0,
+          "tweet_count": 1084
+        },
+        "username": "a2061877122",
+        "verified": false
+      }
+    ]
+  }
+}

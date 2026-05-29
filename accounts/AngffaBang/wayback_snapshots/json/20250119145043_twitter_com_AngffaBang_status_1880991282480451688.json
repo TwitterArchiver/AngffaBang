@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1878517521898455468",
+    "created_at": "2025-01-19T14:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T15:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880991282480451688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1788950661780164608",
+          "start": 0,
+          "username": "fngdqio162266"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880991282480451688",
+    "in_reply_to_user_id": "1788950661780164608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880988227143963089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fngdqio162266 社交软件能见到吧🧐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1878517521898455468",
+        "created_at": "2025-01-19T14:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880991282480451688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1788950661780164608",
+              "start": 0,
+              "username": "fngdqio162266"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880991282480451688",
+        "in_reply_to_user_id": "1788950661780164608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880988227143963089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fngdqio162266 社交软件能见到吧🧐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1880988223780069376"
+          ]
+        },
+        "author_id": "1788950661780164608",
+        "conversation_id": "1878517521898455468",
+        "created_at": "2025-01-19T14:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T15:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880988227143963089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hF2NHPPwPr",
+              "end": 57,
+              "expanded_url": "https://x.com/fngdqio162266/status/1880988227143963089/photo/1",
+              "media_key": "3_1880988223780069376",
+              "start": 34,
+              "url": "https://t.co/hF2NHPPwPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880988227143963089",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878517521898455468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 啊？推里看到发我的世界，一度怀疑进错软件了 https://t.co/hF2NHPPwPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 489,
+          "like_count": 4685,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 1704
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T15:14:19.000Z",
+        "description": "Roblox ID:Alan",
+        "id": "1788950661780164608",
+        "name": "Cyn_71",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864298116171935744/4HViC7p4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "username": "fngdqio162266",
+        "verified": false
+      }
+    ]
+  }
+}

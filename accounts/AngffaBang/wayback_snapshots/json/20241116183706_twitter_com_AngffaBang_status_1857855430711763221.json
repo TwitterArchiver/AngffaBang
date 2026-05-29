@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1857855423887597568"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1857816233883873342",
+    "created_at": "2024-11-16T18:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T19:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857855430711763221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1711085676379471872",
+          "start": 0,
+          "username": "HZongyu44088"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jR9Oh0WGqE",
+          "end": 45,
+          "expanded_url": "https://x.com/AngffaBang/status/1857855430711763221/photo/1",
+          "media_key": "3_1857855423887597568",
+          "start": 22,
+          "url": "https://t.co/jR9Oh0WGqE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857855430711763221",
+    "in_reply_to_user_id": "1711085676379471872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857854756078891207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HZongyu44088 我把他删了下头 https://t.co/jR9Oh0WGqE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1857855423887597568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GchtqijaYAAY8J5.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857855423887597568"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1857816233883873342",
+        "created_at": "2024-11-16T18:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T19:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857855430711763221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1711085676379471872",
+              "start": 0,
+              "username": "HZongyu44088"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jR9Oh0WGqE",
+              "end": 45,
+              "expanded_url": "https://x.com/AngffaBang/status/1857855430711763221/photo/1",
+              "media_key": "3_1857855423887597568",
+              "start": 22,
+              "url": "https://t.co/jR9Oh0WGqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857855430711763221",
+        "in_reply_to_user_id": "1711085676379471872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857854756078891207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HZongyu44088 我把他删了下头 https://t.co/jR9Oh0WGqE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711085676379471872",
+        "conversation_id": "1857816233883873342",
+        "created_at": "2024-11-16T18:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T19:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857854756078891207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857854756078891207",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857816233883873342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 羡慕能扩列的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/名字日文中译是泉！/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 184,
+          "like_count": 1666,
+          "listed_count": 0,
+          "tweet_count": 672
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T18:26:43.000Z",
+        "description": "没素质的人",
+        "id": "1711085676379471872",
+        "name": "BinahZZZzzz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807824619111641088/w4FgA9Tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 247,
+          "like_count": 643,
+          "listed_count": 0,
+          "tweet_count": 318
+        },
+        "username": "HZongyu44088",
+        "verified": false
+      }
+    ]
+  }
+}

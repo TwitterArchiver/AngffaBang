@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862926953931841537",
+        "3_1862926954523197440",
+        "3_1862926955437346816",
+        "3_1862926955101769728"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1862926958872711676",
+    "created_at": "2024-11-30T18:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T19:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862926958872711676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BIV8Q6DNho",
+          "end": 109,
+          "expanded_url": "https://x.com/AngffaBang/status/1862926958872711676/photo/1",
+          "media_key": "3_1862926953931841537",
+          "start": 86,
+          "url": "https://t.co/BIV8Q6DNho"
+        },
+        {
+          "display_url": "pic.x.com/BIV8Q6DNho",
+          "end": 109,
+          "expanded_url": "https://x.com/AngffaBang/status/1862926958872711676/photo/1",
+          "media_key": "3_1862926954523197440",
+          "start": 86,
+          "url": "https://t.co/BIV8Q6DNho"
+        },
+        {
+          "display_url": "pic.x.com/BIV8Q6DNho",
+          "end": 109,
+          "expanded_url": "https://x.com/AngffaBang/status/1862926958872711676/photo/1",
+          "media_key": "3_1862926955437346816",
+          "start": 86,
+          "url": "https://t.co/BIV8Q6DNho"
+        },
+        {
+          "display_url": "pic.x.com/BIV8Q6DNho",
+          "end": 109,
+          "expanded_url": "https://x.com/AngffaBang/status/1862926958872711676/photo/1",
+          "media_key": "3_1862926955101769728",
+          "start": 86,
+          "url": "https://t.co/BIV8Q6DNho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862926958872711676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.天气之子！青春少年少女恋爱就该这么轰轰烈烈！\n2.嗯。。。没有很明确爱听的诶，但不过我比较喜欢术力口类型\n3.梦见和大叔打游戏\n4.？？？这是哪个人问的？？？我不聊黄 https://t.co/BIV8Q6DNho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 537,
+        "media_key": "3_1862926953931841537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdpyMcOboAE6Q68.jpg",
+        "width": 1062
+      },
+      {
+        "height": 514,
+        "media_key": "3_1862926954523197440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdpyMebbAAAGW9U.jpg",
+        "width": 1080
+      },
+      {
+        "height": 556,
+        "media_key": "3_1862926955437346816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdpyMh1X0AAqZN-.jpg",
+        "width": 1080
+      },
+      {
+        "height": 549,
+        "media_key": "3_1862926955101769728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdpyMglXUAAUgsX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862926953931841537",
+            "3_1862926954523197440",
+            "3_1862926955437346816",
+            "3_1862926955101769728"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1862926958872711676",
+        "created_at": "2024-11-30T18:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T19:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862926958872711676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BIV8Q6DNho",
+              "end": 109,
+              "expanded_url": "https://x.com/AngffaBang/status/1862926958872711676/photo/1",
+              "media_key": "3_1862926953931841537",
+              "start": 86,
+              "url": "https://t.co/BIV8Q6DNho"
+            },
+            {
+              "display_url": "pic.x.com/BIV8Q6DNho",
+              "end": 109,
+              "expanded_url": "https://x.com/AngffaBang/status/1862926958872711676/photo/1",
+              "media_key": "3_1862926954523197440",
+              "start": 86,
+              "url": "https://t.co/BIV8Q6DNho"
+            },
+            {
+              "display_url": "pic.x.com/BIV8Q6DNho",
+              "end": 109,
+              "expanded_url": "https://x.com/AngffaBang/status/1862926958872711676/photo/1",
+              "media_key": "3_1862926955437346816",
+              "start": 86,
+              "url": "https://t.co/BIV8Q6DNho"
+            },
+            {
+              "display_url": "pic.x.com/BIV8Q6DNho",
+              "end": 109,
+              "expanded_url": "https://x.com/AngffaBang/status/1862926958872711676/photo/1",
+              "media_key": "3_1862926955101769728",
+              "start": 86,
+              "url": "https://t.co/BIV8Q6DNho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862926958872711676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.天气之子！青春少年少女恋爱就该这么轰轰烈烈！\n2.嗯。。。没有很明确爱听的诶，但不过我比较喜欢术力口类型\n3.梦见和大叔打游戏\n4.？？？这是哪个人问的？？？我不聊黄 https://t.co/BIV8Q6DNho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 385,
+          "like_count": 2976,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1195
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

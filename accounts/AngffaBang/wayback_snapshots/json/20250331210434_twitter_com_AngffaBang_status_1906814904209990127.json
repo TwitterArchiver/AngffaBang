@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1906813584266682845",
+    "created_at": "2025-03-31T21:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T22:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906814904209990127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1675867625656840192",
+          "start": 0,
+          "username": "HSBC_HKK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906814904209990127",
+    "in_reply_to_user_id": "1675867625656840192",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906814324330594364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HSBC_HKK 🌚🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 441,
+        "media_key": "3_1906814322514493440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnZdhgoagAAkCfm.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1906813584266682845",
+        "created_at": "2025-03-31T21:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T22:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906814904209990127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1675867625656840192",
+              "start": 0,
+              "username": "HSBC_HKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906814904209990127",
+        "in_reply_to_user_id": "1675867625656840192",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906814324330594364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HSBC_HKK 🌚🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906814322514493440"
+          ]
+        },
+        "author_id": "1675867625656840192",
+        "conversation_id": "1906813584266682845",
+        "created_at": "2025-03-31T21:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T22:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906814324330594364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Iyofyns1C",
+              "end": 35,
+              "expanded_url": "https://x.com/HSBC_HKK/status/1906814324330594364/photo/1",
+              "media_key": "3_1906814322514493440",
+              "start": 12,
+              "url": "https://t.co/3Iyofyns1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906814324330594364",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906813584266682845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang https://t.co/3Iyofyns1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458,
+          "following_count": 516,
+          "like_count": 5305,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 1916
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-03T14:02:33.000Z",
+        "description": "06/上海/赛博百合mtx/INFP/吸血鬼/后现代精神病/ADHD/CS广东在读/中文.日本語",
+        "id": "1675867625656840192",
+        "name": "櫻井凛川 Ver.4.8964",
+        "pinned_tweet_id": "1898973830858829847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854830320325214211/2T95kFE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 615,
+          "like_count": 10569,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 3699
+        },
+        "username": "HSBC_HKK",
+        "verified": false
+      }
+    ]
+  }
+}

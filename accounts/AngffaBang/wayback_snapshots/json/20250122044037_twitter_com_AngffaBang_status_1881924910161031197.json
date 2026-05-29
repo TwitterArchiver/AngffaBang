@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1881924906419716096"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1881916221442170926",
+    "created_at": "2025-01-22T04:40:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T05:40:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881924910161031197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/abqtCVYSlm",
+          "end": 77,
+          "expanded_url": "https://x.com/AngffaBang/status/1881924910161031197/photo/1",
+          "media_key": "3_1881924906419716096",
+          "start": 54,
+          "url": "https://t.co/abqtCVYSlm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881924910161031197",
+    "in_reply_to_user_id": "1730458100703064064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881916221442170926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "又来了...你要不是炼铜能不能别骚扰我😅骂你一句炼铜癖你就急了，我前面都没挂你，你再骚扰我就把你曝光了好吧 https://t.co/abqtCVYSlm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_1881924906419716096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gh3wu0UbgAA6MCA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881924906419716096"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1881916221442170926",
+        "created_at": "2025-01-22T04:40:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:40:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881924910161031197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/abqtCVYSlm",
+              "end": 77,
+              "expanded_url": "https://x.com/AngffaBang/status/1881924910161031197/photo/1",
+              "media_key": "3_1881924906419716096",
+              "start": 54,
+              "url": "https://t.co/abqtCVYSlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881924910161031197",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881916221442170926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "又来了...你要不是炼铜能不能别骚扰我😅骂你一句炼铜癖你就急了，我前面都没挂你，你再骚扰我就把你曝光了好吧 https://t.co/abqtCVYSlm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881916211010928640",
+            "3_1881916218489323520"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1881916221442170926",
+        "created_at": "2025-01-22T04:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T05:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881916221442170926"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QqWRFUoqpJ",
+              "end": 131,
+              "expanded_url": "https://x.com/AngffaBang/status/1881916221442170926/photo/1",
+              "media_key": "3_1881916211010928640",
+              "start": 108,
+              "url": "https://t.co/QqWRFUoqpJ"
+            },
+            {
+              "display_url": "pic.x.com/QqWRFUoqpJ",
+              "end": 131,
+              "expanded_url": "https://x.com/AngffaBang/status/1881916221442170926/photo/1",
+              "media_key": "3_1881916218489323520",
+              "start": 108,
+              "url": "https://t.co/QqWRFUoqpJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881916221442170926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 415,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大哥，你个20多岁的入了对我15岁的小女孩有想法就离谱，你说才大五六岁，我是未成年大哥，成年人骚扰未成年，还说不是恋童癖，差这么多何况我还没成年没出过社会不是小孩是什么还疯狂加我，我拉黑一个你创个号还轰炸我空间😓😅 https://t.co/QqWRFUoqpJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2803,
+          "following_count": 491,
+          "like_count": 4756,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 1726
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

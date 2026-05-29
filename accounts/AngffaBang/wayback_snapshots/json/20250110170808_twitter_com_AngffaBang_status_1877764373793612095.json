@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1877569566320238872",
+    "created_at": "2025-01-10T17:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T18:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877764373793612095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1730497375821553664",
+          "start": 0,
+          "username": "ZhangLiber"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877764373793612095",
+    "in_reply_to_user_id": "1730497375821553664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877758250948452600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZhangLiber 大部分这一类都是回避型"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1877569566320238872",
+        "created_at": "2025-01-10T17:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T18:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877764373793612095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730497375821553664",
+              "start": 0,
+              "username": "ZhangLiber"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877764373793612095",
+        "in_reply_to_user_id": "1730497375821553664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877758250948452600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZhangLiber 大部分这一类都是回避型"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730497375821553664",
+        "conversation_id": "1877569566320238872",
+        "created_at": "2025-01-10T16:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T17:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877758250948452600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877758250948452600",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877569566320238872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 原生家庭不好缺爱的就是了（也不一定原生家庭不好才缺爱，也有被霸凌什么的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 481,
+          "like_count": 4425,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 1613
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T08:01:52.000Z",
+        "description": "Ciallo～(/・ω^ )⌒☆",
+        "id": "1730497375821553664",
+        "location": "我是你爹",
+        "name": "zhang Libert",
+        "pinned_tweet_id": "1731355075552129482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784620911980642304/VS3MAJ01_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 156,
+          "like_count": 1224,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 83
+        },
+        "username": "ZhangLiber",
+        "verified": false
+      }
+    ]
+  }
+}

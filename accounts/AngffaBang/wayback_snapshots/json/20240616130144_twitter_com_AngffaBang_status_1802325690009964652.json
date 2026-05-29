@@ -1,0 +1,124 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1802325680082022400"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1802325690009964652",
+    "created_at": "2024-06-16T13:01:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T14:01:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1802325690009964652"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/c5zI2tN96y",
+          "end": 30,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1802325690009964652/photo/1",
+          "media_key": "3_1802325680082022400",
+          "start": 7,
+          "url": "https://t.co/c5zI2tN96y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802325690009964652",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "jk是真好看 https://t.co/c5zI2tN96y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1802325680082022400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GQMlqCracAASvtk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802325680082022400"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1802325690009964652",
+        "created_at": "2024-06-16T13:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T14:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1802325690009964652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/c5zI2tN96y",
+              "end": 30,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1802325690009964652/photo/1",
+              "media_key": "3_1802325680082022400",
+              "start": 7,
+              "url": "https://t.co/c5zI2tN96y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802325690009964652",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "jk是真好看 https://t.co/c5zI2tN96y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796844774978412544/nuLP0jQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 33,
+          "like_count": 352,
+          "listed_count": 0,
+          "tweet_count": 251
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

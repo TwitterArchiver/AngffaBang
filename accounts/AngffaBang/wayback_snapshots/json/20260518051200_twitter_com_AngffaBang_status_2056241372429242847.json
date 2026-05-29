@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2055619279303987635",
+    "created_at": "2026-05-18T05:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056241372429242847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "830659836924694528",
+          "start": 0,
+          "username": "m26iza"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056241372429242847",
+    "in_reply_to_user_id": "830659836924694528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055750908131291544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m26iza 其他医院抢不到号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2055619279303987635",
+        "created_at": "2026-05-18T05:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056241372429242847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "830659836924694528",
+              "start": 0,
+              "username": "m26iza"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056241372429242847",
+        "in_reply_to_user_id": "830659836924694528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055750908131291544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m26iza 其他医院抢不到号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830659836924694528",
+        "conversation_id": "2055619279303987635",
+        "created_at": "2026-05-16T20:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T21:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055750908131291544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055750908131291544",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055619279303987635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 全世界只有这一家医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8086,
+          "following_count": 616,
+          "like_count": 6480,
+          "listed_count": 7,
+          "media_count": 513,
+          "tweet_count": 2932
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-12T06:08:32.000Z",
+        "description": "梧桐枝丫疯长，爱意贯穿心脏 ——《某某》",
+        "id": "830659836924694528",
+        "name": "Line.10🏳️‍⚧️",
+        "pinned_tweet_id": "2052774956845723871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052799119480193024/u2YDFDTW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 871,
+          "like_count": 13729,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 1193
+        },
+        "username": "m26iza",
+        "verified": false
+      }
+    ]
+  }
+}

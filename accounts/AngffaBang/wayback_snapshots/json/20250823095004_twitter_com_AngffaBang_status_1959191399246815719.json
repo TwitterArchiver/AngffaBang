@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1959144245564252353",
+    "created_at": "2025-08-23T09:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T10:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959191399246815719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1935719415175372801",
+          "start": 0,
+          "username": "qikiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959191399246815719",
+    "in_reply_to_user_id": "1935719415175372801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959180653049598342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikiqwq 私密马赛！我现在开搜索了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1959144245564252353",
+        "created_at": "2025-08-23T09:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T10:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959191399246815719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1935719415175372801",
+              "start": 0,
+              "username": "qikiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959191399246815719",
+        "in_reply_to_user_id": "1935719415175372801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959180653049598342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikiqwq 私密马赛！我现在开搜索了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935719415175372801",
+        "conversation_id": "1959144245564252353",
+        "created_at": "2025-08-23T09:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T10:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959180653049598342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959180653049598342",
+        "in_reply_to_user_id": "1935719415175372801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959149546874847571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 但是搜了一下午没搜到号。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5831,
+          "following_count": 521,
+          "like_count": 5869,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 2298
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T15:21:07.000Z",
+        "description": "Just want to be myself 喵~\n\n（🏳️‍⚧🍥简介在置顶🍥🏳️‍⚧）\n\n介里是记录qiki在成为真正的自己道路上的地方呀，qiki又傻又笨，希望可以和大家一起和谐相处呀，愿每个小蛋糕都能被温柔以待呢~希望大家不要od，不要紫砂。。（半个家长党）",
+        "id": "1935719415175372801",
+        "name": "qiki🏳️‍⚧🍥",
+        "pinned_tweet_id": "1936111039776534570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942107708976488448/ijqrPhOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 278,
+          "like_count": 287,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 405
+        },
+        "username": "qikiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

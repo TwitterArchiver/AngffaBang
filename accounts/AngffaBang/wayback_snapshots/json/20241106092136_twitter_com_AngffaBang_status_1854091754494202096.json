@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1853999235164782815",
+    "created_at": "2024-11-06T09:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T10:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854091754494202096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1818168257985359872",
+          "start": 0,
+          "username": "teriteri12year"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854091754494202096",
+    "in_reply_to_user_id": "1818168257985359872",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853999235164782815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@teriteri12year 互fo呀喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1853999235164782815",
+        "created_at": "2024-11-06T09:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T10:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854091754494202096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1818168257985359872",
+              "start": 0,
+              "username": "teriteri12year"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854091754494202096",
+        "in_reply_to_user_id": "1818168257985359872",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853999235164782815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teriteri12year 互fo呀喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818168257985359872",
+        "conversation_id": "1853999235164782815",
+        "created_at": "2024-11-06T03:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T04:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853999235164782815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_SANSAN33_/sta…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/_SANSAN33_/status/1853451546861994122",
+              "start": 102,
+              "url": "https://t.co/G0IIftku5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853999235164782815",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 728,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853451546861994122",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人可以和我互fo吗，好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo🥺🥺🥺🥺🥺 https://t.co/G0IIftku5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 104,
+          "like_count": 1191,
+          "listed_count": 0,
+          "tweet_count": 512
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T06:14:41.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bh3.com",
+                "end": 23,
+                "expanded_url": "http://bh3.com",
+                "start": 0,
+                "url": "https://t.co/nk9uYTewyj"
+              }
+            ]
+          }
+        },
+        "id": "1818168257985359872",
+        "location": "长庚-启明",
+        "name": "繁星",
+        "pinned_tweet_id": "1847435676306067478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850452754415722496/llAE6B-c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 80,
+          "like_count": 591,
+          "listed_count": 0,
+          "tweet_count": 1032
+        },
+        "url": "https://t.co/nk9uYTewyj",
+        "username": "teriteri12year",
+        "verified": false
+      }
+    ]
+  }
+}

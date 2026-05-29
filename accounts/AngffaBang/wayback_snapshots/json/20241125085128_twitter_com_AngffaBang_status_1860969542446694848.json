@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1860969539510640640",
+        "3_1860969539485528064",
+        "3_1860969539053428736"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860969542446694848",
+    "created_at": "2024-11-25T08:51:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T09:51:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1860969542446694848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RNvL0DAbpi",
+          "end": 63,
+          "expanded_url": "https://x.com/AngffaBang/status/1860969542446694848/photo/1",
+          "media_key": "3_1860969539510640640",
+          "start": 40,
+          "url": "https://t.co/RNvL0DAbpi"
+        },
+        {
+          "display_url": "pic.x.com/RNvL0DAbpi",
+          "end": 63,
+          "expanded_url": "https://x.com/AngffaBang/status/1860969542446694848/photo/1",
+          "media_key": "3_1860969539485528064",
+          "start": 40,
+          "url": "https://t.co/RNvL0DAbpi"
+        },
+        {
+          "display_url": "pic.x.com/RNvL0DAbpi",
+          "end": 63,
+          "expanded_url": "https://x.com/AngffaBang/status/1860969542446694848/photo/1",
+          "media_key": "3_1860969539053428736",
+          "start": 40,
+          "url": "https://t.co/RNvL0DAbpi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860969542446694848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.v这位文字型50RMB\n2.谢谢关心~我会一直开心的🥰\n3.我的朋友？诶？ https://t.co/RNvL0DAbpi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 536,
+        "media_key": "3_1860969539510640640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdN977RaoAAWTZT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 564,
+        "media_key": "3_1860969539485528064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdN977LbcAA_JTk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 508,
+        "media_key": "3_1860969539053428736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdN975kaIAAupfK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860969539510640640",
+            "3_1860969539485528064",
+            "3_1860969539053428736"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860969542446694848",
+        "created_at": "2024-11-25T08:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T09:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860969542446694848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNvL0DAbpi",
+              "end": 63,
+              "expanded_url": "https://x.com/AngffaBang/status/1860969542446694848/photo/1",
+              "media_key": "3_1860969539510640640",
+              "start": 40,
+              "url": "https://t.co/RNvL0DAbpi"
+            },
+            {
+              "display_url": "pic.x.com/RNvL0DAbpi",
+              "end": 63,
+              "expanded_url": "https://x.com/AngffaBang/status/1860969542446694848/photo/1",
+              "media_key": "3_1860969539485528064",
+              "start": 40,
+              "url": "https://t.co/RNvL0DAbpi"
+            },
+            {
+              "display_url": "pic.x.com/RNvL0DAbpi",
+              "end": 63,
+              "expanded_url": "https://x.com/AngffaBang/status/1860969542446694848/photo/1",
+              "media_key": "3_1860969539053428736",
+              "start": 40,
+              "url": "https://t.co/RNvL0DAbpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860969542446694848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.v这位文字型50RMB\n2.谢谢关心~我会一直开心的🥰\n3.我的朋友？诶？ https://t.co/RNvL0DAbpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 343,
+          "like_count": 2504,
+          "listed_count": 0,
+          "tweet_count": 998
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

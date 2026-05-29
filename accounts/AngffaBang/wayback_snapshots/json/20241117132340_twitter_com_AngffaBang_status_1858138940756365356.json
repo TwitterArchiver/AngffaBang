@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1857438899997688147",
+    "created_at": "2024-11-17T13:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T14:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858138940756365356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1618606580731183105",
+          "start": 0,
+          "username": "Truth_teller_15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858138940756365356",
+    "in_reply_to_user_id": "1618606580731183105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858138123513090123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Truth_teller_15 原来如此呢(;｀O´)o没事的有好朋友一起玩也很快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1857438899997688147",
+        "created_at": "2024-11-17T13:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T14:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858138940756365356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1618606580731183105",
+              "start": 0,
+              "username": "Truth_teller_15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858138940756365356",
+        "in_reply_to_user_id": "1618606580731183105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858138123513090123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Truth_teller_15 原来如此呢(;｀O´)o没事的有好朋友一起玩也很快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618606580731183105",
+        "conversation_id": "1857438899997688147",
+        "created_at": "2024-11-17T13:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T14:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858138123513090123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858138123513090123",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858134359737262378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 因为家里不管我吧，上次和父亲在手机上联络还是八月份。里边凡是有关朋友的都是出cos认识的。正经的同学基本没有联系过，毕业就删了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/名字日文中译是泉！/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 198,
+          "like_count": 1738,
+          "listed_count": 0,
+          "tweet_count": 683
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T13:48:28.000Z",
+        "description": "世界已经够乱了。被夸能开心一整天，所以遇到能夸的事就多夸夸吧！",
+        "id": "1618606580731183105",
+        "name": "回到过去看大象",
+        "pinned_tweet_id": "1837474325840224611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849399512886030336/s-KIk4gA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 52,
+          "like_count": 109,
+          "listed_count": 0,
+          "tweet_count": 341
+        },
+        "username": "Truth_teller_15",
+        "verified": false
+      }
+    ]
+  }
+}

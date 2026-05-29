@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955529438697082880"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1955529452575924295",
+    "created_at": "2025-08-13T07:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T08:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955529452575924295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E7o1nfeIPW",
+          "end": 26,
+          "expanded_url": "https://x.com/AngffaBang/status/1955529452575924295/photo/1",
+          "media_key": "3_1955529438697082880",
+          "start": 3,
+          "url": "https://t.co/E7o1nfeIPW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955529452575924295",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嘻嘻 https://t.co/E7o1nfeIPW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1955529438697082880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyNvqeVb0AAkHTt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955529438697082880"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1955529452575924295",
+        "created_at": "2025-08-13T07:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955529452575924295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E7o1nfeIPW",
+              "end": 26,
+              "expanded_url": "https://x.com/AngffaBang/status/1955529452575924295/photo/1",
+              "media_key": "3_1955529438697082880",
+              "start": 3,
+              "url": "https://t.co/E7o1nfeIPW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955529452575924295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘻嘻 https://t.co/E7o1nfeIPW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5728,
+          "following_count": 521,
+          "like_count": 5861,
+          "listed_count": 5,
+          "media_count": 336,
+          "tweet_count": 2283
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

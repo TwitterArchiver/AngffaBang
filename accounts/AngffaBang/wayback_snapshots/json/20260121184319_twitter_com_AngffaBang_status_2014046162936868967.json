@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2013694839272144903",
+    "created_at": "2026-01-21T18:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T19:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014046162936868967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1897275526559272960",
+          "start": 0,
+          "username": "nenno5"
+        },
+        {
+          "end": 20,
+          "id": "1773373364716859393",
+          "start": 8,
+          "username": "QwQkia_1143"
+        },
+        {
+          "end": 31,
+          "id": "1847025525610762240",
+          "start": 21,
+          "username": "KS_Nitori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014046162936868967",
+    "in_reply_to_user_id": "1897275526559272960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014027750290735229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nenno5 @QwQkia_1143 @KS_Nitori 想死不拦你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-21T18:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014046162936868967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1897275526559272960",
+              "start": 0,
+              "username": "nenno5"
+            },
+            {
+              "end": 20,
+              "id": "1773373364716859393",
+              "start": 8,
+              "username": "QwQkia_1143"
+            },
+            {
+              "end": 31,
+              "id": "1847025525610762240",
+              "start": 21,
+              "username": "KS_Nitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014046162936868967",
+        "in_reply_to_user_id": "1897275526559272960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014027750290735229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nenno5 @QwQkia_1143 @KS_Nitori 想死不拦你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897275526559272960",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-21T17:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T18:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014027750290735229"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1773373364716859393",
+              "start": 0,
+              "username": "QwQkia_1143"
+            },
+            {
+              "end": 24,
+              "id": "1730458100703064064",
+              "start": 13,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 35,
+              "id": "1847025525610762240",
+              "start": 25,
+              "username": "KS_Nitori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014027750290735229",
+        "in_reply_to_user_id": "1773373364716859393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014023415594697094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QwQkia_1143 @AngffaBang @KS_Nitori 我6t150磨粉都没事 除了耳鸣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7151,
+          "following_count": 601,
+          "like_count": 6119,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 2668
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T13:18:40.000Z",
+        "description": "",
+        "id": "1897275526559272960",
+        "name": "nenno5",
+        "pinned_tweet_id": "2013545978700407234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976265190426673152/tItBsDCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 88,
+          "like_count": 18751,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 418
+        },
+        "username": "nenno5",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-28T15:35:50.000Z",
+        "description": "（日记本）广告自辨 本人只有这一个x账号 其他的都是盗图 广告自辨 广告自辨不要再问蠢蠢的问题了 广告自辨！",
+        "id": "1773373364716859393",
+        "location": "广告自辨",
+        "name": "Ninety-seven QwQiiiik",
+        "pinned_tweet_id": "1973752245276815532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923673668984414208/JxWjgBue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67276,
+          "following_count": 131,
+          "like_count": 1320,
+          "listed_count": 86,
+          "media_count": 126,
+          "tweet_count": 1012
+        },
+        "username": "QwQkia_1143",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/k_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/k_nitori",
+                "start": 0,
+                "url": "https://t.co/8rmha2lEIU"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "location": "Xi'an, Shaanxi, China",
+        "name": "_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008188563092049923/XJF7Zd3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 1715,
+          "like_count": 11578,
+          "listed_count": 3,
+          "media_count": 151,
+          "tweet_count": 2218
+        },
+        "url": "https://t.co/8rmha2lEIU",
+        "username": "KS_Nitori",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1796826909659332938",
+    "created_at": "2024-06-01T19:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T20:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796991710008123583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597921077539250176",
+          "start": 0,
+          "username": "jinzhibanyun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796991710008123583",
+    "in_reply_to_user_id": "1597921077539250176",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796826909659332938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinzhibanyun 我嘞个骚刚，你怎么知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1796826909659332938",
+        "created_at": "2024-06-01T19:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T20:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796991710008123583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597921077539250176",
+              "start": 0,
+              "username": "jinzhibanyun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796991710008123583",
+        "in_reply_to_user_id": "1597921077539250176",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796826909659332938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinzhibanyun 我嘞个骚刚，你怎么知道"
+      },
+      {
+        "attachments": {},
+        "author_id": "1597921077539250176",
+        "conversation_id": "1796826909659332938",
+        "created_at": "2024-06-01T08:51:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T09:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796826909659332938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796826909659332938",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 27556,
+          "like_count": 383,
+          "quote_count": 9,
+          "reply_count": 26,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "xp是稍微一逗就会害羞耳朵红的严肃古板眼镜男这很难理解吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796844774978412544/nuLP0jQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 33,
+          "like_count": 243,
+          "listed_count": 0,
+          "tweet_count": 199
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T11:50:56.000Z",
+        "description": "平时会写点原创第二人称乙向小段子，但吃的超杂会随便磕点cp，各种性向都有，请自行避雷。本人非常平和无雷点，原创内容可以代你喜欢的任何人。（禁止代入现实后说教）（禁止搬运）（禁止无授权扩写改写，尤其禁止改编成男性向）（不鉴证！）",
+        "id": "1597921077539250176",
+        "name": "six77（禁止搬运改写）",
+        "pinned_tweet_id": "1734530242776367486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796216466796433408/wLHfgMjj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49168,
+          "following_count": 834,
+          "like_count": 1277,
+          "listed_count": 85,
+          "tweet_count": 3805
+        },
+        "username": "jinzhibanyun",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1968587168822988855",
+    "created_at": "2025-09-18T19:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T20:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968753008637829228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1827661586871562241",
+          "start": 0,
+          "username": "1C0NGT0U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968753008637829228",
+    "in_reply_to_user_id": "1827661586871562241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968672923478077941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1C0NGT0U 呜呜呜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1968672923478077941].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1968672923478077941",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1968672923478077941"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1968587168822988855",
+        "created_at": "2025-09-18T19:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T20:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968753008637829228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1827661586871562241",
+              "start": 0,
+              "username": "1C0NGT0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968753008637829228",
+        "in_reply_to_user_id": "1827661586871562241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968672923478077941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1C0NGT0U 呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/中日混血/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 108,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 85,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5873,
+          "following_count": 525,
+          "like_count": 5904,
+          "listed_count": 7,
+          "media_count": 378,
+          "tweet_count": 2395
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-25T10:57:58.000Z",
+        "description": "这是小号‖大号@TKongtou‖用来发牢骚发东西，我不知道简介写点什么好‖来找我玩玩吧，悲号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "TKongtou"
+              }
+            ]
+          }
+        },
+        "id": "1827661586871562241",
+        "name": "1C0NGT0U",
+        "pinned_tweet_id": "1848000991578452355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890702639262031872/rWumbGpg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 61,
+          "like_count": 1645,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 484
+        },
+        "username": "1C0NGT0U",
+        "verified": false
+      }
+    ]
+  }
+}

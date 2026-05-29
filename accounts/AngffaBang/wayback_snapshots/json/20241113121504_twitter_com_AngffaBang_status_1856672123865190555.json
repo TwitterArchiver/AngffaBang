@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1856339248330486096",
+    "created_at": "2024-11-13T12:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T13:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856672123865190555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1594239419032010752",
+          "start": 0,
+          "username": "Mamun_Alvin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856672123865190555",
+    "in_reply_to_user_id": "1594239419032010752",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856671588613005722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mamun_Alvin thank you！o(＊＾▽＾＊)o♪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1856339248330486096",
+        "created_at": "2024-11-13T12:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T13:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856672123865190555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1594239419032010752",
+              "start": 0,
+              "username": "Mamun_Alvin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856672123865190555",
+        "in_reply_to_user_id": "1594239419032010752",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856671588613005722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mamun_Alvin thank you！o(＊＾▽＾＊)o♪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594239419032010752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1856339248330486096",
+        "created_at": "2024-11-13T12:12:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T13:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856671588613005722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856671588613005722",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856670706387567013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang you are joking right 😶\nyou are looking like princess doll \nyou are looking anime girls🫢😶‍🌫️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 126,
+          "like_count": 1473,
+          "listed_count": 0,
+          "tweet_count": 590
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T08:01:44.000Z",
+        "description": "💗I'm Muslim☪️ Alhamdulillah😊\n私の名前: MAMUN\n年齢: (18)\n私は高校生です\nバングラデシュ出身です🇧🇩\n友達を作るのが大好きです🫂😇✨\n私はアニメが大好きです😌👀",
+        "id": "1594239419032010752",
+        "location": "Bangladesh",
+        "name": "愛ᴏʙɪᴛᴏメᴜᴄʜɪʜᴀᵀᴼᴮᴵ (____﷽____)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829877315989618696/s6DXaL6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 241,
+          "like_count": 1609,
+          "listed_count": 5,
+          "tweet_count": 1043
+        },
+        "username": "Mamun_Alvin",
+        "verified": false
+      }
+    ]
+  }
+}

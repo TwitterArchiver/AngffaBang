@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1918846087491715128",
+    "created_at": "2025-05-04T12:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T13:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919002418710458778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1486968452296298497",
+          "start": 0,
+          "username": "chenxianyin1410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919002418710458778",
+    "in_reply_to_user_id": "1486968452296298497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918940618010882259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenxianyin1410 会的🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1918846087491715128",
+        "created_at": "2025-05-04T12:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T13:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919002418710458778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1486968452296298497",
+              "start": 0,
+              "username": "chenxianyin1410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919002418710458778",
+        "in_reply_to_user_id": "1486968452296298497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918940618010882259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenxianyin1410 会的🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486968452296298497",
+        "conversation_id": "1918846087491715128",
+        "created_at": "2025-05-04T08:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T09:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918940618010882259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918940618010882259",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918846087491715128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 宝宝我亲亲它它会立起来吗🥵🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 115,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 92,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4504,
+          "following_count": 516,
+          "like_count": 5375,
+          "listed_count": 5,
+          "media_count": 252,
+          "tweet_count": 2018
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-28T07:44:58.000Z",
+        "description": "我推：果茶和芋泥麻薯奶茶。\n里推：熟人可以给🥹🥹🥹",
+        "id": "1486968452296298497",
+        "location": "Hong Kong",
+        "name": "芋泥麻薯豆乳奶盖大王",
+        "pinned_tweet_id": "1901159105659891891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902220917981495296/-9IfcgrK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 5998,
+          "like_count": 17667,
+          "listed_count": 10,
+          "media_count": 425,
+          "tweet_count": 2388
+        },
+        "username": "chenxianyin1410",
+        "verified": false
+      }
+    ]
+  }
+}

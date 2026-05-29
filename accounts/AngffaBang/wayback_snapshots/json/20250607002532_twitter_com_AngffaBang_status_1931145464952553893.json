@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1930769004215558523",
+    "created_at": "2025-06-07T00:25:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-07T01:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931145464952553893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1929600667670466560",
+          "start": 0,
+          "username": "yagami0208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931145464952553893",
+    "in_reply_to_user_id": "1929600667670466560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931025941834473686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yagami0208 不知道反正我去了没开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1930769004215558523",
+        "created_at": "2025-06-07T00:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-07T01:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931145464952553893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1929600667670466560",
+              "start": 0,
+              "username": "yagami0208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931145464952553893",
+        "in_reply_to_user_id": "1929600667670466560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931025941834473686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yagami0208 不知道反正我去了没开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929600667670466560",
+        "conversation_id": "1930769004215558523",
+        "created_at": "2025-06-06T16:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-06T17:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931025941834473686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931025941834473686",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930769004215558523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 男娘咖啡厅到底在哪😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4718,
+          "following_count": 513,
+          "like_count": 5648,
+          "listed_count": 5,
+          "media_count": 283,
+          "tweet_count": 2115
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T18:07:31.000Z",
+        "description": "哈基米叮咚鸡哪路多萨斯给原神启动\n骂我我会爽\n加我微信免费，删我微信前转五十\n想到什么发什么",
+        "id": "1929600667670466560",
+        "location": "刺激战场",
+        "name": "能活就活没活硬整",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929820736556093445/xQo9wcpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 4,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 43
+        },
+        "username": "yagami0208",
+        "verified": false
+      }
+    ]
+  }
+}

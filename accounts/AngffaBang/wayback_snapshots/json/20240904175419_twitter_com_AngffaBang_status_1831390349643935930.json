@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830983464583340032"
+      ],
+      "media_source_tweet_id": [
+        "1830983493410836892"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1831390349643935930",
+    "created_at": "2024-09-04T17:54:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T18:54:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831390349643935930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1575335744473686016",
+          "start": 3,
+          "username": "aiomita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0ruedhxhqo",
+          "end": 36,
+          "expanded_url": "https://twitter.com/aiomita/status/1830983493410836892/photo/1",
+          "media_key": "3_1830983464583340032",
+          "start": 13,
+          "url": "https://t.co/0RuedHXhQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831390349643935930",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1344
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830983493410836892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @aiomita: https://t.co/0RuedHXhQo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1830983464583340032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWj1wpQaoAA1vLD.jpg",
+        "width": 831
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830983464583340032"
+          ],
+          "media_source_tweet_id": [
+            "1830983493410836892"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1831390349643935930",
+        "created_at": "2024-09-04T17:54:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T18:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831390349643935930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1575335744473686016",
+              "start": 3,
+              "username": "aiomita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ruedhxhqo",
+              "end": 36,
+              "expanded_url": "https://twitter.com/aiomita/status/1830983493410836892/photo/1",
+              "media_key": "3_1830983464583340032",
+              "start": 13,
+              "url": "https://t.co/0RuedHXhQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831390349643935930",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1344
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830983493410836892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @aiomita: https://t.co/0RuedHXhQo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830983464583340032"
+          ]
+        },
+        "author_id": "1575335744473686016",
+        "conversation_id": "1830983493410836892",
+        "created_at": "2024-09-03T14:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T15:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830983493410836892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ruedhxhqo",
+              "end": 23,
+              "expanded_url": "https://twitter.com/aiomita/status/1830983493410836892/photo/1",
+              "media_key": "3_1830983464583340032",
+              "start": 0,
+              "url": "https://t.co/0RuedHXhQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830983493410836892",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1625,
+          "impression_count": 289135,
+          "like_count": 15494,
+          "quote_count": 97,
+          "reply_count": 0,
+          "retweet_count": 1344
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/0RuedHXhQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821612885929553924/p43vvaTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 31,
+          "like_count": 455,
+          "listed_count": 0,
+          "tweet_count": 343
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-29T04:04:50.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "r♡.lrl.kr",
+                "end": 23,
+                "expanded_url": "https://xn--r-f3p.lrl.kr",
+                "start": 0,
+                "url": "https://t.co/3KqFPek6FS"
+              }
+            ]
+          }
+        },
+        "id": "1575335744473686016",
+        "name": "夫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831330127403212800/5yC1_qYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19345,
+          "following_count": 51,
+          "like_count": 5049,
+          "listed_count": 41,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/3KqFPek6FS",
+        "username": "aiomita",
+        "verified": false
+      }
+    ]
+  }
+}

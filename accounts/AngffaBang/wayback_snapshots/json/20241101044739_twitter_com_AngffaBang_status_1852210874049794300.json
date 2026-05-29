@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1851991499912949907",
+    "created_at": "2024-11-01T04:47:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T05:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852210874049794300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1770600121778233344",
+          "start": 0,
+          "username": "hasbeentaken99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852210874049794300",
+    "in_reply_to_user_id": "1770600121778233344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851991499912949907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hasbeentaken99 因为幸福的人理解不了餐券人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1851991499912949907",
+        "created_at": "2024-11-01T04:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T05:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852210874049794300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770600121778233344",
+              "start": 0,
+              "username": "hasbeentaken99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852210874049794300",
+        "in_reply_to_user_id": "1770600121778233344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851991499912949907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hasbeentaken99 因为幸福的人理解不了餐券人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770600121778233344",
+        "conversation_id": "1851991499912949907",
+        "created_at": "2024-10-31T14:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-31T15:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851991499912949907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851991499912949907",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9461,
+          "like_count": 149,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我时常觉得原生家庭幸福和不幸的人是不适合在一起的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘\n/发推写日记的哪天死了还证明存在过🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 72,
+          "like_count": 779,
+          "listed_count": 0,
+          "tweet_count": 433
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T23:55:51.000Z",
+        "description": "自我意识过剩｜Brat & DDLG｜来这发点墙内不能发的｜认出勿扰｜没门槛因为没门",
+        "id": "1770600121778233344",
+        "name": "幻想试验箱",
+        "pinned_tweet_id": "1778699600121221334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842251347380649984/o1g5CsD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23742,
+          "following_count": 82,
+          "like_count": 4405,
+          "listed_count": 4,
+          "tweet_count": 3670
+        },
+        "username": "hasbeentaken99",
+        "verified": false
+      }
+    ]
+  }
+}

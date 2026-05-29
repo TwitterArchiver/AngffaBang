@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1856727434579873869",
+    "created_at": "2024-11-14T04:18:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T05:18:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856914497359024401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1770810702707470336",
+          "start": 0,
+          "username": "aiheng6499464"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856914497359024401",
+    "in_reply_to_user_id": "1770810702707470336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856912837983309890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aiheng6499464 刘海自己剪的(*^ω^*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1856727434579873869",
+        "created_at": "2024-11-14T04:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856914497359024401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1770810702707470336",
+              "start": 0,
+              "username": "aiheng6499464"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856914497359024401",
+        "in_reply_to_user_id": "1770810702707470336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856912837983309890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aiheng6499464 刘海自己剪的(*^ω^*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770810702707470336",
+        "conversation_id": "1856727434579873869",
+        "created_at": "2024-11-14T04:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T05:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856912837983309890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856912837983309890",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856727434579873869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 这头发真好看羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 132,
+          "like_count": 1511,
+          "listed_count": 0,
+          "tweet_count": 613
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T13:52:54.000Z",
+        "description": "八年老mtf\n真实的我是个骗子！#双向情感障碍#药娘#易性症联系需门槛费20多了不要请喝杯奶茶不过分吧？多了不要只要20",
+        "id": "1770810702707470336",
+        "location": "江苏省 南京市",
+        "name": "千本樱 萌爱重生版互fo🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1855900792223617052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771888497986842624/BsxUzGjz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 742,
+          "like_count": 1317,
+          "listed_count": 2,
+          "tweet_count": 2378
+        },
+        "username": "aiheng6499464",
+        "verified": false
+      }
+    ]
+  }
+}

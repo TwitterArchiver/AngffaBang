@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860265664579273082",
+    "created_at": "2024-11-23T14:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T15:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860334824223023190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752528596718211072",
+          "start": 0,
+          "username": "GotouSugi_Kh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860334824223023190",
+    "in_reply_to_user_id": "1752528596718211072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860334458064564571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GotouSugi_Kh 谢谢夸夸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860265664579273082",
+        "created_at": "2024-11-23T14:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T15:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860334824223023190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752528596718211072",
+              "start": 0,
+              "username": "GotouSugi_Kh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860334824223023190",
+        "in_reply_to_user_id": "1752528596718211072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860334458064564571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GotouSugi_Kh 谢谢夸夸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752528596718211072",
+        "conversation_id": "1860265664579273082",
+        "created_at": "2024-11-23T14:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T15:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860334458064564571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860334458064564571",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860265664579273082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 可愛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 284,
+          "like_count": 2338,
+          "listed_count": 0,
+          "tweet_count": 931
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-31T03:06:13.000Z",
+        "description": "09/初三/#原神/崩鐵/納西妲流螢厨/民社/遠視壬/漢英西日柬語/精神高棉人🇰🇭/可愛的 @Raiden_1927 @Frost_SZH @Mualani_Ch @linjiyewei @TsuyuriNagisa @miku_suki393939 @CharmingFurina/@CharmingFirefly",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 6,
+                "tag": "原神"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "Raiden_1927"
+              },
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Frost_SZH"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "Mualani_Ch"
+              },
+              {
+                "end": 93,
+                "start": 82,
+                "username": "linjiyewei"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "TsuyuriNagisa"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 141,
+                "start": 126,
+                "username": "CharmingFurina"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "CharmingFirefly"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "genshin.hoyoverse.com/ja",
+                "end": 23,
+                "expanded_url": "http://genshin.hoyoverse.com/ja",
+                "start": 0,
+                "url": "https://t.co/Jkbfkb52VK"
+              }
+            ]
+          }
+        },
+        "id": "1752528596718211072",
+        "location": "門外竪著",
+        "name": "⛩️後藤 杦 ហ្គោធូ ស៊ូជី/गोटो सुगी（遠視主義）🇰🇭🌸🦐",
+        "pinned_tweet_id": "1828436571487367193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845095597038239745/93vRoCpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 1283,
+          "like_count": 16361,
+          "listed_count": 3,
+          "tweet_count": 7974
+        },
+        "url": "https://t.co/Jkbfkb52VK",
+        "username": "GotouSugi_Kh",
+        "verified": false
+      }
+    ]
+  }
+}

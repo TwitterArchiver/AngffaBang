@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1869284501358330309",
+    "created_at": "2024-12-18T07:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T08:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869285580544364956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733183818960633856",
+          "start": 0,
+          "username": "whitething05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869285580544364956",
+    "in_reply_to_user_id": "1733183818960633856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869285398834561345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitething05 我学那个男的，我要玩抽象😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1869284501358330309",
+        "created_at": "2024-12-18T07:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T08:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869285580544364956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733183818960633856",
+              "start": 0,
+              "username": "whitething05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869285580544364956",
+        "in_reply_to_user_id": "1733183818960633856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869285398834561345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitething05 我学那个男的，我要玩抽象😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733183818960633856",
+        "conversation_id": "1869284501358330309",
+        "created_at": "2024-12-18T07:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T08:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869285398834561345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869285398834561345",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869284501358330309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 右边那个叫胖猫的男的真的好丑……看得我生理不适。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1810,
+          "following_count": 461,
+          "like_count": 3828,
+          "listed_count": 1,
+          "media_count": 153,
+          "tweet_count": 1430
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T17:56:55.000Z",
+        "description": "我的脑子缺了一块 丨INFP-T丨双相情感障碍丨overdose丨泛性恋丨药理学丨文学丨友🏳️‍⚧️丨男的丨照顾好自己",
+        "id": "1733183818960633856",
+        "location": "死无葬身之地",
+        "name": "有机化学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861474547872210945/aqttihVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 210,
+          "like_count": 6024,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 358
+        },
+        "username": "whitething05",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1796217619198234777",
+    "created_at": "2024-06-02T17:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T18:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797323770832752708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1623029781230149633",
+          "start": 0,
+          "username": "lishuj4"
+        },
+        {
+          "end": 20,
+          "id": "1768067128752812032",
+          "start": 9,
+          "username": "tututu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797323770832752708",
+    "in_reply_to_user_id": "1623029781230149633",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797286595881730302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lishuj4 @tututu8964 推特上有教程可以搜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1796217619198234777",
+        "created_at": "2024-06-02T17:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T18:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797323770832752708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1623029781230149633",
+              "start": 0,
+              "username": "lishuj4"
+            },
+            {
+              "end": 20,
+              "id": "1768067128752812032",
+              "start": 9,
+              "username": "tututu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797323770832752708",
+        "in_reply_to_user_id": "1623029781230149633",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797286595881730302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lishuj4 @tututu8964 推特上有教程可以搜"
+      },
+      {
+        "attachments": {},
+        "author_id": "1623029781230149633",
+        "conversation_id": "1796217619198234777",
+        "created_at": "2024-06-02T15:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T16:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797286595881730302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 23,
+              "id": "1768067128752812032",
+              "start": 12,
+              "username": "tututu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797286595881730302",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796462843585605927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang @tututu8964 直接吃吗，还是怎么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796844774978412544/nuLP0jQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 34,
+          "like_count": 263,
+          "listed_count": 0,
+          "tweet_count": 206
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T18:44:02.000Z",
+        "description": "",
+        "id": "1623029781230149633",
+        "name": "阿布",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785528036454285312/WLMu2Uwp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 3,
+          "like_count": 8,
+          "listed_count": 0,
+          "tweet_count": 34
+        },
+        "username": "lishuj4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T00:10:49.000Z",
+        "description": "我吞下了我的幸福‖ 我的女人@anan060508 ‖我的宝宝@yukiko3333kiss ‖💖@AsphyxiaMyk问坐标20一次",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "anan060508"
+              },
+              {
+                "end": 46,
+                "start": 31,
+                "username": "yukiko3333kiss"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "AsphyxiaMyk"
+              }
+            ]
+          }
+        },
+        "id": "1768067128752812032",
+        "location": "🚪100/288/520",
+        "name": "kuki",
+        "pinned_tweet_id": "1792462335858429976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797252015476908032/5kFwxy_p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4236,
+          "following_count": 290,
+          "like_count": 599,
+          "listed_count": 6,
+          "tweet_count": 1399
+        },
+        "username": "tututu8964",
+        "verified": false
+      }
+    ]
+  }
+}

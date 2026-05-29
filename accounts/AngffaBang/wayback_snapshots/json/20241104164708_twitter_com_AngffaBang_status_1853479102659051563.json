@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1853451546861994122",
+    "created_at": "2024-11-04T16:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T17:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853479102659051563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818652214702813184",
+          "start": 0,
+          "username": "_SANSAN33_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853479102659051563",
+    "in_reply_to_user_id": "1818652214702813184",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853451546861994122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_SANSAN33_ 互fo呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1853451546861994122",
+        "created_at": "2024-11-04T16:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T17:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853479102659051563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818652214702813184",
+              "start": 0,
+              "username": "_SANSAN33_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853479102659051563",
+        "in_reply_to_user_id": "1818652214702813184",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853451546861994122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_SANSAN33_ 互fo呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818652214702813184",
+        "conversation_id": "1853451546861994122",
+        "created_at": "2024-11-04T14:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T15:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853451546861994122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853451546861994122",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人可以和我互fo吗，好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo好想互fo🥺🥺🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 99,
+          "like_count": 1135,
+          "listed_count": 0,
+          "tweet_count": 501
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T14:17:49.000Z",
+        "description": "喜欢我就请与我互fo吧，我会尽己所能来温暖大家的啦☺️丨喜欢：ACG 医学 日本料理 速写 桃园奈奈生丨中文⭕️  English⭕️丨想旅行的地方：香港🇭🇰 日本🇯🇵 新西兰🇳🇿 新加坡🇸🇬 埃及🇪🇬丨🚫政治啥的根本不懂啦🚫丨",
+        "id": "1818652214702813184",
+        "location": "shelter",
+        "name": "三三SANSAN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846935086773817349/rMxd8nab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 72,
+          "like_count": 117,
+          "listed_count": 0,
+          "tweet_count": 47
+        },
+        "username": "_SANSAN33_",
+        "verified": false
+      }
+    ]
+  }
+}

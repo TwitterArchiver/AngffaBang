@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1788515977073930352",
+    "created_at": "2024-05-09T19:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T20:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788647803906031788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1666348238700679168",
+          "start": 0,
+          "username": "Orangeneko625"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788647803906031788",
+    "in_reply_to_user_id": "1666348238700679168",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788515977073930352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangeneko625 宝宝，你没事吧，被霸凌了一定要反击！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1788515977073930352",
+        "created_at": "2024-05-09T19:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T20:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788647803906031788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1666348238700679168",
+              "start": 0,
+              "username": "Orangeneko625"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788647803906031788",
+        "in_reply_to_user_id": "1666348238700679168",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788515977073930352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangeneko625 宝宝，你没事吧，被霸凌了一定要反击！"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788515971428421632"
+          ]
+        },
+        "author_id": "1666348238700679168",
+        "conversation_id": "1788515977073930352",
+        "created_at": "2024-05-09T10:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T11:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788515977073930352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/FNKc4S9clq",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Orangeneko625/status/1788515977073930352/photo/1",
+              "media_key": "3_1788515971428421632",
+              "start": 6,
+              "url": "https://t.co/FNKc4S9clq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788515977073930352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 19108,
+          "like_count": 315,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "學校廁所。 https://t.co/FNKc4S9clq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788281398287278083/b4Bv8a6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 44,
+          "listed_count": 0,
+          "tweet_count": 14
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T07:36:37.000Z",
+        "description": "⑅୨身長150☆🇹🇼女子୧⑅\n現在接出租女友［可議價］🔆\n低浮( o̴̶̷᷄ ·̫ o̴̶̷̥ᴅ)👆地雷系🎀\n🫴🏻歡迎聊天互foଘ(੭*ˊᵕˋ)੭* ੈ♡˚ \n不加除了X外的應用程式💌",
+        "id": "1666348238700679168",
+        "name": "ダイダイ🍊",
+        "pinned_tweet_id": "1772639319078940737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666348421022879744/CCI5fAKz_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 227,
+          "like_count": 3165,
+          "listed_count": 0,
+          "tweet_count": 262
+        },
+        "username": "Orangeneko625",
+        "verified": false
+      }
+    ]
+  }
+}

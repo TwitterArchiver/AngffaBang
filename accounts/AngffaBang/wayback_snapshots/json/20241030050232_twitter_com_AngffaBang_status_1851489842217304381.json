@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1851427120993767599",
+    "created_at": "2024-10-30T05:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-30T06:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851489842217304381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728241891765043200",
+          "start": 0,
+          "username": "tokitotowa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851489842217304381",
+    "in_reply_to_user_id": "1728241891765043200",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851427120993767599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tokitotowa 可以互关吗（＾ω＾）一起当朋友聊聊天呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1851427120993767599",
+        "created_at": "2024-10-30T05:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T06:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851489842217304381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728241891765043200",
+              "start": 0,
+              "username": "tokitotowa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851489842217304381",
+        "in_reply_to_user_id": "1728241891765043200",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851427120993767599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tokitotowa 可以互关吗（＾ω＾）一起当朋友聊聊天呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728241891765043200",
+        "conversation_id": "1851427120993767599",
+        "created_at": "2024-10-30T00:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-30T01:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851427120993767599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851427120993767599",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 565,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人愿意做我朋友每天聊天呢…快孤独死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP\n无人在意的猪头肉\n发推写日记的，哪天死了还证明存在过🌿🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "東京 新宿区",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850819638231465984/4bOKm7sT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 51,
+          "like_count": 689,
+          "listed_count": 0,
+          "tweet_count": 394
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T02:39:22.000Z",
+        "description": "ADHDの病み垢です。独り愚痴を言いたい。 友達が欲しいです",
+        "id": "1728241891765043200",
+        "name": "トキトワ　愚痴垢",
+        "pinned_tweet_id": "1771267010380382406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771516686820405248/Y-SjrMMS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 171,
+          "like_count": 921,
+          "listed_count": 0,
+          "tweet_count": 594
+        },
+        "username": "tokitotowa",
+        "verified": false
+      }
+    ]
+  }
+}

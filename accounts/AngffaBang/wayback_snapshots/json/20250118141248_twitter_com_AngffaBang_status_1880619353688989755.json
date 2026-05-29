@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1880619317135601664"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1880619353688989755",
+    "created_at": "2025-01-18T14:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T15:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1880619353688989755"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QXjyS4hdsV",
+          "end": 40,
+          "expanded_url": "https://x.com/AngffaBang/status/1880619353688989755/video/1",
+          "media_key": "7_1880619317135601664",
+          "start": 17,
+          "url": "https://t.co/QXjyS4hdsV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880619353688989755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的卢关视频，给你们看看我卢关😌 https://t.co/QXjyS4hdsV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1880619353688989755].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1880619353688989755",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1880619353688989755"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3626,
+        "height": 1280,
+        "media_key": "7_1880619317135601664",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1880619317135601664/pu/img/RjMYydUPyJ8UJy0R.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880619317135601664/pu/vid/avc1/320x568/JtVc7FXPbX2mjnQe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880619317135601664/pu/vid/avc1/480x852/iChYwtcBqgRgpbue.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1880619317135601664/pu/vid/avc1/720x1280/eq16fngvErwVO9VM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1880619317135601664/pu/pl/Ow4FlVKfmWT05l93.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2781,
+          "following_count": 488,
+          "like_count": 4648,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 1692
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

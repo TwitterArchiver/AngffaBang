@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1850068841390604409",
+    "created_at": "2024-10-26T07:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-26T08:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850077292242035174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705582301642653696",
+          "start": 0,
+          "username": "miuchisama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850077292242035174",
+    "in_reply_to_user_id": "1705582301642653696",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850068841390604409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miuchisama 拿铁算奶茶吗，算的话应该就是瑞幸我觉得那个拿铁很好喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1850068841390604409",
+        "created_at": "2024-10-26T07:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T08:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850077292242035174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705582301642653696",
+              "start": 0,
+              "username": "miuchisama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850077292242035174",
+        "in_reply_to_user_id": "1705582301642653696",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850068841390604409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miuchisama 拿铁算奶茶吗，算的话应该就是瑞幸我觉得那个拿铁很好喝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705582301642653696",
+        "conversation_id": "1850068841390604409",
+        "created_at": "2024-10-26T06:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T07:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850068841390604409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1850068841390604409",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友们\n你们觉得哪家奶茶最好喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP\n无人在意的猪头肉\n发推写日记的，哪天死了还证明存在过🌿🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Minato-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821612885929553924/p43vvaTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 37,
+          "like_count": 592,
+          "listed_count": 0,
+          "tweet_count": 340
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-23T13:58:13.000Z",
+        "description": "愛を満たしておくれよ🩷/\nほんとうは幸せを知っているのに不幸なフリやめられないね\n/♀️/互关小女孩看到会回的（沒回私信我）",
+        "id": "1705582301642653696",
+        "location": "Hell",
+        "name": "Miuchi",
+        "pinned_tweet_id": "1848037354973614123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847529546788327426/Bojsg08S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1094,
+          "following_count": 344,
+          "like_count": 3690,
+          "listed_count": 1,
+          "tweet_count": 407
+        },
+        "username": "miuchisama",
+        "verified": false
+      }
+    ]
+  }
+}

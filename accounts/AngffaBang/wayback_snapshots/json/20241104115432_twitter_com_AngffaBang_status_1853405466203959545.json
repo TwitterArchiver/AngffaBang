@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1853246541525344671",
+    "created_at": "2024-11-04T11:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-04T12:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853405466203959545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1847778949272584192",
+          "start": 0,
+          "username": "jingsheng237248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853405466203959545",
+    "in_reply_to_user_id": "1847778949272584192",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853246541525344671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingsheng237248 互fo呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1853246541525344671",
+        "created_at": "2024-11-04T11:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T12:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853405466203959545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847778949272584192",
+              "start": 0,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853405466203959545",
+        "in_reply_to_user_id": "1847778949272584192",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853246541525344671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingsheng237248 互fo呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847778949272584192",
+        "conversation_id": "1853246541525344671",
+        "created_at": "2024-11-04T01:23:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T02:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853246541525344671"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853246541525344671",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 652,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要互follow或者被我fo的评论区留言点个赞\n\n我挨个fo😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 99,
+          "like_count": 1126,
+          "listed_count": 0,
+          "tweet_count": 500
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "American, United States 人在北美，努力提升英语水平ing |友跨顺直翻车中，02年，🏳️‍⚧️🏳️‍🌈 | 关注且评论的会回fo，交友中 | follow and comment me IFB",
+        "id": "1847778949272584192",
+        "location": "Springfield, MA",
+        "name": "小脑斧🐯🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1852945929407533373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853159442461945856/dqgVsYMa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 381,
+          "like_count": 228,
+          "listed_count": 0,
+          "tweet_count": 211
+        },
+        "username": "jingsheng237248",
+        "verified": true
+      }
+    ]
+  }
+}

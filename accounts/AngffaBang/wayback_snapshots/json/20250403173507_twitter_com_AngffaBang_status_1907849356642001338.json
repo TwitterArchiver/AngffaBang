@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1907708303414800815",
+    "created_at": "2025-04-03T17:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T18:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907849356642001338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1601470531349274625",
+          "start": 0,
+          "username": "rednightmare962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907849356642001338",
+    "in_reply_to_user_id": "1601470531349274625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907847708691534038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rednightmare962 每个人体质不一样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1907708303414800815",
+        "created_at": "2025-04-03T17:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T18:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907849356642001338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1601470531349274625",
+              "start": 0,
+              "username": "rednightmare962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907849356642001338",
+        "in_reply_to_user_id": "1601470531349274625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907847708691534038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rednightmare962 每个人体质不一样吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601470531349274625",
+        "conversation_id": "1907708303414800815",
+        "created_at": "2025-04-03T17:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T18:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907847708691534038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907847708691534038",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907814254193115483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 我右美进四高都没有这种体验"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4474,
+          "following_count": 515,
+          "like_count": 5308,
+          "listed_count": 5,
+          "media_count": 230,
+          "tweet_count": 1924
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T06:55:11.000Z",
+        "description": "男/mtx",
+        "id": "1601470531349274625",
+        "name": "云",
+        "pinned_tweet_id": "1885353295155519832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857101239806300161/qPP42yj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 351,
+          "like_count": 7295,
+          "listed_count": 3,
+          "media_count": 169,
+          "tweet_count": 3582
+        },
+        "username": "rednightmare962",
+        "verified": false
+      }
+    ]
+  }
+}

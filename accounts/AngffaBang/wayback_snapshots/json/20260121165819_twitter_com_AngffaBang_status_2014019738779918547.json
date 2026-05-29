@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2013694839272144903",
+    "created_at": "2026-01-21T16:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014019738779918547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1897275526559272960",
+          "start": 0,
+          "username": "nenno5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014019738779918547",
+    "in_reply_to_user_id": "1897275526559272960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014006743404298599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nenno5 一片一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-21T16:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014019738779918547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1897275526559272960",
+              "start": 0,
+              "username": "nenno5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014019738779918547",
+        "in_reply_to_user_id": "1897275526559272960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014006743404298599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nenno5 一片一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897275526559272960",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-21T16:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014006743404298599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014006743404298599",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013694839272144903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 一片一瓶是什么东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7150,
+          "following_count": 601,
+          "like_count": 6119,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 2667
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T13:18:40.000Z",
+        "description": "",
+        "id": "1897275526559272960",
+        "name": "nenno5",
+        "pinned_tweet_id": "2013965798520623263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976265190426673152/tItBsDCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 88,
+          "like_count": 18744,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 420
+        },
+        "username": "nenno5",
+        "verified": false
+      }
+    ]
+  }
+}

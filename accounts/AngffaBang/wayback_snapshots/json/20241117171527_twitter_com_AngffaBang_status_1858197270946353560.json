@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1858190515944276139",
+    "created_at": "2024-11-17T17:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-17T18:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858197270946353560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854387649420673031",
+          "start": 0,
+          "username": "steveccd0180905"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858197270946353560",
+    "in_reply_to_user_id": "1854387649420673031",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858196261276467484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steveccd0180905 放血疗法？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1858190515944276139",
+        "created_at": "2024-11-17T17:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T18:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858197270946353560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854387649420673031",
+              "start": 0,
+              "username": "steveccd0180905"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858197270946353560",
+        "in_reply_to_user_id": "1854387649420673031",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858196261276467484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steveccd0180905 放血疗法？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1858196259288363008"
+          ]
+        },
+        "author_id": "1854387649420673031",
+        "conversation_id": "1858190515944276139",
+        "created_at": "2024-11-17T17:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-17T18:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858196261276467484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEG1nN8nrw",
+              "end": 46,
+              "expanded_url": "https://x.com/steveccd0180905/status/1858196261276467484/photo/1",
+              "media_key": "3_1858196259288363008",
+              "start": 23,
+              "url": "https://t.co/EEG1nN8nrw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858196261276467484",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858190515944276139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 放血疗法没有科学依据 https://t.co/EEG1nN8nrw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/名字日文中译是泉！/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我，不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 197,
+          "like_count": 1758,
+          "listed_count": 1,
+          "tweet_count": 696
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T04:57:33.000Z",
+        "description": "德州阿诺",
+        "id": "1854387649420673031",
+        "location": "得克萨斯",
+        "name": "steveccd01",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856509435146821633/hsTQWWOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 95,
+          "like_count": 313,
+          "listed_count": 0,
+          "tweet_count": 65
+        },
+        "username": "steveccd0180905",
+        "verified": false
+      }
+    ]
+  }
+}

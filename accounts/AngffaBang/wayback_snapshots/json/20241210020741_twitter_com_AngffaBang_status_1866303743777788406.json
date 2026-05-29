@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1866299381382848819",
+    "created_at": "2024-12-10T02:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T03:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866303743777788406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777259490292932608",
+          "start": 0,
+          "username": "Akira1933687"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866303743777788406",
+    "in_reply_to_user_id": "1777259490292932608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866300657000677652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akira1933687 你怎么知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1866299381382848819",
+        "created_at": "2024-12-10T02:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T03:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866303743777788406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777259490292932608",
+              "start": 0,
+              "username": "Akira1933687"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866303743777788406",
+        "in_reply_to_user_id": "1777259490292932608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866300657000677652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akira1933687 你怎么知道"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866300649509658624"
+          ]
+        },
+        "author_id": "1777259490292932608",
+        "conversation_id": "1866299381382848819",
+        "created_at": "2024-12-10T01:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T02:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866300657000677652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1txQPGBodr",
+              "end": 41,
+              "expanded_url": "https://x.com/Akira1933687/status/1866300657000677652/photo/1",
+              "media_key": "3_1866300649509658624",
+              "start": 18,
+              "url": "https://t.co/1txQPGBodr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866300657000677652",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866299381382848819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 猜你想要： https://t.co/1txQPGBodr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 422,
+          "like_count": 3429,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1326
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T08:57:46.000Z",
+        "description": "日本に住んでいる20代の外国人丨不器用なエタリタプレーヤー丨HOI4丨ハースストーン丨日本語（会話練習中）丨中文（简体·正體）丨English丨不審以外必ずフォロバ丨Love Everyone",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dak.gg/er/players/%E6…",
+                "end": 23,
+                "expanded_url": "https://dak.gg/er/players/%E6%9D%B1%E6%B4%8B%E9%9B%AA%E8%93%AE",
+                "start": 0,
+                "url": "https://t.co/3EH1IhIUkQ"
+              }
+            ]
+          }
+        },
+        "id": "1777259490292932608",
+        "location": "◂Ⓘ▸",
+        "name": "i²",
+        "pinned_tweet_id": "1821799949430149288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827672120828264448/N-psbCdl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 116,
+          "like_count": 1761,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 901
+        },
+        "url": "https://t.co/3EH1IhIUkQ",
+        "username": "Akira1933687",
+        "verified": false
+      }
+    ]
+  }
+}

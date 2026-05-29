@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1828444465515888640"
+      ],
+      "media_source_tweet_id": [
+        "1828444479562695098"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1828492208225558638",
+    "created_at": "2024-08-27T17:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T18:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828492208225558638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1795679601601007616",
+          "start": 3,
+          "username": "dcx8964__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ekx64vjjt",
+          "end": 40,
+          "expanded_url": "https://twitter.com/dcx8964__/status/1828444479562695098/photo/1",
+          "media_key": "3_1828444465515888640",
+          "start": 17,
+          "url": "https://t.co/1ekx64VjJT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828492208225558638",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828444479562695098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dcx8964__: 萌 https://t.co/1ekx64VjJT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1828444465515888640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GV_wjcqagAAZWOZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828444465515888640"
+          ],
+          "media_source_tweet_id": [
+            "1828444479562695098"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1828492208225558638",
+        "created_at": "2024-08-27T17:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T18:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828492208225558638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1795679601601007616",
+              "start": 3,
+              "username": "dcx8964__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ekx64vjjt",
+              "end": 40,
+              "expanded_url": "https://twitter.com/dcx8964__/status/1828444479562695098/photo/1",
+              "media_key": "3_1828444465515888640",
+              "start": 17,
+              "url": "https://t.co/1ekx64VjJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828492208225558638",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828444479562695098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dcx8964__: 萌 https://t.co/1ekx64VjJT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828444465515888640"
+          ]
+        },
+        "author_id": "1795679601601007616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1828444479562695098",
+        "created_at": "2024-08-27T14:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T15:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828444479562695098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ekx64vjjt",
+              "end": 25,
+              "expanded_url": "https://twitter.com/dcx8964__/status/1828444479562695098/photo/1",
+              "media_key": "3_1828444465515888640",
+              "start": 2,
+              "url": "https://t.co/1ekx64VjJT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828444479562695098",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1479,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "萌 https://t.co/1ekx64VjJT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821612885929553924/p43vvaTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 32,
+          "like_count": 400,
+          "listed_count": 0,
+          "tweet_count": 284
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-29T04:52:54.000Z",
+        "description": "我是等初雪我重生了  登不上的前世@dcx8964  挚爱@Umi67110696Umi\n🚪188/520/1314/5200",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "dcx8964"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "Umi67110696Umi"
+              }
+            ]
+          }
+        },
+        "id": "1795679601601007616",
+        "location": "你最恨的那个谁",
+        "name": "等等（别关注大号了我根本登不上）",
+        "pinned_tweet_id": "1825071741485338849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824851410917404673/H9_FaHY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1860,
+          "following_count": 105,
+          "like_count": 19,
+          "listed_count": 6,
+          "tweet_count": 110
+        },
+        "username": "dcx8964__",
+        "verified": false
+      }
+    ]
+  }
+}

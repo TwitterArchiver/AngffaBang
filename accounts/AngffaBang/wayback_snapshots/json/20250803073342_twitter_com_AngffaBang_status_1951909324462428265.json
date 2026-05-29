@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1941840053774553332",
+    "created_at": "2025-08-03T07:33:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T08:33:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951909324462428265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1933212664131629056",
+          "start": 0,
+          "username": "xuan_gao80760"
+        },
+        {
+          "end": 26,
+          "id": "1929600667670466560",
+          "start": 15,
+          "username": "yagami0208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951909324462428265",
+    "in_reply_to_user_id": "1933212664131629056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951893389634592858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuan_gao80760 @yagami0208 没其他丑😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1941840053774553332",
+        "created_at": "2025-08-03T07:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T08:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951909324462428265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1933212664131629056",
+              "start": 0,
+              "username": "xuan_gao80760"
+            },
+            {
+              "end": 26,
+              "id": "1929600667670466560",
+              "start": 15,
+              "username": "yagami0208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951909324462428265",
+        "in_reply_to_user_id": "1933212664131629056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951893389634592858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuan_gao80760 @yagami0208 没其他丑😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933212664131629056",
+        "conversation_id": "1941840053774553332",
+        "created_at": "2025-08-03T06:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T07:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951893389634592858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 23,
+              "id": "1929600667670466560",
+              "start": 12,
+              "username": "yagami0208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951893389634592858",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948660633010143338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang @yagami0208 没其他也丑 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5479,
+          "following_count": 523,
+          "like_count": 5836,
+          "listed_count": 5,
+          "media_count": 324,
+          "tweet_count": 2253
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T17:20:12.000Z",
+        "description": "忍耐 就是想得开 挺得住😋",
+        "id": "1933212664131629056",
+        "name": "王兰傲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938175705977917443/4xo6jB_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "username": "xuan_gao80760",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T18:07:31.000Z",
+        "description": "原神",
+        "id": "1929600667670466560",
+        "location": "刺激战场",
+        "name": "能活就活没活硬整",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929820736556093445/xQo9wcpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 81
+        },
+        "username": "yagami0208",
+        "verified": false
+      }
+    ]
+  }
+}

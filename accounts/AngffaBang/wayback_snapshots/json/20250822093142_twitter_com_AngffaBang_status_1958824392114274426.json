@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1958824370392244231"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1958824392114274426",
+    "created_at": "2025-08-22T09:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T10:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1958824392114274426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3bjGuqln9H",
+          "end": 36,
+          "expanded_url": "https://x.com/AngffaBang/status/1958824392114274426/photo/1",
+          "media_key": "16_1958824370392244231",
+          "start": 13,
+          "url": "https://t.co/3bjGuqln9H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958824392114274426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笨蛋！猫猫抓老鼠是本能！ https://t.co/3bjGuqln9H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "16_1958824370392244231",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/Gy8kYvaboAcyPh4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/Gy8kYvaboAcyPh4.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1958824370392244231"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1958824392114274426",
+        "created_at": "2025-08-22T09:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T10:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958824392114274426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3bjGuqln9H",
+              "end": 36,
+              "expanded_url": "https://x.com/AngffaBang/status/1958824392114274426/photo/1",
+              "media_key": "16_1958824370392244231",
+              "start": 13,
+              "url": "https://t.co/3bjGuqln9H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958824392114274426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笨蛋！猫猫抓老鼠是本能！ https://t.co/3bjGuqln9H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5830,
+          "following_count": 521,
+          "like_count": 5865,
+          "listed_count": 5,
+          "media_count": 343,
+          "tweet_count": 2292
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

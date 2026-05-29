@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1875227888401916358",
+    "created_at": "2025-01-03T17:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T18:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875230350626132071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1814622845605195776",
+          "start": 0,
+          "username": "Qlifact"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875230350626132071",
+    "in_reply_to_user_id": "1814622845605195776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875228561201885266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qlifact 我和我朋友住一块我感觉我的焦虑和内耗少了好多好多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1875227888401916358",
+        "created_at": "2025-01-03T17:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T18:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875230350626132071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1814622845605195776",
+              "start": 0,
+              "username": "Qlifact"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875230350626132071",
+        "in_reply_to_user_id": "1814622845605195776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875228561201885266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qlifact 我和我朋友住一块我感觉我的焦虑和内耗少了好多好多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814622845605195776",
+        "conversation_id": "1875227888401916358",
+        "created_at": "2025-01-03T17:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T18:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875228561201885266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875228561201885266",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875227888401916358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 哦哦我也差不多，但我是找到了一些能打发时间的事情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2324,
+          "following_count": 487,
+          "like_count": 4286,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1565
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T11:26:27.000Z",
+        "description": "05后休学/住过精神病院",
+        "id": "1814622845605195776",
+        "location": "valhalla",
+        "name": "Forlorn Archive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861394129852481536/IbxvrBoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 509,
+          "like_count": 760,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 106
+        },
+        "username": "Qlifact",
+        "verified": false
+      }
+    ]
+  }
+}

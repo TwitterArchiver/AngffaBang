@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1991936201025290447",
+    "created_at": "2025-11-22T09:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T10:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992169288938266931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1508994577537019904",
+          "start": 0,
+          "username": "Searyry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992169288938266931",
+    "in_reply_to_user_id": "1508994577537019904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992048283779567811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Searyry 我的器官要不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1991936201025290447",
+        "created_at": "2025-11-22T09:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T10:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992169288938266931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1508994577537019904",
+              "start": 0,
+              "username": "Searyry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992169288938266931",
+        "in_reply_to_user_id": "1508994577537019904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992048283779567811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Searyry 我的器官要不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1508994577537019904",
+        "conversation_id": "1991936201025290447",
+        "created_at": "2025-11-22T01:51:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:51:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992048283779567811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992048283779567811",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 135,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991936201025290447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang ？ 为什么要戒？只不过娱乐方式不同罢了又不是什么毒药。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6884,
+          "following_count": 609,
+          "like_count": 6055,
+          "listed_count": 5,
+          "media_count": 415,
+          "tweet_count": 2554
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T02:28:50.000Z",
+        "description": "",
+        "id": "1508994577537019904",
+        "location": "Hino-shi, Tokyo",
+        "name": "Sea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523068072977788930/t5sh4qmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 807,
+          "like_count": 3094,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 274
+        },
+        "username": "Searyry",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860056475152138515",
+    "created_at": "2024-11-23T07:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T08:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860226208925123002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1802440724455288832",
+          "start": 0,
+          "username": "meow7w_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860226208925123002",
+    "in_reply_to_user_id": "1802440724455288832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860216778410066074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meow7w_ 嗯嗯会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860056475152138515",
+        "created_at": "2024-11-23T07:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T08:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860226208925123002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1802440724455288832",
+              "start": 0,
+              "username": "meow7w_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860226208925123002",
+        "in_reply_to_user_id": "1802440724455288832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860216778410066074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meow7w_ 嗯嗯会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802440724455288832",
+        "conversation_id": "1860056475152138515",
+        "created_at": "2024-11-23T07:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T08:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860216778410066074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860216778410066074",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860056475152138515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 现在就试着扔掉一些塑料好吗宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 243,
+          "like_count": 2249,
+          "listed_count": 0,
+          "tweet_count": 885
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T20:39:05.000Z",
+        "description": "喜欢猫喜欢狗喜欢擦边",
+        "id": "1802440724455288832",
+        "location": "银河系",
+        "name": "一审被判无期",
+        "pinned_tweet_id": "1811741057962639548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854180951661989888/CcwX2Uva_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 32,
+          "like_count": 217,
+          "listed_count": 0,
+          "tweet_count": 1843
+        },
+        "username": "meow7w_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925165462922698752",
+        "3_1925165479439798272",
+        "3_1925165494430203904",
+        "3_1925165507537481728"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1925165524599841227",
+    "created_at": "2025-05-21T12:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T13:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925165524599841227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fHvHPo45LE",
+          "end": 137,
+          "expanded_url": "https://x.com/AngffaBang/status/1925165524599841227/photo/1",
+          "media_key": "3_1925165462922698752",
+          "start": 114,
+          "url": "https://t.co/fHvHPo45LE"
+        },
+        {
+          "display_url": "pic.x.com/fHvHPo45LE",
+          "end": 137,
+          "expanded_url": "https://x.com/AngffaBang/status/1925165524599841227/photo/1",
+          "media_key": "3_1925165479439798272",
+          "start": 114,
+          "url": "https://t.co/fHvHPo45LE"
+        },
+        {
+          "display_url": "pic.x.com/fHvHPo45LE",
+          "end": 137,
+          "expanded_url": "https://x.com/AngffaBang/status/1925165524599841227/photo/1",
+          "media_key": "3_1925165494430203904",
+          "start": 114,
+          "url": "https://t.co/fHvHPo45LE"
+        },
+        {
+          "display_url": "pic.x.com/fHvHPo45LE",
+          "end": 137,
+          "expanded_url": "https://x.com/AngffaBang/status/1925165524599841227/photo/1",
+          "media_key": "3_1925165507537481728",
+          "start": 114,
+          "url": "https://t.co/fHvHPo45LE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925165524599841227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的所有宠物都没了，我的猫给别人帮我收养一段时间玩还给了钱，结果第二天跟我说她把猫放跑了，我的所有耗子已经被我妈丢了，我感觉我不适合养宠物，为什么所有我养过的宠物全是悲剧，之前我妈不反对养耗子结果不到几个月反悔又把我的宠物丢了 https://t.co/fHvHPo45LE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925165462922698752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrePyd9boAA8dZr.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925165479439798272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrePzbfakAAk_Ns.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925165494430203904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GreP0TVaAAAl8Fv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925165507537481728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GreP1EKbMAACGxE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925165462922698752",
+            "3_1925165479439798272",
+            "3_1925165494430203904",
+            "3_1925165507537481728"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1925165524599841227",
+        "created_at": "2025-05-21T12:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T13:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925165524599841227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fHvHPo45LE",
+              "end": 137,
+              "expanded_url": "https://x.com/AngffaBang/status/1925165524599841227/photo/1",
+              "media_key": "3_1925165462922698752",
+              "start": 114,
+              "url": "https://t.co/fHvHPo45LE"
+            },
+            {
+              "display_url": "pic.x.com/fHvHPo45LE",
+              "end": 137,
+              "expanded_url": "https://x.com/AngffaBang/status/1925165524599841227/photo/1",
+              "media_key": "3_1925165479439798272",
+              "start": 114,
+              "url": "https://t.co/fHvHPo45LE"
+            },
+            {
+              "display_url": "pic.x.com/fHvHPo45LE",
+              "end": 137,
+              "expanded_url": "https://x.com/AngffaBang/status/1925165524599841227/photo/1",
+              "media_key": "3_1925165494430203904",
+              "start": 114,
+              "url": "https://t.co/fHvHPo45LE"
+            },
+            {
+              "display_url": "pic.x.com/fHvHPo45LE",
+              "end": 137,
+              "expanded_url": "https://x.com/AngffaBang/status/1925165524599841227/photo/1",
+              "media_key": "3_1925165507537481728",
+              "start": 114,
+              "url": "https://t.co/fHvHPo45LE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925165524599841227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的所有宠物都没了，我的猫给别人帮我收养一段时间玩还给了钱，结果第二天跟我说她把猫放跑了，我的所有耗子已经被我妈丢了，我感觉我不适合养宠物，为什么所有我养过的宠物全是悲剧，之前我妈不反对养耗子结果不到几个月反悔又把我的宠物丢了 https://t.co/fHvHPo45LE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 519,
+          "like_count": 5547,
+          "listed_count": 5,
+          "media_count": 268,
+          "tweet_count": 2056
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

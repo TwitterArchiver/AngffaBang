@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860056475152138515",
+    "created_at": "2024-11-23T01:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T02:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860135584360255657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1797292126662987776",
+          "start": 0,
+          "username": "XiJinpingZhina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860135584360255657",
+    "in_reply_to_user_id": "1797292126662987776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860133038891630734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiJinpingZhina 原来如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860056475152138515",
+        "created_at": "2024-11-23T01:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T02:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860135584360255657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1797292126662987776",
+              "start": 0,
+              "username": "XiJinpingZhina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860135584360255657",
+        "in_reply_to_user_id": "1797292126662987776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860133038891630734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiJinpingZhina 原来如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797292126662987776",
+        "conversation_id": "1860056475152138515",
+        "created_at": "2024-11-23T01:27:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T02:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860133038891630734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860133038891630734",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860056475152138515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 我床上也这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 241,
+          "like_count": 2226,
+          "listed_count": 0,
+          "tweet_count": 874
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T15:41:21.000Z",
+        "description": "（1953年6月15日—），籍貫陝西富平，祖籍河南鄧州，生於北京，中國共產黨和中華人民共和國政治人物，正國級領導人。2012年11月至今任中共中央總書記及中共中央軍委主席；2013年3月至今任中華人民共和國主席及國家中央軍委主席，是中國黨、政、軍自2012年至今以及第五代的最高領導人。永远喜欢@Yangzixingfu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 147,
+                "username": "Yangzixingfu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/McwhSvantV"
+              }
+            ]
+          }
+        },
+        "id": "1797292126662987776",
+        "location": "中南海",
+        "name": "習҉̢̕近҉͜͞平҈̨͝_𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑☠",
+        "pinned_tweet_id": "1855070468547719334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856942399181996032/RVgwdTg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 782,
+          "like_count": 8135,
+          "listed_count": 0,
+          "tweet_count": 2025
+        },
+        "url": "https://t.co/McwhSvantV",
+        "username": "XiJinpingZhina",
+        "verified": false
+      }
+    ]
+  }
+}

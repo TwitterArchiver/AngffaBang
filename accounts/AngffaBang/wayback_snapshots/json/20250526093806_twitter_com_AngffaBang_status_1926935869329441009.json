@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1926925760347926571",
+    "created_at": "2025-05-26T09:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T10:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926935869329441009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1573906833781456896",
+          "start": 0,
+          "username": "AIKOMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926935869329441009",
+    "in_reply_to_user_id": "1573906833781456896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926930913029390804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AIKOMTF 很可爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1926925760347926571",
+        "created_at": "2025-05-26T09:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T10:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926935869329441009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1573906833781456896",
+              "start": 0,
+              "username": "AIKOMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926935869329441009",
+        "in_reply_to_user_id": "1573906833781456896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926930913029390804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIKOMTF 很可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573906833781456896",
+        "conversation_id": "1926925760347926571",
+        "created_at": "2025-05-26T09:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T10:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926930913029390804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926930913029390804",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926925760347926571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 湿漉漉的鼻子🤭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4674,
+          "following_count": 519,
+          "like_count": 5573,
+          "listed_count": 5,
+          "media_count": 274,
+          "tweet_count": 2069
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T05:27:44.000Z",
+        "description": "一只孤独的流浪猫｜含糖🍥｜已🔪🈹🥚\n\n|一人ぼっち野良猫｜玉抜き竿ありニューハーフです。\nよろしくお願いします　　　\n\nASD | ADHD | MTF❤️‍🩹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/Z1899BY0116N?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/YSa6j74sML"
+              }
+            ]
+          }
+        },
+        "id": "1573906833781456896",
+        "location": "日本 東京",
+        "name": "野良猫",
+        "pinned_tweet_id": "1921721306044617114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912705349943193604/kG-9Ab7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 386,
+          "like_count": 9420,
+          "listed_count": 0,
+          "media_count": 636,
+          "tweet_count": 2194
+        },
+        "url": "https://t.co/YSa6j74sML",
+        "username": "AIKOMTF",
+        "verified": true
+      }
+    ]
+  }
+}

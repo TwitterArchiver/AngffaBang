@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1826332921609027586"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1826332932015096102",
+    "created_at": "2024-08-21T18:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T19:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826332932015096102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yrzjzfa7kj",
+          "end": 62,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1826332932015096102/photo/1",
+          "media_key": "3_1826332921609027586",
+          "start": 39,
+          "url": "https://t.co/yrZjzFA7kj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826332932015096102",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心情不好，胃口也不好了，好饿但是吃东西特别想吐，感觉食物好难吃。。。特别想吐 https://t.co/yrZjzFA7kj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1826332921609027586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GVhwHaobgAI9pQl.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1826332921609027586"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1826332932015096102",
+        "created_at": "2024-08-21T18:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T19:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826332932015096102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yrzjzfa7kj",
+              "end": 62,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1826332932015096102/photo/1",
+              "media_key": "3_1826332921609027586",
+              "start": 39,
+              "url": "https://t.co/yrZjzFA7kj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826332932015096102",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情不好，胃口也不好了，好饿但是吃东西特别想吐，感觉食物好难吃。。。特别想吐 https://t.co/yrZjzFA7kj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821612885929553924/p43vvaTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 32,
+          "like_count": 369,
+          "listed_count": 0,
+          "tweet_count": 269
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

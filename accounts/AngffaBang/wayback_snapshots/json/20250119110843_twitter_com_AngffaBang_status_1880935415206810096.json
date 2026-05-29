@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1880732394233434527",
+    "created_at": "2025-01-19T11:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-19T12:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880935415206810096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1869108918263451648",
+          "start": 0,
+          "username": "HKenyetta52806"
+        },
+        {
+          "end": 25,
+          "id": "1840708439544352768",
+          "start": 16,
+          "username": "seiunn04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880935415206810096",
+    "in_reply_to_user_id": "1869108918263451648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880922804532728108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HKenyetta52806 @seiunn04 谢谢提醒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1880732394233434527",
+        "created_at": "2025-01-19T11:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T12:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880935415206810096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1869108918263451648",
+              "start": 0,
+              "username": "HKenyetta52806"
+            },
+            {
+              "end": 25,
+              "id": "1840708439544352768",
+              "start": 16,
+              "username": "seiunn04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880935415206810096",
+        "in_reply_to_user_id": "1869108918263451648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880922804532728108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HKenyetta52806 @seiunn04 谢谢提醒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869108918263451648",
+        "conversation_id": "1880732394233434527",
+        "created_at": "2025-01-19T10:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T11:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880922804532728108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840708439544352768",
+              "start": 0,
+              "username": "seiunn04"
+            },
+            {
+              "end": 21,
+              "id": "1730458100703064064",
+              "start": 10,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880922804532728108",
+        "in_reply_to_user_id": "1840708439544352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880735520273453178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seiunn04 @AngffaBang 初中生都迫害你是人吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 489,
+          "like_count": 4682,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 1703
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T19:54:39.000Z",
+        "description": "",
+        "id": "1869108918263451648",
+        "name": "Han Kenyetta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869681127272947712/CubmIjFo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 5
+        },
+        "username": "HKenyetta52806",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T11:01:10.000Z",
+        "description": "UC Davisに在学しているの大学三年生\nいまのじゃんたまアカウントは三代目です\n四麻：魂天lv1 三麻：魂天 Lv.1\n他の趣味は、音ゲー、歴史、鉄道、国際政治など\n麻雀に関する問題と普通のチェットが是非気軽くＤＭしますーー",
+        "id": "1840708439544352768",
+        "location": "Davis,CA",
+        "name": "UCD麻雀部",
+        "pinned_tweet_id": "1855474181540032890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859955127333105664/C3KHuK0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 284,
+          "like_count": 1434,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 718
+        },
+        "username": "seiunn04",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1915744735500931072",
+        "3_1915744742337548288"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1915744745546199496",
+    "created_at": "2025-04-25T12:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-25T13:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1915744745546199496"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dOv5fWQkUi",
+          "end": 27,
+          "expanded_url": "https://x.com/AngffaBang/status/1915744745546199496/photo/1",
+          "media_key": "3_1915744735500931072",
+          "start": 4,
+          "url": "https://t.co/dOv5fWQkUi"
+        },
+        {
+          "display_url": "pic.x.com/dOv5fWQkUi",
+          "end": 27,
+          "expanded_url": "https://x.com/AngffaBang/status/1915744745546199496/photo/1",
+          "media_key": "3_1915744742337548288",
+          "start": 4,
+          "url": "https://t.co/dOv5fWQkUi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915744745546199496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小蛇蛇 https://t.co/dOv5fWQkUi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915744735500931072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYXr9fbkAAbxsD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1915744742337548288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpYXsW9aEAA8guL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915744735500931072",
+            "3_1915744742337548288"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1915744745546199496",
+        "created_at": "2025-04-25T12:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T13:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915744745546199496"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOv5fWQkUi",
+              "end": 27,
+              "expanded_url": "https://x.com/AngffaBang/status/1915744745546199496/photo/1",
+              "media_key": "3_1915744735500931072",
+              "start": 4,
+              "url": "https://t.co/dOv5fWQkUi"
+            },
+            {
+              "display_url": "pic.x.com/dOv5fWQkUi",
+              "end": 27,
+              "expanded_url": "https://x.com/AngffaBang/status/1915744745546199496/photo/1",
+              "media_key": "3_1915744742337548288",
+              "start": 4,
+              "url": "https://t.co/dOv5fWQkUi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915744745546199496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小蛇蛇 https://t.co/dOv5fWQkUi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 116,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 93,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4454,
+          "following_count": 515,
+          "like_count": 5324,
+          "listed_count": 5,
+          "media_count": 242,
+          "tweet_count": 1986
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1794285087623991521",
+    "created_at": "2024-05-25T20:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T21:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794467141892415629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1533731104351723520",
+          "start": 0,
+          "username": "2ilnil9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794467141892415629",
+    "in_reply_to_user_id": "1533731104351723520",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794285087623991521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2ilnil9 可愛い！(◦˙▽˙◦)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1794285087623991521",
+        "created_at": "2024-05-25T20:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T21:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794467141892415629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1533731104351723520",
+              "start": 0,
+              "username": "2ilnil9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794467141892415629",
+        "in_reply_to_user_id": "1533731104351723520",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794285087623991521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2ilnil9 可愛い！(◦˙▽˙◦)"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794285081881907200"
+          ]
+        },
+        "author_id": "1533731104351723520",
+        "conversation_id": "1794285087623991521",
+        "created_at": "2024-05-25T08:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T09:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794285087623991521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NSFsV0tSfZ",
+              "end": 46,
+              "expanded_url": "https://twitter.com/2ilnil9/status/1794285087623991521/photo/1",
+              "media_key": "3_1794285081881907200",
+              "start": 23,
+              "url": "https://t.co/NSFsV0tSfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794285087623991521",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 20576,
+          "like_count": 753,
+          "quote_count": 8,
+          "reply_count": 20,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "まじで尋常じゃない量のそばかすありますからね https://t.co/NSFsV0tSfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 25,
+          "like_count": 147,
+          "listed_count": 0,
+          "tweet_count": 140
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-06T08:42:54.000Z",
+        "description": "陰キャ帝国",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/IG37JVBS78DW?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/cWHqho3hd7"
+              }
+            ]
+          }
+        },
+        "id": "1533731104351723520",
+        "name": "頭悪杉田玄白",
+        "pinned_tweet_id": "1772525157464314288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729647498808250368/3img4ah1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8255,
+          "following_count": 28,
+          "like_count": 3648,
+          "listed_count": 35,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/cWHqho3hd7",
+        "username": "2ilnil9",
+        "verified": false
+      }
+    ]
+  }
+}

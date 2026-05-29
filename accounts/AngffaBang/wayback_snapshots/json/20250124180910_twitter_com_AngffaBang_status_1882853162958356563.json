@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1882806998955327656",
+    "created_at": "2025-01-24T18:09:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T19:09:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882853162958356563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794147619234803712",
+          "start": 0,
+          "username": "3TUdfRK5Vn77717"
+        },
+        {
+          "end": 28,
+          "id": "1621552410048237569",
+          "start": 17,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882853162958356563",
+    "in_reply_to_user_id": "1794147619234803712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882847939078594602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3TUdfRK5Vn77717 @amecandy_x 就两种，其他的懒得尝试了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1882806998955327656",
+        "created_at": "2025-01-24T18:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T19:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882853162958356563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794147619234803712",
+              "start": 0,
+              "username": "3TUdfRK5Vn77717"
+            },
+            {
+              "end": 28,
+              "id": "1621552410048237569",
+              "start": 17,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882853162958356563",
+        "in_reply_to_user_id": "1794147619234803712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882847939078594602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3TUdfRK5Vn77717 @amecandy_x 就两种，其他的懒得尝试了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794147619234803712",
+        "conversation_id": "1882806998955327656",
+        "created_at": "2025-01-24T17:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T18:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882847939078594602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 23,
+              "id": "1621552410048237569",
+              "start": 12,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882847939078594602",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882847787215438102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang @amecandy_x 那还好，你喝过几种魔爪了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 121,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 98,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 510,
+          "like_count": 4832,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 1752
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T23:25:11.000Z",
+        "description": "闲狗",
+        "id": "1794147619234803712",
+        "name": "银白",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878489014715760641/xKxv-Sq-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 156,
+          "like_count": 802,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 562
+        },
+        "username": "3TUdfRK5Vn77717",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「过于真实的幻像露出了天使般的笑容」这里是Rain 处于焦虑抑郁和恐惧的小女孩→    ////    \n需要互 fo 请私信 需要我陪你请私信！我想陪着大家所以没有门槛🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/CwKoKqRk8n"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "这是我的网站 oc小说连载处👉",
+        "name": "超絕最可愛 Rain 💙🧬",
+        "pinned_tweet_id": "1861034108069318895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243,
+          "following_count": 1057,
+          "like_count": 15021,
+          "listed_count": 8,
+          "media_count": 280,
+          "tweet_count": 4612
+        },
+        "url": "https://t.co/CwKoKqRk8n",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1862279082471518609",
+    "created_at": "2024-11-29T00:43:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T01:43:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862296253096501555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1405746109020966921",
+          "start": 0,
+          "username": "taohutao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862296253096501555",
+    "in_reply_to_user_id": "1405746109020966921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862288294236565556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taohutao 只是想法啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1862279082471518609",
+        "created_at": "2024-11-29T00:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T01:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862296253096501555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1405746109020966921",
+              "start": 0,
+              "username": "taohutao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862296253096501555",
+        "in_reply_to_user_id": "1405746109020966921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862288294236565556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taohutao 只是想法啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1405746109020966921",
+        "conversation_id": "1862279082471518609",
+        "created_at": "2024-11-29T00:11:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T01:11:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862288294236565556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862288294236565556",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862279082471518609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 不太好吧🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 382,
+          "like_count": 2884,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1149
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-18T04:36:14.000Z",
+        "description": "07（17）｜INFP-T｜PTSD｜不安型うつ病\nBluesky→@chunuo520.bsky.social",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "chunuo520"
+              }
+            ]
+          }
+        },
+        "id": "1405746109020966921",
+        "location": "眠くて寝たい",
+        "name": "白ちゃん",
+        "pinned_tweet_id": "1847844613547315631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685730443184750593/sGSLR3nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 67,
+          "like_count": 1269,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 398
+        },
+        "username": "taohutao",
+        "verified": false
+      }
+    ]
+  }
+}

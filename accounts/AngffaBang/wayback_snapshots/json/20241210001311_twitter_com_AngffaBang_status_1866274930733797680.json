@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1866274390859719039",
+    "created_at": "2024-12-10T00:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T01:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866274930733797680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842085513341370368",
+          "start": 0,
+          "username": "yyl0706"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866274930733797680",
+    "in_reply_to_user_id": "1842085513341370368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866274390859719039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyl0706 头像一样的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1866274390859719039",
+        "created_at": "2024-12-10T00:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T01:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866274930733797680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842085513341370368",
+              "start": 0,
+              "username": "yyl0706"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866274930733797680",
+        "in_reply_to_user_id": "1842085513341370368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866274390859719039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyl0706 头像一样的呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1866274387747647488"
+          ]
+        },
+        "author_id": "1842085513341370368",
+        "conversation_id": "1866274390859719039",
+        "created_at": "2024-12-10T00:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T01:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866274390859719039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xlduayKPx",
+              "end": 26,
+              "expanded_url": "https://x.com/yyl0706/status/1866274390859719039/photo/1",
+              "media_key": "3_1866274387747647488",
+              "start": 3,
+              "url": "https://t.co/8xlduayKPx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866274390859719039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？ https://t.co/8xlduayKPx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 421,
+          "like_count": 3418,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1320
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T06:14:04.000Z",
+        "description": "世界というのは、大きな宝石箱だ。キラキラと輝くもので満ちた宝石箱だ。                        -- 星シロ",
+        "id": "1842085513341370368",
+        "location": "虚拟世界",
+        "name": "晓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853671487225626624/1PozrldN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 638,
+          "like_count": 4748,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 990
+        },
+        "username": "yyl0706",
+        "verified": false
+      }
+    ]
+  }
+}

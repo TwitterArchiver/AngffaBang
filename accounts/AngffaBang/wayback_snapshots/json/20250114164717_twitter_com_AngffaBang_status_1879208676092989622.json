@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1879146826911437076",
+    "created_at": "2025-01-14T16:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T17:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879208676092989622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1793890957907357696",
+          "start": 0,
+          "username": "Motrans4825"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879208676092989622",
+    "in_reply_to_user_id": "1793890957907357696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879183715030683957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Motrans4825 确实关系很好呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1879146826911437076",
+        "created_at": "2025-01-14T16:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T17:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879208676092989622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1793890957907357696",
+              "start": 0,
+              "username": "Motrans4825"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879208676092989622",
+        "in_reply_to_user_id": "1793890957907357696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879183715030683957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Motrans4825 确实关系很好呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793890957907357696",
+        "conversation_id": "1879146826911437076",
+        "created_at": "2025-01-14T15:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T16:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879183715030683957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879183715030683957",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879146826911437076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 确实是关系很好的朋友才敢开的玩笑。\n有点羡慕（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 486,
+          "like_count": 4533,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 1645
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T06:25:17.000Z",
+        "description": "MAKE IT HAPPEN",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "moiland.com",
+                "end": 23,
+                "expanded_url": "https://moiland.com",
+                "start": 0,
+                "url": "https://t.co/ZtSWdpDgei"
+              }
+            ]
+          }
+        },
+        "id": "1793890957907357696",
+        "location": "Shanghai, China",
+        "name": "沐澄 Motrans",
+        "pinned_tweet_id": "1868384637455872263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793894078490484737/q1Py1GJy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 189,
+          "like_count": 2291,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 1067
+        },
+        "url": "https://t.co/ZtSWdpDgei",
+        "username": "Motrans4825",
+        "verified": false
+      }
+    ]
+  }
+}

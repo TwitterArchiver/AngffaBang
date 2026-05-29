@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903807981571248128",
+        "3_1903807987040518144"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1903807989976551890",
+    "created_at": "2025-03-23T13:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T14:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903807989976551890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6sc9z3DUH",
+          "end": 120,
+          "expanded_url": "https://x.com/AngffaBang/status/1903807989976551890/photo/1",
+          "media_key": "3_1903807981571248128",
+          "start": 97,
+          "url": "https://t.co/P6sc9z3DUH"
+        },
+        {
+          "display_url": "pic.x.com/P6sc9z3DUH",
+          "end": 120,
+          "expanded_url": "https://x.com/AngffaBang/status/1903807989976551890/photo/1",
+          "media_key": "3_1903807987040518144",
+          "start": 97,
+          "url": "https://t.co/P6sc9z3DUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903807989976551890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我服了，劳资吃红龙果的时候突发奇想，给我家鼠鼠染色，因为鼠鼠喜欢乱动我就染了一边，我发给我朋友，我朋友说我是不是柜子，给我家耗子染红白，我的妈，我都没想到，我朋友看到这个颜色就应激了，太权威了 https://t.co/P6sc9z3DUH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903807981571248128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmuvRb4bkAAAZbB.jpg",
+        "width": 1536
+      },
+      {
+        "height": 937,
+        "media_key": "3_1903807987040518144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmuvRwQaAAARCNW.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903807981571248128",
+            "3_1903807987040518144"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1903807989976551890",
+        "created_at": "2025-03-23T13:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T14:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903807989976551890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6sc9z3DUH",
+              "end": 120,
+              "expanded_url": "https://x.com/AngffaBang/status/1903807989976551890/photo/1",
+              "media_key": "3_1903807981571248128",
+              "start": 97,
+              "url": "https://t.co/P6sc9z3DUH"
+            },
+            {
+              "display_url": "pic.x.com/P6sc9z3DUH",
+              "end": 120,
+              "expanded_url": "https://x.com/AngffaBang/status/1903807989976551890/photo/1",
+              "media_key": "3_1903807987040518144",
+              "start": 97,
+              "url": "https://t.co/P6sc9z3DUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903807989976551890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我服了，劳资吃红龙果的时候突发奇想，给我家鼠鼠染色，因为鼠鼠喜欢乱动我就染了一边，我发给我朋友，我朋友说我是不是柜子，给我家耗子染红白，我的妈，我都没想到，我朋友看到这个颜色就应激了，太权威了 https://t.co/P6sc9z3DUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4481,
+          "following_count": 521,
+          "like_count": 5313,
+          "listed_count": 7,
+          "media_count": 228,
+          "tweet_count": 1904
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

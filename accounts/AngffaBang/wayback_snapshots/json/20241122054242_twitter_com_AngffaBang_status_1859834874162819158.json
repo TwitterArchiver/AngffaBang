@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1859721205340844459",
+    "created_at": "2024-11-22T05:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T06:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859834874162819158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826611872118046720",
+          "start": 0,
+          "username": "Ijichi_Kotomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859834874162819158",
+    "in_reply_to_user_id": "1826611872118046720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859768052419789237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ijichi_Kotomi 应该是的٩(๑•̀ω•́๑)۶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1859721205340844459",
+        "created_at": "2024-11-22T05:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T06:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859834874162819158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826611872118046720",
+              "start": 0,
+              "username": "Ijichi_Kotomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859834874162819158",
+        "in_reply_to_user_id": "1826611872118046720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859768052419789237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ijichi_Kotomi 应该是的٩(๑•̀ω•́๑)۶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826611872118046720",
+        "conversation_id": "1859721205340844459",
+        "created_at": "2024-11-22T01:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T02:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859768052419789237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859768052419789237",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859721205340844459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 恭喜🎉你有一个充实的青春~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 229,
+          "like_count": 2136,
+          "listed_count": 0,
+          "tweet_count": 824
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T13:26:34.000Z",
+        "description": "High School Student/17/China\nUS College Application in progress/CS major\ninterest: anime & painting & 术力口/favorite anime: CLANNAD/pjsk\nBilingual: En/Zh",
+        "id": "1826611872118046720",
+        "location": "下北泽",
+        "name": "kotomi（求互fo）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827373124834488324/it8d7wRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 364,
+          "like_count": 4104,
+          "listed_count": 1,
+          "tweet_count": 1336
+        },
+        "username": "Ijichi_Kotomi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2037958011453657222",
+    "created_at": "2026-03-29T01:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T02:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038067993993949624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1070221913304137735",
+          "start": 0,
+          "username": "galaxy201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038067993993949624",
+    "in_reply_to_user_id": "1070221913304137735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038046300625867067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@galaxy201314 就是，但是需要银行卡和居住证明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2037958011453657222",
+        "created_at": "2026-03-29T01:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038067993993949624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1070221913304137735",
+              "start": 0,
+              "username": "galaxy201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038067993993949624",
+        "in_reply_to_user_id": "1070221913304137735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038046300625867067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@galaxy201314 就是，但是需要银行卡和居住证明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1070221913304137735",
+        "conversation_id": "2037958011453657222",
+        "created_at": "2026-03-29T00:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038046300625867067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038046300625867067",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037958011453657222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 这个id需要改的是你苹果商店的id"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7565,
+          "following_count": 602,
+          "like_count": 6343,
+          "listed_count": 7,
+          "media_count": 491,
+          "tweet_count": 2820
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-05T07:42:42.000Z",
+        "description": "想更可爱一些不要幻想",
+        "id": "1070221913304137735",
+        "location": "杭州",
+        "name": "回声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1824810912160878592/2qXMzr0D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 983,
+          "like_count": 88,
+          "listed_count": 4,
+          "media_count": 22,
+          "tweet_count": 325
+        },
+        "username": "galaxy201314",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1794231442018549884",
+    "created_at": "2024-05-25T19:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T20:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794444895161405747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1762137288015060992",
+          "start": 0,
+          "username": "YukiQwQ_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794444895161405747",
+    "in_reply_to_user_id": "1762137288015060992",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794231442018549884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukiQwQ_ 转转嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1794231442018549884",
+        "created_at": "2024-05-25T19:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T20:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794444895161405747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1762137288015060992",
+              "start": 0,
+              "username": "YukiQwQ_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794444895161405747",
+        "in_reply_to_user_id": "1762137288015060992",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794231442018549884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukiQwQ_ 转转嘿嘿"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794231422133370881",
+            "3_1794231422133428224",
+            "3_1794231422133444608"
+          ]
+        },
+        "author_id": "1762137288015060992",
+        "conversation_id": "1794231442018549884",
+        "created_at": "2024-05-25T04:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T05:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794231442018549884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/koM3JE0SUT",
+              "end": 127,
+              "expanded_url": "https://twitter.com/YukiQwQ_/status/1794231442018549884/photo/1",
+              "media_key": "3_1794231422133370881",
+              "start": 104,
+              "url": "https://t.co/koM3JE0SUT"
+            },
+            {
+              "display_url": "pic.twitter.com/koM3JE0SUT",
+              "end": 127,
+              "expanded_url": "https://twitter.com/YukiQwQ_/status/1794231442018549884/photo/1",
+              "media_key": "3_1794231422133428224",
+              "start": 104,
+              "url": "https://t.co/koM3JE0SUT"
+            },
+            {
+              "display_url": "pic.twitter.com/koM3JE0SUT",
+              "end": 127,
+              "expanded_url": "https://twitter.com/YukiQwQ_/status/1794231442018549884/photo/1",
+              "media_key": "3_1794231422133444608",
+              "start": 104,
+              "url": "https://t.co/koM3JE0SUT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794231442018549884",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11178,
+          "like_count": 60,
+          "quote_count": 6,
+          "reply_count": 14,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "🔝\n我是Yuass 可以叫我栗子^^\n06在读 高中生 不定期更cos😾\n除了过🚪的私信不会回\n喜欢我请打钱^_^ 感兴趣的会回关\n\n转+关此条抽三个52 有陪跑奖\n4000fo开\n妈妈们找我互转也可以:D https://t.co/koM3JE0SUT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 24,
+          "like_count": 138,
+          "listed_count": 0,
+          "tweet_count": 127
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T15:27:35.000Z",
+        "description": "🚪188/288/520/1314支持赞赏or口令 vpn👇🏻https://t.co/0Re8CiGM26",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xyz004.damoplane.xyz/#/register?cod…",
+                "end": 54,
+                "expanded_url": "https://xyz004.damoplane.xyz/#/register?code=i9ecSvw5",
+                "start": 31,
+                "url": "https://t.co/0Re8CiGM26"
+              }
+            ]
+          }
+        },
+        "id": "1762137288015060992",
+        "name": "Yuass",
+        "pinned_tweet_id": "1794231442018549884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788066712006582273/T7bijzAe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3662,
+          "following_count": 74,
+          "like_count": 2707,
+          "listed_count": 9,
+          "tweet_count": 744
+        },
+        "username": "YukiQwQ_",
+        "verified": false
+      }
+    ]
+  }
+}

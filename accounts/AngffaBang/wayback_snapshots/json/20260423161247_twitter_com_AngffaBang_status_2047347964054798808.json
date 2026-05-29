@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2047040059342553143",
+    "created_at": "2026-04-23T16:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T17:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047347964054798808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1966505502919270400",
+          "start": 0,
+          "username": "QiShuiBuXing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047347964054798808",
+    "in_reply_to_user_id": "1966505502919270400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047195277505990851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QiShuiBuXing 我是说普瑞再见"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2047040059342553143",
+        "created_at": "2026-04-23T16:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047347964054798808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1966505502919270400",
+              "start": 0,
+              "username": "QiShuiBuXing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047347964054798808",
+        "in_reply_to_user_id": "1966505502919270400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047195277505990851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QiShuiBuXing 我是说普瑞再见"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966505502919270400",
+        "conversation_id": "2047040059342553143",
+        "created_at": "2026-04-23T06:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047195277505990851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047195277505990851",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047040059342553143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 又要自杀？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7938,
+          "following_count": 606,
+          "like_count": 6384,
+          "listed_count": 7,
+          "media_count": 502,
+          "tweet_count": 2864
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T14:13:54.000Z",
+        "description": "遇到真爱的喜悦，失去至亲的痛苦，都是化学层面的问题。无非是内啡肽、荷尔蒙、多巴胺以及一系列激素的共同作用，本质上是一群化合物操弄着你的感受。",
+        "id": "1966505502919270400",
+        "name": "百忧解",
+        "pinned_tweet_id": "2020841917156901347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987177220130119680/y9K2ZMnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 1413,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 62
+        },
+        "username": "QiShuiBuXing",
+        "verified": false
+      }
+    ]
+  }
+}

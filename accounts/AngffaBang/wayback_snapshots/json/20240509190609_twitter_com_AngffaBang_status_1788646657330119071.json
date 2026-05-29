@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1788646641018470400"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1788646657330119071",
+    "created_at": "2024-05-09T19:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-09T20:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1788646657330119071"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "cos"
+        },
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "糖糖"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/4CCPhayes3",
+          "end": 58,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1788646657330119071/photo/1",
+          "media_key": "3_1788646641018470400",
+          "start": 35,
+          "url": "https://t.co/4CCPhayes3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788646657330119071",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#cos #糖糖 我私底下是个喜欢嗑药的阴暗少女，阿p你还会喜欢我吗 https://t.co/4CCPhayes3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1788646641018470400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GNKMpLKaAAAKzHN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1788646641018470400"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1788646657330119071",
+        "created_at": "2024-05-09T19:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-09T20:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1788646657330119071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "cos"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "糖糖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4CCPhayes3",
+              "end": 58,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1788646657330119071/photo/1",
+              "media_key": "3_1788646641018470400",
+              "start": 35,
+              "url": "https://t.co/4CCPhayes3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788646657330119071",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#cos #糖糖 我私底下是个喜欢嗑药的阴暗少女，阿p你还会喜欢我吗 https://t.co/4CCPhayes3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788281398287278083/b4Bv8a6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 41,
+          "listed_count": 0,
+          "tweet_count": 11
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

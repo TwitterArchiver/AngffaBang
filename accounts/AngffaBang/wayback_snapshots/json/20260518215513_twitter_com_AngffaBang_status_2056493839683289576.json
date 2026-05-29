@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2056294185251250284",
+    "created_at": "2026-05-18T21:55:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T22:55:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056493839683289576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1970857021588262912",
+          "start": 0,
+          "username": "UnkXyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056493839683289576",
+    "in_reply_to_user_id": "1970857021588262912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056294185251250284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkXyn 我也卡了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1832,
+        "media_key": "3_2056294182495588352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIlsqg1aEAA398Y.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2056294185251250284",
+        "created_at": "2026-05-18T21:55:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T22:55:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056493839683289576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1970857021588262912",
+              "start": 0,
+              "username": "UnkXyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056493839683289576",
+        "in_reply_to_user_id": "1970857021588262912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056294185251250284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkXyn 我也卡了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056294182495588352"
+          ]
+        },
+        "author_id": "1970857021588262912",
+        "conversation_id": "2056294185251250284",
+        "created_at": "2026-05-18T08:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056294185251250284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R7D9i0lHi1",
+              "end": 43,
+              "expanded_url": "https://x.com/UnkXyn/status/2056294185251250284/photo/1",
+              "media_key": "3_2056294182495588352",
+              "start": 20,
+              "url": "https://t.co/R7D9i0lHi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056294185251250284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1219,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "10天了🥲，我的dxm怎么还在清关啊😭 https://t.co/R7D9i0lHi1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8083,
+          "following_count": 614,
+          "like_count": 6502,
+          "listed_count": 7,
+          "media_count": 515,
+          "tweet_count": 2937
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-24T14:25:11.000Z",
+        "description": "MtX?🏳️‍⚧️|Hrt🍥01.28.2026，无证含糖|年龄党+家长不管党|已炸柜|生产日期:11.13.2011|161cm52kg|INFP-T，重度社恐|初二牲，成绩倒数，休学中🥰|同类互fo喵～|二代目@XynUnk|https://t.co/gZ6bWdhM1A",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 107,
+                "username": "XynUnk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/UnkXyn",
+                "end": 138,
+                "expanded_url": "http://t.me/UnkXyn",
+                "start": 115,
+                "url": "https://t.co/gZ6bWdhM1A"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mwdxj29477",
+                "end": 23,
+                "expanded_url": "http://ngl.link/mwdxj29477",
+                "start": 0,
+                "url": "https://t.co/l2FvEo2fLb"
+              }
+            ]
+          }
+        },
+        "id": "1970857021588262912",
+        "name": "𝑼𝒏𝒌~🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051684783588315136/Nkhjk1Y6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 1451,
+          "like_count": 17342,
+          "listed_count": 3,
+          "media_count": 485,
+          "tweet_count": 2669
+        },
+        "url": "https://t.co/l2FvEo2fLb",
+        "username": "UnkXyn",
+        "verified": true
+      }
+    ]
+  }
+}

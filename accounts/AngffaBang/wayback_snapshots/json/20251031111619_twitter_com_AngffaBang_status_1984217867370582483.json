@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1983831603173597483",
+    "created_at": "2025-10-31T11:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T12:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984217867370582483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1760511593241096192",
+          "start": 0,
+          "username": "Aaron19910101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984217867370582483",
+    "in_reply_to_user_id": "1760511593241096192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984050929184993718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaron19910101 没钱，我家里人也不同意我治疗，所以导致的恶化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1983831603173597483",
+        "created_at": "2025-10-31T11:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T12:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984217867370582483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1760511593241096192",
+              "start": 0,
+              "username": "Aaron19910101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984217867370582483",
+        "in_reply_to_user_id": "1760511593241096192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984050929184993718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaron19910101 没钱，我家里人也不同意我治疗，所以导致的恶化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760511593241096192",
+        "conversation_id": "1983831603173597483",
+        "created_at": "2025-10-31T00:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T01:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984050929184993718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984050929184993718",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983831603173597483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 去看病然后弄点药吃吃呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/女の子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/好きかわいいのねこ🐱~/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 103,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 80,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6069,
+          "following_count": 604,
+          "like_count": 6028,
+          "listed_count": 5,
+          "media_count": 408,
+          "tweet_count": 2478
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T03:47:45.000Z",
+        "description": "",
+        "id": "1760511593241096192",
+        "name": "Aaron",
+        "pinned_tweet_id": "1973585088584753547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820985970335838208/O64YqQq__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 715,
+          "like_count": 65235,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 4254
+        },
+        "username": "Aaron19910101",
+        "verified": false
+      }
+    ]
+  }
+}

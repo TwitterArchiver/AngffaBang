@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1861529568219406644",
+    "created_at": "2024-11-27T06:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T07:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861663519843983648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595603290183462912",
+          "start": 0,
+          "username": "Sabihime_E"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Titter MBTI Receipt",
+          "display_url": "twi.am",
+          "end": 35,
+          "expanded_url": "http://twi.am",
+          "images": [
+            {
+              "height": 1024,
+              "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=orig",
+              "width": 1365
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 12,
+          "status": 200,
+          "title": "Twi.AM",
+          "unwound_url": "https://twi.am/",
+          "url": "https://t.co/GBjX4MmBPd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861663519843983648",
+    "in_reply_to_user_id": "1595603290183462912",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861618610009186667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabihime_E https://t.co/GBjX4MmBPd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1861529568219406644",
+        "created_at": "2024-11-27T06:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T07:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861663519843983648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595603290183462912",
+              "start": 0,
+              "username": "Sabihime_E"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Titter MBTI Receipt",
+              "display_url": "twi.am",
+              "end": 35,
+              "expanded_url": "http://twi.am",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=orig",
+                  "width": 1365
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1860631479044476928/srnEvohs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "Twi.AM",
+              "unwound_url": "https://twi.am/",
+              "url": "https://t.co/GBjX4MmBPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861663519843983648",
+        "in_reply_to_user_id": "1595603290183462912",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861618610009186667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabihime_E https://t.co/GBjX4MmBPd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595603290183462912",
+        "conversation_id": "1861529568219406644",
+        "created_at": "2024-11-27T03:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T04:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861618610009186667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861618610009186667",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861529568219406644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 这是什么网站？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 360,
+          "like_count": 2711,
+          "listed_count": 0,
+          "tweet_count": 1102
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T02:20:52.000Z",
+        "description": "锖。迷茫的二十岁",
+        "id": "1595603290183462912",
+        "name": "錆姫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708846127586656256/OXsxo-T6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 2399,
+          "like_count": 3392,
+          "listed_count": 0,
+          "tweet_count": 2574
+        },
+        "username": "Sabihime_E",
+        "verified": false
+      }
+    ]
+  }
+}

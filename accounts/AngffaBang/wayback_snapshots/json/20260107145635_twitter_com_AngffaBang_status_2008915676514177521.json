@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2008915662878515200",
+        "3_2008915663163691008"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2008915676514177521",
+    "created_at": "2026-01-07T14:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T15:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008915676514177521"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Dhb96KZj7",
+          "end": 30,
+          "expanded_url": "https://x.com/AngffaBang/status/2008915676514177521/photo/1",
+          "media_key": "3_2008915662878515200",
+          "start": 7,
+          "url": "https://t.co/0Dhb96KZj7"
+        },
+        {
+          "display_url": "pic.x.com/0Dhb96KZj7",
+          "end": 30,
+          "expanded_url": "https://x.com/AngffaBang/status/2008915676514177521/photo/1",
+          "media_key": "3_2008915663163691008",
+          "start": 7,
+          "url": "https://t.co/0Dhb96KZj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008915676514177521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "长发男的时候 https://t.co/0Dhb96KZj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2008915662878515200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-EaJtWXoAAO8wW.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2008915663163691008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-EaJuaXEAAPJPN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008915662878515200",
+            "3_2008915663163691008"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2008915676514177521",
+        "created_at": "2026-01-07T14:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008915676514177521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Dhb96KZj7",
+              "end": 30,
+              "expanded_url": "https://x.com/AngffaBang/status/2008915676514177521/photo/1",
+              "media_key": "3_2008915662878515200",
+              "start": 7,
+              "url": "https://t.co/0Dhb96KZj7"
+            },
+            {
+              "display_url": "pic.x.com/0Dhb96KZj7",
+              "end": 30,
+              "expanded_url": "https://x.com/AngffaBang/status/2008915676514177521/photo/1",
+              "media_key": "3_2008915663163691008",
+              "start": 7,
+              "url": "https://t.co/0Dhb96KZj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008915676514177521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长发男的时候 https://t.co/0Dhb96KZj7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6975,
+          "following_count": 602,
+          "like_count": 6054,
+          "listed_count": 5,
+          "media_count": 435,
+          "tweet_count": 2619
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

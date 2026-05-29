@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860639412138459357",
+    "created_at": "2024-11-25T20:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T21:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861143116323127369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1511198271154188293",
+          "start": 0,
+          "username": "biantaibaobao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861143116323127369",
+    "in_reply_to_user_id": "1511198271154188293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860639412138459357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@biantaibaobao 是个i人都这样，不分男女其实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860639412138459357",
+        "created_at": "2024-11-25T20:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T21:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861143116323127369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1511198271154188293",
+              "start": 0,
+              "username": "biantaibaobao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861143116323127369",
+        "in_reply_to_user_id": "1511198271154188293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860639412138459357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@biantaibaobao 是个i人都这样，不分男女其实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860639410133569536"
+          ]
+        },
+        "author_id": "1511198271154188293",
+        "conversation_id": "1860639412138459357",
+        "created_at": "2024-11-24T10:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T11:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860639412138459357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d38eBs1Ueu",
+              "end": 30,
+              "expanded_url": "https://x.com/biantaibaobao/status/1860639412138459357/photo/1",
+              "media_key": "3_1860639410133569536",
+              "start": 7,
+              "url": "https://t.co/d38eBs1Ueu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860639412138459357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 391219,
+          "like_count": 1619,
+          "quote_count": 43,
+          "reply_count": 525,
+          "retweet_count": 93
+        },
+        "reply_settings": "everyone",
+        "text": "男的都这样吗 https://t.co/d38eBs1Ueu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 354,
+          "like_count": 2590,
+          "listed_count": 0,
+          "tweet_count": 1037
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T04:25:31.000Z",
+        "description": "@juzuo0401",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "juzuo0401"
+              }
+            ]
+          }
+        },
+        "id": "1511198271154188293",
+        "name": "橘座的铲屎官",
+        "pinned_tweet_id": "1810431565656478155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860917992256856064/2IGt2BmT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8711,
+          "following_count": 219,
+          "like_count": 7608,
+          "listed_count": 22,
+          "tweet_count": 1065
+        },
+        "username": "biantaibaobao",
+        "verified": false
+      }
+    ]
+  }
+}

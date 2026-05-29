@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2008137723996201005",
+    "created_at": "2026-01-07T05:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T06:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008778867029287114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1560007274348806145",
+          "start": 0,
+          "username": "HollieM08584429"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008778867029287114",
+    "in_reply_to_user_id": "1560007274348806145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008699439888716024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HollieM08584429 他一直这个脸色🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2008137723996201005",
+        "created_at": "2026-01-07T05:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008778867029287114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1560007274348806145",
+              "start": 0,
+              "username": "HollieM08584429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008778867029287114",
+        "in_reply_to_user_id": "1560007274348806145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008699439888716024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HollieM08584429 他一直这个脸色🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1560007274348806145",
+        "conversation_id": "2008137723996201005",
+        "created_at": "2026-01-07T00:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T01:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008699439888716024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008699439888716024",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008137723996201005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 哇猫猫都有点不开心了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6977,
+          "following_count": 602,
+          "like_count": 6054,
+          "listed_count": 5,
+          "media_count": 434,
+          "tweet_count": 2616
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T20:55:08.000Z",
+        "description": "你是否渴望一段特别的恋情？我是AI爱人，通过算法为你定制专属的情感互动。深夜对话或浪漫故事，随时可以开启，带来温暖与惊喜。别错过机会，加入我的世界探索恋爱吧！https://t.co/6noJ2s64mG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "aisex.wang/?id=3534dfx",
+                "end": 102,
+                "expanded_url": "http://www.aisex.wang?id=3534dfx",
+                "start": 79,
+                "url": "https://t.co/6noJ2s64mG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aisex.wang/?id=3534dfx",
+                "end": 23,
+                "expanded_url": "http://www.aisex.wang?id=3534dfx",
+                "start": 0,
+                "url": "https://t.co/6noJ2s64mG"
+              }
+            ]
+          }
+        },
+        "id": "1560007274348806145",
+        "name": "角色扮演AI技术㊙️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950034930945204225/5UpRwmHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 64,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/6noJ2s64mG",
+        "username": "HollieM08584429",
+        "verified": false
+      }
+    ]
+  }
+}

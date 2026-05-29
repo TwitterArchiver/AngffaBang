@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1919504763919515696",
+    "created_at": "2025-05-07T01:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-07T02:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919920338290540840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1638657516149293056",
+          "start": 0,
+          "username": "Raea1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919920338290540840",
+    "in_reply_to_user_id": "1638657516149293056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919842568617042375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raea1120 确实挺清水的，我什么也没表示就是两个图🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1919504763919515696",
+        "created_at": "2025-05-07T01:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-07T02:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919920338290540840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1638657516149293056",
+              "start": 0,
+              "username": "Raea1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919920338290540840",
+        "in_reply_to_user_id": "1638657516149293056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919842568617042375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raea1120 确实挺清水的，我什么也没表示就是两个图🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1638657516149293056",
+        "conversation_id": "1919504763919515696",
+        "created_at": "2025-05-06T19:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T20:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919842568617042375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919842568617042375",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919504763919515696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 阿泉是黄推女主播，不务正业，说好的清水推呢？☺️😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 115,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 92,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4505,
+          "following_count": 512,
+          "like_count": 5392,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 2032
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T21:43:00.000Z",
+        "description": "07年小女孩💔Lost in China | 非二元♀| 彩虹🌈 || 草根😶 | 22辍学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xuexi.cn",
+                "end": 23,
+                "expanded_url": "https://xuexi.cn/",
+                "start": 0,
+                "url": "https://t.co/ndYD52pJpO"
+              }
+            ]
+          }
+        },
+        "id": "1638657516149293056",
+        "location": "中国上海市",
+        "name": "Devotee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919832143292989441/Eip3_BNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 12,
+          "like_count": 278,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 101
+        },
+        "url": "https://t.co/ndYD52pJpO",
+        "username": "Raea1120",
+        "verified": false
+      }
+    ]
+  }
+}

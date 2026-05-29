@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1866299381382848819",
+    "created_at": "2024-12-10T02:07:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T03:07:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866303695480365176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1826611872118046720",
+          "start": 0,
+          "username": "Ijichi_Kotomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866303695480365176",
+    "in_reply_to_user_id": "1826611872118046720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866302078542594535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ijichi_Kotomi 嗯嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1866299381382848819",
+        "created_at": "2024-12-10T02:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T03:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866303695480365176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1826611872118046720",
+              "start": 0,
+              "username": "Ijichi_Kotomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866303695480365176",
+        "in_reply_to_user_id": "1826611872118046720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866302078542594535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ijichi_Kotomi 嗯嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826611872118046720",
+        "conversation_id": "1866299381382848819",
+        "created_at": "2024-12-10T02:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T03:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866302078542594535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866302078542594535",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866299381382848819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang qwq现在我看到这类推文已经不会去劝诫了。我没有资格去干涉他人，别人也不会在乎我的干涉。妄想用“不要”两个字去化解他人积累数年的苦痛是不现实的。我只能说抱抱小泉。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 422,
+          "like_count": 3429,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 1325
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-22T13:26:34.000Z",
+        "description": "High School Student/17/China\nUS College Application in progress/CS major\ninterest: anime & painting & 术力口/favorite anime: CLANNAD/pjsk\nBilingual: En/Zh",
+        "id": "1826611872118046720",
+        "location": "下北泽",
+        "name": "kotomi（圣诞限定~）",
+        "pinned_tweet_id": "1864706722629357576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864706841047134208/kwlzKQIY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 481,
+          "like_count": 7309,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 1993
+        },
+        "username": "Ijichi_Kotomi",
+        "verified": false
+      }
+    ]
+  }
+}

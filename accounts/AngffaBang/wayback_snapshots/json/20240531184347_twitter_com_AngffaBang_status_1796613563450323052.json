@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1796550031585239372",
+    "created_at": "2024-05-31T18:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T19:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796613563450323052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1604004852157538304",
+          "start": 0,
+          "username": "kuro_neko__xx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796613563450323052",
+    "in_reply_to_user_id": "1604004852157538304",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796550031585239372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuro_neko__xx 好帅，爱上了🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1796550031585239372",
+        "created_at": "2024-05-31T18:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T19:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796613563450323052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1604004852157538304",
+              "start": 0,
+              "username": "kuro_neko__xx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796613563450323052",
+        "in_reply_to_user_id": "1604004852157538304",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796550031585239372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuro_neko__xx 好帅，爱上了🥺"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796550029404164096"
+          ]
+        },
+        "author_id": "1604004852157538304",
+        "conversation_id": "1796550031585239372",
+        "created_at": "2024-05-31T14:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T15:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796550031585239372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UMtPMU5BKc",
+              "end": 31,
+              "expanded_url": "https://twitter.com/kuro_neko__xx/status/1796550031585239372/photo/1",
+              "media_key": "3_1796550029404164096",
+              "start": 8,
+              "url": "https://t.co/UMtPMU5BKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796550031585239372",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1700,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "着替え途中やつ https://t.co/UMtPMU5BKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A     13岁，别来勿扰，小心抓局里",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "pinned_tweet_id": "1793720981145711053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795901752275070977/zmphs37D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 32,
+          "like_count": 223,
+          "listed_count": 0,
+          "tweet_count": 188
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T06:46:03.000Z",
+        "description": "Instagram→https://t.co/M3NbKDEWD5 ￤\n\n業者以外はフォロバ100",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_mitu_xx?igsh=…",
+                "end": 33,
+                "expanded_url": "https://www.instagram.com/_mitu_xx?igsh=dnoweXBmdm52eTh6",
+                "start": 10,
+                "url": "https://t.co/M3NbKDEWD5"
+              }
+            ]
+          }
+        },
+        "id": "1604004852157538304",
+        "name": "み つ",
+        "pinned_tweet_id": "1750446052694700141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774420752500183040/jc9sIfln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 932,
+          "like_count": 26215,
+          "listed_count": 19,
+          "tweet_count": 15646
+        },
+        "username": "kuro_neko__xx",
+        "verified": false
+      }
+    ]
+  }
+}

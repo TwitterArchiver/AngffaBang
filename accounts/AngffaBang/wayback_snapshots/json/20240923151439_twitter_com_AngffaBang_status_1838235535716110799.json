@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1838235526543167488"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1838235535716110799",
+    "created_at": "2024-09-23T15:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-23T16:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1838235535716110799"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/em0w9pdzuh",
+          "end": 29,
+          "expanded_url": "https://twitter.com/AngffaBang/status/1838235535716110799/photo/1",
+          "media_key": "3_1838235526543167488",
+          "start": 6,
+          "url": "https://t.co/eM0W9pdZuH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838235535716110799",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "包7-8的 https://t.co/eM0W9pdZuH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_1838235526543167488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYK5eNUb0AAPpWh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1838235526543167488"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1838235535716110799",
+        "created_at": "2024-09-23T15:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-23T16:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1838235535716110799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/em0w9pdzuh",
+              "end": 29,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1838235535716110799/photo/1",
+              "media_key": "3_1838235526543167488",
+              "start": 6,
+              "url": "https://t.co/eM0W9pdZuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838235535716110799",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "包7-8的 https://t.co/eM0W9pdZuH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821612885929553924/p43vvaTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 32,
+          "like_count": 477,
+          "listed_count": 0,
+          "tweet_count": 353
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

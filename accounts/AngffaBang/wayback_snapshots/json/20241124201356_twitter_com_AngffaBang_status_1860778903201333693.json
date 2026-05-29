@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860712151239041410",
+    "created_at": "2024-11-24T20:13:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-24T21:13:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860778903201333693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762120281626415104",
+          "start": 0,
+          "username": "X_jvzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860778903201333693",
+    "in_reply_to_user_id": "1762120281626415104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860712151239041410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X_jvzhi 互fo呀~想涨粉做互fo的也会很快╰(*´︶`*)╯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860712151239041410",
+        "created_at": "2024-11-24T20:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T21:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860778903201333693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762120281626415104",
+              "start": 0,
+              "username": "X_jvzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860778903201333693",
+        "in_reply_to_user_id": "1762120281626415104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860712151239041410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X_jvzhi 互fo呀~想涨粉做互fo的也会很快╰(*´︶`*)╯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762120281626415104",
+        "conversation_id": "1860712151239041410",
+        "created_at": "2024-11-24T15:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T16:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860712151239041410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1860712151239041410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 528,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自己涨fo慢固然让我伤心，可推u们的成功更让我心痛不已\n当别人的fo数像坐火箭一样上升时，而我的fo数却涨完又掉，掉完又涨，始终卡在250fo的红线。可能我真的是个250吧\nQAQ\n再这样下去我要转行当涩推了，当涩推好像也不错，又有钱，人气还会高一点，也能变相得温暖别人\n_(:з」∠)_"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 336,
+          "like_count": 2464,
+          "listed_count": 0,
+          "tweet_count": 983
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-26T14:19:56.000Z",
+        "description": "是你在看我吗，emm,我也在看你哦₍ ¬ ᴗ ¬₎丨快关注我关注我关注我，不然下次就刷不到我了QAQ丨让颜文字再次伟大！⸜₍๑•⌔•๑₎⸝丨树洞：jvzhishudong@outlook.com忧愁要说出来才能缓解哦₍ ｡•.•｡₎",
+        "id": "1762120281626415104",
+        "name": "橘枳",
+        "pinned_tweet_id": "1859556156907323641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857632132166037504/Jn3TdM1X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 45,
+          "like_count": 3417,
+          "listed_count": 0,
+          "tweet_count": 2497
+        },
+        "username": "X_jvzhi",
+        "verified": false
+      }
+    ]
+  }
+}

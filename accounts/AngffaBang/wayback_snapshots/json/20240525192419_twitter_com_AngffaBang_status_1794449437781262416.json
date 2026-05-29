@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1794383182546325702",
+    "created_at": "2024-05-25T19:24:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T20:24:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794449437781262416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1761606286863650816",
+          "start": 0,
+          "username": "uvnzy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794449437781262416",
+    "in_reply_to_user_id": "1761606286863650816",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794383182546325702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uvnzy 14歳？ ！ 14歳はこんなに可愛い！ すごい⊙▽⊙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1794383182546325702",
+        "created_at": "2024-05-25T19:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T20:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794449437781262416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1761606286863650816",
+              "start": 0,
+              "username": "uvnzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794449437781262416",
+        "in_reply_to_user_id": "1761606286863650816",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794383182546325702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uvnzy 14歳？ ！ 14歳はこんなに可愛い！ すごい⊙▽⊙"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794383177705979904"
+          ]
+        },
+        "author_id": "1761606286863650816",
+        "conversation_id": "1794383182546325702",
+        "created_at": "2024-05-25T15:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T16:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794383182546325702"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "でしあらちゃん",
+              "probability": 0.559,
+              "start": 3,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/6AphGWNW9A",
+              "end": 44,
+              "expanded_url": "https://twitter.com/uvnzy/status/1794383182546325702/photo/1",
+              "media_key": "3_1794383177705979904",
+              "start": 21,
+              "url": "https://t.co/6AphGWNW9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794383182546325702",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 11682,
+          "like_count": 360,
+          "quote_count": 7,
+          "reply_count": 19,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "きょうでしあらちゃん、きらきら14さい♥ https://t.co/6AphGWNW9A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 25,
+          "like_count": 141,
+          "listed_count": 0,
+          "tweet_count": 132
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T04:21:01.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/_a_12_z_?s=21&…",
+                "end": 23,
+                "expanded_url": "https://x.com/_a_12_z_?s=21&t=-eHryaZZLt6akrI3LBXqSQ",
+                "start": 0,
+                "url": "https://t.co/y3VMvMKF03"
+              }
+            ]
+          }
+        },
+        "id": "1761606286863650816",
+        "location": "♡",
+        "name": "ْ",
+        "pinned_tweet_id": "1793698891407479235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791654325615267841/fCme-Et2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1226,
+          "following_count": 28,
+          "like_count": 1,
+          "listed_count": 5,
+          "tweet_count": 1061
+        },
+        "url": "https://t.co/y3VMvMKF03",
+        "username": "uvnzy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2001797634621870485",
+    "created_at": "2025-12-19T05:45:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T06:45:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001891591670349960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1742231178713931777",
+          "start": 0,
+          "username": "xuyifei111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001891591670349960",
+    "in_reply_to_user_id": "1742231178713931777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001881373171462237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuyifei111 反正我永远到不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2001797634621870485",
+        "created_at": "2025-12-19T05:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001891591670349960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1742231178713931777",
+              "start": 0,
+              "username": "xuyifei111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001891591670349960",
+        "in_reply_to_user_id": "1742231178713931777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001881373171462237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuyifei111 反正我永远到不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742231178713931777",
+        "conversation_id": "2001797634621870485",
+        "created_at": "2025-12-19T05:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001881373171462237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001881373171462237",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001797634621870485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 疯啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6870,
+          "following_count": 600,
+          "like_count": 6065,
+          "listed_count": 5,
+          "media_count": 424,
+          "tweet_count": 2591
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T17:07:51.000Z",
+        "description": "莫名的关心",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wI0Xht8l8v5lM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wI0Xht8l8v5lMTJl",
+                "start": 0,
+                "url": "https://t.co/IrX16VP51E"
+              }
+            ]
+          }
+        },
+        "id": "1742231178713931777",
+        "location": "杭州",
+        "name": "不可亦",
+        "pinned_tweet_id": "1834554819085730042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941923723939905536/bwUi4wsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 31,
+          "like_count": 125,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/IrX16VP51E",
+        "username": "xuyifei111",
+        "verified": false
+      }
+    ]
+  }
+}

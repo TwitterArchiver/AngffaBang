@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1914667664775242134",
+    "created_at": "2025-04-22T13:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T14:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914667664775242134"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1914667664775242134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "受不了了，养耗子才养了一个月我就烦他们了\n   指甲剪了抓人还疼，爬到高处啃空调管，天天尿我身上，喜欢隔着衣服咬我（特别疼），每次爬到我衣服上我都要应激一下会不会突然咬我，晚上关起来疯狂啃笼子\n   要不是我没有暴力倾向他们早就被我踩死了，根本不敢想象以后有小孩我会怎么对待他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1914667664775242134",
+        "created_at": "2025-04-22T13:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T14:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914667664775242134"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914667664775242134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "受不了了，养耗子才养了一个月我就烦他们了\n   指甲剪了抓人还疼，爬到高处啃空调管，天天尿我身上，喜欢隔着衣服咬我（特别疼），每次爬到我衣服上我都要应激一下会不会突然咬我，晚上关起来疯狂啃笼子\n   要不是我没有暴力倾向他们早就被我踩死了，根本不敢想象以后有小孩我会怎么对待他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/od/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 116,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 93,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4451,
+          "following_count": 516,
+          "like_count": 5325,
+          "listed_count": 5,
+          "media_count": 240,
+          "tweet_count": 1979
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

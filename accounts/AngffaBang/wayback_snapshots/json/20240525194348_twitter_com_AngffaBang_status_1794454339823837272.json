@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1793905760902291871",
+    "created_at": "2024-05-25T19:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-25T20:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794454339823837272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1772289175162945536",
+          "start": 0,
+          "username": "BadTaste_Illust"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794454339823837272",
+    "in_reply_to_user_id": "1772289175162945536",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793905760902291871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BadTaste_Illust 性的暴行を受けたような気がする"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1793905760902291871",
+        "created_at": "2024-05-25T19:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T20:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794454339823837272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1772289175162945536",
+              "start": 0,
+              "username": "BadTaste_Illust"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794454339823837272",
+        "in_reply_to_user_id": "1772289175162945536",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793905760902291871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BadTaste_Illust 性的暴行を受けたような気がする"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793905754740776960"
+          ]
+        },
+        "author_id": "1772289175162945536",
+        "conversation_id": "1793905760902291871",
+        "created_at": "2024-05-24T07:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T08:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793905760902291871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/5bri9K1SxM",
+              "end": 28,
+              "expanded_url": "https://twitter.com/BadTaste_Illust/status/1793905760902291871/photo/1",
+              "media_key": "3_1793905754740776960",
+              "start": 5,
+              "url": "https://t.co/5bri9K1SxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793905760902291871",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 31857,
+          "like_count": 974,
+          "quote_count": 27,
+          "reply_count": 44,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "なにこれ https://t.co/5bri9K1SxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1793741690437791744/1lJya9wv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 25,
+          "like_count": 145,
+          "listed_count": 0,
+          "tweet_count": 137
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T15:47:40.000Z",
+        "description": "イラストをツイートします￤提供はツイートのスクショを提供してくれると助かります￤管理人複数人￤提供はDMまで￤ツイートは全て提供",
+        "id": "1772289175162945536",
+        "location": "採用👍不採用👎保留🔥 ※自薦の受付は停止しています",
+        "name": "伸び代(笑)のあるイラスト展示会２",
+        "pinned_tweet_id": "1792184393420964196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792586402422829056/eBxeF5lR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 2,
+          "like_count": 61,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "BadTaste_Illust",
+        "verified": false
+      }
+    ]
+  }
+}

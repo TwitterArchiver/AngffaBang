@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1856064438849417221"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1856064450115318194",
+    "created_at": "2024-11-11T20:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-11T21:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856064450115318194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jNHq5ooeWV",
+          "end": 59,
+          "expanded_url": "https://x.com/AngffaBang/status/1856064450115318194/photo/1",
+          "media_key": "3_1856064438849417221",
+          "start": 36,
+          "url": "https://t.co/jNHq5ooeWV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856064450115318194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "餐券女的手臂，犯病了😰给自己来了一刀重的才发现现在的自己下手没轻没重的 https://t.co/jNHq5ooeWV"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1856064450115318194].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1856064450115318194",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856064450115318194"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1856064438849417221",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcIQxfXasAUS-CT.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 114,
+          "like_count": 1387,
+          "listed_count": 0,
+          "tweet_count": 567
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

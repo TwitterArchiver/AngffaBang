@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1871109174173790275",
+    "created_at": "2025-01-26T10:55:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T11:55:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883468833480229063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1841737298649743360",
+          "start": 0,
+          "username": "Tadaipanchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883468833480229063",
+    "in_reply_to_user_id": "1841737298649743360",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883428163847586238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tadaipanchinese 9.9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1871109174173790275",
+        "created_at": "2025-01-26T10:55:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T11:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883468833480229063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1841737298649743360",
+              "start": 0,
+              "username": "Tadaipanchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883468833480229063",
+        "in_reply_to_user_id": "1841737298649743360",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883428163847586238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tadaipanchinese 9.9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841737298649743360",
+        "conversation_id": "1871109174173790275",
+        "created_at": "2025-01-26T08:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T09:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883428163847586238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883428163847586238",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871109174173790275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 这个多少钱？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 121,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 98,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4319,
+          "following_count": 516,
+          "like_count": 4910,
+          "listed_count": 6,
+          "media_count": 198,
+          "tweet_count": 1759
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T07:09:42.000Z",
+        "description": "现役中国人\n高校二年生\nWT苦手",
+        "id": "1841737298649743360",
+        "location": "中国🇨🇳",
+        "name": "一般路过中国人",
+        "pinned_tweet_id": "1862846759703294321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862843048536707072/qdEp0zyK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 182,
+          "like_count": 3582,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 818
+        },
+        "username": "Tadaipanchinese",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1896210404940075164",
+    "created_at": "2025-03-02T14:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T15:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896212403630801164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1867531287139168259",
+          "start": 0,
+          "username": "chiikawaOWwwWO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896212403630801164",
+    "in_reply_to_user_id": "1867531287139168259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896211756336517298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chiikawaOWwwWO 其实也不贵，就7块钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1896210404940075164",
+        "created_at": "2025-03-02T14:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T15:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896212403630801164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1867531287139168259",
+              "start": 0,
+              "username": "chiikawaOWwwWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896212403630801164",
+        "in_reply_to_user_id": "1867531287139168259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896211756336517298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chiikawaOWwwWO 其实也不贵，就7块钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867531287139168259",
+        "conversation_id": "1896210404940075164",
+        "created_at": "2025-03-02T14:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T15:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896211756336517298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896211756336517298",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896210404940075164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 不买就有钱了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 521,
+          "like_count": 5247,
+          "listed_count": 6,
+          "media_count": 215,
+          "tweet_count": 1873
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T11:25:38.000Z",
+        "description": "碎碎念，然后“嘭”地消失/06MtX🍥🏳️‍⚧️",
+        "id": "1867531287139168259",
+        "location": "我一直在盯着你(◎_◎;)",
+        "name": "春困秋乏夏打盹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868506580603551744/xusaBxiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 107,
+          "like_count": 1104,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 403
+        },
+        "username": "chiikawaOWwwWO",
+        "verified": false
+      }
+    ]
+  }
+}

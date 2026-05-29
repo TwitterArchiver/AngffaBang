@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1858444747599454305",
+    "created_at": "2024-11-18T09:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-18T10:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858444747599454305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1691242509815754754",
+          "start": 3,
+          "username": "Laniakea_Aawy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858444747599454305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858439964243185767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Laniakea_Aawy: 真想要400fo啊\n真想要400fo啊\n（疯狂暗示）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1858444747599454305",
+        "created_at": "2024-11-18T09:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T10:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858444747599454305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1691242509815754754",
+              "start": 3,
+              "username": "Laniakea_Aawy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858444747599454305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858439964243185767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Laniakea_Aawy: 真想要400fo啊\n真想要400fo啊\n（疯狂暗示）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691242509815754754",
+        "conversation_id": "1858439964243185767",
+        "created_at": "2024-11-18T09:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T10:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858439964243185767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1858439964243185767",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "真想要400fo啊\n真想要400fo啊\n（疯狂暗示）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 210,
+          "like_count": 1843,
+          "listed_count": 0,
+          "tweet_count": 720
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "04男大，可以叫我CC丨INFP(轻度抑郁)丨中国人🇨🇳热爱祖国和人民丨性格奇怪(?)但是友善富有爱心(?)的话痨丨常驻上海两假驻广州丨兴趣xp极广不用担心踩雷丨偶尔emo丨键政🚫丨中文👌🏻粤语👌🏻英语👌🏻日语机翻(？)丨说话爱带括号勿怪)丨刷屏致歉丨欢迎互fo聊天😌3Q（鞠躬）",
+        "id": "1691242509815754754",
+        "location": "星光沙漠·玫瑰园",
+        "name": "Cream Cheese",
+        "pinned_tweet_id": "1857834434814423540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854555981059121152/7o2A5Iyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 823,
+          "like_count": 2259,
+          "listed_count": 0,
+          "tweet_count": 639
+        },
+        "username": "Laniakea_Aawy",
+        "verified": false
+      }
+    ]
+  }
+}

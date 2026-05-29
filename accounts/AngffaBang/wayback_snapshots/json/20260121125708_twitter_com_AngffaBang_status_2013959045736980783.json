@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2013694839272144903",
+    "created_at": "2026-01-21T12:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013959045736980783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1468463771006156800",
+          "start": 0,
+          "username": "oxojb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013959045736980783",
+    "in_reply_to_user_id": "1468463771006156800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013935230353371154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxojb 可以在网上搜右美沙芬安非他酮缓释片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-21T12:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013959045736980783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1468463771006156800",
+              "start": 0,
+              "username": "oxojb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013959045736980783",
+        "in_reply_to_user_id": "1468463771006156800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013935230353371154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxojb 可以在网上搜右美沙芬安非他酮缓释片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468463771006156800",
+        "conversation_id": "2013694839272144903",
+        "created_at": "2026-01-21T11:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013935230353371154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013935230353371154",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013694839272144903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 不是，真有这个药？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009364605735170048/x_m4-ktV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7142,
+          "following_count": 601,
+          "like_count": 6111,
+          "listed_count": 5,
+          "media_count": 442,
+          "tweet_count": 2658
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T06:13:54.000Z",
+        "description": "男の娘，干からびた海からの悲鳴。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/oxojbs",
+                "end": 23,
+                "expanded_url": "https://t.me/oxojbs",
+                "start": 0,
+                "url": "https://t.co/g073PL3ue2"
+              }
+            ]
+          }
+        },
+        "id": "1468463771006156800",
+        "location": "🚪后可以进我的小窝👉",
+        "name": "夢",
+        "pinned_tweet_id": "2009384635956940948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995538065277026315/89gHQ3xH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1454,
+          "following_count": 38,
+          "like_count": 667,
+          "listed_count": 14,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/g073PL3ue2",
+        "username": "oxojb",
+        "verified": false
+      }
+    ]
+  }
+}

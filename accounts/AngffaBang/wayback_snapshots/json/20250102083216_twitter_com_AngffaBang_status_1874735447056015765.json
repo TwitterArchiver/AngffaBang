@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1874478372044341553",
+    "created_at": "2025-01-02T08:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T09:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874735447056015765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1866505437094555648",
+          "start": 0,
+          "username": "Redeemer113235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874735447056015765",
+    "in_reply_to_user_id": "1866505437094555648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874700145260179762",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Redeemer113235 谢谢哦！必须是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1874478372044341553",
+        "created_at": "2025-01-02T08:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T09:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874735447056015765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1866505437094555648",
+              "start": 0,
+              "username": "Redeemer113235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874735447056015765",
+        "in_reply_to_user_id": "1866505437094555648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874700145260179762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Redeemer113235 谢谢哦！必须是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866505437094555648",
+        "conversation_id": "1874478372044341553",
+        "created_at": "2025-01-02T06:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T07:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874700145260179762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874700145260179762",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874478372044341553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 那現在關注泉寶是不是算精神股東了🤔🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "pinned_tweet_id": "1868970288886718855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2327,
+          "following_count": 487,
+          "like_count": 4282,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 1561
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T15:29:19.000Z",
+        "description": "被學業壓垮的高三學子一枚👌🏻\n致救贖，致浪漫不渝👊",
+        "id": "1866505437094555648",
+        "location": "In Your Heart",
+        "name": "Redeemer.RMS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866505540396015616/C_HA8srL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 103,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 155
+        },
+        "username": "Redeemer113235",
+        "verified": false
+      }
+    ]
+  }
+}

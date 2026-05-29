@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868586619407925248",
+        "3_1868586620334866432",
+        "3_1868586620590739457",
+        "3_1868586619936399360"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1868586626290737256",
+    "created_at": "2024-12-16T09:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T10:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868586626290737256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aUQZBcs8rC",
+          "end": 112,
+          "expanded_url": "https://x.com/AngffaBang/status/1868586626290737256/photo/1",
+          "media_key": "3_1868586619407925248",
+          "start": 89,
+          "url": "https://t.co/aUQZBcs8rC"
+        },
+        {
+          "display_url": "pic.x.com/aUQZBcs8rC",
+          "end": 112,
+          "expanded_url": "https://x.com/AngffaBang/status/1868586626290737256/photo/1",
+          "media_key": "3_1868586620334866432",
+          "start": 89,
+          "url": "https://t.co/aUQZBcs8rC"
+        },
+        {
+          "display_url": "pic.x.com/aUQZBcs8rC",
+          "end": 112,
+          "expanded_url": "https://x.com/AngffaBang/status/1868586626290737256/photo/1",
+          "media_key": "3_1868586620590739457",
+          "start": 89,
+          "url": "https://t.co/aUQZBcs8rC"
+        },
+        {
+          "display_url": "pic.x.com/aUQZBcs8rC",
+          "end": 112,
+          "expanded_url": "https://x.com/AngffaBang/status/1868586626290737256/photo/1",
+          "media_key": "3_1868586619936399360",
+          "start": 89,
+          "url": "https://t.co/aUQZBcs8rC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868586626290737256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.玩的呀，只不过不怎么玩游戏了，最近还卖号了\n2.155-156差不多吧\n3.谢谢嘟！我一定一天5个饭团把自己吃撑\n4.我也相信呢✧٩(ˊωˋ*)و✧我也挺爱我自己的~嘿嘿嘿 https://t.co/aUQZBcs8rC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 453,
+        "media_key": "3_1868586619407925248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6NoVHbgAAPL0_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 428,
+        "media_key": "3_1868586620334866432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6NoYkbgAAWUMc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 427,
+        "media_key": "3_1868586620590739457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6NoZhb0AERwLa.jpg",
+        "width": 1080
+      },
+      {
+        "height": 576,
+        "media_key": "3_1868586619936399360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Ge6NoXFbYAAG59b.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868586619407925248",
+            "3_1868586620334866432",
+            "3_1868586620590739457",
+            "3_1868586619936399360"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1868586626290737256",
+        "created_at": "2024-12-16T09:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T10:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868586626290737256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUQZBcs8rC",
+              "end": 112,
+              "expanded_url": "https://x.com/AngffaBang/status/1868586626290737256/photo/1",
+              "media_key": "3_1868586619407925248",
+              "start": 89,
+              "url": "https://t.co/aUQZBcs8rC"
+            },
+            {
+              "display_url": "pic.x.com/aUQZBcs8rC",
+              "end": 112,
+              "expanded_url": "https://x.com/AngffaBang/status/1868586626290737256/photo/1",
+              "media_key": "3_1868586620334866432",
+              "start": 89,
+              "url": "https://t.co/aUQZBcs8rC"
+            },
+            {
+              "display_url": "pic.x.com/aUQZBcs8rC",
+              "end": 112,
+              "expanded_url": "https://x.com/AngffaBang/status/1868586626290737256/photo/1",
+              "media_key": "3_1868586620590739457",
+              "start": 89,
+              "url": "https://t.co/aUQZBcs8rC"
+            },
+            {
+              "display_url": "pic.x.com/aUQZBcs8rC",
+              "end": 112,
+              "expanded_url": "https://x.com/AngffaBang/status/1868586626290737256/photo/1",
+              "media_key": "3_1868586619936399360",
+              "start": 89,
+              "url": "https://t.co/aUQZBcs8rC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868586626290737256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.玩的呀，只不过不怎么玩游戏了，最近还卖号了\n2.155-156差不多吧\n3.谢谢嘟！我一定一天5个饭团把自己吃撑\n4.我也相信呢✧٩(ˊωˋ*)و✧我也挺爱我自己的~嘿嘿嘿 https://t.co/aUQZBcs8rC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1800,
+          "following_count": 459,
+          "like_count": 3750,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 1385
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

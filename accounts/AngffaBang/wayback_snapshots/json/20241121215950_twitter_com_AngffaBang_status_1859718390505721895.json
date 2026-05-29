@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1859718390505721895",
+    "created_at": "2024-11-21T21:59:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T22:59:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859718390505721895"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1859718390505721895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谈几把的恋爱，我感觉食物才是最好的，现在脑子里是馄饨汉堡披萨螺蛳粉炸鸡咖喱意面寿司拉面饺子煲仔饭年糕烧烤火锅火鸡面瘦肉粥牛排布丁辣条..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1859718390505721895",
+        "created_at": "2024-11-21T21:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T22:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859718390505721895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859718390505721895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谈几把的恋爱，我感觉食物才是最好的，现在脑子里是馄饨汉堡披萨螺蛳粉炸鸡咖喱意面寿司拉面饺子煲仔饭年糕烧烤火锅火鸡面瘦肉粥牛排布丁辣条..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 229,
+          "like_count": 2131,
+          "listed_count": 0,
+          "tweet_count": 820
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

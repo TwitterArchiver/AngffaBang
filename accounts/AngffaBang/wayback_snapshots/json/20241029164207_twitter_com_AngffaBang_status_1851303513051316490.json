@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1851266079257145663",
+    "created_at": "2024-10-29T16:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T17:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1851303513051316490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "TNSZ55"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851303513051316490",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851266079257145663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TNSZ55 希望没事😨这种极端的人我觉得早点没有联系好，不然下次干的事情可能更极端了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1851266079257145663",
+        "created_at": "2024-10-29T16:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T17:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1851303513051316490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "TNSZ55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851303513051316490",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851266079257145663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TNSZ55 希望没事😨这种极端的人我觉得早点没有联系好，不然下次干的事情可能更极端了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732356232290222080",
+        "conversation_id": "1851266079257145663",
+        "created_at": "2024-10-29T14:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T15:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851266079257145663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851266079257145663",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 749,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和我男朋友提分手他喝敌敌畏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP\n无人在意的猪头肉\n发推写日记的，哪天死了还证明存在过🌿🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850819638231465984/4bOKm7sT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 44,
+          "like_count": 664,
+          "listed_count": 0,
+          "tweet_count": 385
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "来自冥王星的神明少女｜绮洇/洇洇/hime/洇宝叫我什么都行！｜🇯🇵梦想是转生到日本当女高中生｜08｜粉蛆衮｜私信只回口令",
+        "id": "1732356232290222080",
+        "location": "冥王星Q街771号",
+        "name": "洇お姫様",
+        "pinned_tweet_id": "1846618745810440364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850060729484967938/a-giLUfQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1509,
+          "following_count": 302,
+          "like_count": 1819,
+          "listed_count": 0,
+          "tweet_count": 1168
+        },
+        "username": "TNSZ55",
+        "verified": false
+      }
+    ]
+  }
+}

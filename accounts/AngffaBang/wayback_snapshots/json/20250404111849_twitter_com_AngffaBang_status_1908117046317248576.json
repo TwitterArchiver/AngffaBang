@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1907708303414800815",
+    "created_at": "2025-04-04T11:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T12:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908117046317248576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1588354293760917504",
+          "start": 0,
+          "username": "coka_dee"
+        },
+        {
+          "end": 26,
+          "id": "1601470531349274625",
+          "start": 10,
+          "username": "rednightmare962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908117046317248576",
+    "in_reply_to_user_id": "1588354293760917504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908110145521119600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coka_dee @rednightmare962 那挺好的呀😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1907708303414800815",
+        "created_at": "2025-04-04T11:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T12:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908117046317248576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1588354293760917504",
+              "start": 0,
+              "username": "coka_dee"
+            },
+            {
+              "end": 26,
+              "id": "1601470531349274625",
+              "start": 10,
+              "username": "rednightmare962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908117046317248576",
+        "in_reply_to_user_id": "1588354293760917504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908110145521119600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coka_dee @rednightmare962 那挺好的呀😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588354293760917504",
+        "conversation_id": "1907708303414800815",
+        "created_at": "2025-04-04T10:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T11:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908110145521119600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 28,
+              "id": "1601470531349274625",
+              "start": 12,
+              "username": "rednightmare962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908110145521119600",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907814254193115483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang @rednightmare962 没事的，磕什么都戒不掉的，o上了都没救啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4471,
+          "following_count": 515,
+          "like_count": 5315,
+          "listed_count": 5,
+          "media_count": 232,
+          "tweet_count": 1933
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-04T02:16:07.000Z",
+        "description": "",
+        "id": "1588354293760917504",
+        "name": "Coka Dee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588354523990573056/YZHhfun0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 100,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 44
+        },
+        "username": "coka_dee",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-10T06:55:11.000Z",
+        "description": "男/mtx",
+        "id": "1601470531349274625",
+        "name": "云",
+        "pinned_tweet_id": "1885353295155519832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857101239806300161/qPP42yj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 350,
+          "like_count": 7301,
+          "listed_count": 3,
+          "media_count": 167,
+          "tweet_count": 3588
+        },
+        "username": "rednightmare962",
+        "verified": false
+      }
+    ]
+  }
+}

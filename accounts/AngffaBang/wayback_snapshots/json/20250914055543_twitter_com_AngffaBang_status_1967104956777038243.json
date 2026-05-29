@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1967104910178287616"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1967104956777038243",
+    "created_at": "2025-09-14T05:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T06:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1967104956777038243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9xj4tqazWt",
+          "end": 23,
+          "expanded_url": "https://x.com/AngffaBang/status/1967104956777038243/video/1",
+          "media_key": "7_1967104910178287616",
+          "start": 0,
+          "url": "https://t.co/9xj4tqazWt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967104956777038243",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/9xj4tqazWt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11481,
+        "height": 1280,
+        "media_key": "7_1967104910178287616",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1967104910178287616/pu/img/AGqURED02H6NRVe2.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967104910178287616/pu/vid/avc1/320x568/TIjKH8JiIHQzzFml.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967104910178287616/pu/vid/avc1/480x852/97fug-i-DxOMirid.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967104910178287616/pu/vid/avc1/720x1280/Fvf-JYsUEu0m-vis.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1967104910178287616/pu/pl/v0f86sIcC-6mC8S0.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967104910178287616"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1967104956777038243",
+        "created_at": "2025-09-14T05:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967104956777038243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xj4tqazWt",
+              "end": 23,
+              "expanded_url": "https://x.com/AngffaBang/status/1967104956777038243/video/1",
+              "media_key": "7_1967104910178287616",
+              "start": 0,
+              "url": "https://t.co/9xj4tqazWt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967104956777038243",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9xj4tqazWt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964286161171722240/K0-5FdhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5867,
+          "following_count": 525,
+          "like_count": 5892,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 2385
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

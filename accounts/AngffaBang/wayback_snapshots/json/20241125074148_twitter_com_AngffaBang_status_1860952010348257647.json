@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1860783602981888333",
+    "created_at": "2024-11-25T07:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T08:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860952010348257647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1815326976774754304",
+          "start": 0,
+          "username": "dansfantasist"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860952010348257647",
+    "in_reply_to_user_id": "1815326976774754304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860929746772840598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dansfantasist 因为我只能想到这些(˃ ⌑ ˂ഃ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1860783602981888333",
+        "created_at": "2024-11-25T07:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T08:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860952010348257647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1815326976774754304",
+              "start": 0,
+              "username": "dansfantasist"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860952010348257647",
+        "in_reply_to_user_id": "1815326976774754304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860929746772840598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dansfantasist 因为我只能想到这些(˃ ⌑ ˂ഃ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815326976774754304",
+        "conversation_id": "1860783602981888333",
+        "created_at": "2024-11-25T06:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T07:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860929746772840598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860929746772840598",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860783602981888333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 泉姐说话还是太礼貌了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 343,
+          "like_count": 2491,
+          "listed_count": 0,
+          "tweet_count": 993
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-22T10:04:22.000Z",
+        "description": "南京在校/18/hrt/无证摆烂/微割微o微疯/穷/消极待医/室内烧炭，没能飞向彼岸",
+        "id": "1815326976774754304",
+        "location": "南京",
+        "name": "fantasist",
+        "pinned_tweet_id": "1860854344750612898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815328032212582401/Gl61YRGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 101,
+          "like_count": 5025,
+          "listed_count": 0,
+          "tweet_count": 208
+        },
+        "username": "dansfantasist",
+        "verified": false
+      }
+    ]
+  }
+}

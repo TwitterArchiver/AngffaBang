@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2008588540431790355",
+    "created_at": "2026-01-07T05:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T06:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008778721776324735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "786903427808829440",
+          "start": 0,
+          "username": "wing4120161014"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008778721776324735",
+    "in_reply_to_user_id": "786903427808829440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008684938506486088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wing4120161014 对啊，结果管理层都包容这个没有道德的人渣，所以我待不下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2008588540431790355",
+        "created_at": "2026-01-07T05:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T06:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008778721776324735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "786903427808829440",
+              "start": 0,
+              "username": "wing4120161014"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008778721776324735",
+        "in_reply_to_user_id": "786903427808829440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008684938506486088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wing4120161014 对啊，结果管理层都包容这个没有道德的人渣，所以我待不下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786903427808829440",
+        "conversation_id": "2008588540431790355",
+        "created_at": "2026-01-06T23:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T00:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008684938506486088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008684938506486088",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008588540431790355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 基本道德底线，会这样对未成年的，可想之后会不会做更过份的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16//名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 87,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 64,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997764703037411328/vHx3Pimp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6977,
+          "following_count": 602,
+          "like_count": 6054,
+          "listed_count": 5,
+          "media_count": 434,
+          "tweet_count": 2615
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-14T12:16:11.000Z",
+        "description": "",
+        "id": "786903427808829440",
+        "name": "wing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007143635511586817/LhOE21lI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 1473,
+          "like_count": 15662,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 3177
+        },
+        "username": "wing4120161014",
+        "verified": false
+      }
+    ]
+  }
+}

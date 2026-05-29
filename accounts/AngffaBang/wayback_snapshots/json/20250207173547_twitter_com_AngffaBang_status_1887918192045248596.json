@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1887744127053537634",
+    "created_at": "2025-02-07T17:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T18:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887918192045248596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1554677231485878272",
+          "start": 0,
+          "username": "PDpg233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887918192045248596",
+    "in_reply_to_user_id": "1554677231485878272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887896070631666026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PDpg233 她是这样想的，我以后也不会养她的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1887744127053537634",
+        "created_at": "2025-02-07T17:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T18:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887918192045248596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1554677231485878272",
+              "start": 0,
+              "username": "PDpg233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887918192045248596",
+        "in_reply_to_user_id": "1554677231485878272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887896070631666026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PDpg233 她是这样想的，我以后也不会养她的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554677231485878272",
+        "conversation_id": "1887744127053537634",
+        "created_at": "2025-02-07T16:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T17:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887896070631666026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887896070631666026",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887744127053537634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 养孩子是为几十年后的自己找个保姆吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神病/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 117,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 94,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4403,
+          "following_count": 524,
+          "like_count": 5094,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 1840
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T03:55:21.000Z",
+        "description": "把这里当朋友圈ovo｜属性请看置顶推~｜\nhttps://t.co/r4RoFHkPsN 匿名提问",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7917576",
+                "end": 44,
+                "expanded_url": "https://ngl.link/7917576",
+                "start": 21,
+                "url": "https://t.co/r4RoFHkPsN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/jk5MLZB",
+                "end": 23,
+                "expanded_url": "https://b23.tv/jk5MLZB",
+                "start": 0,
+                "url": "https://t.co/PP1j4E7DBz"
+              }
+            ]
+          }
+        },
+        "id": "1554677231485878272",
+        "location": "距离你 292.25 千米",
+        "name": "染柒Seven",
+        "pinned_tweet_id": "1886417395537117381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880471313724358656/1753LiRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 170,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 402
+        },
+        "url": "https://t.co/PP1j4E7DBz",
+        "username": "PDpg233",
+        "verified": false
+      }
+    ]
+  }
+}

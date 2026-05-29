@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1882845719608123392"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1882806998955327656",
+    "created_at": "2025-01-24T17:39:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T18:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882845722221125632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qiaglGY7Xo",
+          "end": 56,
+          "expanded_url": "https://x.com/AngffaBang/status/1882845722221125632/photo/1",
+          "media_key": "3_1882845719608123392",
+          "start": 33,
+          "url": "https://t.co/qiaglGY7Xo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882845722221125632",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882806998955327656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 别人说喝了会提神，我没什么反应就当汽水喝 https://t.co/qiaglGY7Xo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1882845719608123392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiE2NMwbYAAjgXg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1882845719608123392"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1882806998955327656",
+        "created_at": "2025-01-24T17:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T18:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882845722221125632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qiaglGY7Xo",
+              "end": 56,
+              "expanded_url": "https://x.com/AngffaBang/status/1882845722221125632/photo/1",
+              "media_key": "3_1882845719608123392",
+              "start": 33,
+              "url": "https://t.co/qiaglGY7Xo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882845722221125632",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882806998955327656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 别人说喝了会提神，我没什么反应就当汽水喝 https://t.co/qiaglGY7Xo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "1882806998955327656",
+        "created_at": "2025-01-24T15:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T16:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882806998955327656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882806998955327656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 489,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "国内魔爪有咖啡因吗，听说没有所以当汽水喝了六瓶，心脏痛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/戒o中/生活推/清水推/互fo请私信我🥰/不fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 121,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 98,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4070,
+          "following_count": 510,
+          "like_count": 4820,
+          "listed_count": 5,
+          "media_count": 196,
+          "tweet_count": 1747
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「过于真实的幻像露出了天使般的笑容」这里是Rain 处于焦虑抑郁和恐惧的小女孩→    ////    \n需要互 fo 请私信 需要我陪你请私信！我想陪着大家所以没有门槛🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "http://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/CwKoKqRk8n"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "这是我的网站 oc小说连载处👉",
+        "name": "超絕最可愛 Rain 💙🧬",
+        "pinned_tweet_id": "1861034108069318895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772147307787739136/uXU9kK7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2241,
+          "following_count": 1057,
+          "like_count": 15021,
+          "listed_count": 8,
+          "media_count": 280,
+          "tweet_count": 4612
+        },
+        "url": "https://t.co/CwKoKqRk8n",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

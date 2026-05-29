@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1857013576671617249",
+    "created_at": "2024-11-14T10:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T11:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857015261791957474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1573906833781456896",
+          "start": 0,
+          "username": "AIKOMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857015261791957474",
+    "in_reply_to_user_id": "1573906833781456896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857014849869341132",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AIKOMTF 可爱捏~Ｏ(≧▽≦)Ｏ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1857013576671617249",
+        "created_at": "2024-11-14T10:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T11:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857015261791957474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1573906833781456896",
+              "start": 0,
+              "username": "AIKOMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857015261791957474",
+        "in_reply_to_user_id": "1573906833781456896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857014849869341132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIKOMTF 可爱捏~Ｏ(≧▽≦)Ｏ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857014846761345024"
+          ]
+        },
+        "author_id": "1573906833781456896",
+        "conversation_id": "1857013576671617249",
+        "created_at": "2024-11-14T10:56:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T11:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857014849869341132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MhVbcJQ603",
+              "end": 44,
+              "expanded_url": "https://x.com/AIKOMTF/status/1857014849869341132/photo/1",
+              "media_key": "3_1857014846761345024",
+              "start": 21,
+              "url": "https://t.co/MhVbcJQ603"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857014849869341132",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857013576671617249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 戴在手上了www https://t.co/MhVbcJQ603"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 167,
+          "like_count": 1530,
+          "listed_count": 0,
+          "tweet_count": 620
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T05:27:44.000Z",
+        "description": "一人ぼっち野猫🐱 お酒、煙草、美食は人生三昧。\n一隻孤單的小野貓、含糖，去勢済\nASD | ADHD | MTF",
+        "id": "1573906833781456896",
+        "location": "日本 東京",
+        "name": "野猫あいこ",
+        "pinned_tweet_id": "1856399323233472793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845993945228365826/NG0DQ9CU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 177,
+          "like_count": 2161,
+          "listed_count": 0,
+          "tweet_count": 277
+        },
+        "username": "AIKOMTF",
+        "verified": false
+      }
+    ]
+  }
+}

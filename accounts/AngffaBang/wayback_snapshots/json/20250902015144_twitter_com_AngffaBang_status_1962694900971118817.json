@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962694887301861376"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1962694900971118817",
+    "created_at": "2025-09-02T01:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T02:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962694900971118817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HMJi5ntH39",
+          "end": 23,
+          "expanded_url": "https://x.com/AngffaBang/status/1962694900971118817/photo/1",
+          "media_key": "3_1962694887301861376",
+          "start": 0,
+          "url": "https://t.co/HMJi5ntH39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962694900971118817",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/HMJi5ntH39"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962694887301861376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzzkmegaUAAmcPM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962694887301861376"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1962694900971118817",
+        "created_at": "2025-09-02T01:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T02:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962694900971118817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMJi5ntH39",
+              "end": 23,
+              "expanded_url": "https://x.com/AngffaBang/status/1962694900971118817/photo/1",
+              "media_key": "3_1962694887301861376",
+              "start": 0,
+              "url": "https://t.co/HMJi5ntH39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962694900971118817",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HMJi5ntH39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5789,
+          "following_count": 517,
+          "like_count": 5803,
+          "listed_count": 6,
+          "media_count": 347,
+          "tweet_count": 2305
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

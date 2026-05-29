@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1856269093609058803",
+    "created_at": "2024-11-12T11:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T12:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856301094479204599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756716868168192000",
+          "start": 0,
+          "username": "saobijiawo666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856301094479204599",
+    "in_reply_to_user_id": "1756716868168192000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856300322601209865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saobijiawo666 不至于o死的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1856269093609058803",
+        "created_at": "2024-11-12T11:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T12:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856301094479204599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756716868168192000",
+              "start": 0,
+              "username": "saobijiawo666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856301094479204599",
+        "in_reply_to_user_id": "1756716868168192000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856300322601209865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saobijiawo666 不至于o死的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756716868168192000",
+        "conversation_id": "1856269093609058803",
+        "created_at": "2024-11-12T11:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T12:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856300322601209865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856300322601209865",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856269093609058803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 还没o死啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘/精神状态不太稳定哒，但不过负能不多/发推写日记的哪天死了还证明存在过/欢迎互fo呀，我没互fo私信我",
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 117,
+          "like_count": 1414,
+          "listed_count": 0,
+          "tweet_count": 571
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T16:28:40.000Z",
+        "description": "我是狗",
+        "id": "1756716868168192000",
+        "location": "大弯钩俱乐部",
+        "name": "臭狗一只",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766852238927069184/iWW_kJPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 81,
+          "like_count": 1070,
+          "listed_count": 0,
+          "tweet_count": 815
+        },
+        "username": "saobijiawo666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1861162724488815016",
+    "created_at": "2024-11-25T21:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-25T22:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1861162724488815016"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nihong384/stat…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/nihong384/status/1860764620560179385",
+          "start": 70,
+          "url": "https://t.co/IeU49orn6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861162724488815016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860764620560179385",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男人又不是必需品\n没必要天天黏在一起啊\n卧槽，他不理我了\n怎么办我不想活了，给他发美照会不会理我，或者发腿\n我真的好想和他聊天😭有没有军师 https://t.co/IeU49orn6h"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1861162724488815016",
+        "created_at": "2024-11-25T21:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T22:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861162724488815016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nihong384/stat…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/nihong384/status/1860764620560179385",
+              "start": 70,
+              "url": "https://t.co/IeU49orn6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861162724488815016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860764620560179385",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男人又不是必需品\n没必要天天黏在一起啊\n卧槽，他不理我了\n怎么办我不想活了，给他发美照会不会理我，或者发腿\n我真的好想和他聊天😭有没有军师 https://t.co/IeU49orn6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1860764612939100160"
+          ]
+        },
+        "author_id": "1679372434187886595",
+        "conversation_id": "1860764620560179385",
+        "created_at": "2024-11-24T19:17:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-24T20:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1860764620560179385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K8VmUwssgy",
+              "end": 23,
+              "expanded_url": "https://x.com/nihong384/status/1860764620560179385/photo/1",
+              "media_key": "3_1860764612939100160",
+              "start": 0,
+              "url": "https://t.co/K8VmUwssgy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860764620560179385",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 139469,
+          "like_count": 2059,
+          "quote_count": 19,
+          "reply_count": 4,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K8VmUwssgy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 354,
+          "like_count": 2596,
+          "listed_count": 0,
+          "tweet_count": 1040
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T06:09:45.000Z",
+        "description": "",
+        "id": "1679372434187886595",
+        "location": "南京",
+        "name": "小勒",
+        "pinned_tweet_id": "1859484693164589555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860168005604507648/Rea4uALu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 120,
+          "like_count": 275,
+          "listed_count": 0,
+          "tweet_count": 628
+        },
+        "username": "nihong384",
+        "verified": false
+      }
+    ]
+  }
+}

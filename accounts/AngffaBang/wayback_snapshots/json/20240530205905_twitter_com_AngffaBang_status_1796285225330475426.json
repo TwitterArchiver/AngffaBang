@@ -1,0 +1,199 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1796285225330475426",
+    "created_at": "2024-05-30T20:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T21:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796285225330475426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qrgr_z/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/qrgr_z/status/1795754785305669723",
+          "start": 3,
+          "url": "https://t.co/EduPODzQis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796285225330475426",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795754785305669723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好き https://t.co/EduPODzQis"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1796285225330475426",
+        "created_at": "2024-05-30T20:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T21:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796285225330475426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qrgr_z/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/qrgr_z/status/1795754785305669723",
+              "start": 3,
+              "url": "https://t.co/EduPODzQis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796285225330475426",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795754785305669723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好き https://t.co/EduPODzQis"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795754775960809473"
+          ]
+        },
+        "author_id": "1661417002400120833",
+        "conversation_id": "1795754785305669723",
+        "created_at": "2024-05-29T09:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T10:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795754785305669723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/bE1emYDvyI",
+              "end": 23,
+              "expanded_url": "https://twitter.com/qrgr_z/status/1795754785305669723/photo/1",
+              "media_key": "3_1795754775960809473",
+              "start": 0,
+              "url": "https://t.co/bE1emYDvyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795754785305669723",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 240051,
+          "like_count": 3915,
+          "quote_count": 13,
+          "reply_count": 2,
+          "retweet_count": 131
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bE1emYDvyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "pinned_tweet_id": "1793720981145711053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795901752275070977/zmphs37D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 33,
+          "like_count": 215,
+          "listed_count": 0,
+          "tweet_count": 177
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:01:05.000Z",
+        "description": "天井に黒いシミがある 漫画を描いている▶︎ファンボックス(https://t.co/K6ulZ6DTBc) ▶︎ 漫画(https://t.co/xnofUMocn4)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dollysdream.fanbox.cc",
+                "end": 52,
+                "expanded_url": "https://dollysdream.fanbox.cc",
+                "start": 29,
+                "url": "https://t.co/K6ulZ6DTBc"
+              },
+              {
+                "display_url": "sergioechigo.booth.pm/items/5780847",
+                "end": 83,
+                "expanded_url": "https://sergioechigo.booth.pm/items/5780847",
+                "start": 60,
+                "url": "https://t.co/xnofUMocn4"
+              }
+            ]
+          }
+        },
+        "id": "1661417002400120833",
+        "name": "脳震盪ほし",
+        "pinned_tweet_id": "1795047169113665575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767839779234959360/mSb2aErQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8003,
+          "following_count": 287,
+          "like_count": 6064,
+          "listed_count": 32,
+          "tweet_count": 2825
+        },
+        "username": "qrgr_z",
+        "verified": false
+      }
+    ]
+  }
+}

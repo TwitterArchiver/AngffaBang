@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1864146498243395607",
+    "created_at": "2024-12-04T11:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T12:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864265772169875499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684994154550685696",
+          "start": 0,
+          "username": "zyh1428202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864265772169875499",
+    "in_reply_to_user_id": "1684994154550685696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864163824473133559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyh1428202 可爱捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1864146498243395607",
+        "created_at": "2024-12-04T11:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T12:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864265772169875499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684994154550685696",
+              "start": 0,
+              "username": "zyh1428202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864265772169875499",
+        "in_reply_to_user_id": "1684994154550685696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864163824473133559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyh1428202 可爱捏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864163821360959488"
+          ]
+        },
+        "author_id": "1684994154550685696",
+        "conversation_id": "1864146498243395607",
+        "created_at": "2024-12-04T04:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T05:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864163824473133559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SthEJd0QSx",
+              "end": 44,
+              "expanded_url": "https://x.com/zyh1428202/status/1864163824473133559/photo/1",
+              "media_key": "3_1864163821360959488",
+              "start": 21,
+              "url": "https://t.co/SthEJd0QSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864163824473133559",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864146498243395607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 跳蛛嘛，蛮可爱的 https://t.co/SthEJd0QSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/欢迎互fo呀✨/我没互fo私信我/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 105,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 400,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1250
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T18:28:15.000Z",
+        "description": "你是猪",
+        "id": "1684994154550685696",
+        "location": "北京",
+        "name": "9391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782822410603098112/lf37URSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 69,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 636
+        },
+        "username": "zyh1428202",
+        "verified": false
+      }
+    ]
+  }
+}

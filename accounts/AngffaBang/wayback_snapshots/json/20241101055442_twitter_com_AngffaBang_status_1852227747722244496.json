@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1852164657337045363",
+    "created_at": "2024-11-01T05:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-01T06:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852227747722244496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1752964869203361792",
+          "start": 0,
+          "username": "Minam1eL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852227747722244496",
+    "in_reply_to_user_id": "1752964869203361792",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852164657337045363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minam1eL 互fo呀，一起100fo(˵¯͒〰¯͒˵)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1852164657337045363",
+        "created_at": "2024-11-01T05:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T06:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852227747722244496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1752964869203361792",
+              "start": 0,
+              "username": "Minam1eL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852227747722244496",
+        "in_reply_to_user_id": "1752964869203361792",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852164657337045363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minam1eL 互fo呀，一起100fo(˵¯͒〰¯͒˵)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752964869203361792",
+        "conversation_id": "1852164657337045363",
+        "created_at": "2024-11-01T01:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T02:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852164657337045363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1852164657337045363",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 810,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "求求你們助力我100fo吧 我什麼都會做的😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "ISFP/无人在意的猪头肉/喜欢猫娘\n/发推写日记的哪天死了还证明存在过🌿🌿女孩子欢迎互fo呀，没看到私信我",
+        "id": "1730458100703064064",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 74,
+          "like_count": 795,
+          "listed_count": 0,
+          "tweet_count": 439
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:59:36.000Z",
+        "description": "繪畫實在學不會一點啦😢\n平時會看番打遊戲😍\n我一直是阿卡內的粉絲啊🥰\n想要更多fo 有fo就回 所以歡迎互fo！😃",
+        "id": "1752964869203361792",
+        "location": "Los Angeles, CA",
+        "name": "MinamieL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852191351108177922/bEp2gviA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 96,
+          "like_count": 30,
+          "listed_count": 0,
+          "tweet_count": 47
+        },
+        "username": "Minam1eL",
+        "verified": false
+      }
+    ]
+  }
+}

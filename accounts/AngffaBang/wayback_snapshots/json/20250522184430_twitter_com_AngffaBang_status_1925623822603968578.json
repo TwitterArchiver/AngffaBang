@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1925091770553258116",
+    "created_at": "2025-05-22T18:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T19:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925623822603968578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1721126083142340611",
+          "start": 0,
+          "username": "Limeixi1223love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925623822603968578",
+    "in_reply_to_user_id": "1721126083142340611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925616711115411896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Limeixi1223love 出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1925091770553258116",
+        "created_at": "2025-05-22T18:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T19:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925623822603968578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1721126083142340611",
+              "start": 0,
+              "username": "Limeixi1223love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925623822603968578",
+        "in_reply_to_user_id": "1721126083142340611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925616711115411896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Limeixi1223love 出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721126083142340611",
+        "conversation_id": "1925091770553258116",
+        "created_at": "2025-05-22T18:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T19:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925616711115411896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925616711115411896",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925091770553258116",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 极品号 十万出不出"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 105,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 82,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4669,
+          "following_count": 520,
+          "like_count": 5562,
+          "listed_count": 5,
+          "media_count": 269,
+          "tweet_count": 2062
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T11:23:42.000Z",
+        "description": "前世被人害了所以3.0淡推调理中T-T 我很喜欢倾听不高兴请对我说吧/🚪60/108 女宝免门我平等的爱世界上的每个女孩子 od/自伤/绘画/占卜/树洞🍓",
+        "id": "1721126083142340611",
+        "name": "人造神^3.0（互fo请私信🍓）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887041254581538817/rRjhNjKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 82,
+          "like_count": 850,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 408
+        },
+        "username": "Limeixi1223love",
+        "verified": false
+      }
+    ]
+  }
+}

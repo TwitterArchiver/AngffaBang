@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1881932356703166568",
+    "created_at": "2025-01-22T05:31:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T06:31:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881937724376252517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1119719849893060608",
+          "start": 0,
+          "username": "5084Meaning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881937724376252517",
+    "in_reply_to_user_id": "1119719849893060608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881932356703166568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5084Meaning 起码30和20都是成年人😅我15连高中都没上呢，我甚至还是个初中生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1881932356703166568",
+        "created_at": "2025-01-22T05:31:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T06:31:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881937724376252517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1119719849893060608",
+              "start": 0,
+              "username": "5084Meaning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881937724376252517",
+        "in_reply_to_user_id": "1119719849893060608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881932356703166568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5084Meaning 起码30和20都是成年人😅我15连高中都没上呢，我甚至还是个初中生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1119719849893060608",
+        "conversation_id": "1881932356703166568",
+        "created_at": "2025-01-22T05:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T06:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881932356703166568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AngffaBang/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/AngffaBang/status/1881916221442170926",
+              "start": 31,
+              "url": "https://t.co/fVm4rvy3gj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881932356703166568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881916221442170926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "20岁对15岁算恋童癖 30对20呢 18对17呢 真想不通 https://t.co/fVm4rvy3gj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870821050340323328/vqkFwRtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2821,
+          "following_count": 491,
+          "like_count": 4760,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 1728
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-20T21:49:50.000Z",
+        "description": "课太少",
+        "id": "1119719849893060608",
+        "location": "家里",
+        "name": "意义",
+        "pinned_tweet_id": "1822908350075421001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801183657383821312/anu7-KRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 320,
+          "like_count": 597,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 3450
+        },
+        "username": "5084Meaning",
+        "verified": false
+      }
+    ]
+  }
+}

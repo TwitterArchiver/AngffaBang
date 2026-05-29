@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1950806153535143936",
+        "3_1950806150766837760"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "1950806162980340140",
+    "created_at": "2025-07-31T06:30:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T07:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950806162980340140"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0InvShvkJC",
+          "end": 23,
+          "expanded_url": "https://x.com/AngffaBang/status/1950806162980340140/photo/1",
+          "media_key": "3_1950806153535143936",
+          "start": 0,
+          "url": "https://t.co/0InvShvkJC"
+        },
+        {
+          "display_url": "pic.x.com/0InvShvkJC",
+          "end": 23,
+          "expanded_url": "https://x.com/AngffaBang/status/1950806162980340140/photo/1",
+          "media_key": "3_1950806150766837760",
+          "start": 0,
+          "url": "https://t.co/0InvShvkJC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950806162980340140",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/0InvShvkJC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1950806153535143936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKn3F8bwAAYFTu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1950806150766837760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxKn27oawAAk87D.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950806153535143936",
+            "3_1950806150766837760"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "1950806162980340140",
+        "created_at": "2025-07-31T06:30:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T07:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950806162980340140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0InvShvkJC",
+              "end": 23,
+              "expanded_url": "https://x.com/AngffaBang/status/1950806162980340140/photo/1",
+              "media_key": "3_1950806153535143936",
+              "start": 0,
+              "url": "https://t.co/0InvShvkJC"
+            },
+            {
+              "display_url": "pic.x.com/0InvShvkJC",
+              "end": 23,
+              "expanded_url": "https://x.com/AngffaBang/status/1950806162980340140/photo/1",
+              "media_key": "3_1950806150766837760",
+              "start": 0,
+              "url": "https://t.co/0InvShvkJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950806162980340140",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0InvShvkJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "过门52r谢谢喵 不是之前的那个号了 过门的是门号/ISFP/女孩子💖/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/精神病/od/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPY09Z2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 128,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 105,
+                "url": "https://t.co/W1iPPY09Z2"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885047189573144576/o40FRXo8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5481,
+          "following_count": 525,
+          "like_count": 5802,
+          "listed_count": 5,
+          "media_count": 316,
+          "tweet_count": 2228
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

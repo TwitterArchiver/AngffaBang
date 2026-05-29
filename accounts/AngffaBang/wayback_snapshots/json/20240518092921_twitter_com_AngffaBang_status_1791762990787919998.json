@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1791654452421865718",
+    "created_at": "2024-05-18T09:29:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T10:29:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791762990787919998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697240339839606784",
+          "start": 0,
+          "username": "Yyyyyy060925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791762990787919998",
+    "in_reply_to_user_id": "1697240339839606784",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791654452421865718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yyyyyy060925 接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1791654452421865718",
+        "created_at": "2024-05-18T09:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T10:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791762990787919998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697240339839606784",
+              "start": 0,
+              "username": "Yyyyyy060925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791762990787919998",
+        "in_reply_to_user_id": "1697240339839606784",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791654452421865718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yyyyyy060925 接"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1791654449708191744"
+          ]
+        },
+        "author_id": "1697240339839606784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1791654452421865718",
+        "created_at": "2024-05-18T02:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T03:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791654452421865718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/4e6y8xuLLn",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Yyyyyy060925/status/1791654452421865718/photo/1",
+              "media_key": "3_1791654449708191744",
+              "start": 14,
+              "url": "https://t.co/4e6y8xuLLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791654452421865718",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25684,
+          "like_count": 110,
+          "quote_count": 8,
+          "reply_count": 90,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "很开心能遇到这样的🚪哥👼🏻 https://t.co/4e6y8xuLLn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "重度网瘾少女，有心理疾病在家休学\nISFP-A",
+        "id": "1730458100703064064",
+        "location": "香港",
+        "name": "Angff",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788281398287278083/b4Bv8a6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 17,
+          "like_count": 99,
+          "listed_count": 0,
+          "tweet_count": 71
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T13:30:15.000Z",
+        "description": "女的 06年 ENTP 天秤                                           \n               女生找我互fo！！我很会聊天的                   只回入门及口令",
+        "id": "1697240339839606784",
+        "location": "距离你1.3公里",
+        "name": "性感小野猫",
+        "pinned_tweet_id": "1781961219932578285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760294740879351808/JFkat6Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1936,
+          "following_count": 247,
+          "like_count": 1360,
+          "listed_count": 10,
+          "tweet_count": 818
+        },
+        "username": "Yyyyyy060925",
+        "verified": false
+      }
+    ]
+  }
+}

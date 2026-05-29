@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "1868941491516981281",
+    "created_at": "2024-12-17T08:49:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-17T09:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868941491516981281"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1868941491516981281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我亲戚（亲妈）就是个傻逼，生了不养，自己活自己的压根就不在意我的生活花销，我生病都要省钱，我压根都不想称成她是我亲妈\n我养母还好一点，但也是个无语人士，养了之后自从跟我亲妈闹掰天天骂我和那个傻逼（亲妈）是同一类人，一起压榨她的，我爸对我好她还跟我雌竞故意刁难我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "1868941491516981281",
+        "created_at": "2024-12-17T08:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T09:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868941491516981281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1868941491516981281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我亲戚（亲妈）就是个傻逼，生了不养，自己活自己的压根就不在意我的生活花销，我生病都要省钱，我压根都不想称成她是我亲妈\n我养母还好一点，但也是个无语人士，养了之后自从跟我亲妈闹掰天天骂我和那个傻逼（亲妈）是同一类人，一起压榨她的，我爸对我好她还跟我雌竞故意刁难我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "09/ISFP/女孩子💖/🇨🇳/名字日文中译是泉！🍀/希望被很多人在意！🥺/喜欢可爱的猫猫🐾/性格很温和🎈/精神状态不好😢/od/生活推/清水推/互fo请私信我🥰/不太喜欢fo黄推呀谢谢/匿名提问箱：https://t.co/nVKcctRokK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang",
+                "end": 123,
+                "expanded_url": "https://ngl.link/angffabang",
+                "start": 100,
+                "url": "https://t.co/nVKcctRokK"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "いずみ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852045503430791168/ntZpWDm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1803,
+          "following_count": 462,
+          "like_count": 3765,
+          "listed_count": 1,
+          "media_count": 150,
+          "tweet_count": 1401
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}
