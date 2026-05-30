@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060130773110538240"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2060130786276446356",
+    "created_at": "2026-05-28T22:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060130786276446356"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VKGQWMGBfn",
+          "end": 98,
+          "expanded_url": "https://x.com/AngffaBang/status/2060130786276446356/photo/1",
+          "media_key": "3_2060130773110538240",
+          "start": 75,
+          "url": "https://t.co/VKGQWMGBfn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060130786276446356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家好，我是椅子咪🥺现在找不到工作，治病没有多少钱，想求助大家，打赏可以QQ跟我聊天喵，这是我唯一的报答，神秘福利要和我聊天才能了解，谢谢大家！🥺💕 https://t.co/VKGQWMGBfn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060130773110538240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcOBeoawAAamTK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060130773110538240"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2060130786276446356",
+        "created_at": "2026-05-28T22:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060130786276446356"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VKGQWMGBfn",
+              "end": 98,
+              "expanded_url": "https://x.com/AngffaBang/status/2060130786276446356/photo/1",
+              "media_key": "3_2060130773110538240",
+              "start": 75,
+              "url": "https://t.co/VKGQWMGBfn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060130786276446356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是椅子咪🥺现在找不到工作，治病没有多少钱，想求助大家，打赏可以QQ跟我聊天喵，这是我唯一的报答，神秘福利要和我聊天才能了解，谢谢大家！🥺💕 https://t.co/VKGQWMGBfn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060128903063347250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8099,
+          "following_count": 603,
+          "like_count": 6532,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 2958
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

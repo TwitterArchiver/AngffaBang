@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060132262927302656"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2060132274671407384",
+    "created_at": "2026-05-28T22:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060132274671407384"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FXmCqWxUYD",
+          "end": 130,
+          "expanded_url": "https://x.com/AngffaBang/status/2060132274671407384/photo/1",
+          "media_key": "3_2060132262927302656",
+          "start": 107,
+          "url": "https://t.co/FXmCqWxUYD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060132274671407384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家好！我是椅子咪💕\n因为治病没有多少钱想求助大家🥺现在还找不到工作\n报答就是可以QQ跟我聊天，我也会主动找你聊天(wx被封了)😭\n这是我唯一的报答，我会努力报答的\n（嫌弃可以拉黑我)🥺\n神秘福利可以聊天解锁喵💕 https://t.co/FXmCqWxUYD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060132262927302656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcPYMoagAAAcR0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060132262927302656"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2060132274671407384",
+        "created_at": "2026-05-28T22:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060132274671407384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXmCqWxUYD",
+              "end": 130,
+              "expanded_url": "https://x.com/AngffaBang/status/2060132274671407384/photo/1",
+              "media_key": "3_2060132262927302656",
+              "start": 107,
+              "url": "https://t.co/FXmCqWxUYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060132274671407384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家好！我是椅子咪💕\n因为治病没有多少钱想求助大家🥺现在还找不到工作\n报答就是可以QQ跟我聊天，我也会主动找你聊天(wx被封了)😭\n这是我唯一的报答，我会努力报答的\n（嫌弃可以拉黑我)🥺\n神秘福利可以聊天解锁喵💕 https://t.co/FXmCqWxUYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060130786276446356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8099,
+          "following_count": 603,
+          "like_count": 6533,
+          "listed_count": 7,
+          "media_count": 521,
+          "tweet_count": 2958
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}

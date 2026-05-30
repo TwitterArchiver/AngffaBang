@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060082771792695296",
+        "3_2060082771775905792"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2060082787219308811",
+    "created_at": "2026-05-28T19:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060082787219308811"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4kZYO8ASuA",
+          "end": 29,
+          "expanded_url": "https://x.com/AngffaBang/status/2060082787219308811/photo/1",
+          "media_key": "3_2060082771792695296",
+          "start": 6,
+          "url": "https://t.co/4kZYO8ASuA"
+        },
+        {
+          "display_url": "pic.x.com/4kZYO8ASuA",
+          "end": 29,
+          "expanded_url": "https://x.com/AngffaBang/status/2060082787219308811/photo/1",
+          "media_key": "3_2060082771775905792",
+          "start": 6,
+          "url": "https://t.co/4kZYO8ASuA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060082787219308811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "かわいい？ https://t.co/4kZYO8ASuA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2060082771792695296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbiXbybEAA_jZp.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2060082771775905792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJbiXbua4AADR2L.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060082771792695296",
+            "3_2060082771775905792"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2060082787219308811",
+        "created_at": "2026-05-28T19:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060082787219308811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4kZYO8ASuA",
+              "end": 29,
+              "expanded_url": "https://x.com/AngffaBang/status/2060082787219308811/photo/1",
+              "media_key": "3_2060082771792695296",
+              "start": 6,
+              "url": "https://t.co/4kZYO8ASuA"
+            },
+            {
+              "display_url": "pic.x.com/4kZYO8ASuA",
+              "end": 29,
+              "expanded_url": "https://x.com/AngffaBang/status/2060082787219308811/photo/1",
+              "media_key": "3_2060082771775905792",
+              "start": 6,
+              "url": "https://t.co/4kZYO8ASuA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060082787219308811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "かわいい？ https://t.co/4kZYO8ASuA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "1949431955671433367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8100,
+          "following_count": 614,
+          "like_count": 6529,
+          "listed_count": 7,
+          "media_count": 520,
+          "tweet_count": 2957
+        },
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}
