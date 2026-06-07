@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2060595474042917061",
+    "created_at": "2026-05-30T15:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060750513977843850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1851900899020439553",
+          "start": 0,
+          "username": "Stephani1055844"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060750513977843850",
+    "in_reply_to_user_id": "1851900899020439553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060595474042917061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stephani1055844 可能他们只喜欢身体，不喜欢性格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2060595474042917061",
+        "created_at": "2026-05-30T15:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060750513977843850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1851900899020439553",
+              "start": 0,
+              "username": "Stephani1055844"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060750513977843850",
+        "in_reply_to_user_id": "1851900899020439553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060595474042917061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stephani1055844 可能他们只喜欢身体，不喜欢性格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851900899020439553",
+        "conversation_id": "2060595474042917061",
+        "created_at": "2026-05-30T05:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060595474042917061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060595474042917061",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3022,
+          "like_count": 90,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "地雷系と会ってくれる人は多いけど付き合ってくれる人はいないのなんで？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8119,
+          "following_count": 606,
+          "like_count": 6535,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 2978
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T08:16:10.000Z",
+        "description": "いわゆる地雷系ﾃﾞｽ\nｾﾝｼﾃｨﾌﾞ👉@MeganClark14693",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "MeganClark14693"
+              }
+            ]
+          }
+        },
+        "id": "1851900899020439553",
+        "name": "ema♥",
+        "pinned_tweet_id": "1937897340888850528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923660316866482176/3j6yX9Rj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19665,
+          "following_count": 21,
+          "like_count": 33,
+          "listed_count": 43,
+          "media_count": 153,
+          "tweet_count": 480
+        },
+        "username": "Stephani1055844",
+        "verified": false
+      }
+    ]
+  }
+}

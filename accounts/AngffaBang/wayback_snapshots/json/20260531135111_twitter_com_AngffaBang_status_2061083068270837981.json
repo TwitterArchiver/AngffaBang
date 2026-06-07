@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2061083068270837981",
+    "created_at": "2026-05-31T13:51:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T14:51:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061083068270837981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869045674429554688",
+          "start": 3,
+          "username": "xiomo0831"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061083068270837981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060884983187992877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiomo0831: 餐劵妹來互fo好嗎૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა求轉貼呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2061083068270837981",
+        "created_at": "2026-05-31T13:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T14:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061083068270837981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869045674429554688",
+              "start": 3,
+              "username": "xiomo0831"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061083068270837981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060884983187992877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiomo0831: 餐劵妹來互fo好嗎૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა求轉貼呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869045674429554688",
+        "conversation_id": "2060884983187992877",
+        "created_at": "2026-05-31T00:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060884983187992877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060884983187992877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 295,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "餐劵妹來互fo好嗎૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა求轉貼呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8123,
+          "following_count": 604,
+          "like_count": 6534,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 2980
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T15:43:29.000Z",
+        "description": "俺の彼女から離れろ、さもないと死ね^^\n                           一番好きです: @The_emonn6060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 55,
+                "username": "The_emonn6060"
+              }
+            ]
+          }
+        },
+        "id": "1869045674429554688",
+        "location": "Taiwan",
+        "name": "唉、愛",
+        "pinned_tweet_id": "1936095087299379563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049288169322090496/Nq9IsdP8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 59,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 201
+        },
+        "username": "xiomo0831",
+        "verified": false
+      }
+    ]
+  }
+}
