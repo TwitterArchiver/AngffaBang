@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2060616581059862832",
+    "created_at": "2026-06-07T21:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T22:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063739981433340354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1127185216173248512",
+          "start": 0,
+          "username": "xiaoyeyue103"
+        },
+        {
+          "end": 24,
+          "id": "1972212617386295296",
+          "start": 14,
+          "username": "yu_xx12ab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063739981433340354",
+    "in_reply_to_user_id": "1127185216173248512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062964645158388043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyeyue103 @yu_xx12ab 诶？我是中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2060616581059862832",
+        "created_at": "2026-06-07T21:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T22:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063739981433340354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1127185216173248512",
+              "start": 0,
+              "username": "xiaoyeyue103"
+            },
+            {
+              "end": 24,
+              "id": "1972212617386295296",
+              "start": 14,
+              "username": "yu_xx12ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063739981433340354",
+        "in_reply_to_user_id": "1127185216173248512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062964645158388043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyeyue103 @yu_xx12ab 诶？我是中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1127185216173248512",
+        "conversation_id": "2060616581059862832",
+        "created_at": "2026-06-05T18:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062964645158388043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            },
+            {
+              "end": 22,
+              "id": "1972212617386295296",
+              "start": 12,
+              "username": "yu_xx12ab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062964645158388043",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060747571648479681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang @yu_xx12ab 中国の友達が必要ですか？🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8097,
+          "following_count": 602,
+          "like_count": 6522,
+          "listed_count": 7,
+          "media_count": 523,
+          "tweet_count": 2983
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-11T12:14:32.000Z",
+        "description": "杂食怪，什么都喜欢，癖好有点奇怪。目前喜欢🛁🦚和明日方舟拉德。（其实刚用x没多久，之前因为学业苦闷一阵子）",
+        "id": "1127185216173248512",
+        "location": "hangzhou",
+        "name": "🪷🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062968727470301184/U55w47G8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 125,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "xiaoyeyue103",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-28T08:11:54.000Z",
+        "description": "♀️壁",
+        "id": "1972212617386295296",
+        "location": "自衛してね",
+        "name": "もみちゃん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058380641121837056/JSi5ngxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 167,
+          "like_count": 597,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 344
+        },
+        "username": "yu_xx12ab",
+        "verified": true
+      }
+    ]
+  }
+}
