@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2064730396689055998",
+    "created_at": "2026-06-11T22:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T23:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065205146343379051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1800384669428703232",
+          "start": 0,
+          "username": "yimissyoui"
+        },
+        {
+          "end": 23,
+          "id": "2009298197106315266",
+          "start": 12,
+          "username": "smallJBovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065205146343379051",
+    "in_reply_to_user_id": "1800384669428703232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064916259985404170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yimissyoui @smallJBovo 性同意和性行为不是一个概念好吗😂bro是连话都理解不明白吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2064730396689055998",
+        "created_at": "2026-06-11T22:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065205146343379051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1800384669428703232",
+              "start": 0,
+              "username": "yimissyoui"
+            },
+            {
+              "end": 23,
+              "id": "2009298197106315266",
+              "start": 12,
+              "username": "smallJBovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065205146343379051",
+        "in_reply_to_user_id": "1800384669428703232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064916259985404170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yimissyoui @smallJBovo 性同意和性行为不是一个概念好吗😂bro是连话都理解不明白吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800384669428703232",
+        "conversation_id": "2064730396689055998",
+        "created_at": "2026-06-11T03:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064916259985404170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2009298197106315266",
+              "start": 0,
+              "username": "smallJBovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064916259985404170",
+        "in_reply_to_user_id": "2009298197106315266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3725,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064915834313814096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smallJBovo 我想知道是不是18岁之前不允许任何性行为，包括自慰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8083,
+          "following_count": 602,
+          "like_count": 6527,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 3001
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T04:29:11.000Z",
+        "description": "",
+        "id": "1800384669428703232",
+        "name": "思雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838595021064527872/4DXYgGYx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 147,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1349
+        },
+        "username": "yimissyoui",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T16:16:47.000Z",
+        "description": "᳐₌ᗜ ֊ ᗜ₌ ᳐",
+        "id": "2009298197106315266",
+        "location": "🚪520",
+        "name": "小叽",
+        "pinned_tweet_id": "2053838665059819791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054528010783772673/PFblWfih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 7,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 331
+        },
+        "username": "smallJBovo",
+        "verified": false
+      }
+    ]
+  }
+}

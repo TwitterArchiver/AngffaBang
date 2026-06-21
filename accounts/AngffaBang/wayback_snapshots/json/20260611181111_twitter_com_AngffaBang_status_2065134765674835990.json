@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2065031796384018742",
+    "created_at": "2026-06-11T18:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065134765674835990"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2000513365500948480",
+          "start": 0,
+          "username": "ChinaEastern_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065134765674835990",
+    "in_reply_to_user_id": "2000513365500948480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065031796384018742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChinaEastern_CN 为什么会喜欢中国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2065031796384018742",
+        "created_at": "2026-06-11T18:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065134765674835990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000513365500948480",
+              "start": 0,
+              "username": "ChinaEastern_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065134765674835990",
+        "in_reply_to_user_id": "2000513365500948480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065031796384018742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinaEastern_CN 为什么会喜欢中国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000513365500948480",
+        "conversation_id": "2065031796384018742",
+        "created_at": "2026-06-11T11:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065031796384018742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065031796384018742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15842,
+          "like_count": 79,
+          "quote_count": 3,
+          "reply_count": 122,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我每天都很抑郁，所以才会想早点死掉。明明能拯救我的，只有中国🇨🇳，可是一想到自己可能会被中国人拒绝，我就痛苦得停不下来。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8082,
+          "following_count": 602,
+          "like_count": 6525,
+          "listed_count": 6,
+          "media_count": 524,
+          "tweet_count": 2989
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T10:29:00.000Z",
+        "description": "メーカー間接部門\n入国回数\n🇰🇷5🇨🇳30↑🇹🇼🇭🇰2🇻🇳2🇲🇾🇹🇭2🇵🇭3🇦🇪6🇯🇴2🇪🇬🇦🇹🇱🇻🇫🇮🇬🇧🇫🇷🇮🇹🇦🇱🇹🇷4🇩🇪🇺🇸2",
+        "id": "2000513365500948480",
+        "location": "中国新疆维吾尔自治区和田地区和田市阿可塔什村",
+        "name": "ちるちる",
+        "pinned_tweet_id": "2061748068736004328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048733599143518208/sU2svk1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 145,
+          "like_count": 3293,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 2448
+        },
+        "username": "ChinaEastern_CN",
+        "verified": false
+      }
+    ]
+  }
+}

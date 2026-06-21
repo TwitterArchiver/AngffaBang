@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2064358061838594273",
+    "created_at": "2026-06-11T22:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T23:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065206801386307783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1121735550824779776",
+          "start": 0,
+          "username": "billfrankfan"
+        },
+        {
+          "end": 30,
+          "id": "1691921180989800448",
+          "start": 14,
+          "username": "mimimiaomiaouwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065206801386307783",
+    "in_reply_to_user_id": "1121735550824779776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064408954235724267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@billfrankfan @mimimiaomiaouwu 谁说男性不算？双方未成年有两小无猜政策，成年人不碰未成年人不就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2064358061838594273",
+        "created_at": "2026-06-11T22:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065206801386307783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1121735550824779776",
+              "start": 0,
+              "username": "billfrankfan"
+            },
+            {
+              "end": 30,
+              "id": "1691921180989800448",
+              "start": 14,
+              "username": "mimimiaomiaouwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065206801386307783",
+        "in_reply_to_user_id": "1121735550824779776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064408954235724267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@billfrankfan @mimimiaomiaouwu 谁说男性不算？双方未成年有两小无猜政策，成年人不碰未成年人不就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121735550824779776",
+        "conversation_id": "2064358061838594273",
+        "created_at": "2026-06-09T18:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064408954235724267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1691921180989800448",
+              "start": 0,
+              "username": "mimimiaomiaouwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064408954235724267",
+        "in_reply_to_user_id": "1691921180989800448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14356,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 71,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064358061838594273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimimiaomiaouwu 那提高到18保护了未成年男性没？双方未成年怎么算？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8083,
+          "following_count": 602,
+          "like_count": 6528,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 3002
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-26T11:19:30.000Z",
+        "description": "",
+        "id": "1121735550824779776",
+        "name": "Johnny",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761786067378905088/1fSk650p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 432,
+          "like_count": 853,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 407
+        },
+        "username": "billfrankfan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T21:13:46.000Z",
+        "description": "只有这一个账号❗3i4i✨稳定单身中✨偶尔掉落大瓜小瓜/抽象段子/骂人金句/日常碎片✨转推可接电报不接✨别叫我姐姐我对这个称呼过敏",
+        "id": "1691921180989800448",
+        "name": "Qi",
+        "pinned_tweet_id": "1979944428677796293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872587222928826369/5n4vRS4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20417,
+          "following_count": 449,
+          "like_count": 8703,
+          "listed_count": 37,
+          "media_count": 68,
+          "tweet_count": 10983
+        },
+        "username": "mimimiaomiaouwu",
+        "verified": false
+      }
+    ]
+  }
+}

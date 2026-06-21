@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2064938760077480252",
+    "created_at": "2026-06-13T18:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065870518767755506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1741063508102627328",
+          "start": 0,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065870518767755506",
+    "in_reply_to_user_id": "1741063508102627328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065834932312920477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kitty068_ly 这跟发泄有任何一点关系吗？我在讨论动物带来的潜在威胁，我外公就是狂犬病去世的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2064938760077480252",
+        "created_at": "2026-06-13T18:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065870518767755506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065870518767755506",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065834932312920477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 这跟发泄有任何一点关系吗？我在讨论动物带来的潜在威胁，我外公就是狂犬病去世的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741063508102627328",
+        "conversation_id": "2064938760077480252",
+        "created_at": "2026-06-13T16:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T17:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065834932312920477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065834932312920477",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065827585423294498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 去恨让你们惨的人 欺软怕硬懦弱不？你认识的人里有被流浪狗咬死的吗？能不能别这么幼稚只是因为自己命贱想找个沙包发泄直说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8090,
+          "following_count": 602,
+          "like_count": 6537,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 3018
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "本账号不适合看不懂人话的人交流 和我想法不一样的人可以不说话\n会用@Eric52802090721 回复\n一个queer\n老婆妈妈主人爸爸老公哥哥姐姐@dngyng169770781",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "Eric52802090721"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1691,
+          "following_count": 561,
+          "like_count": 9570,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 5585
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2067350082320810105",
+    "created_at": "2026-06-18T03:31:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:31:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067450214806655251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825860031855865856",
+          "start": 0,
+          "username": "assdent3258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067450214806655251",
+    "in_reply_to_user_id": "1825860031855865856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067446622372725120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@assdent3258 今天😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2067350082320810105",
+        "created_at": "2026-06-18T03:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067450214806655251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825860031855865856",
+              "start": 0,
+              "username": "assdent3258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067450214806655251",
+        "in_reply_to_user_id": "1825860031855865856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067446622372725120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@assdent3258 今天😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825860031855865856",
+        "conversation_id": "2067350082320810105",
+        "created_at": "2026-06-18T03:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067446622372725120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067446622372725120",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067350082320810105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 什么时候给鼠鼠hrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8102,
+          "following_count": 603,
+          "like_count": 6578,
+          "listed_count": 6,
+          "media_count": 531,
+          "tweet_count": 3033
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T11:38:59.000Z",
+        "description": "",
+        "id": "1825860031855865856",
+        "name": "川和工团CHUD",
+        "pinned_tweet_id": "2060039218118967381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992761020998459392/1BZ4kLVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 596,
+          "like_count": 26642,
+          "listed_count": 10,
+          "media_count": 1946,
+          "tweet_count": 18343
+        },
+        "username": "assdent3258",
+        "verified": false
+      }
+    ]
+  }
+}

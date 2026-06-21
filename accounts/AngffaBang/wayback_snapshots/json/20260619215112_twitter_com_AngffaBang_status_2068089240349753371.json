@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2067893296123592721",
+    "created_at": "2026-06-19T21:51:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T22:51:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068089240349753371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1921569209169117186",
+          "start": 0,
+          "username": "aolobster"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068089240349753371",
+    "in_reply_to_user_id": "1921569209169117186",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067893296123592721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aolobster 中国人对外国人很友好就对了，零基础加翻译器也能有耐心跟你沟通"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2067893296123592721",
+        "created_at": "2026-06-19T21:51:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T22:51:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068089240349753371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921569209169117186",
+              "start": 0,
+              "username": "aolobster"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068089240349753371",
+        "in_reply_to_user_id": "1921569209169117186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067893296123592721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aolobster 中国人对外国人很友好就对了，零基础加翻译器也能有耐心跟你沟通"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921569209169117186",
+        "conversation_id": "2067893296123592721",
+        "created_at": "2026-06-19T08:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067893296123592721"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067893296123592721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 400212,
+          "like_count": 992,
+          "quote_count": 34,
+          "reply_count": 646,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "最近中国めちゃくちゃ行きたい〜〜〜\n中国語0でも何とかなる？対日本人はどんな感じなんだろ😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8108,
+          "following_count": 604,
+          "like_count": 6600,
+          "listed_count": 6,
+          "media_count": 531,
+          "tweet_count": 3036
+        },
+        "url": "",
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T14:15:21.000Z",
+        "description": "土日と有給で無理やり旅行します👩‍💼|国内外半々|🇦🇺🇺🇸🇹🇼🇹🇭🇮🇹🇭🇺🇦🇹🇸🇰🇸🇮🇱🇮🇨🇭🇪🇸🇩🇪🇧🇪🇳🇱🇨🇿🇵🇱🇱🇻🇱🇹🇻🇦🇻🇳🇺🇿🇲🇾🇫🇷🇵🇭🇦🇪🇰🇷🇲🇳🇵🇹🇸🇦🇨🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aolobtrip.com",
+                "end": 23,
+                "expanded_url": "https://aolobtrip.com",
+                "start": 0,
+                "url": "https://t.co/4iE1jizQao"
+              }
+            ]
+          }
+        },
+        "id": "1921569209169117186",
+        "location": "備忘",
+        "name": "青ロブ",
+        "pinned_tweet_id": "1965984045017477472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926936306157776897/nB64LQUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 164,
+          "like_count": 697,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/4iE1jizQao",
+        "username": "aolobster",
+        "verified": false
+      }
+    ]
+  }
+}

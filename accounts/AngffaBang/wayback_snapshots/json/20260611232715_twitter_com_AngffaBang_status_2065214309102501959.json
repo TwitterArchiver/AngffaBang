@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2064717237567844482",
+    "created_at": "2026-06-11T23:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065214309102501959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "178794303",
+          "start": 0,
+          "username": "internation0501"
+        },
+        {
+          "end": 33,
+          "id": "2010117749578838016",
+          "start": 17,
+          "username": "PiaoYingju76004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065214309102501959",
+    "in_reply_to_user_id": "178794303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065211426223144968",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@internation0501 @PiaoYingju76004 有两小无猜法律条款了解一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2064717237567844482",
+        "created_at": "2026-06-11T23:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065214309102501959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "178794303",
+              "start": 0,
+              "username": "internation0501"
+            },
+            {
+              "end": 33,
+              "id": "2010117749578838016",
+              "start": 17,
+              "username": "PiaoYingju76004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065214309102501959",
+        "in_reply_to_user_id": "178794303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065211426223144968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@internation0501 @PiaoYingju76004 有两小无猜法律条款了解一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "178794303",
+        "conversation_id": "2064717237567844482",
+        "created_at": "2026-06-11T23:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065211426223144968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2010117749578838016",
+              "start": 0,
+              "username": "PiaoYingju76004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065211426223144968",
+        "in_reply_to_user_id": "2010117749578838016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064919827370959166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PiaoYingju76004 我都不知道谁弱智了，这样的话，两个年满16岁周岁发生性关系的人可能会因达到刑事责任年龄而被判强奸罪和猥亵儿童罪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8083,
+          "following_count": 602,
+          "like_count": 6530,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 3007
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-15T18:25:03.000Z",
+        "description": "普通的存在主义者，自认为。资本主义终将灭亡，这一趋势是自《九十五条论纲》始。彻底的解放即是叙事灭亡的开始，这一点毫无质疑。存在先于本质，先有鸡再有鸡蛋；先有资本主义精神，才有资本主义，后有《资本论》。在讨论自由等自然法时，先想想天赋人权的天在哪？人真正的不自由，就是永远都无法摆脱自由。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/zhongwen/trad/…",
+                "end": 23,
+                "expanded_url": "https://www.bbc.com/zhongwen/trad/world/2015/04/150411_ukraine_ban_communism",
+                "start": 0,
+                "url": "https://t.co/BGeLzlbfif"
+              }
+            ]
+          }
+        },
+        "id": "178794303",
+        "location": "上海市",
+        "name": "華盛頓革委",
+        "pinned_tweet_id": "1650332348355846144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600447410068942849/7JlFQQNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4057,
+          "following_count": 584,
+          "like_count": 38465,
+          "listed_count": 29,
+          "media_count": 5214,
+          "tweet_count": 31594
+        },
+        "url": "https://t.co/BGeLzlbfif",
+        "username": "internation0501",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-10T22:33:33.000Z",
+        "description": "弱智死远点，骂完你一遍我就不会回复了",
+        "id": "2010117749578838016",
+        "name": "ml",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010117842172329984/CgC_6j-H_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 15,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 742
+        },
+        "username": "PiaoYingju76004",
+        "verified": false
+      }
+    ]
+  }
+}

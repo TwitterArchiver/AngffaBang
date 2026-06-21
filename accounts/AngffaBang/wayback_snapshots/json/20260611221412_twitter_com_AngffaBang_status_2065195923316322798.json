@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2065027050319364437",
+    "created_at": "2026-06-11T22:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T23:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065195923316322798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1812082132560580608",
+          "start": 0,
+          "username": "bairimeng313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065195923316322798",
+    "in_reply_to_user_id": "1812082132560580608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065140808395718693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bairimeng313 胖的敢来就死定了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2065027050319364437",
+        "created_at": "2026-06-11T22:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T23:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065195923316322798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1812082132560580608",
+              "start": 0,
+              "username": "bairimeng313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065195923316322798",
+        "in_reply_to_user_id": "1812082132560580608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065140808395718693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bairimeng313 胖的敢来就死定了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812082132560580608",
+        "conversation_id": "2065027050319364437",
+        "created_at": "2026-06-11T18:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065140808395718693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065140808395718693",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065027050319364437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 死的可以吗，我去帮你捕杀一只"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8084,
+          "following_count": 602,
+          "like_count": 6525,
+          "listed_count": 6,
+          "media_count": 524,
+          "tweet_count": 2995
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T11:10:30.000Z",
+        "description": "七年宅宅，世上的最后一个厨男",
+        "id": "1812082132560580608",
+        "location": "1km",
+        "name": "梦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065088187903463425/xkPgprW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 19
+        },
+        "username": "bairimeng313",
+        "verified": false
+      }
+    ]
+  }
+}

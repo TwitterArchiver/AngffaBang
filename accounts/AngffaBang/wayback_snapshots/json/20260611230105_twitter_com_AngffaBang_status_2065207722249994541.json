@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2064358061838594273",
+    "created_at": "2026-06-11T23:01:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:01:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065207722249994541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054380488455045120",
+          "start": 0,
+          "username": "boxian_wen"
+        },
+        {
+          "end": 28,
+          "id": "1691921180989800448",
+          "start": 12,
+          "username": "mimimiaomiaouwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065207722249994541",
+    "in_reply_to_user_id": "2054380488455045120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064512177655128072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boxian_wen @mimimiaomiaouwu 那就不碰未满18的不就不会被诬告了，这样做起码能阻止对未成年人有想法的成年人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2064358061838594273",
+        "created_at": "2026-06-11T23:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065207722249994541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054380488455045120",
+              "start": 0,
+              "username": "boxian_wen"
+            },
+            {
+              "end": 28,
+              "id": "1691921180989800448",
+              "start": 12,
+              "username": "mimimiaomiaouwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065207722249994541",
+        "in_reply_to_user_id": "2054380488455045120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064512177655128072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boxian_wen @mimimiaomiaouwu 那就不碰未满18的不就不会被诬告了，这样做起码能阻止对未成年人有想法的成年人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054380488455045120",
+        "conversation_id": "2064358061838594273",
+        "created_at": "2026-06-10T00:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T01:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064512177655128072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1691921180989800448",
+              "start": 0,
+              "username": "mimimiaomiaouwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064512177655128072",
+        "in_reply_to_user_id": "1691921180989800448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4461,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064358061838594273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimimiaomiaouwu 确实就是很荒谬 能因为这个吵起来我是真没想到 这个社会真的完蛋了 不过现在的问题在于如果调整到18岁该怎么执法 需要防止有心之人利用这个进行诬告"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "pinned_tweet_id": "2060132274671407384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8083,
+          "following_count": 602,
+          "like_count": 6528,
+          "listed_count": 6,
+          "media_count": 525,
+          "tweet_count": 3003
+        },
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-13T01:57:38.000Z",
+        "description": "",
+        "id": "2054380488455045120",
+        "name": "boxian_wen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054381948177682432/6SGlgTas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 29,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "username": "boxian_wen",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-16T21:13:46.000Z",
+        "description": "只有这一个账号❗3i4i✨稳定单身中✨偶尔掉落大瓜小瓜/抽象段子/骂人金句/日常碎片✨转推可接电报不接✨别叫我姐姐我对这个称呼过敏",
+        "id": "1691921180989800448",
+        "name": "Qi",
+        "pinned_tweet_id": "1979944428677796293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872587222928826369/5n4vRS4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20416,
+          "following_count": 449,
+          "like_count": 8703,
+          "listed_count": 37,
+          "media_count": 68,
+          "tweet_count": 10983
+        },
+        "username": "mimimiaomiaouwu",
+        "verified": false
+      }
+    ]
+  }
+}

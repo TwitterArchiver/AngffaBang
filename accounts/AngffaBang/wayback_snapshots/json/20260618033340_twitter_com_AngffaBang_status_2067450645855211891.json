@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2067349112841019671",
+    "created_at": "2026-06-18T03:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067450645855211891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2066782909823102976",
+          "start": 0,
+          "username": "lusentzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067450645855211891",
+    "in_reply_to_user_id": "2066782909823102976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067427776718835724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lusentzz 是老鼠红了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2067349112841019671",
+        "created_at": "2026-06-18T03:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067450645855211891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2066782909823102976",
+              "start": 0,
+              "username": "lusentzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067450645855211891",
+        "in_reply_to_user_id": "2066782909823102976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067427776718835724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lusentzz 是老鼠红了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066782909823102976",
+        "conversation_id": "2067349112841019671",
+        "created_at": "2026-06-18T02:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T03:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067427776718835724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067427776718835724",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067349112841019671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 目が赤いですか?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8102,
+          "following_count": 603,
+          "like_count": 6588,
+          "listed_count": 6,
+          "media_count": 531,
+          "tweet_count": 3034
+        },
+        "url": "",
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-16T07:20:57.000Z",
+        "description": "",
+        "id": "2066782909823102976",
+        "name": "lv song",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066784102800605184/P8mbon-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 50,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "lusentzz",
+        "verified": false
+      }
+    ]
+  }
+}
