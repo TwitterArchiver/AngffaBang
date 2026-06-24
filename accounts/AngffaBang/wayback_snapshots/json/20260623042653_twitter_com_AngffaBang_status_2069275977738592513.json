@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2068784961612910595",
+    "created_at": "2026-06-23T04:26:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T05:26:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069275977738592513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918822040666329089",
+          "start": 0,
+          "username": "Jiajia220391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069275977738592513",
+    "in_reply_to_user_id": "1918822040666329089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069233683026858140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jiajia220391 这些跟我的文案有半毛钱关系不就是找茬吗😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2068784961612910595",
+        "created_at": "2026-06-23T04:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T05:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069275977738592513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918822040666329089",
+              "start": 0,
+              "username": "Jiajia220391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069275977738592513",
+        "in_reply_to_user_id": "1918822040666329089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069233683026858140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jiajia220391 这些跟我的文案有半毛钱关系不就是找茬吗😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918822040666329089",
+        "conversation_id": "2068784961612910595",
+        "created_at": "2026-06-23T01:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T02:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069233683026858140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069233683026858140",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069148900259418478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 找茬？我身边遇到的同龄自伤女一大堆，脂肪层的。抑郁症，双相，多动症你觉得很少见吗？以及妓女，吃药物的男同性恋。我身边的男性过得很压抑，但他们没去看，no money。他们要工作，要生活，为家。我不经意看见我的朋友搜索框烧炭自杀。\n他解释道只是想想，不可能去做的。他们的日子还没你好过呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8109,
+          "following_count": 602,
+          "like_count": 6610,
+          "listed_count": 6,
+          "media_count": 531,
+          "tweet_count": 3046
+        },
+        "url": "",
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T00:16:56.000Z",
+        "description": "",
+        "id": "1918822040666329089",
+        "name": "er",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067606732935753728/PCm6b14E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 203,
+          "like_count": 1847,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "Jiajia220391",
+        "verified": false
+      }
+    ]
+  }
+}
