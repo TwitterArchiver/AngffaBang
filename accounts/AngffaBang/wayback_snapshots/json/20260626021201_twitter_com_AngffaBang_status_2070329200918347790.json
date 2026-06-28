@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2070043274845544473",
+    "created_at": "2026-06-26T02:12:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:12:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070329200918347790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1153373316977176576",
+          "start": 0,
+          "username": "kotoro0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070329200918347790",
+    "in_reply_to_user_id": "1153373316977176576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070043274845544473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kotoro0223 我就是🥲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1663,
+        "media_key": "3_2070043266029084672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpFYgVaYAAiVTs.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2070043274845544473",
+        "created_at": "2026-06-26T02:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070329200918347790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153373316977176576",
+              "start": 0,
+              "username": "kotoro0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070329200918347790",
+        "in_reply_to_user_id": "1153373316977176576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070043274845544473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotoro0223 我就是🥲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070043266029084672"
+          ]
+        },
+        "author_id": "1153373316977176576",
+        "conversation_id": "2070043274845544473",
+        "created_at": "2026-06-25T07:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070043274845544473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgW3fY6s98",
+              "end": 43,
+              "expanded_url": "https://x.com/kotoro0223/status/2070043274845544473/photo/1",
+              "media_key": "3_2070043266029084672",
+              "start": 20,
+              "url": "https://t.co/cgW3fY6s98"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070043274845544473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 392081,
+          "like_count": 353,
+          "quote_count": 10,
+          "reply_count": 276,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "他们说不要跟这种面相的女生玩有道理吗？ https://t.co/cgW3fY6s98"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8161,
+          "following_count": 606,
+          "like_count": 6610,
+          "listed_count": 6,
+          "media_count": 531,
+          "tweet_count": 3049
+        },
+        "url": "",
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T18:36:42.000Z",
+        "description": "我只是一个乖乖的女孩 请不要欺负我",
+        "id": "1153373316977176576",
+        "location": "滚",
+        "name": "kotoro",
+        "pinned_tweet_id": "2064938939014951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791919850358775808/Ba0MfyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1814,
+          "following_count": 53,
+          "like_count": 661,
+          "listed_count": 3,
+          "media_count": 94,
+          "tweet_count": 477
+        },
+        "url": "",
+        "username": "kotoro0223",
+        "verified": false
+      }
+    ]
+  }
+}

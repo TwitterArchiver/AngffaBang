@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1730458100703064064",
+    "conversation_id": "2060132274671407384",
+    "created_at": "2026-06-24T07:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T08:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069684042967249219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "96149500",
+          "start": 0,
+          "username": "RemiliaLeimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069684042967249219",
+    "in_reply_to_user_id": "96149500",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069541754697855195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RemiliaLeimi 没事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730458100703064064",
+        "conversation_id": "2060132274671407384",
+        "created_at": "2026-06-24T07:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069684042967249219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "96149500",
+              "start": 0,
+              "username": "RemiliaLeimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069684042967249219",
+        "in_reply_to_user_id": "96149500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069541754697855195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RemiliaLeimi 没事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "96149500",
+        "conversation_id": "2060132274671407384",
+        "created_at": "2026-06-23T22:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T23:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069541754697855195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1730458100703064064",
+              "start": 0,
+              "username": "AngffaBang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069541754697855195",
+        "in_reply_to_user_id": "1730458100703064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060132274671407384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AngffaBang 我的成分你嫌棄嗎？👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Shibuya-ku, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69821,
+                  35.66404
+                ],
+                "type": "Point"
+              },
+              "locality": "Shibuya-ku",
+              "region": "Tōkyō",
+              "sub_region": "Shibuya-ku"
+            }
+          ]
+        },
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8165,
+          "following_count": 606,
+          "like_count": 6610,
+          "listed_count": 6,
+          "media_count": 531,
+          "tweet_count": 3047
+        },
+        "url": "",
+        "username": "AngffaBang",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-11T15:41:58.000Z",
+        "description": "本人不歡迎粉紅，大中華主義者，如果你是請你滾開否則我會B掉你並把你掛起來丨日台友好|初音粉|拉拉人丨東方廚| 👎🇨🇳 #六四天安門 #六四屠城 #六四事件 #勿忘六四 #燭光不滅 備用:@Air19890604",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 59,
+                "tag": "六四天安門"
+              },
+              {
+                "end": 71,
+                "start": 66,
+                "tag": "六四屠城"
+              },
+              {
+                "end": 77,
+                "start": 72,
+                "tag": "六四事件"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "勿忘六四"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "燭光不滅"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 93,
+                "username": "Air19890604"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "19890604.com",
+                "end": 23,
+                "expanded_url": "http://19890604.com",
+                "start": 0,
+                "url": "https://t.co/9dJDDpJpAr"
+              }
+            ]
+          }
+        },
+        "id": "96149500",
+        "location": "Taiwan",
+        "name": "蕾米莉亞",
+        "pinned_tweet_id": "1695074136064721402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672607196121530369/N-787Npi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 660,
+          "like_count": 11699,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 7319
+        },
+        "url": "https://t.co/9dJDDpJpAr",
+        "username": "RemiliaLeimi",
+        "verified": false
+      }
+    ]
+  }
+}

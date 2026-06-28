@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070336460772036608"
+      ]
+    },
+    "author_id": "1730458100703064064",
+    "conversation_id": "2070336485891727704",
+    "created_at": "2026-06-26T02:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070336485891727704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1IdXeipyv1",
+          "end": 27,
+          "expanded_url": "https://x.com/AngffaBang/status/2070336485891727704/photo/1",
+          "media_key": "3_2070336460772036608",
+          "start": 4,
+          "url": "https://t.co/1IdXeipyv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070336485891727704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "甜甜的 https://t.co/1IdXeipyv1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070336460772036608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtQCr3bUAAuvVN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070336460772036608"
+          ]
+        },
+        "author_id": "1730458100703064064",
+        "conversation_id": "2070336485891727704",
+        "created_at": "2026-06-26T02:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070336485891727704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IdXeipyv1",
+              "end": 27,
+              "expanded_url": "https://x.com/AngffaBang/status/2070336485891727704/photo/1",
+              "media_key": "3_2070336460772036608",
+              "start": 4,
+              "url": "https://t.co/1IdXeipyv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070336485891727704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "甜甜的 https://t.co/1IdXeipyv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-12-01T05:25:45.000Z",
+        "description": "16/名字日文中译是泉！🍀/希望被很多人在意！🥺/精神病/生活推/清水推/互fo请私信我🍬/不fo黄推谢谢/匿名提问箱：https://t.co/W1iPPXZC9u",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angffabang1",
+                "end": 83,
+                "expanded_url": "https://ngl.link/angffabang1",
+                "start": 60,
+                "url": "https://t.co/W1iPPXZC9u"
+              }
+            ]
+          }
+        },
+        "id": "1730458100703064064",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥いずみ🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058505572014751744/qk1Jykyt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8161,
+          "following_count": 606,
+          "like_count": 6611,
+          "listed_count": 6,
+          "media_count": 533,
+          "tweet_count": 3051
+        },
+        "url": "",
+        "username": "AngffaBang",
+        "verified": false
+      }
+    ]
+  }
+}
